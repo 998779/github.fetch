@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1804 guides written so far · last update 2026-10-31 19:13 UTC_
+_1805 guides written so far · last update 2026-10-31 19:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [needletypethrust/IBM-SPSS](https://github.com/needletypethrust/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/needletypethrust/ibm-spss.md) |
 | [KnotSteersmanAtrium/Cellebrite-UFED](https://github.com/KnotSteersmanAtrium/Cellebrite-UFED) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/knotsteersmanatrium/cellebrite-ufed.md) |
 | [Clipbetweenreveal/BorisFX](https://github.com/Clipbetweenreveal/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipbetweenreveal/borisfx.md) |
 | [MoonBricklayer35/Cinebench](https://github.com/MoonBricklayer35/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/moonbricklayer35/cinebench.md) |
@@ -38,7 +39,6 @@ _1804 guides written so far · last update 2026-10-31 19:13 UTC_
 | [citycarpenterquicken/StudioOnePro7](https://github.com/citycarpenterquicken/StudioOnePro7) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/citycarpenterquicken/studioonepro7.md) |
 | [RimWheelwright/Axie-Infinity-Bot](https://github.com/RimWheelwright/Axie-Infinity-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rimwheelwright/axie-infinity-bot.md) |
 | [Bottomzuplaza/TRX-Drainer-Bot](https://github.com/Bottomzuplaza/TRX-Drainer-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bottomzuplaza/trx-drainer-bot.md) |
-| [helixhornettrip/GrayKet](https://github.com/helixhornettrip/GrayKet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/helixhornettrip/grayket.md) |
 <!-- latest:end -->
 
 ## How it works
