@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1798 guides written so far · last update 2026-10-31 19:13 UTC_
+_1799 guides written so far · last update 2026-10-31 19:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hyz317/HairDeck](https://github.com/hyz317/HairDeck) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/hyz317/hairdeck.md) |
 | [ashayas/icloud-s3](https://github.com/ashayas/icloud-s3) | Rust project | Runs in the browser with a free account | [guide](guides/ashayas/icloud-s3.md) |
 | [ropepotterrhythm/Easy-Worship](https://github.com/ropepotterrhythm/Easy-Worship) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ropepotterrhythm/easy-worship.md) |
 | [citycarpenterquicken/StudioOnePro7](https://github.com/citycarpenterquicken/StudioOnePro7) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/citycarpenterquicken/studioonepro7.md) |
@@ -38,7 +39,6 @@ _1798 guides written so far · last update 2026-10-31 19:13 UTC_
 | [SheetLovebirdSpanner/ExitLag](https://github.com/SheetLovebirdSpanner/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sheetlovebirdspanner/exitlag.md) |
 | [Astralbyretake/Microsoft-Office](https://github.com/Astralbyretake/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralbyretake/microsoft-office.md) |
 | [wallvanquisherwharf/ON1-Photo-RAW-MAX](https://github.com/wallvanquisherwharf/ON1-Photo-RAW-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wallvanquisherwharf/on1-photo-raw-max.md) |
-| [DistributorFollow23/Microsoft-365](https://github.com/DistributorFollow23/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorfollow23/microsoft-365.md) |
 <!-- latest:end -->
 
 ## How it works
