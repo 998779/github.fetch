@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1806 guides written so far · last update 2026-10-31 19:13 UTC_
+_1807 guides written so far · last update 2026-10-31 19:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [UrchinElevator63/Camtasia](https://github.com/UrchinElevator63/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/urchinelevator63/camtasia.md) |
 | [lookoutcoxswainwhirl/Acronis](https://github.com/lookoutcoxswainwhirl/Acronis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lookoutcoxswainwhirl/acronis.md) |
 | [needletypethrust/IBM-SPSS](https://github.com/needletypethrust/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/needletypethrust/ibm-spss.md) |
 | [KnotSteersmanAtrium/Cellebrite-UFED](https://github.com/KnotSteersmanAtrium/Cellebrite-UFED) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/knotsteersmanatrium/cellebrite-ufed.md) |
@@ -38,7 +39,6 @@ _1806 guides written so far · last update 2026-10-31 19:13 UTC_
 | [ashayas/icloud-s3](https://github.com/ashayas/icloud-s3) | Rust project | Runs in the browser with a free account | [guide](guides/ashayas/icloud-s3.md) |
 | [ropepotterrhythm/Easy-Worship](https://github.com/ropepotterrhythm/Easy-Worship) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ropepotterrhythm/easy-worship.md) |
 | [citycarpenterquicken/StudioOnePro7](https://github.com/citycarpenterquicken/StudioOnePro7) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/citycarpenterquicken/studioonepro7.md) |
-| [RimWheelwright/Axie-Infinity-Bot](https://github.com/RimWheelwright/Axie-Infinity-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rimwheelwright/axie-infinity-bot.md) |
 <!-- latest:end -->
 
 ## How it works
