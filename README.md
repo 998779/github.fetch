@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1810 guides written so far · last update 2026-10-31 22:33 UTC_
+_1811 guides written so far · last update 2026-10-31 22:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [stopchainsound/FabFilter-Pro](https://github.com/stopchainsound/FabFilter-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stopchainsound/fabfilter-pro.md) |
 | [FencerEngage/courier-dota2](https://github.com/FencerEngage/courier-dota2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fencerengage/courier-dota2.md) |
 | [ShieldElderContract/Honeypot-Detector](https://github.com/ShieldElderContract/Honeypot-Detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shieldeldercontract/honeypot-detector.md) |
 | [MidwifeCompact/Reason-14](https://github.com/MidwifeCompact/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midwifecompact/reason-14.md) |
@@ -38,7 +39,6 @@ _1810 guides written so far · last update 2026-10-31 22:33 UTC_
 | [MoonBricklayer35/Cinebench](https://github.com/MoonBricklayer35/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/moonbricklayer35/cinebench.md) |
 | [PeasantMonitor/IOBIT-Driver-Booster](https://github.com/PeasantMonitor/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/peasantmonitor/iobit-driver-booster.md) |
 | [CthulhuStormStore/Atas-Trading-Bot](https://github.com/CthulhuStormStore/Atas-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cthulhustormstore/atas-trading-bot.md) |
-| [hyz317/HairDeck](https://github.com/hyz317/HairDeck) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/hyz317/hairdeck.md) |
 <!-- latest:end -->
 
 ## How it works
