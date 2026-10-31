@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1809 guides written so far · last update 2026-10-31 19:13 UTC_
+_1810 guides written so far · last update 2026-10-31 22:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [FencerEngage/courier-dota2](https://github.com/FencerEngage/courier-dota2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fencerengage/courier-dota2.md) |
 | [ShieldElderContract/Honeypot-Detector](https://github.com/ShieldElderContract/Honeypot-Detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shieldeldercontract/honeypot-detector.md) |
 | [MidwifeCompact/Reason-14](https://github.com/MidwifeCompact/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midwifecompact/reason-14.md) |
 | [UrchinElevator63/Camtasia](https://github.com/UrchinElevator63/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/urchinelevator63/camtasia.md) |
@@ -38,7 +39,6 @@ _1809 guides written so far · last update 2026-10-31 19:13 UTC_
 | [PeasantMonitor/IOBIT-Driver-Booster](https://github.com/PeasantMonitor/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/peasantmonitor/iobit-driver-booster.md) |
 | [CthulhuStormStore/Atas-Trading-Bot](https://github.com/CthulhuStormStore/Atas-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cthulhustormstore/atas-trading-bot.md) |
 | [hyz317/HairDeck](https://github.com/hyz317/HairDeck) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/hyz317/hairdeck.md) |
-| [ashayas/icloud-s3](https://github.com/ashayas/icloud-s3) | Rust project | Runs in the browser with a free account | [guide](guides/ashayas/icloud-s3.md) |
 <!-- latest:end -->
 
 ## How it works
