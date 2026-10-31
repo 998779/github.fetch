@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1813 guides written so far · last update 2026-10-31 22:33 UTC_
+_1814 guides written so far · last update 2026-10-31 22:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CourtHunterKey/Discord-Quest-Completer](https://github.com/CourtHunterKey/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/courthunterkey/discord-quest-completer.md) |
 | [RoadGrenadier/CorelDraw](https://github.com/RoadGrenadier/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadgrenadier/coreldraw.md) |
 | [feraldoctorrecover60/Wise-Registrity](https://github.com/feraldoctorrecover60/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feraldoctorrecover60/wise-registrity.md) |
 | [stopchainsound/FabFilter-Pro](https://github.com/stopchainsound/FabFilter-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stopchainsound/fabfilter-pro.md) |
@@ -38,7 +39,6 @@ _1813 guides written so far · last update 2026-10-31 22:33 UTC_
 | [needletypethrust/IBM-SPSS](https://github.com/needletypethrust/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/needletypethrust/ibm-spss.md) |
 | [KnotSteersmanAtrium/Cellebrite-UFED](https://github.com/KnotSteersmanAtrium/Cellebrite-UFED) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/knotsteersmanatrium/cellebrite-ufed.md) |
 | [Clipbetweenreveal/BorisFX](https://github.com/Clipbetweenreveal/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipbetweenreveal/borisfx.md) |
-| [MoonBricklayer35/Cinebench](https://github.com/MoonBricklayer35/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/moonbricklayer35/cinebench.md) |
 <!-- latest:end -->
 
 ## How it works
