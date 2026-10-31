@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1797 guides written so far · last update 2026-10-31 14:51 UTC_
+_1798 guides written so far · last update 2026-10-31 19:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ashayas/icloud-s3](https://github.com/ashayas/icloud-s3) | Rust project | Runs in the browser with a free account | [guide](guides/ashayas/icloud-s3.md) |
 | [ropepotterrhythm/Easy-Worship](https://github.com/ropepotterrhythm/Easy-Worship) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ropepotterrhythm/easy-worship.md) |
 | [citycarpenterquicken/StudioOnePro7](https://github.com/citycarpenterquicken/StudioOnePro7) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/citycarpenterquicken/studioonepro7.md) |
 | [RimWheelwright/Axie-Infinity-Bot](https://github.com/RimWheelwright/Axie-Infinity-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rimwheelwright/axie-infinity-bot.md) |
@@ -38,7 +39,6 @@ _1797 guides written so far · last update 2026-10-31 14:51 UTC_
 | [Astralbyretake/Microsoft-Office](https://github.com/Astralbyretake/Microsoft-Office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralbyretake/microsoft-office.md) |
 | [wallvanquisherwharf/ON1-Photo-RAW-MAX](https://github.com/wallvanquisherwharf/ON1-Photo-RAW-MAX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wallvanquisherwharf/on1-photo-raw-max.md) |
 | [DistributorFollow23/Microsoft-365](https://github.com/DistributorFollow23/Microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorfollow23/microsoft-365.md) |
-| [mythicassemblyladle/RX-11-Audio-Editor](https://github.com/mythicassemblyladle/RX-11-Audio-Editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mythicassemblyladle/rx-11-audio-editor.md) |
 <!-- latest:end -->
 
 ## How it works
