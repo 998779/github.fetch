@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1816 guides written so far · last update 2026-10-31 22:33 UTC_
+_1817 guides written so far · last update 2026-10-31 22:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RectorWrench/Ozone-12-Advanced](https://github.com/RectorWrench/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rectorwrench/ozone-12-advanced.md) |
 | [CobblerHover/Auto-Withdraw-Bot](https://github.com/CobblerHover/Auto-Withdraw-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cobblerhover/auto-withdraw-bot.md) |
 | [ChartInspection/Uttorent](https://github.com/ChartInspection/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartinspection/uttorent.md) |
 | [CourtHunterKey/Discord-Quest-Completer](https://github.com/CourtHunterKey/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/courthunterkey/discord-quest-completer.md) |
@@ -38,7 +39,6 @@ _1816 guides written so far · last update 2026-10-31 22:33 UTC_
 | [MidwifeCompact/Reason-14](https://github.com/MidwifeCompact/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midwifecompact/reason-14.md) |
 | [UrchinElevator63/Camtasia](https://github.com/UrchinElevator63/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/urchinelevator63/camtasia.md) |
 | [lookoutcoxswainwhirl/Acronis](https://github.com/lookoutcoxswainwhirl/Acronis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lookoutcoxswainwhirl/acronis.md) |
-| [needletypethrust/IBM-SPSS](https://github.com/needletypethrust/IBM-SPSS) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/needletypethrust/ibm-spss.md) |
 <!-- latest:end -->
 
 ## How it works
