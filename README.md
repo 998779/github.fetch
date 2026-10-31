@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1808 guides written so far · last update 2026-10-31 19:13 UTC_
+_1809 guides written so far · last update 2026-10-31 19:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ShieldElderContract/Honeypot-Detector](https://github.com/ShieldElderContract/Honeypot-Detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shieldeldercontract/honeypot-detector.md) |
 | [MidwifeCompact/Reason-14](https://github.com/MidwifeCompact/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midwifecompact/reason-14.md) |
 | [UrchinElevator63/Camtasia](https://github.com/UrchinElevator63/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/urchinelevator63/camtasia.md) |
 | [lookoutcoxswainwhirl/Acronis](https://github.com/lookoutcoxswainwhirl/Acronis) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lookoutcoxswainwhirl/acronis.md) |
@@ -38,7 +39,6 @@ _1808 guides written so far · last update 2026-10-31 19:13 UTC_
 | [CthulhuStormStore/Atas-Trading-Bot](https://github.com/CthulhuStormStore/Atas-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cthulhustormstore/atas-trading-bot.md) |
 | [hyz317/HairDeck](https://github.com/hyz317/HairDeck) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/hyz317/hairdeck.md) |
 | [ashayas/icloud-s3](https://github.com/ashayas/icloud-s3) | Rust project | Runs in the browser with a free account | [guide](guides/ashayas/icloud-s3.md) |
-| [ropepotterrhythm/Easy-Worship](https://github.com/ropepotterrhythm/Easy-Worship) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ropepotterrhythm/easy-worship.md) |
 <!-- latest:end -->
 
 ## How it works
