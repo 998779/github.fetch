@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T22:33:44.085Z",
- "totalGuides": 1812,
+ "updatedAt": "2026-10-31T22:33:44.288Z",
+ "totalGuides": 1813,
  "items": [
+  {
+   "fullName": "RoadGrenadier/CorelDraw",
+   "owner": "RoadGrenadier",
+   "name": "CorelDraw",
+   "url": "https://github.com/RoadGrenadier/CorelDraw",
+   "avatar": "https://avatars.githubusercontent.com/u/292573424?v=4",
+   "description": "CorelDRAW 2026 complete standalone setup. Pre-activated desktop edition ready to run.",
+   "language": null,
+   "topics": [
+    "automation",
+    "coreldraw-docs",
+    "coreldraw-windows-download",
+    "crashplan-app",
+    "crashplan-for-small-business",
+    "crashplan-for-small-business-crack",
+    "crashplan-hack",
+    "crashplan-windows-setup-2026"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:21:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T22:33:44.287Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/RoadGrenadier/CorelDraw",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/RoadGrenadier/CorelDraw/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/RoadGrenadier/CorelDraw\nWhat it says it does: \"CorelDRAW 2026 complete standalone setup. Pre-activated desktop edition ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T22:33:44.287Z"
+  },
   {
    "fullName": "feraldoctorrecover60/Wise-Registrity",
    "owner": "feraldoctorrecover60",
@@ -31814,95 +31871,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/onchain-whale-tracker-pc-desktop/.github\nWhat it says it does: \"onchain-whale-tracker-pc-desktop\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T04:23:50.215Z"
-  },
-  {
-   "fullName": "aotoycffyxns/delta",
-   "owner": "aotoycffyxns",
-   "name": "delta",
-   "url": "https://github.com/aotoycffyxns/delta",
-   "avatar": "https://avatars.githubusercontent.com/u/346543447?v=4",
-   "description": "executor-pc",
-   "language": "HTML",
-   "topics": [
-    "delta-injector",
-    "delta-key",
-    "delta-mobile",
-    "delta-pc-download",
-    "delta-script-hub",
-    "free-delta-executor"
-   ],
-   "license": null,
-   "stars": 133,
-   "forks": 133,
-   "createdAt": "2026-10-23T19:23:23Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T04:23:50.018Z",
-   "stack": {
-    "kind": "static",
-    "label": "Static website (HTML/CSS/JS)",
-    "frameworks": []
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "live",
-   "launch": [
-    {
-     "id": "live",
-     "label": "Open it live",
-     "url": "https://raw.githack.com/aotoycffyxns/delta/main/index.html",
-     "needs": "nothing",
-     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
-    },
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/aotoycffyxns/delta",
-     "needs": "nothing",
-     "note": "A full editor and preview in your tab."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/aotoycffyxns/delta",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/aotoycffyxns/delta?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/aotoycffyxns/delta",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/aotoycffyxns/delta/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "npx serve .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/aotoycffyxns/delta.git\ncd delta\nnpx serve .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/aotoycffyxns/delta\nWhat it says it does: \"executor-pc\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T04:23:50.018Z"
   }
  ],
  "levels": {
-  "read": 161,
+  "read": 162,
   "heavy": 67,
   "account": 222,
-  "instant": 50
+  "instant": 49
  }
 }

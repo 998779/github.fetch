@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1812 guides written so far · last update 2026-10-31 22:33 UTC_
+_1813 guides written so far · last update 2026-10-31 22:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RoadGrenadier/CorelDraw](https://github.com/RoadGrenadier/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadgrenadier/coreldraw.md) |
 | [feraldoctorrecover60/Wise-Registrity](https://github.com/feraldoctorrecover60/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feraldoctorrecover60/wise-registrity.md) |
 | [stopchainsound/FabFilter-Pro](https://github.com/stopchainsound/FabFilter-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stopchainsound/fabfilter-pro.md) |
 | [FencerEngage/courier-dota2](https://github.com/FencerEngage/courier-dota2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fencerengage/courier-dota2.md) |
@@ -38,7 +39,6 @@ _1812 guides written so far · last update 2026-10-31 22:33 UTC_
 | [KnotSteersmanAtrium/Cellebrite-UFED](https://github.com/KnotSteersmanAtrium/Cellebrite-UFED) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/knotsteersmanatrium/cellebrite-ufed.md) |
 | [Clipbetweenreveal/BorisFX](https://github.com/Clipbetweenreveal/BorisFX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clipbetweenreveal/borisfx.md) |
 | [MoonBricklayer35/Cinebench](https://github.com/MoonBricklayer35/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/moonbricklayer35/cinebench.md) |
-| [PeasantMonitor/IOBIT-Driver-Booster](https://github.com/PeasantMonitor/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/peasantmonitor/iobit-driver-booster.md) |
 <!-- latest:end -->
 
 ## How it works
