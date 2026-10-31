@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-31T22:33:44.475Z",
- "totalGuides": 1814,
+ "updatedAt": "2026-10-31T22:33:44.682Z",
+ "totalGuides": 1815,
  "items": [
+  {
+   "fullName": "ChartInspection/Uttorent",
+   "owner": "ChartInspection",
+   "name": "Uttorent",
+   "url": "https://github.com/ChartInspection/Uttorent",
+   "avatar": "https://avatars.githubusercontent.com/u/292573928?v=4",
+   "description": "Uttorent 2026: Complete standalone setup with pre-activated desktop edition, ready to run.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop-torrent-application",
+    "developer-tools",
+    "incogni-nordvpn-value",
+    "nordvpn-sc-locations",
+    "open-source",
+    "peer-to-peer-windows",
+    "python"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:27:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-10-31T22:33:44.681Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ChartInspection/Uttorent",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ChartInspection/Uttorent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ChartInspection/Uttorent\nWhat it says it does: \"Uttorent 2026: Complete standalone setup with pre-activated desktop edition, ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-10-31T22:33:44.681Z"
+  },
   {
    "fullName": "CourtHunterKey/Discord-Quest-Completer",
    "owner": "CourtHunterKey",
@@ -31762,93 +31819,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/zengshuangzi/mcd-money-saver\nWhat it says it does: \"基于麦当劳MCP的智能省钱助手\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T04:23:50.566Z"
-  },
-  {
-   "fullName": "jchumcrfbluw/roblox-solara-executor-pc-desktop",
-   "owner": "jchumcrfbluw",
-   "name": "roblox-solara-executor-pc-desktop",
-   "url": "https://github.com/jchumcrfbluw/roblox-solara-executor-pc-desktop",
-   "avatar": "https://avatars.githubusercontent.com/u/346543572?v=4",
-   "description": "roblox-solara-executor-pc-desktop",
-   "language": "HTML",
-   "topics": [
-    "blox-fruits-executor",
-    "loadstring-executor",
-    "solara-pc",
-    "unc-executor"
-   ],
-   "license": null,
-   "stars": 84,
-   "forks": 65,
-   "createdAt": "2026-10-23T18:58:35Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T04:23:50.395Z",
-   "stack": {
-    "kind": "static",
-    "label": "Static website (HTML/CSS/JS)",
-    "frameworks": []
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "live",
-   "launch": [
-    {
-     "id": "live",
-     "label": "Open it live",
-     "url": "https://raw.githack.com/jchumcrfbluw/roblox-solara-executor-pc-desktop/main/index.html",
-     "needs": "nothing",
-     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
-    },
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/jchumcrfbluw/roblox-solara-executor-pc-desktop",
-     "needs": "nothing",
-     "note": "A full editor and preview in your tab."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/jchumcrfbluw/roblox-solara-executor-pc-desktop",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/jchumcrfbluw/roblox-solara-executor-pc-desktop?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/jchumcrfbluw/roblox-solara-executor-pc-desktop",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/jchumcrfbluw/roblox-solara-executor-pc-desktop/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "npx serve .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/jchumcrfbluw/roblox-solara-executor-pc-desktop.git\ncd roblox-solara-executor-pc-desktop\nnpx serve .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/jchumcrfbluw/roblox-solara-executor-pc-desktop\nWhat it says it does: \"roblox-solara-executor-pc-desktop\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T04:23:50.395Z"
   }
  ],
  "levels": {
-  "read": 163,
+  "read": 164,
   "heavy": 67,
   "account": 222,
-  "instant": 48
+  "instant": 47
  }
 }
