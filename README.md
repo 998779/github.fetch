@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1801 guides written so far · last update 2026-10-31 19:13 UTC_
+_1802 guides written so far · last update 2026-10-31 19:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MoonBricklayer35/Cinebench](https://github.com/MoonBricklayer35/Cinebench) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/moonbricklayer35/cinebench.md) |
 | [PeasantMonitor/IOBIT-Driver-Booster](https://github.com/PeasantMonitor/IOBIT-Driver-Booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/peasantmonitor/iobit-driver-booster.md) |
 | [CthulhuStormStore/Atas-Trading-Bot](https://github.com/CthulhuStormStore/Atas-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cthulhustormstore/atas-trading-bot.md) |
 | [hyz317/HairDeck](https://github.com/hyz317/HairDeck) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/hyz317/hairdeck.md) |
@@ -38,7 +39,6 @@ _1801 guides written so far · last update 2026-10-31 19:13 UTC_
 | [helixhornettrip/GrayKet](https://github.com/helixhornettrip/GrayKet) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/helixhornettrip/grayket.md) |
 | [TabooGunnerDuel/Claude-Jailbreak-Prompt](https://github.com/TabooGunnerDuel/Claude-Jailbreak-Prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/taboogunnerduel/claude-jailbreak-prompt.md) |
 | [AdvocateTriumph/Better-Discord](https://github.com/AdvocateTriumph/Better-Discord) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/advocatetriumph/better-discord.md) |
-| [SheetLovebirdSpanner/ExitLag](https://github.com/SheetLovebirdSpanner/ExitLag) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sheetlovebirdspanner/exitlag.md) |
 <!-- latest:end -->
 
 ## How it works
