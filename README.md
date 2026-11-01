@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1833 guides written so far · last update 2026-11-01 08:01 UTC_
+_1834 guides written so far · last update 2026-11-01 08:02 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yetone/alma-relay](https://github.com/yetone/alma-relay) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/yetone/alma-relay.md) |
 | [CelestialStarfish/Ads-Blocker](https://github.com/CelestialStarfish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/celestialstarfish/ads-blocker.md) |
 | [Sentrydrispanner/Cubase](https://github.com/Sentrydrispanner/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sentrydrispanner/cubase.md) |
 | [violetcabbieenchant/Glary-Utilities-Pro](https://github.com/violetcabbieenchant/Glary-Utilities-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/violetcabbieenchant/glary-utilities-pro.md) |
@@ -38,7 +39,6 @@ _1833 guides written so far · last update 2026-11-01 08:01 UTC_
 | [sharpfirenet/Data-Grip](https://github.com/sharpfirenet/Data-Grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sharpfirenet/data-grip.md) |
 | [Aurafromfurnish/Pump-fun](https://github.com/Aurafromfurnish/Pump-fun) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aurafromfurnish/pump-fun.md) |
 | [cubedoveabide9/Discord-Server-Cloner](https://github.com/cubedoveabide9/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cubedoveabide9/discord-server-cloner.md) |
-| [NadirCardinal/AnyUnlock](https://github.com/NadirCardinal/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadircardinal/anyunlock.md) |
 <!-- latest:end -->
 
 ## How it works
