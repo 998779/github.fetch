@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1837 guides written so far · last update 2026-11-01 08:02 UTC_
+_1838 guides written so far · last update 2026-11-01 08:02 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [FloodDamselShow/Movavi-Screen-Recorder](https://github.com/FloodDamselShow/Movavi-Screen-Recorder) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flooddamselshow/movavi-screen-recorder.md) |
 | [HeartPebbleHatchet/Movavi-Video-Suite-Plus](https://github.com/HeartPebbleHatchet/Movavi-Video-Suite-Plus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heartpebblehatchet/movavi-video-suite-plus.md) |
 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-anything.md) |
 | [JaceThings/DiaTweaks](https://github.com/JaceThings/DiaTweaks) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/jacethings/diatweaks.md) |
@@ -38,7 +39,6 @@ _1837 guides written so far · last update 2026-11-01 08:02 UTC_
 | [HeightMistEnumerate/Autodesk-Inventor](https://github.com/HeightMistEnumerate/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heightmistenumerate/autodesk-inventor.md) |
 | [AdvisorSwitch/FL-Studio](https://github.com/AdvisorSwitch/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/advisorswitch/fl-studio.md) |
 | [Pauseoruncouple/Genesis-Miner](https://github.com/Pauseoruncouple/Genesis-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pauseoruncouple/genesis-miner.md) |
-| [arpanjot-coding/AVault](https://github.com/arpanjot-coding/AVault) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/arpanjot-coding/avault.md) |
 <!-- latest:end -->
 
 ## How it works

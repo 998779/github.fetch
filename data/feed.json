@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:02:00.734Z",
- "totalGuides": 1837,
+ "updatedAt": "2026-11-01T08:02:00.953Z",
+ "totalGuides": 1838,
  "items": [
+  {
+   "fullName": "FloodDamselShow/Movavi-Screen-Recorder",
+   "owner": "FloodDamselShow",
+   "name": "Movavi-Screen-Recorder",
+   "url": "https://github.com/FloodDamselShow/Movavi-Screen-Recorder",
+   "avatar": "https://avatars.githubusercontent.com/u/292573171?v=4",
+   "description": "Professional Movavi Screen Recorder 2026 pre-activated desktop edition. Ready-to-run full working installer for seamless screen recording.",
+   "language": null,
+   "topics": [
+    "automation",
+    "chroma-key-windows-editor",
+    "desktop",
+    "developer-tools",
+    "media-management-windows-system",
+    "movavi-suite-audio-editing",
+    "movavi-suite-screen-recording",
+    "movavi-suite-voiceover-feature"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:25:00Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:02:00.952Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/FloodDamselShow/Movavi-Screen-Recorder",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/FloodDamselShow/Movavi-Screen-Recorder/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/FloodDamselShow/Movavi-Screen-Recorder\nWhat it says it does: \"Professional Movavi Screen Recorder 2026 pre-activated desktop edition. Ready-to-run full working installer for seamless screen recording.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:02:00.952Z"
+  },
   {
    "fullName": "HeartPebbleHatchet/Movavi-Video-Suite-Plus",
    "owner": "HeartPebbleHatchet",
@@ -31619,79 +31676,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Marooniogrip/Discord-Quest-Completer\nWhat it says it does: \"Discord Quest Completer 2026: Full working installer for a seamless desktop experience, ready to run right out of the box.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T09:03:45.962Z"
-  },
-  {
-   "fullName": "Th3chef/Treasure-Radar",
-   "owner": "Th3chef",
-   "name": "Treasure-Radar",
-   "url": "https://github.com/Th3chef/Treasure-Radar",
-   "avatar": "https://avatars.githubusercontent.com/u/42616956?v=4",
-   "description": "Helldivers 2 mod: a sonar radar with every sample, medal, Super Credit, Requisition Slip and supply around you, where your map opens.",
-   "language": "Python",
-   "topics": [
-    "game-mod",
-    "helldivers-2-mod",
-    "helldivers2",
-    "lua",
-    "python"
-   ],
-   "license": null,
-   "stars": 48,
-   "forks": 0,
-   "createdAt": "2026-10-22T03:41:45Z",
-   "branch": "main",
-   "homepage": "https://ayakamods.com/mods/treasure-radar.5548/",
-   "addedAt": "2026-10-24T09:03:45.764Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Th3chef/Treasure-Radar/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Th3chef/Treasure-Radar?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Th3chef/Treasure-Radar",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Th3chef/Treasure-Radar/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Th3chef/Treasure-Radar.git\ncd Treasure-Radar",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Th3chef/Treasure-Radar\nWhat it says it does: \"Helldivers 2 mod: a sonar radar with every sample, medal, Super Credit, Requisition Slip and supply around you, where your map opens.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T09:03:45.764Z"
   }
  ],
  "levels": {
-  "read": 182,
-  "account": 208,
+  "read": 183,
+  "account": 207,
   "heavy": 65,
   "instant": 45
  }
