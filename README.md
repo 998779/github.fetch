@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1823 guides written so far · last update 2026-11-01 01:25 UTC_
+_1824 guides written so far · last update 2026-11-01 01:25 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Aurafromfurnish/Pump-fun](https://github.com/Aurafromfurnish/Pump-fun) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aurafromfurnish/pump-fun.md) |
 | [cubedoveabide9/Discord-Server-Cloner](https://github.com/cubedoveabide9/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cubedoveabide9/discord-server-cloner.md) |
 | [NadirCardinal/AnyUnlock](https://github.com/NadirCardinal/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadircardinal/anyunlock.md) |
 | [Breakunsever/Adobe-Audition](https://github.com/Breakunsever/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breakunsever/adobe-audition.md) |
@@ -38,7 +39,6 @@ _1823 guides written so far · last update 2026-11-01 01:25 UTC_
 | [ChartInspection/Uttorent](https://github.com/ChartInspection/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartinspection/uttorent.md) |
 | [CourtHunterKey/Discord-Quest-Completer](https://github.com/CourtHunterKey/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/courthunterkey/discord-quest-completer.md) |
 | [RoadGrenadier/CorelDraw](https://github.com/RoadGrenadier/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadgrenadier/coreldraw.md) |
-| [feraldoctorrecover60/Wise-Registrity](https://github.com/feraldoctorrecover60/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feraldoctorrecover60/wise-registrity.md) |
 <!-- latest:end -->
 
 ## How it works
