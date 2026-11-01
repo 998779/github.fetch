@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T14:59:05.657Z",
- "totalGuides": 1861,
+ "updatedAt": "2026-11-01T19:30:19.796Z",
+ "totalGuides": 1862,
  "items": [
+  {
+   "fullName": "ShineFinancialStrut/game-server-route-racer",
+   "owner": "ShineFinancialStrut",
+   "name": "game-server-route-racer",
+   "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
+   "avatar": "https://avatars.githubusercontent.com/u/316288945?v=4",
+   "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+   "language": "Rust",
+   "topics": [
+    "cs2",
+    "fortnite",
+    "game-routing",
+    "lag-fix",
+    "multipath",
+    "packet-loss",
+    "ping-reducer",
+    "rust"
+   ],
+   "license": "MIT",
+   "stars": 337,
+   "forks": 21,
+   "createdAt": "2026-10-31T23:52:41Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T19:30:19.781Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ShineFinancialStrut/game-server-route-racer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ShineFinancialStrut/game-server-route-racer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ShineFinancialStrut/game-server-route-racer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ShineFinancialStrut/game-server-route-racer.git\ncd game-server-route-racer\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/ShineFinancialStrut/game-server-route-racer\nWhat it says it does: \"Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T19:30:19.781Z"
+  },
   {
    "fullName": "BattalionAlchemist/SlideShow-Video-Maker",
    "owner": "BattalionAlchemist",
@@ -31439,66 +31503,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/morganlinton/BeautifulRust\nWhat it says it does: \"A Claude Code plugin that teaches Claude to write idiomatic, robust Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T19:04:06.540Z"
-  },
-  {
-   "fullName": "mirkobrombin/raven",
-   "owner": "mirkobrombin",
-   "name": "raven",
-   "url": "https://github.com/mirkobrombin/raven",
-   "avatar": "https://avatars.githubusercontent.com/u/9479903?v=4",
-   "description": "A Windows your apps recognize.",
-   "language": "Go",
-   "topics": [],
-   "license": "MIT",
-   "stars": 78,
-   "forks": 3,
-   "createdAt": "2026-10-24T17:13:42Z",
-   "branch": "main",
-   "homepage": "https://useraven.org",
-   "addedAt": "2026-10-24T19:04:06.359Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/mirkobrombin/raven?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/mirkobrombin/raven",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/mirkobrombin/raven/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/mirkobrombin/raven.git\ncd raven\ngo build ./...",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/mirkobrombin/raven\nWhat it says it does: \"A Windows your apps recognize.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T19:04:06.359Z"
   }
  ],
  "levels": {
-  "read": 199,
   "account": 198,
+  "read": 199,
   "heavy": 62,
   "instant": 41
  }
