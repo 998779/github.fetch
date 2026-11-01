@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1865 guides written so far · last update 2026-11-01 19:30 UTC_
+_1866 guides written so far · last update 2026-11-01 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [tubbydistrib/stake-monthly-bonus](https://github.com/tubbydistrib/stake-monthly-bonus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tubbydistrib/stake-monthly-bonus.md) |
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Python project | Runs in the browser with a free account | [guide](guides/caru-ini/stack-diagram.md) |
 | [RainShrimpGaze/NinjaTrader-Bot](https://github.com/RainShrimpGaze/NinjaTrader-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainshrimpgaze/ninjatrader-bot.md) |
 | [LogoJouninHammer/PH-Downloader](https://github.com/LogoJouninHammer/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/logojouninhammer/ph-downloader.md) |
@@ -38,7 +39,6 @@ _1865 guides written so far · last update 2026-11-01 19:30 UTC_
 | [imagepheasantfoyer/MusicMakerUnlimited](https://github.com/imagepheasantfoyer/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/imagepheasantfoyer/musicmakerunlimited.md) |
 | [nikita-s-x2001x7/photo-converter](https://github.com/nikita-s-x2001x7/photo-converter) | Python project | Runs in the browser with a free account | [guide](guides/nikita-s-x2001x7/photo-converter.md) |
 | [DistributorClip/Wise-Care](https://github.com/DistributorClip/Wise-Care) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorclip/wise-care.md) |
-| [PlanetByteDescribe/Quicken-Deluxe](https://github.com/PlanetByteDescribe/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetbytedescribe/quicken-deluxe.md) |
 <!-- latest:end -->
 
 ## How it works
