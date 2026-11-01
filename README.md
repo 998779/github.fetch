@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1824 guides written so far · last update 2026-11-01 01:25 UTC_
+_1825 guides written so far · last update 2026-11-01 01:25 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sharpfirenet/Data-Grip](https://github.com/sharpfirenet/Data-Grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sharpfirenet/data-grip.md) |
 | [Aurafromfurnish/Pump-fun](https://github.com/Aurafromfurnish/Pump-fun) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aurafromfurnish/pump-fun.md) |
 | [cubedoveabide9/Discord-Server-Cloner](https://github.com/cubedoveabide9/Discord-Server-Cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cubedoveabide9/discord-server-cloner.md) |
 | [NadirCardinal/AnyUnlock](https://github.com/NadirCardinal/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadircardinal/anyunlock.md) |
@@ -38,7 +39,6 @@ _1824 guides written so far · last update 2026-11-01 01:25 UTC_
 | [CobblerHover/Auto-Withdraw-Bot](https://github.com/CobblerHover/Auto-Withdraw-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cobblerhover/auto-withdraw-bot.md) |
 | [ChartInspection/Uttorent](https://github.com/ChartInspection/Uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chartinspection/uttorent.md) |
 | [CourtHunterKey/Discord-Quest-Completer](https://github.com/CourtHunterKey/Discord-Quest-Completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/courthunterkey/discord-quest-completer.md) |
-| [RoadGrenadier/CorelDraw](https://github.com/RoadGrenadier/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadgrenadier/coreldraw.md) |
 <!-- latest:end -->
 
 ## How it works
