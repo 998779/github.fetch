@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:01:58.370Z",
- "totalGuides": 1826,
+ "updatedAt": "2026-11-01T08:01:58.570Z",
+ "totalGuides": 1827,
  "items": [
+  {
+   "fullName": "Pauseoruncouple/Genesis-Miner",
+   "owner": "Pauseoruncouple",
+   "name": "Genesis-Miner",
+   "url": "https://github.com/Pauseoruncouple/Genesis-Miner",
+   "avatar": "https://avatars.githubusercontent.com/u/292569826?v=4",
+   "description": "Genesis Miner 2026: Complete standalone setup, ready-to-run full working installer with all features pre-activated.",
+   "language": null,
+   "topics": [
+    "automation",
+    "bitcoin-mining-tools",
+    "cpu-mining",
+    "cpumining",
+    "cryptominer",
+    "developer-tools",
+    "gpu-mining",
+    "gpumining"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:23:07Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:01:58.569Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Pauseoruncouple/Genesis-Miner",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Pauseoruncouple/Genesis-Miner/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Pauseoruncouple/Genesis-Miner\nWhat it says it does: \"Genesis Miner 2026: Complete standalone setup, ready-to-run full working installer with all features pre-activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:01:58.569Z"
+  },
   {
    "fullName": "arpanjot-coding/AVault",
    "owner": "arpanjot-coding",
@@ -31690,67 +31747,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/aimeoa/hanshuang-inject-tool\nWhat it says it does: \"本地网关提示词注入工具\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T09:03:43.502Z"
-  },
-  {
-   "fullName": "anomalyco/rune",
-   "owner": "anomalyco",
-   "name": "rune",
-   "url": "https://github.com/anomalyco/rune",
-   "avatar": "https://avatars.githubusercontent.com/u/66570915?v=4",
-   "description": "Rune: Native UI framework",
-   "language": "Rust",
-   "topics": [],
-   "license": "MIT",
-   "stars": 61,
-   "forks": 2,
-   "createdAt": "2026-10-22T05:51:40Z",
-   "branch": "dev",
-   "homepage": null,
-   "addedAt": "2026-10-24T04:23:52.510Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/anomalyco/rune?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/anomalyco/rune",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/anomalyco/rune/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/anomalyco/rune.git\ncd rune\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/anomalyco/rune\nWhat it says it does: \"Rune: Native UI framework\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T04:23:52.510Z"
   }
  ],
  "levels": {
+  "read": 175,
   "heavy": 64,
-  "read": 174,
-  "account": 217,
+  "account": 216,
   "instant": 45
  }
 }
