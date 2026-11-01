@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T14:59:02.141Z",
- "totalGuides": 1845,
+ "updatedAt": "2026-11-01T14:59:02.363Z",
+ "totalGuides": 1846,
  "items": [
+  {
+   "fullName": "azurerockcode/Roblox-Game-Copier",
+   "owner": "azurerockcode",
+   "name": "Roblox-Game-Copier",
+   "url": "https://github.com/azurerockcode/Roblox-Game-Copier",
+   "avatar": "https://avatars.githubusercontent.com/u/292573411?v=4",
+   "description": "Roblox Game Copier 2026 - Full working installer for easy duplication and management of Roblox games on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "roblox-copier",
+    "roblox-game-copy",
+    "scripts"
+   ],
+   "license": null,
+   "stars": 400,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:26:10Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T14:59:02.362Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/azurerockcode/Roblox-Game-Copier",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/azurerockcode/Roblox-Game-Copier/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/azurerockcode/Roblox-Game-Copier\nWhat it says it does: \"Roblox Game Copier 2026 - Full working installer for easy duplication and management of Roblox games on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T14:59:02.362Z"
+  },
   {
    "fullName": "SteersmanStronghold/Windows-Optimizer",
    "owner": "SteersmanStronghold",
@@ -31571,73 +31628,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/liyupi/dafeiyu-cleaner\nWhat it says it does: \"DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T13:16:22.824Z"
-  },
-  {
-   "fullName": "xkx121029/mcd-vibe-commit",
-   "owner": "xkx121029",
-   "name": "mcd-vibe-commit",
-   "url": "https://github.com/xkx121029/mcd-vibe-commit",
-   "avatar": "https://avatars.githubusercontent.com/u/191011504?v=4",
-   "description": "麦门人格 Commit 生成器：测出你的麦门人格，生成专属 git commit message（麦当劳 MCP 大赛参赛作品）",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 60,
-   "forks": 6,
-   "createdAt": "2026-10-24T06:59:59Z",
-   "branch": "master",
-   "homepage": null,
-   "addedAt": "2026-10-24T13:16:22.668Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/xkx121029/mcd-vibe-commit/master",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/xkx121029/mcd-vibe-commit?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/xkx121029/mcd-vibe-commit",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/xkx121029/mcd-vibe-commit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/xkx121029/mcd-vibe-commit.git\ncd mcd-vibe-commit",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/xkx121029/mcd-vibe-commit\nWhat it says it does: \"麦门人格 Commit 生成器：测出你的麦门人格，生成专属 git commit message（麦当劳 MCP 大赛参赛作品）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T13:16:22.668Z"
   }
  ],
  "levels": {
-  "read": 188,
-  "account": 204,
+  "read": 189,
+  "account": 203,
   "heavy": 64,
   "instant": 44
  }
