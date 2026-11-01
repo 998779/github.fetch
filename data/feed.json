@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T14:59:02.583Z",
- "totalGuides": 1847,
+ "updatedAt": "2026-11-01T14:59:02.791Z",
+ "totalGuides": 1848,
  "items": [
+  {
+   "fullName": "Speedzyaminaret/UnlockTool",
+   "owner": "Speedzyaminaret",
+   "name": "UnlockTool",
+   "url": "https://github.com/Speedzyaminaret/UnlockTool",
+   "avatar": "https://avatars.githubusercontent.com/u/292573001?v=4",
+   "description": "Unlocktool 2026: Full working installer for professional desktop configuration utility, ready to run.",
+   "language": null,
+   "topics": [
+    "android-repair-tools",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts",
+    "software-engineering"
+   ],
+   "license": null,
+   "stars": 308,
+   "forks": 0,
+   "createdAt": "2026-11-01T10:14:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T14:59:02.790Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Speedzyaminaret/UnlockTool",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Speedzyaminaret/UnlockTool/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Speedzyaminaret/UnlockTool\nWhat it says it does: \"Unlocktool 2026: Full working installer for professional desktop configuration utility, ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T14:59:02.790Z"
+  },
   {
    "fullName": "tempestemperorestate/Monero-Miner",
    "owner": "tempestemperorestate",
@@ -31573,54 +31630,6 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/mbsintegrations/LG-TV-HA-Home-Launcher\nWhat it says it does: \"Configurable Home Assistant home launcher for LG webOS TVs, with a local setup wizard and optional no-root Home-button helper.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T13:16:23.205Z"
-  },
-  {
-   "fullName": "outerdeckhandquilt/Lossless-Scaling",
-   "owner": "outerdeckhandquilt",
-   "name": "Lossless-Scaling",
-   "url": "https://github.com/outerdeckhandquilt/Lossless-Scaling",
-   "avatar": "https://avatars.githubusercontent.com/u/293965160?v=4",
-   "description": "Advanced Lossless Scaling fork: boost FPS, enable Frame Gen & upscale any game.",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 57,
-   "forks": 12,
-   "createdAt": "2026-10-24T12:04:30Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T13:16:22.978Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/outerdeckhandquilt/Lossless-Scaling",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/outerdeckhandquilt/Lossless-Scaling/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/outerdeckhandquilt/Lossless-Scaling\nWhat it says it does: \"Advanced Lossless Scaling fork: boost FPS, enable Frame Gen & upscale any game.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T13:16:22.978Z"
   }
  ],
  "levels": {

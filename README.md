@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1847 guides written so far · last update 2026-11-01 14:59 UTC_
+_1848 guides written so far · last update 2026-11-01 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/speedzyaminaret/unlocktool.md) |
 | [tempestemperorestate/Monero-Miner](https://github.com/tempestemperorestate/Monero-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempestemperorestate/monero-miner.md) |
 | [azurerockcode/Roblox-Game-Copier](https://github.com/azurerockcode/Roblox-Game-Copier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/azurerockcode/roblox-game-copier.md) |
 | [SteersmanStronghold/Windows-Optimizer](https://github.com/SteersmanStronghold/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/steersmanstronghold/windows-optimizer.md) |
@@ -38,7 +39,6 @@ _1847 guides written so far · last update 2026-11-01 14:59 UTC_
 | [MasterViaduct/Rufus](https://github.com/MasterViaduct/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/masterviaduct/rufus.md) |
 | [FloodDamselShow/Movavi-Screen-Recorder](https://github.com/FloodDamselShow/Movavi-Screen-Recorder) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flooddamselshow/movavi-screen-recorder.md) |
 | [HeartPebbleHatchet/Movavi-Video-Suite-Plus](https://github.com/HeartPebbleHatchet/Movavi-Video-Suite-Plus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heartpebblehatchet/movavi-video-suite-plus.md) |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-anything.md) |
 <!-- latest:end -->
 
 ## How it works
