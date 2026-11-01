@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1843 guides written so far · last update 2026-11-01 08:02 UTC_
+_1844 guides written so far · last update 2026-11-01 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Centiplatrap/pc-game-fps-doctor](https://github.com/Centiplatrap/pc-game-fps-doctor) | Rust project | Runs in the browser with a free account | [guide](guides/centiplatrap/pc-game-fps-doctor.md) |
 | [gryphonautocratmatch/StartAll-Back](https://github.com/gryphonautocratmatch/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonautocratmatch/startall-back.md) |
 | [TruckerImplode/Adobe-InDesign](https://github.com/TruckerImplode/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/truckerimplode/adobe-indesign.md) |
 | [Vertexnyucontrol/AIDA-64-Extreme](https://github.com/Vertexnyucontrol/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vertexnyucontrol/aida-64-extreme.md) |
@@ -38,7 +39,6 @@ _1843 guides written so far · last update 2026-11-01 08:02 UTC_
 | [JaceThings/DiaTweaks](https://github.com/JaceThings/DiaTweaks) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/jacethings/diatweaks.md) |
 | [yetone/alma-relay](https://github.com/yetone/alma-relay) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/yetone/alma-relay.md) |
 | [CelestialStarfish/Ads-Blocker](https://github.com/CelestialStarfish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/celestialstarfish/ads-blocker.md) |
-| [Sentrydrispanner/Cubase](https://github.com/Sentrydrispanner/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sentrydrispanner/cubase.md) |
 <!-- latest:end -->
 
 ## How it works
