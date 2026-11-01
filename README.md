@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1853 guides written so far · last update 2026-11-01 14:59 UTC_
+_1854 guides written so far · last update 2026-11-01 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PlanetByteDescribe/Quicken-Deluxe](https://github.com/PlanetByteDescribe/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetbytedescribe/quicken-deluxe.md) |
 | [Clampiaspiral/Scrcpy](https://github.com/Clampiaspiral/Scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clampiaspiral/scrcpy.md) |
 | [CoordinateGuardGorge/Microsoft-Project](https://github.com/CoordinateGuardGorge/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coordinateguardgorge/microsoft-project.md) |
 | [knittanagercolander/ultra-Iso](https://github.com/knittanagercolander/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/knittanagercolander/ultra-iso.md) |
@@ -38,7 +39,6 @@ _1853 guides written so far · last update 2026-11-01 14:59 UTC_
 | [SteersmanStronghold/Windows-Optimizer](https://github.com/SteersmanStronghold/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/steersmanstronghold/windows-optimizer.md) |
 | [Centiplatrap/pc-game-fps-doctor](https://github.com/Centiplatrap/pc-game-fps-doctor) | Rust project | Runs in the browser with a free account | [guide](guides/centiplatrap/pc-game-fps-doctor.md) |
 | [gryphonautocratmatch/StartAll-Back](https://github.com/gryphonautocratmatch/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonautocratmatch/startall-back.md) |
-| [TruckerImplode/Adobe-InDesign](https://github.com/TruckerImplode/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/truckerimplode/adobe-indesign.md) |
 <!-- latest:end -->
 
 ## How it works
