@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1870 guides written so far · last update 2026-11-01 19:30 UTC_
+_1871 guides written so far · last update 2026-11-01 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [zortos293/Eglantine](https://github.com/zortos293/Eglantine) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zortos293/eglantine.md) |
 | [RatioGoldsmithMuse/valorant-fps-lag-fixer](https://github.com/RatioGoldsmithMuse/valorant-fps-lag-fixer) | Rust project | Runs in the browser with a free account | [guide](guides/ratiogoldsmithmuse/valorant-fps-lag-fixer.md) |
 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/verlintas/noir.md) |
 | [SparrowPortray/horizon-free-capes](https://github.com/SparrowPortray/horizon-free-capes) | Rust project | Runs in the browser with a free account | [guide](guides/sparrowportray/horizon-free-capes.md) |
@@ -38,7 +39,6 @@ _1870 guides written so far · last update 2026-11-01 19:30 UTC_
 | [ShineFinancialStrut/game-server-route-racer](https://github.com/ShineFinancialStrut/game-server-route-racer) | Rust project | Runs in the browser with a free account | [guide](guides/shinefinancialstrut/game-server-route-racer.md) |
 | [BattalionAlchemist/SlideShow-Video-Maker](https://github.com/BattalionAlchemist/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/battalionalchemist/slideshow-video-maker.md) |
 | [StallionIdentify/Wondshare-Recoverit](https://github.com/StallionIdentify/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stallionidentify/wondshare-recoverit.md) |
-| [Radianceflaquicken/Serato-DJ-Pro](https://github.com/Radianceflaquicken/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radianceflaquicken/serato-dj-pro.md) |
 <!-- latest:end -->
 
 ## How it works
