@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:02:01.209Z",
- "totalGuides": 1839,
+ "updatedAt": "2026-11-01T08:02:01.401Z",
+ "totalGuides": 1840,
  "items": [
+  {
+   "fullName": "Vanquisherplubegin/Autodesk-CFD",
+   "owner": "Vanquisherplubegin",
+   "name": "Autodesk-CFD",
+   "url": "https://github.com/Vanquisherplubegin/Autodesk-CFD",
+   "avatar": "https://avatars.githubusercontent.com/u/292569485?v=4",
+   "description": "Autodesk Cfd 2026: Complete standalone setup with all tools ready to run.",
+   "language": null,
+   "topics": [
+    "automation",
+    "cfd-simulation",
+    "cfd-toolbox",
+    "cfdtool-toolbox",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:20:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:02:01.400Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Vanquisherplubegin/Autodesk-CFD",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Vanquisherplubegin/Autodesk-CFD/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Vanquisherplubegin/Autodesk-CFD\nWhat it says it does: \"Autodesk Cfd 2026: Complete standalone setup with all tools ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:02:01.400Z"
+  },
   {
    "fullName": "MasterViaduct/Rufus",
    "owner": "MasterViaduct",
@@ -31616,71 +31673,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Krusty84/yaDisk-Health\nWhat it says it does: \"Проверка доступности ваших файлов на Yandex Диск\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T13:16:21.562Z"
-  },
-  {
-   "fullName": "aancw/php2shell-scanner",
-   "owner": "aancw",
-   "name": "php2shell-scanner",
-   "url": "https://github.com/aancw/php2shell-scanner",
-   "avatar": "https://avatars.githubusercontent.com/u/6284204?v=4",
-   "description": "Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
-   "language": "Go",
-   "topics": [
-    "php2shell",
-    "php2shell-scanner",
-    "rce",
-    "rce-scanner"
-   ],
-   "license": "MIT",
-   "stars": 48,
-   "forks": 7,
-   "createdAt": "2026-10-22T09:45:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T09:03:46.159Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/aancw/php2shell-scanner?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/aancw/php2shell-scanner",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/aancw/php2shell-scanner/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": "go run .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/aancw/php2shell-scanner.git\ncd php2shell-scanner\ngo build ./...\ngo run .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/aancw/php2shell-scanner\nWhat it says it does: \"Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T09:03:46.159Z"
   }
  ],
  "levels": {
-  "read": 183,
-  "account": 207,
+  "read": 184,
+  "account": 206,
   "heavy": 65,
   "instant": 45
  }
