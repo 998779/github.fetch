@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T14:59:04.783Z",
- "totalGuides": 1857,
+ "updatedAt": "2026-11-01T14:59:05.010Z",
+ "totalGuides": 1858,
  "items": [
+  {
+   "fullName": "coalfiremancrater/Designcenter-NX",
+   "owner": "coalfiremancrater",
+   "name": "Designcenter-NX",
+   "url": "https://github.com/coalfiremancrater/Designcenter-NX",
+   "avatar": "https://avatars.githubusercontent.com/u/292570729?v=4",
+   "description": "Designcenter Nx 2026: Full working installer for professional desktop software utility configuration.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "nx-cad",
+    "nxopen",
+    "open-source",
+    "python",
+    "scripts"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:22:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T14:59:05.009Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/coalfiremancrater/Designcenter-NX",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/coalfiremancrater/Designcenter-NX/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/coalfiremancrater/Designcenter-NX\nWhat it says it does: \"Designcenter Nx 2026: Full working installer for professional desktop software utility configuration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T14:59:05.009Z"
+  },
   {
    "fullName": "imagepheasantfoyer/MusicMakerUnlimited",
    "owner": "imagepheasantfoyer",
@@ -31465,78 +31522,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/dsmurrell/onkey\nWhat it says it does: \"Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T16:42:10.920Z"
-  },
-  {
-   "fullName": "LNPANDY/NX2Apple",
-   "owner": "LNPANDY",
-   "name": "NX2Apple",
-   "url": "https://github.com/LNPANDY/NX2Apple",
-   "avatar": "https://avatars.githubusercontent.com/u/90243050?v=4",
-   "description": "Play your own Switch games on iPhone/iPad — GUI fork of nxnative: RomFS archiving, 48 games, auto-sync",
-   "language": "C",
-   "topics": [
-    "custom-format",
-    "homebrew",
-    "ios",
-    "ipad",
-    "iphone",
-    "metal",
-    "nintendo-switch",
-    "romfs"
-   ],
-   "license": null,
-   "stars": 307,
-   "forks": 37,
-   "createdAt": "2026-10-20T18:16:07Z",
-   "branch": "main",
-   "homepage": "https://github.com/LNPANDY/NX2Apple#readme",
-   "addedAt": "2026-10-24T16:42:10.668Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/LNPANDY/NX2Apple?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/LNPANDY/NX2Apple",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/LNPANDY/NX2Apple/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/LNPANDY/NX2Apple.git\ncd NX2Apple",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/LNPANDY/NX2Apple\nWhat it says it does: \"Play your own Switch games on iPhone/iPad — GUI fork of nxnative: RomFS archiving, 48 games, auto-sync\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T16:42:10.668Z"
   }
  ],
  "levels": {
-  "read": 196,
+  "read": 197,
   "account": 199,
-  "heavy": 63,
+  "heavy": 62,
   "instant": 42
  }
 }
