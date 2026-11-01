@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1844 guides written so far · last update 2026-11-01 14:59 UTC_
+_1845 guides written so far · last update 2026-11-01 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SteersmanStronghold/Windows-Optimizer](https://github.com/SteersmanStronghold/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/steersmanstronghold/windows-optimizer.md) |
 | [Centiplatrap/pc-game-fps-doctor](https://github.com/Centiplatrap/pc-game-fps-doctor) | Rust project | Runs in the browser with a free account | [guide](guides/centiplatrap/pc-game-fps-doctor.md) |
 | [gryphonautocratmatch/StartAll-Back](https://github.com/gryphonautocratmatch/StartAll-Back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonautocratmatch/startall-back.md) |
 | [TruckerImplode/Adobe-InDesign](https://github.com/TruckerImplode/Adobe-InDesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/truckerimplode/adobe-indesign.md) |
@@ -38,7 +39,6 @@ _1844 guides written so far · last update 2026-11-01 14:59 UTC_
 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-anything.md) |
 | [JaceThings/DiaTweaks](https://github.com/JaceThings/DiaTweaks) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/jacethings/diatweaks.md) |
 | [yetone/alma-relay](https://github.com/yetone/alma-relay) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/yetone/alma-relay.md) |
-| [CelestialStarfish/Ads-Blocker](https://github.com/CelestialStarfish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/celestialstarfish/ads-blocker.md) |
 <!-- latest:end -->
 
 ## How it works
