@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:02:00.042Z",
- "totalGuides": 1834,
+ "updatedAt": "2026-11-01T08:02:00.246Z",
+ "totalGuides": 1835,
  "items": [
+  {
+   "fullName": "JaceThings/DiaTweaks",
+   "owner": "JaceThings",
+   "name": "DiaTweaks",
+   "url": "https://github.com/JaceThings/DiaTweaks",
+   "avatar": "https://avatars.githubusercontent.com/u/60551230?v=4",
+   "description": "Unofficial tweaks for the Dia browser, kept in place across updates",
+   "language": "Objective-C",
+   "topics": [],
+   "license": null,
+   "stars": 225,
+   "forks": 22,
+   "createdAt": "2026-10-30T19:04:54Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:02:00.246Z",
+   "stack": {
+    "kind": "native",
+    "label": "Objective-C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/JaceThings/DiaTweaks?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/JaceThings/DiaTweaks",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/JaceThings/DiaTweaks/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Objective-C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/JaceThings/DiaTweaks.git\ncd DiaTweaks",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/JaceThings/DiaTweaks\nWhat it says it does: \"Unofficial tweaks for the Dia browser, kept in place across updates\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:02:00.246Z"
+  },
   {
    "fullName": "yetone/alma-relay",
    "owner": "yetone",
@@ -31628,74 +31685,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ravensclawx/ftpd-sb\nWhat it says it does: \"FTP file transfer for romfs, save, and tmp. An HBLauncher SDK app for SmileBASIC.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T09:03:45.371Z"
-  },
-  {
-   "fullName": "Chenkin-x/ComfyUI-Moss-Image-Edit",
-   "owner": "Chenkin-x",
-   "name": "ComfyUI-Moss-Image-Edit",
-   "url": "https://github.com/Chenkin-x/ComfyUI-Moss-Image-Edit",
-   "avatar": "https://avatars.githubusercontent.com/u/271003088?v=4",
-   "description": "Edit images in ComfyUI with text instructions and up to four reference images.",
-   "language": "Python",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 53,
-   "forks": 4,
-   "createdAt": "2026-10-22T10:26:46Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T09:03:45.208Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Chenkin-x/ComfyUI-Moss-Image-Edit/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Chenkin-x/ComfyUI-Moss-Image-Edit?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Chenkin-x/ComfyUI-Moss-Image-Edit",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Chenkin-x/ComfyUI-Moss-Image-Edit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Chenkin-x/ComfyUI-Moss-Image-Edit.git\ncd ComfyUI-Moss-Image-Edit",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/Chenkin-x/ComfyUI-Moss-Image-Edit\nWhat it says it does: \"Edit images in ComfyUI with text instructions and up to four reference images.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T09:03:45.208Z"
   }
  ],
  "levels": {
+  "heavy": 65,
   "instant": 45,
   "read": 181,
-  "heavy": 64,
-  "account": 210
+  "account": 209
  }
 }
