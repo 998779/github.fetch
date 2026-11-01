@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:02:00.246Z",
- "totalGuides": 1835,
+ "updatedAt": "2026-11-01T08:02:00.511Z",
+ "totalGuides": 1836,
  "items": [
+  {
+   "fullName": "storytold/craft-anything",
+   "owner": "storytold",
+   "name": "craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+   "description": "Craft Anything: understand how any software works, and craft your own.",
+   "language": "Rust",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 222,
+   "forks": 29,
+   "createdAt": "2026-10-31T14:50:00Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:02:00.510Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/storytold/craft-anything?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/storytold/craft-anything",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/storytold/craft-anything/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/storytold/craft-anything.git\ncd craft-anything\ncargo build --release\ncargo run",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/storytold/craft-anything\nWhat it says it does: \"Craft Anything: understand how any software works, and craft your own.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:02:00.510Z"
+  },
   {
    "fullName": "JaceThings/DiaTweaks",
    "owner": "JaceThings",
@@ -31630,67 +31685,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/mhzsajan/ns2jb\nWhat it says it does: \"Switch 2 FS jailbreak (ns2jb) - captured and reworked\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T09:03:45.603Z"
-  },
-  {
-   "fullName": "ravensclawx/ftpd-sb",
-   "owner": "ravensclawx",
-   "name": "ftpd-sb",
-   "url": "https://github.com/ravensclawx/ftpd-sb",
-   "avatar": "https://avatars.githubusercontent.com/u/346943810?v=4",
-   "description": "FTP file transfer for romfs, save, and tmp. An HBLauncher SDK app for SmileBASIC.",
-   "language": "GLSL",
-   "topics": [],
-   "license": null,
-   "stars": 51,
-   "forks": 5,
-   "createdAt": "2026-10-23T16:20:08Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T09:03:45.371Z",
-   "stack": {
-    "kind": "other",
-    "label": "GLSL project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ravensclawx/ftpd-sb?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ravensclawx/ftpd-sb",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ravensclawx/ftpd-sb/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ravensclawx/ftpd-sb.git\ncd ftpd-sb",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ravensclawx/ftpd-sb\nWhat it says it does: \"FTP file transfer for romfs, save, and tmp. An HBLauncher SDK app for SmileBASIC.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T09:03:45.371Z"
   }
  ],
  "levels": {
+  "account": 209,
   "heavy": 65,
   "instant": 45,
-  "read": 181,
-  "account": 209
+  "read": 181
  }
 }

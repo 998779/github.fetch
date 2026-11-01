@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1835 guides written so far · last update 2026-11-01 08:02 UTC_
+_1836 guides written so far · last update 2026-11-01 08:02 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust project | Runs in the browser with a free account | [guide](guides/storytold/craft-anything.md) |
 | [JaceThings/DiaTweaks](https://github.com/JaceThings/DiaTweaks) | Objective-C project | Needs a real machine (or a GPU) to run | [guide](guides/jacethings/diatweaks.md) |
 | [yetone/alma-relay](https://github.com/yetone/alma-relay) | Node command-line tool | Runs in a browser tab, no account needed | [guide](guides/yetone/alma-relay.md) |
 | [CelestialStarfish/Ads-Blocker](https://github.com/CelestialStarfish/Ads-Blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/celestialstarfish/ads-blocker.md) |
@@ -38,7 +39,6 @@ _1835 guides written so far · last update 2026-11-01 08:02 UTC_
 | [Pauseoruncouple/Genesis-Miner](https://github.com/Pauseoruncouple/Genesis-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pauseoruncouple/genesis-miner.md) |
 | [arpanjot-coding/AVault](https://github.com/arpanjot-coding/AVault) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/arpanjot-coding/avault.md) |
 | [sharpfirenet/Data-Grip](https://github.com/sharpfirenet/Data-Grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sharpfirenet/data-grip.md) |
-| [Aurafromfurnish/Pump-fun](https://github.com/Aurafromfurnish/Pump-fun) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aurafromfurnish/pump-fun.md) |
 <!-- latest:end -->
 
 ## How it works
