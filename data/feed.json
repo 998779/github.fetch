@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T19:30:20.902Z",
- "totalGuides": 1866,
+ "updatedAt": "2026-11-01T19:30:21.175Z",
+ "totalGuides": 1867,
  "items": [
+  {
+   "fullName": "0xCodez/DuoDesk",
+   "owner": "0xCodez",
+   "name": "DuoDesk",
+   "url": "https://github.com/0xCodez/DuoDesk",
+   "avatar": "https://avatars.githubusercontent.com/u/329118438?v=4",
+   "description": "All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0",
+   "language": "JavaScript",
+   "topics": [],
+   "license": "GPL-3.0",
+   "stars": 240,
+   "forks": 42,
+   "createdAt": "2026-10-30T17:00:28Z",
+   "branch": "main",
+   "homepage": "https://duodesk-green.vercel.app",
+   "addedAt": "2026-11-01T19:30:21.174Z",
+   "stack": {
+    "kind": "other",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/0xCodez/DuoDesk?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/0xCodez/DuoDesk",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/0xCodez/DuoDesk/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/0xCodez/DuoDesk.git\ncd DuoDesk",
+   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/0xCodez/DuoDesk\nWhat it says it does: \"All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T19:30:21.174Z"
+  },
   {
    "fullName": "tubbydistrib/stake-monthly-bonus",
    "owner": "tubbydistrib",
@@ -31416,73 +31471,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/wahaha-potato/mcd-coupon-xray\nWhat it says it does: \"麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T21:34:11.965Z"
-  },
-  {
-   "fullName": "YoyoLin008/mcreplay",
-   "owner": "YoyoLin008",
-   "name": "mcreplay",
-   "url": "https://github.com/YoyoLin008/mcreplay",
-   "avatar": "https://avatars.githubusercontent.com/u/196116611?v=4",
-   "description": "McReplay（麦回放）— Structural snapshots, change reports, and local MCP replay for McDonald's China integrations.",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 104,
-   "forks": 6,
-   "createdAt": "2026-10-24T17:14:18Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T21:34:11.770Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/YoyoLin008/mcreplay/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/YoyoLin008/mcreplay?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/YoyoLin008/mcreplay",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/YoyoLin008/mcreplay/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/YoyoLin008/mcreplay.git\ncd mcreplay\npip install -e .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/YoyoLin008/mcreplay\nWhat it says it does: \"McReplay（麦回放）— Structural snapshots, change reports, and local MCP replay for McDonald's China integrations.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T21:34:11.770Z"
   }
  ],
  "levels": {
-  "read": 201,
   "account": 196,
+  "read": 201,
   "heavy": 62,
   "instant": 41
  }
