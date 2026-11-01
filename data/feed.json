@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:01:59.073Z",
- "totalGuides": 1830,
+ "updatedAt": "2026-11-01T08:01:59.262Z",
+ "totalGuides": 1831,
  "items": [
+  {
+   "fullName": "violetcabbieenchant/Glary-Utilities-Pro",
+   "owner": "violetcabbieenchant",
+   "name": "Glary-Utilities-Pro",
+   "url": "https://github.com/violetcabbieenchant/Glary-Utilities-Pro",
+   "avatar": "https://avatars.githubusercontent.com/u/292570536?v=4",
+   "description": "Glary Utilities Pro 2026 - Full working installer with complete system optimization tools ready to run.",
+   "language": null,
+   "topics": [
+    "automation",
+    "developer-tools",
+    "file-recovery",
+    "github-utilities",
+    "glary-utilities",
+    "glary-utilities-2026",
+    "glary-utilities-pro",
+    "glary-utilities-pro-2026"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:23:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:01:59.261Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/violetcabbieenchant/Glary-Utilities-Pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/violetcabbieenchant/Glary-Utilities-Pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/violetcabbieenchant/Glary-Utilities-Pro\nWhat it says it does: \"Glary Utilities Pro 2026 - Full working installer with complete system optimization tools ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:01:59.261Z"
+  },
   {
    "fullName": "ShopkeeperSieve/KMS-Pico",
    "owner": "ShopkeeperSieve",
@@ -31621,83 +31678,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Qsnh/php2shell-fixed\nWhat it says it does: \"宝塔面板（BT Panel）上已停止维护的 PHP 版本（5.4 – 8.1）的 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）修复包。仓库里有打好补丁的源码包，以及一键完成编译、替换、回滚的脚本。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T09:03:44.630Z"
-  },
-  {
-   "fullName": "rddmwmddr/android-ad-cleaner",
-   "owner": "rddmwmddr",
-   "name": "android-ad-cleaner",
-   "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-   "avatar": "https://avatars.githubusercontent.com/u/5119232?v=4",
-   "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-   "language": "Python",
-   "topics": [
-    "adb",
-    "ai-agent",
-    "android",
-    "coloros",
-    "debloat",
-    "hyperos",
-    "magicos",
-    "originos"
-   ],
-   "license": "MIT",
-   "stars": 59,
-   "forks": 6,
-   "createdAt": "2026-10-24T05:35:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T09:03:44.407Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/rddmwmddr/android-ad-cleaner/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/rddmwmddr/android-ad-cleaner?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/rddmwmddr/android-ad-cleaner",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/rddmwmddr/android-ad-cleaner/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/rddmwmddr/android-ad-cleaner.git\ncd android-ad-cleaner\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/rddmwmddr/android-ad-cleaner\nWhat it says it does: \"关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T09:03:44.407Z"
   }
  ],
  "levels": {
-  "read": 178,
+  "read": 179,
   "heavy": 64,
-  "account": 214,
+  "account": 213,
   "instant": 44
  }
 }

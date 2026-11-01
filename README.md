@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1830 guides written so far · last update 2026-11-01 08:01 UTC_
+_1831 guides written so far · last update 2026-11-01 08:01 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [violetcabbieenchant/Glary-Utilities-Pro](https://github.com/violetcabbieenchant/Glary-Utilities-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/violetcabbieenchant/glary-utilities-pro.md) |
 | [ShopkeeperSieve/KMS-Pico](https://github.com/ShopkeeperSieve/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shopkeepersieve/kms-pico.md) |
 | [HeightMistEnumerate/Autodesk-Inventor](https://github.com/HeightMistEnumerate/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heightmistenumerate/autodesk-inventor.md) |
 | [AdvisorSwitch/FL-Studio](https://github.com/AdvisorSwitch/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/advisorswitch/fl-studio.md) |
@@ -38,7 +39,6 @@ _1830 guides written so far · last update 2026-11-01 08:01 UTC_
 | [NadirCardinal/AnyUnlock](https://github.com/NadirCardinal/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadircardinal/anyunlock.md) |
 | [Breakunsever/Adobe-Audition](https://github.com/Breakunsever/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breakunsever/adobe-audition.md) |
 | [Armskostrike/Discord-Server-Raider](https://github.com/Armskostrike/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/armskostrike/discord-server-raider.md) |
-| [sidestonetrap/SonyVegas](https://github.com/sidestonetrap/SonyVegas) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sidestonetrap/sonyvegas.md) |
 <!-- latest:end -->
 
 ## How it works
