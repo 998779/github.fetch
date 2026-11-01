@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1879 guides written so far · last update 2026-11-01 22:59 UTC_
+_1880 guides written so far · last update 2026-11-01 22:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sleepy-zone/ai-ref-library-cn.md) |
 | [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jackwener/dsh-android.md) |
 | [benderandrew069/deepseek-api-pricing-2026](https://github.com/benderandrew069/deepseek-api-pricing-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/benderandrew069/deepseek-api-pricing-2026.md) |
 | [WhaleDisclose/Ableton-Live-12](https://github.com/WhaleDisclose/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/whaledisclose/ableton-live-12.md) |
@@ -38,7 +39,6 @@ _1879 guides written so far · last update 2026-11-01 22:59 UTC_
 | [zortos293/Eglantine](https://github.com/zortos293/Eglantine) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zortos293/eglantine.md) |
 | [RatioGoldsmithMuse/valorant-fps-lag-fixer](https://github.com/RatioGoldsmithMuse/valorant-fps-lag-fixer) | Rust project | Runs in the browser with a free account | [guide](guides/ratiogoldsmithmuse/valorant-fps-lag-fixer.md) |
 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/verlintas/noir.md) |
-| [SparrowPortray/horizon-free-capes](https://github.com/SparrowPortray/horizon-free-capes) | Rust project | Runs in the browser with a free account | [guide](guides/sparrowportray/horizon-free-capes.md) |
 <!-- latest:end -->
 
 ## How it works
