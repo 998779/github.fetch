@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1873 guides written so far · last update 2026-11-01 19:30 UTC_
+_1874 guides written so far · last update 2026-11-01 22:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CheetahEstimate/KMS-Pico](https://github.com/CheetahEstimate/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cheetahestimate/kms-pico.md) |
 | [ConsciousnessVision/Touch-Copy](https://github.com/ConsciousnessVision/Touch-Copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/consciousnessvision/touch-copy.md) |
 | [FigureSultanLast/roblox-ai-studio-agent](https://github.com/FigureSultanLast/roblox-ai-studio-agent) | Rust project | Runs in the browser with a free account | [guide](guides/figuresultanlast/roblox-ai-studio-agent.md) |
 | [zortos293/Eglantine](https://github.com/zortos293/Eglantine) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/zortos293/eglantine.md) |
@@ -38,7 +39,6 @@ _1873 guides written so far · last update 2026-11-01 19:30 UTC_
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Python project | Runs in the browser with a free account | [guide](guides/caru-ini/stack-diagram.md) |
 | [RainShrimpGaze/NinjaTrader-Bot](https://github.com/RainShrimpGaze/NinjaTrader-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainshrimpgaze/ninjatrader-bot.md) |
 | [LogoJouninHammer/PH-Downloader](https://github.com/LogoJouninHammer/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/logojouninhammer/ph-downloader.md) |
-| [ShineFinancialStrut/game-server-route-racer](https://github.com/ShineFinancialStrut/game-server-route-racer) | Rust project | Runs in the browser with a free account | [guide](guides/shinefinancialstrut/game-server-route-racer.md) |
 <!-- latest:end -->
 
 ## How it works
