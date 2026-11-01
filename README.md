@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1828 guides written so far · last update 2026-11-01 08:01 UTC_
+_1829 guides written so far · last update 2026-11-01 08:01 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HeightMistEnumerate/Autodesk-Inventor](https://github.com/HeightMistEnumerate/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heightmistenumerate/autodesk-inventor.md) |
 | [AdvisorSwitch/FL-Studio](https://github.com/AdvisorSwitch/FL-Studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/advisorswitch/fl-studio.md) |
 | [Pauseoruncouple/Genesis-Miner](https://github.com/Pauseoruncouple/Genesis-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pauseoruncouple/genesis-miner.md) |
 | [arpanjot-coding/AVault](https://github.com/arpanjot-coding/AVault) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/arpanjot-coding/avault.md) |
@@ -38,7 +39,6 @@ _1828 guides written so far · last update 2026-11-01 08:01 UTC_
 | [Armskostrike/Discord-Server-Raider](https://github.com/Armskostrike/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/armskostrike/discord-server-raider.md) |
 | [sidestonetrap/SonyVegas](https://github.com/sidestonetrap/SonyVegas) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sidestonetrap/sonyvegas.md) |
 | [archivethrushhook/Adobe-After-Effects](https://github.com/archivethrushhook/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/archivethrushhook/adobe-after-effects.md) |
-| [RectorWrench/Ozone-12-Advanced](https://github.com/RectorWrench/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rectorwrench/ozone-12-advanced.md) |
 <!-- latest:end -->
 
 ## How it works
