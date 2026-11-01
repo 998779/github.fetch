@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:01:59.262Z",
- "totalGuides": 1831,
+ "updatedAt": "2026-11-01T08:01:59.465Z",
+ "totalGuides": 1832,
  "items": [
+  {
+   "fullName": "Sentrydrispanner/Cubase",
+   "owner": "Sentrydrispanner",
+   "name": "Cubase",
+   "url": "https://github.com/Sentrydrispanner/Cubase",
+   "avatar": "https://avatars.githubusercontent.com/u/292572910?v=4",
+   "description": "Complete Cubase 2026 standalone installation build. Ready-to-run, fully activated desktop version with all features included.",
+   "language": null,
+   "topics": [
+    "automation",
+    "cubase",
+    "cubase-15",
+    "cubase-for-beginners",
+    "cubase-pro",
+    "cubase-pro-2026",
+    "cubase-setup",
+    "cubase-tutorial"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:21:46Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:01:59.465Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Sentrydrispanner/Cubase",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Sentrydrispanner/Cubase/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Sentrydrispanner/Cubase\nWhat it says it does: \"Complete Cubase 2026 standalone installation build. Ready-to-run, fully activated desktop version with all features included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:01:59.465Z"
+  },
   {
    "fullName": "violetcabbieenchant/Glary-Utilities-Pro",
    "owner": "violetcabbieenchant",
@@ -31623,67 +31680,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/YUME-hu/mctime-capsule\nWhat it says it does: \"把一单麦当劳寄存给未来的自己 | 麦当劳 MCP 创意开发大赛参赛作品\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T09:03:44.809Z"
-  },
-  {
-   "fullName": "Qsnh/php2shell-fixed",
-   "owner": "Qsnh",
-   "name": "php2shell-fixed",
-   "url": "https://github.com/Qsnh/php2shell-fixed",
-   "avatar": "https://avatars.githubusercontent.com/u/12671205?v=4",
-   "description": "宝塔面板（BT Panel）上已停止维护的 PHP 版本（5.4 – 8.1）的 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）修复包。仓库里有打好补丁的源码包，以及一键完成编译、替换、回滚的脚本。",
-   "language": "Shell",
-   "topics": [],
-   "license": null,
-   "stars": 57,
-   "forks": 6,
-   "createdAt": "2026-10-22T00:04:54Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T09:03:44.630Z",
-   "stack": {
-    "kind": "other",
-    "label": "Shell project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Qsnh/php2shell-fixed?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Qsnh/php2shell-fixed",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Qsnh/php2shell-fixed/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Qsnh/php2shell-fixed.git\ncd php2shell-fixed",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Qsnh/php2shell-fixed\nWhat it says it does: \"宝塔面板（BT Panel）上已停止维护的 PHP 版本（5.4 – 8.1）的 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）修复包。仓库里有打好补丁的源码包，以及一键完成编译、替换、回滚的脚本。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T09:03:44.630Z"
   }
  ],
  "levels": {
-  "read": 179,
+  "read": 180,
   "heavy": 64,
-  "account": 213,
+  "account": 212,
   "instant": 44
  }
 }
