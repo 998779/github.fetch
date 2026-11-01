@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T22:59:40.902Z",
- "totalGuides": 1875,
+ "updatedAt": "2026-11-01T22:59:41.060Z",
+ "totalGuides": 1876,
  "items": [
+  {
+   "fullName": "UpperSupervisor/horizon-modpack-compatibility",
+   "owner": "UpperSupervisor",
+   "name": "horizon-modpack-compatibility",
+   "url": "https://github.com/UpperSupervisor/horizon-modpack-compatibility",
+   "avatar": "https://avatars.githubusercontent.com/u/316769896?v=4",
+   "description": "Drop your mods folder, a Prism or MultiMC instance or an .mrpack on Hopper and it answers what Horizon already does, what has a port and what is not there yet, then installs the rest.",
+   "language": "Rust",
+   "topics": [
+    "horizon",
+    "minecraft-mods",
+    "modpack",
+    "modpack-checker",
+    "modrinth",
+    "mrpack",
+    "multimc",
+    "prism-launcher"
+   ],
+   "license": "MIT",
+   "stars": 205,
+   "forks": 11,
+   "createdAt": "2026-10-31T23:20:43Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T22:59:41.058Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/UpperSupervisor/horizon-modpack-compatibility?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/UpperSupervisor/horizon-modpack-compatibility",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/UpperSupervisor/horizon-modpack-compatibility/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/UpperSupervisor/horizon-modpack-compatibility.git\ncd horizon-modpack-compatibility\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/UpperSupervisor/horizon-modpack-compatibility\nWhat it says it does: \"Drop your mods folder, a Prism or MultiMC instance or an .mrpack on Hopper and it answers what Horizon already does, what has a port and what is not there yet, then installs the rest.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T22:59:41.058Z"
+  },
   {
    "fullName": "Gezine/CivSwitch",
    "owner": "Gezine",
@@ -31374,68 +31438,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/qnzqfmbacrkk/.github\nWhat it says it does: \"Steal-a-Brainrot-Scripts-(SAB)-pc-desktop\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T01:44:07.171Z"
-  },
-  {
-   "fullName": "Release-DLSS-5-Swapper/.github",
-   "owner": "Release-DLSS-5-Swapper",
-   "name": ".github",
-   "url": "https://github.com/Release-DLSS-5-Swapper/.github",
-   "avatar": "https://avatars.githubusercontent.com/u/347533350?v=4",
-   "description": "DLSS 5 Swapper is a graphics configuration utility intended to help PC gamers manage supported rendering components for compatible titles.",
-   "language": null,
-   "topics": [
-    "dlss",
-    "dlss-5",
-    "dlss-5-games",
-    "dlss-5-nvidia",
-    "dlss-5-swapper",
-    "dlss-5-swapper-download",
-    "dlss-5-swapper-windows-download",
-    "dlss5"
-   ],
-   "license": null,
-   "stars": 165,
-   "forks": 0,
-   "createdAt": "2026-10-24T19:26:52Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T01:44:06.949Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Release-DLSS-5-Swapper/.github",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Release-DLSS-5-Swapper/.github/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Release-DLSS-5-Swapper/.github\nWhat it says it does: \"DLSS 5 Swapper is a graphics configuration utility intended to help PC gamers manage supported rendering components for compatible titles.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T01:44:06.949Z"
   }
  ],
  "levels": {
-  "account": 195,
-  "read": 203,
+  "account": 196,
+  "read": 202,
   "heavy": 62,
   "instant": 40
  }

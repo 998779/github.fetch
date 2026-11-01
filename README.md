@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1875 guides written so far · last update 2026-11-01 22:59 UTC_
+_1876 guides written so far · last update 2026-11-01 22:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [UpperSupervisor/horizon-modpack-compatibility](https://github.com/UpperSupervisor/horizon-modpack-compatibility) | Rust project | Runs in the browser with a free account | [guide](guides/uppersupervisor/horizon-modpack-compatibility.md) |
 | [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) | JavaScript project | Runs in the browser with a free account | [guide](guides/gezine/civswitch.md) |
 | [CheetahEstimate/KMS-Pico](https://github.com/CheetahEstimate/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cheetahestimate/kms-pico.md) |
 | [ConsciousnessVision/Touch-Copy](https://github.com/ConsciousnessVision/Touch-Copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/consciousnessvision/touch-copy.md) |
@@ -38,7 +39,6 @@ _1875 guides written so far · last update 2026-11-01 22:59 UTC_
 | [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk) | JavaScript project | Runs in the browser with a free account | [guide](guides/0xcodez/duodesk.md) |
 | [tubbydistrib/stake-monthly-bonus](https://github.com/tubbydistrib/stake-monthly-bonus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tubbydistrib/stake-monthly-bonus.md) |
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Python project | Runs in the browser with a free account | [guide](guides/caru-ini/stack-diagram.md) |
-| [RainShrimpGaze/NinjaTrader-Bot](https://github.com/RainShrimpGaze/NinjaTrader-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainshrimpgaze/ninjatrader-bot.md) |
 <!-- latest:end -->
 
 ## How it works
