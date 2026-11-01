@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T19:30:21.390Z",
- "totalGuides": 1868,
+ "updatedAt": "2026-11-01T19:30:21.602Z",
+ "totalGuides": 1869,
  "items": [
+  {
+   "fullName": "Verlintas/NOIR",
+   "owner": "Verlintas",
+   "name": "NOIR",
+   "url": "https://github.com/Verlintas/NOIR",
+   "avatar": "https://avatars.githubusercontent.com/u/310443301?v=4",
+   "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+   "language": "Kotlin",
+   "topics": [
+    "adb",
+    "android",
+    "android-privacy",
+    "android-security",
+    "android-tools",
+    "apk-analysis",
+    "bloatware",
+    "cli"
+   ],
+   "license": "MIT",
+   "stars": 218,
+   "forks": 20,
+   "createdAt": "2026-10-31T21:34:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T19:30:21.601Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Verlintas/NOIR?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Verlintas/NOIR",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Verlintas/NOIR/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/Verlintas/NOIR.git\ncd NOIR",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Verlintas/NOIR\nWhat it says it does: \"手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T19:30:21.601Z"
+  },
   {
    "fullName": "SparrowPortray/horizon-free-capes",
    "owner": "SparrowPortray",
@@ -31393,83 +31459,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/xanthichi/mcd-meal-mate\nWhat it says it does: \"M餐搭子：基于麦当劳 MCP 实时菜单与营养数据的智能搭餐 Skill｜在线演示已上线\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T21:34:12.654Z"
-  },
-  {
-   "fullName": "xiaozhangup/Oh-My-McDonald",
-   "owner": "xiaozhangup",
-   "name": "Oh-My-McDonald",
-   "url": "https://github.com/xiaozhangup/Oh-My-McDonald",
-   "avatar": "https://avatars.githubusercontent.com/u/68374769?v=4",
-   "description": "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。",
-   "language": "Python",
-   "topics": [
-    "ai-agent",
-    "ai-skill",
-    "coupons",
-    "data-visualization",
-    "mcdonalds",
-    "mcdonalds-mcp",
-    "mcp",
-    "model-context-protocol"
-   ],
-   "license": "MIT",
-   "stars": 69,
-   "forks": 0,
-   "createdAt": "2026-10-24T08:38:16Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T21:34:12.322Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/xiaozhangup/Oh-My-McDonald/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/xiaozhangup/Oh-My-McDonald?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/xiaozhangup/Oh-My-McDonald",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/xiaozhangup/Oh-My-McDonald/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/xiaozhangup/Oh-My-McDonald.git\ncd Oh-My-McDonald\npip install -r requirements.txt",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/xiaozhangup/Oh-My-McDonald\nWhat it says it does: \"基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T21:34:12.322Z"
   }
  ],
  "levels": {
-  "account": 196,
+  "heavy": 63,
+  "account": 195,
   "read": 201,
-  "heavy": 62,
   "instant": 41
  }
 }
