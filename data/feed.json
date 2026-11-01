@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T14:59:05.212Z",
- "totalGuides": 1859,
+ "updatedAt": "2026-11-01T14:59:05.404Z",
+ "totalGuides": 1860,
  "items": [
+  {
+   "fullName": "StallionIdentify/Wondshare-Recoverit",
+   "owner": "StallionIdentify",
+   "name": "Wondshare-Recoverit",
+   "url": "https://github.com/StallionIdentify/Wondshare-Recoverit",
+   "avatar": "https://avatars.githubusercontent.com/u/292571944?v=4",
+   "description": "Complete standalone setup of Wondshare Recoverit 2026, ready to run with all features fully activated.",
+   "language": null,
+   "topics": [
+    "android-data-recovery-software-fonelab",
+    "automation",
+    "data-recovery",
+    "data-recovery-software",
+    "data-recovery-tool",
+    "developer-tools",
+    "file-recovery",
+    "lost-data-recovery"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:28:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T14:59:05.403Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/StallionIdentify/Wondshare-Recoverit",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/StallionIdentify/Wondshare-Recoverit/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/StallionIdentify/Wondshare-Recoverit\nWhat it says it does: \"Complete standalone setup of Wondshare Recoverit 2026, ready to run with all features fully activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T14:59:05.403Z"
+  },
   {
    "fullName": "Radianceflaquicken/Serato-DJ-Pro",
    "owner": "Radianceflaquicken",
@@ -31437,75 +31494,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/routerhubSI/uncensored-ai-api\nWhat it says it does: \"Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T19:04:06.130Z"
-  },
-  {
-   "fullName": "glanderness/BeefTV",
-   "owner": "glanderness",
-   "name": "BeefTV",
-   "url": "https://github.com/glanderness/BeefTV",
-   "avatar": "https://avatars.githubusercontent.com/u/58928515?v=4",
-   "description": "High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。",
-   "language": "TypeScript",
-   "topics": [
-    "ai-image-generation",
-    "ai-video",
-    "ai-video-generation",
-    "ai-workspace",
-    "aigc",
-    "creative-tools",
-    "infinite-canvas",
-    "local-first"
-   ],
-   "license": null,
-   "stars": 1810,
-   "forks": 356,
-   "createdAt": "2026-09-24T05:20:03Z",
-   "branch": "main",
-   "homepage": "https://beeftv.app/",
-   "addedAt": "2026-10-24T16:42:11.127Z",
-   "stack": {
-    "kind": "docker",
-    "label": "Docker app",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/glanderness/BeefTV?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/glanderness/BeefTV",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/glanderness/BeefTV/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "docker compose up",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/glanderness/BeefTV.git\ncd BeefTV\ndocker compose up",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/glanderness/BeefTV\nWhat it says it does: \"High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T16:42:11.127Z"
   }
  ],
  "levels": {
-  "read": 198,
-  "account": 199,
+  "read": 199,
+  "account": 198,
   "heavy": 62,
   "instant": 41
  }
