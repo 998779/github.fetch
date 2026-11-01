@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1840 guides written so far · last update 2026-11-01 08:02 UTC_
+_1841 guides written so far · last update 2026-11-01 08:02 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Vertexnyucontrol/AIDA-64-Extreme](https://github.com/Vertexnyucontrol/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vertexnyucontrol/aida-64-extreme.md) |
 | [Vanquisherplubegin/Autodesk-CFD](https://github.com/Vanquisherplubegin/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vanquisherplubegin/autodesk-cfd.md) |
 | [MasterViaduct/Rufus](https://github.com/MasterViaduct/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/masterviaduct/rufus.md) |
 | [FloodDamselShow/Movavi-Screen-Recorder](https://github.com/FloodDamselShow/Movavi-Screen-Recorder) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flooddamselshow/movavi-screen-recorder.md) |
@@ -38,7 +39,6 @@ _1840 guides written so far · last update 2026-11-01 08:02 UTC_
 | [Sentrydrispanner/Cubase](https://github.com/Sentrydrispanner/Cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sentrydrispanner/cubase.md) |
 | [violetcabbieenchant/Glary-Utilities-Pro](https://github.com/violetcabbieenchant/Glary-Utilities-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/violetcabbieenchant/glary-utilities-pro.md) |
 | [ShopkeeperSieve/KMS-Pico](https://github.com/ShopkeeperSieve/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shopkeepersieve/kms-pico.md) |
-| [HeightMistEnumerate/Autodesk-Inventor](https://github.com/HeightMistEnumerate/Autodesk-Inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/heightmistenumerate/autodesk-inventor.md) |
 <!-- latest:end -->
 
 ## How it works

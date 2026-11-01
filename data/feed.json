@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:02:01.401Z",
- "totalGuides": 1840,
+ "updatedAt": "2026-11-01T08:02:01.602Z",
+ "totalGuides": 1841,
  "items": [
+  {
+   "fullName": "Vertexnyucontrol/AIDA-64-Extreme",
+   "owner": "Vertexnyucontrol",
+   "name": "AIDA-64-Extreme",
+   "url": "https://github.com/Vertexnyucontrol/AIDA-64-Extreme",
+   "avatar": "https://avatars.githubusercontent.com/u/292571492?v=4",
+   "description": "Complete standalone setup of Aida 64 Extreme 2026. Full working installer with all features pre-activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "aida64",
+    "aida64-extreme-compatibility-check",
+    "aida64-extreme-detailed-reporting",
+    "aida64-extreme-hardware-diagnostics",
+    "aida64-extreme-setup",
+    "aida64-extreme-system-information",
+    "aida64-free-setup",
+    "automation"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:20:09Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:02:01.601Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Vertexnyucontrol/AIDA-64-Extreme",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Vertexnyucontrol/AIDA-64-Extreme/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Vertexnyucontrol/AIDA-64-Extreme\nWhat it says it does: \"Complete standalone setup of Aida 64 Extreme 2026. Full working installer with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:02:01.601Z"
+  },
   {
    "fullName": "Vanquisherplubegin/Autodesk-CFD",
    "owner": "Vanquisherplubegin",
@@ -31605,79 +31662,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/xMazaki/unbloat-android-tv\nWhat it says it does: \"Slim down any Android TV (ads, telemetry) + minimalist Apple TV-style home screen. Reversible, one double-click. 🇫🇷 Allégez n'importe quelle TV Android (pubs, télémétrie) + écran d'accueil minimaliste façon Apple TV. Réversible, en un double-clic.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T13:16:21.768Z"
-  },
-  {
-   "fullName": "Krusty84/yaDisk-Health",
-   "owner": "Krusty84",
-   "name": "yaDisk-Health",
-   "url": "https://github.com/Krusty84/yaDisk-Health",
-   "avatar": "https://avatars.githubusercontent.com/u/44873126?v=4",
-   "description": "Проверка доступности ваших файлов на Yandex Диск",
-   "language": "Python",
-   "topics": [
-    "yandex",
-    "yandex-api",
-    "yandex-cloud",
-    "yandex-disk",
-    "yandexcloud"
-   ],
-   "license": "MIT",
-   "stars": 107,
-   "forks": 1,
-   "createdAt": "2026-10-22T13:08:40Z",
-   "branch": "main",
-   "homepage": "https://disk.yandex.ru",
-   "addedAt": "2026-10-24T13:16:21.562Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Krusty84/yaDisk-Health/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Krusty84/yaDisk-Health?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Krusty84/yaDisk-Health",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Krusty84/yaDisk-Health/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Krusty84/yaDisk-Health.git\ncd yaDisk-Health",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Krusty84/yaDisk-Health\nWhat it says it does: \"Проверка доступности ваших файлов на Yandex Диск\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T13:16:21.562Z"
   }
  ],
  "levels": {
-  "read": 184,
-  "account": 206,
+  "read": 185,
+  "account": 205,
   "heavy": 65,
   "instant": 45
  }
