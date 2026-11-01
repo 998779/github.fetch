@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T08:02:00.953Z",
- "totalGuides": 1838,
+ "updatedAt": "2026-11-01T08:02:01.209Z",
+ "totalGuides": 1839,
  "items": [
+  {
+   "fullName": "MasterViaduct/Rufus",
+   "owner": "MasterViaduct",
+   "name": "Rufus",
+   "url": "https://github.com/MasterViaduct/Rufus",
+   "avatar": "https://avatars.githubusercontent.com/u/292570429?v=4",
+   "description": "Rufus 3.15: Full working installer for creating bootable USB drives, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "bootable-usb-creator",
+    "developer-tools",
+    "iso-burner-usb",
+    "open-source",
+    "python",
+    "rufus-iso",
+    "rufus-tool"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:26:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T08:02:01.209Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/MasterViaduct/Rufus",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/MasterViaduct/Rufus/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/MasterViaduct/Rufus\nWhat it says it does: \"Rufus 3.15: Full working installer for creating bootable USB drives, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T08:02:01.209Z"
+  },
   {
    "fullName": "FloodDamselShow/Movavi-Screen-Recorder",
    "owner": "FloodDamselShow",
@@ -31619,63 +31676,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/aancw/php2shell-scanner\nWhat it says it does: \"Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T09:03:46.159Z"
-  },
-  {
-   "fullName": "Marooniogrip/Discord-Quest-Completer",
-   "owner": "Marooniogrip",
-   "name": "Discord-Quest-Completer",
-   "url": "https://github.com/Marooniogrip/Discord-Quest-Completer",
-   "avatar": "https://avatars.githubusercontent.com/u/295653655?v=4",
-   "description": "Discord Quest Completer 2026: Full working installer for a seamless desktop experience, ready to run right out of the box.",
-   "language": null,
-   "topics": [
-    "discord-automation",
-    "discord-orbs",
-    "discord-quest",
-    "discord-quest-completer-2026",
-    "discord-quest-completer-bot",
-    "discord-quest-completer-free",
-    "discord-quests",
-    "discord-rewards"
-   ],
-   "license": null,
-   "stars": 48,
-   "forks": 0,
-   "createdAt": "2026-10-22T12:07:11Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T09:03:45.962Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Marooniogrip/Discord-Quest-Completer",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Marooniogrip/Discord-Quest-Completer/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Marooniogrip/Discord-Quest-Completer\nWhat it says it does: \"Discord Quest Completer 2026: Full working installer for a seamless desktop experience, ready to run right out of the box.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T09:03:45.962Z"
   }
  ],
  "levels": {
