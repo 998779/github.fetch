@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1849 guides written so far · last update 2026-11-01 14:59 UTC_
+_1850 guides written so far · last update 2026-11-01 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [innershapepergola/IFunBox](https://github.com/innershapepergola/IFunBox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/innershapepergola/ifunbox.md) |
 | [brighttortoiseday/Foneazy-Mobile](https://github.com/brighttortoiseday/Foneazy-Mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brighttortoiseday/foneazy-mobile.md) |
 | [Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/speedzyaminaret/unlocktool.md) |
 | [tempestemperorestate/Monero-Miner](https://github.com/tempestemperorestate/Monero-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempestemperorestate/monero-miner.md) |
@@ -38,7 +39,6 @@ _1849 guides written so far · last update 2026-11-01 14:59 UTC_
 | [Vertexnyucontrol/AIDA-64-Extreme](https://github.com/Vertexnyucontrol/AIDA-64-Extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vertexnyucontrol/aida-64-extreme.md) |
 | [Vanquisherplubegin/Autodesk-CFD](https://github.com/Vanquisherplubegin/Autodesk-CFD) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vanquisherplubegin/autodesk-cfd.md) |
 | [MasterViaduct/Rufus](https://github.com/MasterViaduct/Rufus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/masterviaduct/rufus.md) |
-| [FloodDamselShow/Movavi-Screen-Recorder](https://github.com/FloodDamselShow/Movavi-Screen-Recorder) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flooddamselshow/movavi-screen-recorder.md) |
 <!-- latest:end -->
 
 ## How it works
