@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T14:59:02.363Z",
- "totalGuides": 1846,
+ "updatedAt": "2026-11-01T14:59:02.583Z",
+ "totalGuides": 1847,
  "items": [
+  {
+   "fullName": "tempestemperorestate/Monero-Miner",
+   "owner": "tempestemperorestate",
+   "name": "Monero-Miner",
+   "url": "https://github.com/tempestemperorestate/Monero-Miner",
+   "avatar": "https://avatars.githubusercontent.com/u/292572262?v=4",
+   "description": "Monero Miner 2026 complete standalone setup. Ready-to-run desktop installation with all necessary components pre-configured.",
+   "language": null,
+   "topics": [
+    "bitcoin-mining-tools",
+    "cloud-backup-windows",
+    "cpu-mining",
+    "cpumining",
+    "cryptominer",
+    "disc-burning",
+    "disc-burning-suite-windows",
+    "gpu-mining"
+   ],
+   "license": null,
+   "stars": 379,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:24:53Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T14:59:02.583Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/tempestemperorestate/Monero-Miner",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/tempestemperorestate/Monero-Miner/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/tempestemperorestate/Monero-Miner\nWhat it says it does: \"Monero Miner 2026 complete standalone setup. Ready-to-run desktop installation with all necessary components pre-configured.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T14:59:02.583Z"
+  },
   {
    "fullName": "azurerockcode/Roblox-Game-Copier",
    "owner": "azurerockcode",
@@ -31564,75 +31621,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/outerdeckhandquilt/Lossless-Scaling\nWhat it says it does: \"Advanced Lossless Scaling fork: boost FPS, enable Frame Gen & upscale any game.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T13:16:22.978Z"
-  },
-  {
-   "fullName": "liyupi/dafeiyu-cleaner",
-   "owner": "liyupi",
-   "name": "dafeiyu-cleaner",
-   "url": "https://github.com/liyupi/dafeiyu-cleaner",
-   "avatar": "https://avatars.githubusercontent.com/u/26037703?v=4",
-   "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
-   "language": "JavaScript",
-   "topics": [
-    "ai",
-    "ai-agent",
-    "ai-content-detection",
-    "ai-detection",
-    "aigc",
-    "anti-spam",
-    "bilibili",
-    "bilibili-comments"
-   ],
-   "license": null,
-   "stars": 59,
-   "forks": 2,
-   "createdAt": "2026-10-23T03:39:33Z",
-   "branch": "main",
-   "homepage": "https://www.bilibili.com/video/BV1Ywn46EEyF",
-   "addedAt": "2026-10-24T13:16:22.824Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/liyupi/dafeiyu-cleaner?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/liyupi/dafeiyu-cleaner",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/liyupi/dafeiyu-cleaner/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/liyupi/dafeiyu-cleaner.git\ncd dafeiyu-cleaner",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/liyupi/dafeiyu-cleaner\nWhat it says it does: \"DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T13:16:22.824Z"
   }
  ],
  "levels": {
-  "read": 189,
-  "account": 203,
+  "read": 190,
+  "account": 202,
   "heavy": 64,
   "instant": 44
  }
