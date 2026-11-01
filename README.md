@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1856 guides written so far · last update 2026-11-01 14:59 UTC_
+_1857 guides written so far · last update 2026-11-01 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [imagepheasantfoyer/MusicMakerUnlimited](https://github.com/imagepheasantfoyer/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/imagepheasantfoyer/musicmakerunlimited.md) |
 | [nikita-s-x2001x7/photo-converter](https://github.com/nikita-s-x2001x7/photo-converter) | Python project | Runs in the browser with a free account | [guide](guides/nikita-s-x2001x7/photo-converter.md) |
 | [DistributorClip/Wise-Care](https://github.com/DistributorClip/Wise-Care) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorclip/wise-care.md) |
 | [PlanetByteDescribe/Quicken-Deluxe](https://github.com/PlanetByteDescribe/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetbytedescribe/quicken-deluxe.md) |
@@ -38,7 +39,6 @@ _1856 guides written so far · last update 2026-11-01 14:59 UTC_
 | [Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/speedzyaminaret/unlocktool.md) |
 | [tempestemperorestate/Monero-Miner](https://github.com/tempestemperorestate/Monero-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempestemperorestate/monero-miner.md) |
 | [azurerockcode/Roblox-Game-Copier](https://github.com/azurerockcode/Roblox-Game-Copier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/azurerockcode/roblox-game-copier.md) |
-| [SteersmanStronghold/Windows-Optimizer](https://github.com/SteersmanStronghold/Windows-Optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/steersmanstronghold/windows-optimizer.md) |
 <!-- latest:end -->
 
 ## How it works
