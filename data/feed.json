@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T14:59:05.404Z",
- "totalGuides": 1860,
+ "updatedAt": "2026-11-01T14:59:05.657Z",
+ "totalGuides": 1861,
  "items": [
+  {
+   "fullName": "BattalionAlchemist/SlideShow-Video-Maker",
+   "owner": "BattalionAlchemist",
+   "name": "SlideShow-Video-Maker",
+   "url": "https://github.com/BattalionAlchemist/SlideShow-Video-Maker",
+   "avatar": "https://avatars.githubusercontent.com/u/292573260?v=4",
+   "description": "Slideshow Video Maker 2026 - Full working installer, ready-to-run desktop edition with all features pre-activated.",
+   "language": null,
+   "topics": [
+    "automation",
+    "beat-creator",
+    "beginner-daw",
+    "desktop",
+    "developer-tools",
+    "loop-music-maker",
+    "magix-free",
+    "magix-github"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:26:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T14:59:05.656Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/BattalionAlchemist/SlideShow-Video-Maker",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/BattalionAlchemist/SlideShow-Video-Maker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/BattalionAlchemist/SlideShow-Video-Maker\nWhat it says it does: \"Slideshow Video Maker 2026 - Full working installer, ready-to-run desktop edition with all features pre-activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T14:59:05.656Z"
+  },
   {
    "fullName": "StallionIdentify/Wondshare-Recoverit",
    "owner": "StallionIdentify",
@@ -31437,63 +31494,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/mirkobrombin/raven\nWhat it says it does: \"A Windows your apps recognize.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T19:04:06.359Z"
-  },
-  {
-   "fullName": "routerhubSI/uncensored-ai-api",
-   "owner": "routerhubSI",
-   "name": "uncensored-ai-api",
-   "url": "https://github.com/routerhubSI/uncensored-ai-api",
-   "avatar": "https://avatars.githubusercontent.com/u/347402468?v=4",
-   "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-   "language": null,
-   "topics": [
-    "abliterated-models",
-    "ai-api",
-    "ai-gateway",
-    "anthropic-compatible",
-    "claude-api",
-    "claude-code",
-    "cursor",
-    "deepseek-api"
-   ],
-   "license": "MIT",
-   "stars": 80,
-   "forks": 5,
-   "createdAt": "2026-10-24T16:55:17Z",
-   "branch": "main",
-   "homepage": "https://routerhub.si",
-   "addedAt": "2026-10-24T19:04:06.130Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/routerhubSI/uncensored-ai-api",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/routerhubSI/uncensored-ai-api/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/routerhubSI/uncensored-ai-api\nWhat it says it does: \"Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T19:04:06.130Z"
   }
  ],
  "levels": {

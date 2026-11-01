@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1860 guides written so far · last update 2026-11-01 14:59 UTC_
+_1861 guides written so far · last update 2026-11-01 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BattalionAlchemist/SlideShow-Video-Maker](https://github.com/BattalionAlchemist/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/battalionalchemist/slideshow-video-maker.md) |
 | [StallionIdentify/Wondshare-Recoverit](https://github.com/StallionIdentify/Wondshare-Recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stallionidentify/wondshare-recoverit.md) |
 | [Radianceflaquicken/Serato-DJ-Pro](https://github.com/Radianceflaquicken/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radianceflaquicken/serato-dj-pro.md) |
 | [coalfiremancrater/Designcenter-NX](https://github.com/coalfiremancrater/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coalfiremancrater/designcenter-nx.md) |
@@ -38,7 +39,6 @@ _1860 guides written so far · last update 2026-11-01 14:59 UTC_
 | [CoordinateGuardGorge/Microsoft-Project](https://github.com/CoordinateGuardGorge/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coordinateguardgorge/microsoft-project.md) |
 | [knittanagercolander/ultra-Iso](https://github.com/knittanagercolander/ultra-Iso) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/knittanagercolander/ultra-iso.md) |
 | [innershapepergola/IFunBox](https://github.com/innershapepergola/IFunBox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/innershapepergola/ifunbox.md) |
-| [brighttortoiseday/Foneazy-Mobile](https://github.com/brighttortoiseday/Foneazy-Mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brighttortoiseday/foneazy-mobile.md) |
 <!-- latest:end -->
 
 ## How it works
