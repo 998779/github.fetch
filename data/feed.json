@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T19:30:22.097Z",
- "totalGuides": 1871,
+ "updatedAt": "2026-11-01T19:30:22.326Z",
+ "totalGuides": 1872,
  "items": [
+  {
+   "fullName": "FigureSultanLast/roblox-ai-studio-agent",
+   "owner": "FigureSultanLast",
+   "name": "roblox-ai-studio-agent",
+   "url": "https://github.com/FigureSultanLast/roblox-ai-studio-agent",
+   "avatar": "https://avatars.githubusercontent.com/u/316787419?v=4",
+   "description": "An AI agent in your terminal that builds Roblox places in Studio: parts, models, UI and Luau scripts. Place diff before every change, playtests with proof, one undo per turn.",
+   "language": "Luau",
+   "topics": [
+    "luau",
+    "place-diff",
+    "playtest",
+    "roblox",
+    "roblox-studio",
+    "rojo",
+    "rust",
+    "terminal"
+   ],
+   "license": "MIT",
+   "stars": 206,
+   "forks": 11,
+   "createdAt": "2026-10-30T21:42:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T19:30:22.325Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/FigureSultanLast/roblox-ai-studio-agent?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/FigureSultanLast/roblox-ai-studio-agent",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/FigureSultanLast/roblox-ai-studio-agent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/FigureSultanLast/roblox-ai-studio-agent.git\ncd roblox-ai-studio-agent\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/FigureSultanLast/roblox-ai-studio-agent\nWhat it says it does: \"An AI agent in your terminal that builds Roblox places in Studio: parts, models, UI and Luau scripts. Place diff before every change, playtests with proof, one undo per turn.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T19:30:22.325Z"
+  },
   {
    "fullName": "zortos293/Eglantine",
    "owner": "zortos293",
@@ -31372,73 +31436,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/wuyoscar/AISafetyHot\nWhat it says it does: \"Safety News & Research Monitor. https://aisafetyhot.com\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T21:34:13.263Z"
-  },
-  {
-   "fullName": "philips71017/Hiddify-Manager",
-   "owner": "philips71017",
-   "name": "Hiddify-Manager",
-   "url": "https://github.com/philips71017/Hiddify-Manager",
-   "avatar": "https://avatars.githubusercontent.com/u/111347554?v=4",
-   "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",
-   "language": "Python",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 255,
-   "forks": 28,
-   "createdAt": "2026-10-19T09:01:13Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T21:34:13.055Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/philips71017/Hiddify-Manager/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/philips71017/Hiddify-Manager?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/philips71017/Hiddify-Manager",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/philips71017/Hiddify-Manager/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/philips71017/Hiddify-Manager.git\ncd Hiddify-Manager",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/philips71017/Hiddify-Manager\nWhat it says it does: \"Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T21:34:13.055Z"
   }
  ],
  "levels": {
-  "heavy": 63,
   "account": 196,
+  "heavy": 63,
   "read": 201,
   "instant": 40
  }
