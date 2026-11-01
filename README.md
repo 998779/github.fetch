@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1863 guides written so far · last update 2026-11-01 19:30 UTC_
+_1864 guides written so far · last update 2026-11-01 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RainShrimpGaze/NinjaTrader-Bot](https://github.com/RainShrimpGaze/NinjaTrader-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rainshrimpgaze/ninjatrader-bot.md) |
 | [LogoJouninHammer/PH-Downloader](https://github.com/LogoJouninHammer/PH-Downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/logojouninhammer/ph-downloader.md) |
 | [ShineFinancialStrut/game-server-route-racer](https://github.com/ShineFinancialStrut/game-server-route-racer) | Rust project | Runs in the browser with a free account | [guide](guides/shinefinancialstrut/game-server-route-racer.md) |
 | [BattalionAlchemist/SlideShow-Video-Maker](https://github.com/BattalionAlchemist/SlideShow-Video-Maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/battalionalchemist/slideshow-video-maker.md) |
@@ -38,7 +39,6 @@ _1863 guides written so far · last update 2026-11-01 19:30 UTC_
 | [DistributorClip/Wise-Care](https://github.com/DistributorClip/Wise-Care) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorclip/wise-care.md) |
 | [PlanetByteDescribe/Quicken-Deluxe](https://github.com/PlanetByteDescribe/Quicken-Deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/planetbytedescribe/quicken-deluxe.md) |
 | [Clampiaspiral/Scrcpy](https://github.com/Clampiaspiral/Scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/clampiaspiral/scrcpy.md) |
-| [CoordinateGuardGorge/Microsoft-Project](https://github.com/CoordinateGuardGorge/Microsoft-Project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coordinateguardgorge/microsoft-project.md) |
 <!-- latest:end -->
 
 ## How it works

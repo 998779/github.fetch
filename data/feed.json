@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-01T19:30:20.077Z",
- "totalGuides": 1863,
+ "updatedAt": "2026-11-01T19:30:20.361Z",
+ "totalGuides": 1864,
  "items": [
+  {
+   "fullName": "RainShrimpGaze/NinjaTrader-Bot",
+   "owner": "RainShrimpGaze",
+   "name": "NinjaTrader-Bot",
+   "url": "https://github.com/RainShrimpGaze/NinjaTrader-Bot",
+   "avatar": "https://avatars.githubusercontent.com/u/292570636?v=4",
+   "description": "Complete standalone setup for Ninjatrader Bot 2026. Pre-activated desktop edition ready to run.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "ninjatrader",
+    "ninjatrader-8",
+    "ninjatrader-addon",
+    "ninjatrader-indicators",
+    "open-source"
+   ],
+   "license": null,
+   "stars": 296,
+   "forks": 0,
+   "createdAt": "2026-10-31T07:25:24Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-01T19:30:20.360Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/RainShrimpGaze/NinjaTrader-Bot",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/RainShrimpGaze/NinjaTrader-Bot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/RainShrimpGaze/NinjaTrader-Bot\nWhat it says it does: \"Complete standalone setup for Ninjatrader Bot 2026. Pre-activated desktop edition ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-01T19:30:20.360Z"
+  },
   {
    "fullName": "LogoJouninHammer/PH-Downloader",
    "owner": "LogoJouninHammer",
@@ -31421,81 +31478,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/routerhubSI/glm-5.3-abliterated\nWhat it says it does: \"GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-24T19:04:06.988Z"
-  },
-  {
-   "fullName": "ryderclanky/BotW-Native",
-   "owner": "ryderclanky",
-   "name": "BotW-Native",
-   "url": "https://github.com/ryderclanky/BotW-Native",
-   "avatar": "https://avatars.githubusercontent.com/u/256620642?v=4",
-   "description": "Static recompilation of Wii U Breath of the Wild (v1.5.0) to a native Windows program with a Vulkan backend. No game assets included.",
-   "language": "C++",
-   "topics": [
-    "breath-of-the-wild",
-    "game-preservation",
-    "recompilation",
-    "static-recompilation",
-    "vulkan",
-    "wii-u",
-    "windows"
-   ],
-   "license": "MIT",
-   "stars": 69,
-   "forks": 2,
-   "createdAt": "2026-10-23T21:41:37Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-24T19:04:06.799Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/ryderclanky/BotW-Native/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ryderclanky/BotW-Native?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ryderclanky/BotW-Native",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ryderclanky/BotW-Native/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/ryderclanky/BotW-Native.git\ncd BotW-Native\npip install -e .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/ryderclanky/BotW-Native\nWhat it says it does: \"Static recompilation of Wii U Breath of the Wild (v1.5.0) to a native Windows program with a Vulkan backend. No game assets included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-24T19:04:06.799Z"
   }
  ],
  "levels": {
-  "read": 200,
-  "account": 197,
+  "read": 201,
+  "account": 196,
   "heavy": 62,
   "instant": 41
  }
