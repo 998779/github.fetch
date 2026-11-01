@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1821 guides written so far · last update 2026-11-01 01:25 UTC_
+_1822 guides written so far · last update 2026-11-01 01:25 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NadirCardinal/AnyUnlock](https://github.com/NadirCardinal/AnyUnlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nadircardinal/anyunlock.md) |
 | [Breakunsever/Adobe-Audition](https://github.com/Breakunsever/Adobe-Audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breakunsever/adobe-audition.md) |
 | [Armskostrike/Discord-Server-Raider](https://github.com/Armskostrike/Discord-Server-Raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/armskostrike/discord-server-raider.md) |
 | [sidestonetrap/SonyVegas](https://github.com/sidestonetrap/SonyVegas) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sidestonetrap/sonyvegas.md) |
@@ -38,7 +39,6 @@ _1821 guides written so far · last update 2026-11-01 01:25 UTC_
 | [RoadGrenadier/CorelDraw](https://github.com/RoadGrenadier/CorelDraw) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadgrenadier/coreldraw.md) |
 | [feraldoctorrecover60/Wise-Registrity](https://github.com/feraldoctorrecover60/Wise-Registrity) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feraldoctorrecover60/wise-registrity.md) |
 | [stopchainsound/FabFilter-Pro](https://github.com/stopchainsound/FabFilter-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stopchainsound/fabfilter-pro.md) |
-| [FencerEngage/courier-dota2](https://github.com/FencerEngage/courier-dota2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fencerengage/courier-dota2.md) |
 <!-- latest:end -->
 
 ## How it works
