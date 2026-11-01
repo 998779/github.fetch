@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1867 guides written so far · last update 2026-11-01 19:30 UTC_
+_1868 guides written so far · last update 2026-11-01 19:30 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SparrowPortray/horizon-free-capes](https://github.com/SparrowPortray/horizon-free-capes) | Rust project | Runs in the browser with a free account | [guide](guides/sparrowportray/horizon-free-capes.md) |
 | [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk) | JavaScript project | Runs in the browser with a free account | [guide](guides/0xcodez/duodesk.md) |
 | [tubbydistrib/stake-monthly-bonus](https://github.com/tubbydistrib/stake-monthly-bonus) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tubbydistrib/stake-monthly-bonus.md) |
 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Python project | Runs in the browser with a free account | [guide](guides/caru-ini/stack-diagram.md) |
@@ -38,7 +39,6 @@ _1867 guides written so far · last update 2026-11-01 19:30 UTC_
 | [Radianceflaquicken/Serato-DJ-Pro](https://github.com/Radianceflaquicken/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radianceflaquicken/serato-dj-pro.md) |
 | [coalfiremancrater/Designcenter-NX](https://github.com/coalfiremancrater/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coalfiremancrater/designcenter-nx.md) |
 | [imagepheasantfoyer/MusicMakerUnlimited](https://github.com/imagepheasantfoyer/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/imagepheasantfoyer/musicmakerunlimited.md) |
-| [nikita-s-x2001x7/photo-converter](https://github.com/nikita-s-x2001x7/photo-converter) | Python project | Runs in the browser with a free account | [guide](guides/nikita-s-x2001x7/photo-converter.md) |
 <!-- latest:end -->
 
 ## How it works
