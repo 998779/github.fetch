@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1818 guides written so far · last update 2026-11-01 01:25 UTC_
+_1819 guides written so far · last update 2026-11-01 01:25 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sidestonetrap/SonyVegas](https://github.com/sidestonetrap/SonyVegas) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sidestonetrap/sonyvegas.md) |
 | [archivethrushhook/Adobe-After-Effects](https://github.com/archivethrushhook/Adobe-After-Effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/archivethrushhook/adobe-after-effects.md) |
 | [RectorWrench/Ozone-12-Advanced](https://github.com/RectorWrench/Ozone-12-Advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rectorwrench/ozone-12-advanced.md) |
 | [CobblerHover/Auto-Withdraw-Bot](https://github.com/CobblerHover/Auto-Withdraw-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cobblerhover/auto-withdraw-bot.md) |
@@ -38,7 +39,6 @@ _1818 guides written so far · last update 2026-11-01 01:25 UTC_
 | [FencerEngage/courier-dota2](https://github.com/FencerEngage/courier-dota2) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fencerengage/courier-dota2.md) |
 | [ShieldElderContract/Honeypot-Detector](https://github.com/ShieldElderContract/Honeypot-Detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shieldeldercontract/honeypot-detector.md) |
 | [MidwifeCompact/Reason-14](https://github.com/MidwifeCompact/Reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midwifecompact/reason-14.md) |
-| [UrchinElevator63/Camtasia](https://github.com/UrchinElevator63/Camtasia) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/urchinelevator63/camtasia.md) |
 <!-- latest:end -->
 
 ## How it works
