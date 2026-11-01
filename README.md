@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1858 guides written so far · last update 2026-11-01 14:59 UTC_
+_1859 guides written so far · last update 2026-11-01 14:59 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Radianceflaquicken/Serato-DJ-Pro](https://github.com/Radianceflaquicken/Serato-DJ-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/radianceflaquicken/serato-dj-pro.md) |
 | [coalfiremancrater/Designcenter-NX](https://github.com/coalfiremancrater/Designcenter-NX) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/coalfiremancrater/designcenter-nx.md) |
 | [imagepheasantfoyer/MusicMakerUnlimited](https://github.com/imagepheasantfoyer/MusicMakerUnlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/imagepheasantfoyer/musicmakerunlimited.md) |
 | [nikita-s-x2001x7/photo-converter](https://github.com/nikita-s-x2001x7/photo-converter) | Python project | Runs in the browser with a free account | [guide](guides/nikita-s-x2001x7/photo-converter.md) |
@@ -38,7 +39,6 @@ _1858 guides written so far · last update 2026-11-01 14:59 UTC_
 | [innershapepergola/IFunBox](https://github.com/innershapepergola/IFunBox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/innershapepergola/ifunbox.md) |
 | [brighttortoiseday/Foneazy-Mobile](https://github.com/brighttortoiseday/Foneazy-Mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brighttortoiseday/foneazy-mobile.md) |
 | [Speedzyaminaret/UnlockTool](https://github.com/Speedzyaminaret/UnlockTool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/speedzyaminaret/unlocktool.md) |
-| [tempestemperorestate/Monero-Miner](https://github.com/tempestemperorestate/Monero-Miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempestemperorestate/monero-miner.md) |
 <!-- latest:end -->
 
 ## How it works
