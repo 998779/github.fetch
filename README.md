@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1915 guides written so far · last update 2026-11-02 20:13 UTC_
+_1916 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerswifthub/discord-quest-completer.md) |
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetpelicanstir/total-commander.md) |
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bridgeyaprovide/roblox-game-copier.md) |
 | [ProsecutorList/monero-miner](https://github.com/ProsecutorList/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorlist/monero-miner.md) |
@@ -38,7 +39,6 @@ _1915 guides written so far · last update 2026-11-02 20:13 UTC_
 | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | Python project | Runs in the browser with a free account | [guide](guides/moh4696/open-3d-skills.md) |
 | [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box) | Python project | Runs in the browser with a free account | [guide](guides/smarkyie/nsp-box.md) |
 | [ediblepawns/stake-november-monthly](https://github.com/ediblepawns/stake-november-monthly) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ediblepawns/stake-november-monthly.md) |
-| [zane-tv/tiktok-live-temple-rpc](https://github.com/zane-tv/tiktok-live-temple-rpc) | Express app | Runs in a browser tab, no account needed | [guide](guides/zane-tv/tiktok-live-temple-rpc.md) |
 <!-- latest:end -->
 
 ## How it works
