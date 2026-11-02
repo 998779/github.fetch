@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T09:53:39.222Z",
- "totalGuides": 1911,
+ "updatedAt": "2026-11-02T09:53:39.439Z",
+ "totalGuides": 1912,
  "items": [
+  {
+   "fullName": "SolicitorGate/Chimera",
+   "owner": "SolicitorGate",
+   "name": "Chimera",
+   "url": "https://github.com/SolicitorGate/Chimera",
+   "avatar": "https://avatars.githubusercontent.com/u/292573622?v=4",
+   "description": "Chimera 2026: Full working installer with all utilities pre-configured and ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "chimera",
+    "chimera-framework",
+    "chimera-linux",
+    "chimera-meta-world",
+    "chimera-tool-pro",
+    "chimera-tool-pro-spark",
+    "desktop"
+   ],
+   "license": null,
+   "stars": 124,
+   "forks": 0,
+   "createdAt": "2026-11-01T10:13:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T09:53:39.438Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/SolicitorGate/Chimera",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/SolicitorGate/Chimera/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/SolicitorGate/Chimera\nWhat it says it does: \"Chimera 2026: Full working installer with all utilities pre-configured and ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T09:53:39.438Z"
+  },
   {
    "fullName": "Upgradekrodefeat30/DFT-Pro",
    "owner": "Upgradekrodefeat30",
@@ -31316,74 +31373,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/lalalune/pumpfun-source\nWhat it says it does: \"Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T12:29:54.945Z"
-  },
-  {
-   "fullName": "null0526/dario-genesis",
-   "owner": "null0526",
-   "name": "dario-genesis",
-   "url": "https://github.com/null0526/dario-genesis",
-   "avatar": "https://avatars.githubusercontent.com/u/190335650?v=4",
-   "description": "达里奥创世录：一部画面和声音全由代码生成的 AI 短片（Claude / GPT 分工制作）· 源码、声音合成器与制作经验",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 61,
-   "forks": 6,
-   "createdAt": "2026-10-24T07:51:03Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T12:29:54.655Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/null0526/dario-genesis/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/null0526/dario-genesis?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/null0526/dario-genesis",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/null0526/dario-genesis/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/null0526/dario-genesis.git\ncd dario-genesis",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/null0526/dario-genesis\nWhat it says it does: \"达里奥创世录：一部画面和声音全由代码生成的 AI 短片（Claude / GPT 分工制作）· 源码、声音合成器与制作经验\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T12:29:54.655Z"
   }
  ],
  "levels": {
-  "read": 203,
+  "read": 204,
   "heavy": 63,
   "instant": 37,
-  "account": 197
+  "account": 196
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1911 guides written so far · last update 2026-11-02 09:53 UTC_
+_1912 guides written so far · last update 2026-11-02 09:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SolicitorGate/Chimera](https://github.com/SolicitorGate/Chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/solicitorgate/chimera.md) |
 | [Upgradekrodefeat30/DFT-Pro](https://github.com/Upgradekrodefeat30/DFT-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/upgradekrodefeat30/dft-pro.md) |
 | [jmars125/xcx-recomp](https://github.com/jmars125/xcx-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/jmars125/xcx-recomp.md) |
 | [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/nexttransformer.md) |
@@ -38,7 +39,6 @@ _1911 guides written so far · last update 2026-11-02 09:53 UTC_
 | [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk) | JavaScript project | Runs in the browser with a free account | [guide](guides/tavern-labs-ai/persona-ai-sdk.md) |
 | [ManufacturingSaw/horizon-capes-skins-minecraft](https://github.com/ManufacturingSaw/horizon-capes-skins-minecraft) | Rust project | Runs in the browser with a free account | [guide](guides/manufacturingsaw/horizon-capes-skins-minecraft.md) |
 | [Ceilingpiintensify/horizon-mod-checker](https://github.com/Ceilingpiintensify/horizon-mod-checker) | Rust project | Runs in the browser with a free account | [guide](guides/ceilingpiintensify/horizon-mod-checker.md) |
-| [raylee-ai/lancer](https://github.com/raylee-ai/lancer) | JavaScript project | Runs in the browser with a free account | [guide](guides/raylee-ai/lancer.md) |
 <!-- latest:end -->
 
 ## How it works
