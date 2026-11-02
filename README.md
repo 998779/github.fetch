@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1901 guides written so far · last update 2026-11-02 09:53 UTC_
+_1902 guides written so far · last update 2026-11-02 09:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ManufacturingSaw/horizon-capes-skins-minecraft](https://github.com/ManufacturingSaw/horizon-capes-skins-minecraft) | Rust project | Runs in the browser with a free account | [guide](guides/manufacturingsaw/horizon-capes-skins-minecraft.md) |
 | [Ceilingpiintensify/horizon-mod-checker](https://github.com/Ceilingpiintensify/horizon-mod-checker) | Rust project | Runs in the browser with a free account | [guide](guides/ceilingpiintensify/horizon-mod-checker.md) |
 | [raylee-ai/lancer](https://github.com/raylee-ai/lancer) | JavaScript project | Runs in the browser with a free account | [guide](guides/raylee-ai/lancer.md) |
 | [sleepy-zone/char-db-cn](https://github.com/sleepy-zone/char-db-cn) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sleepy-zone/char-db-cn.md) |
@@ -38,7 +39,6 @@ _1901 guides written so far · last update 2026-11-02 09:53 UTC_
 | [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wideeyededi/uncensored-nsfw-ai-video-api.md) |
 | [NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis) | Lean project | Runs in the browser with a free account | [guide](guides/nyxfoundation/nyxis.md) |
 | [Balanov/svoi](https://github.com/Balanov/svoi) | Vite app | Runs in the browser with a free account | [guide](guides/balanov/svoi.md) |
-| [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) | HTML project | Runs in the browser with a free account | [guide](guides/wanghao-sunsky/cs329z-chinese.md) |
 <!-- latest:end -->
 
 ## How it works
