@@ -1,8 +1,63 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T09:53:34.380Z",
- "totalGuides": 1893,
+ "updatedAt": "2026-11-02T09:53:34.589Z",
+ "totalGuides": 1894,
  "items": [
+  {
+   "fullName": "mromidev/claude-animated-shorts",
+   "owner": "mromidev",
+   "name": "claude-animated-shorts",
+   "url": "https://github.com/mromidev/claude-animated-shorts",
+   "avatar": "https://avatars.githubusercontent.com/u/233344575?v=4",
+   "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+   "language": "TypeScript",
+   "topics": [],
+   "license": "MIT",
+   "stars": 306,
+   "forks": 96,
+   "createdAt": "2026-11-01T05:50:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T09:53:34.588Z",
+   "stack": {
+    "kind": "other",
+    "label": "TypeScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mromidev/claude-animated-shorts?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mromidev/claude-animated-shorts",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mromidev/claude-animated-shorts/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/mromidev/claude-animated-shorts.git\ncd claude-animated-shorts",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/mromidev/claude-animated-shorts\nWhat it says it does: \"Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T09:53:34.588Z"
+  },
   {
    "fullName": "wideeyededi/uncensored-nsfw-ai-video-api",
    "owner": "wideeyededi",
@@ -31260,67 +31315,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/JellyFlow/Mcdonalds_in_RokidGlasses\nWhat it says it does: \"麦当劳 × Rokid Glasses 眼镜点餐助手：一句话点餐、MCP直连、购物车管理与实时算价\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T06:57:17.756Z"
-  },
-  {
-   "fullName": "lordon1a/agents.md",
-   "owner": "lordon1a",
-   "name": "agents.md",
-   "url": "https://github.com/lordon1a/agents.md",
-   "avatar": "https://avatars.githubusercontent.com/u/183556939?v=4",
-   "description": "A drop-in AGENTS.md system prompt for coding agents: full execution, no hedging, no moralizing, no fade-to-black.",
-   "language": null,
-   "topics": [
-    "agents-md",
-    "ai-agents",
-    "claude-code",
-    "codex",
-    "opencode",
-    "prompt-engineering",
-    "system-prompt"
-   ],
-   "license": null,
-   "stars": 65,
-   "forks": 16,
-   "createdAt": "2026-10-24T15:09:49Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T06:57:17.451Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/lordon1a/agents.md",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/lordon1a/agents.md/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/lordon1a/agents.md\nWhat it says it does: \"A drop-in AGENTS.md system prompt for coding agents: full execution, no hedging, no moralizing, no fade-to-black.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T06:57:17.451Z"
   }
  ],
  "levels": {
-  "read": 205,
-  "account": 198,
+  "account": 199,
+  "read": 204,
   "instant": 36,
   "heavy": 61
  }
