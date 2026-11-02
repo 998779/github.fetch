@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T09:53:36.281Z",
- "totalGuides": 1900,
+ "updatedAt": "2026-11-02T09:53:36.529Z",
+ "totalGuides": 1901,
  "items": [
+  {
+   "fullName": "Ceilingpiintensify/horizon-mod-checker",
+   "owner": "Ceilingpiintensify",
+   "name": "horizon-mod-checker",
+   "url": "https://github.com/Ceilingpiintensify/horizon-mod-checker",
+   "avatar": "https://avatars.githubusercontent.com/u/316768061?v=4",
+   "description": "Is my mod on Horizon? Type a name or drop your whole pack and every mod gets one plain answer: built in, ported, works or not yet. What works installs in one click.",
+   "language": "Rust",
+   "topics": [
+    "curseforge",
+    "fabric",
+    "horizon",
+    "minecraft-mods",
+    "mod-compatibility",
+    "mod-manager",
+    "modrinth",
+    "neoforge"
+   ],
+   "license": "MIT",
+   "stars": 199,
+   "forks": 11,
+   "createdAt": "2026-10-31T22:50:53Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T09:53:36.529Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Ceilingpiintensify/horizon-mod-checker?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Ceilingpiintensify/horizon-mod-checker",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Ceilingpiintensify/horizon-mod-checker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Ceilingpiintensify/horizon-mod-checker.git\ncd horizon-mod-checker\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Ceilingpiintensify/horizon-mod-checker\nWhat it says it does: \"Is my mod on Horizon? Type a name or drop your whole pack and every mod gets one plain answer: built in, ported, works or not yet. What works installs in one click.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T09:53:36.529Z"
+  },
   {
    "fullName": "raylee-ai/lancer",
    "owner": "raylee-ai",
@@ -31273,69 +31337,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/surendrapandar/minilytics\nWhat it says it does: \"Opensource Revenue-first analytics for indie hackers & solo founders\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T12:29:52.687Z"
-  },
-  {
-   "fullName": "Driveuoexhibit/KMS-Pico",
-   "owner": "Driveuoexhibit",
-   "name": "KMS-Pico",
-   "url": "https://github.com/Driveuoexhibit/KMS-Pico",
-   "avatar": "https://avatars.githubusercontent.com/u/295653900?v=4",
-   "description": "Kms Pico Free 2026 complete standalone setup. Ready-to-run desktop installation with all features unlocked.",
-   "language": null,
-   "topics": [
-    "activation-fix",
-    "free-excel-word",
-    "key-management-system",
-    "kms-auto-2026",
-    "kms-auto-get",
-    "kms-pico-free",
-    "kmsauto-get",
-    "microsoft-office-26"
-   ],
-   "license": null,
-   "stars": 140,
-   "forks": 0,
-   "createdAt": "2026-10-23T13:39:27Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T12:29:52.396Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Driveuoexhibit/KMS-Pico",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Driveuoexhibit/KMS-Pico/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Driveuoexhibit/KMS-Pico\nWhat it says it does: \"Kms Pico Free 2026 complete standalone setup. Ready-to-run desktop installation with all features unlocked.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T12:29:52.396Z"
   }
  ],
  "levels": {
-  "account": 199,
+  "account": 200,
   "instant": 36,
-  "read": 203,
+  "read": 202,
   "heavy": 62
  }
 }
