@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1930 guides written so far · last update 2026-11-02 20:13 UTC_
+_1931 guides written so far · last update 2026-11-02 20:14 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [maxwilsoneng2098t9/tiktok-comment-automation](https://github.com/maxwilsoneng2098t9/tiktok-comment-automation) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/tiktok-comment-automation.md) |
 | [superwardenseek/discord-server-raider](https://github.com/superwardenseek/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/superwardenseek/discord-server-raider.md) |
 | [Grabnovaportico/adobe-substance-3d](https://github.com/Grabnovaportico/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grabnovaportico/adobe-substance-3d.md) |
 | [Holdterjetty/discord-server-cloner](https://github.com/Holdterjetty/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holdterjetty/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _1930 guides written so far · last update 2026-11-02 20:13 UTC_
 | [Tempofaengage/unlocktool](https://github.com/Tempofaengage/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempofaengage/unlocktool.md) |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aquatradesmanabide/genesis-miner.md) |
 | [Streetbratreasure/anyunlock](https://github.com/Streetbratreasure/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/streetbratreasure/anyunlock.md) |
-| [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshbeatditch/startall-back.md) |
 <!-- latest:end -->
 
 ## How it works
