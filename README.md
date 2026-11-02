@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1916 guides written so far · last update 2026-11-02 20:13 UTC_
+_1917 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/handcuffhelper/ads-blocker.md) |
 | [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerswifthub/discord-quest-completer.md) |
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetpelicanstir/total-commander.md) |
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bridgeyaprovide/roblox-game-copier.md) |
@@ -38,7 +39,6 @@ _1916 guides written so far · last update 2026-11-02 20:13 UTC_
 | [kentjuno/chanh-dien-online](https://github.com/kentjuno/chanh-dien-online) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kentjuno/chanh-dien-online.md) |
 | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | Python project | Runs in the browser with a free account | [guide](guides/moh4696/open-3d-skills.md) |
 | [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box) | Python project | Runs in the browser with a free account | [guide](guides/smarkyie/nsp-box.md) |
-| [ediblepawns/stake-november-monthly](https://github.com/ediblepawns/stake-november-monthly) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ediblepawns/stake-november-monthly.md) |
 <!-- latest:end -->
 
 ## How it works
