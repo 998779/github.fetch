@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1899 guides written so far · last update 2026-11-02 09:53 UTC_
+_1900 guides written so far · last update 2026-11-02 09:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [raylee-ai/lancer](https://github.com/raylee-ai/lancer) | JavaScript project | Runs in the browser with a free account | [guide](guides/raylee-ai/lancer.md) |
 | [sleepy-zone/char-db-cn](https://github.com/sleepy-zone/char-db-cn) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sleepy-zone/char-db-cn.md) |
 | [parallelpan/hongguo-downloader](https://github.com/parallelpan/hongguo-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/parallelpan/hongguo-downloader.md) |
 | [mylea1/phongent](https://github.com/mylea1/phongent) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/mylea1/phongent.md) |
@@ -38,7 +39,6 @@ _1899 guides written so far · last update 2026-11-02 09:53 UTC_
 | [Balanov/svoi](https://github.com/Balanov/svoi) | Vite app | Runs in the browser with a free account | [guide](guides/balanov/svoi.md) |
 | [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) | HTML project | Runs in the browser with a free account | [guide](guides/wanghao-sunsky/cs329z-chinese.md) |
 | [yalongwastaken/git-koi](https://github.com/yalongwastaken/git-koi) | Rust project | Runs in the browser with a free account | [guide](guides/yalongwastaken/git-koi.md) |
-| [benjitaylor/skills](https://github.com/benjitaylor/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/benjitaylor/skills.md) |
 <!-- latest:end -->
 
 ## How it works
