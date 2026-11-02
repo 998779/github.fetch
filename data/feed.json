@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T20:13:58.468Z",
- "totalGuides": 1925,
+ "updatedAt": "2026-11-02T20:13:58.763Z",
+ "totalGuides": 1926,
  "items": [
+  {
+   "fullName": "FrontierHawkStove/atas-trading-bot",
+   "owner": "FrontierHawkStove",
+   "name": "atas-trading-bot",
+   "url": "https://github.com/FrontierHawkStove/atas-trading-bot",
+   "avatar": "https://avatars.githubusercontent.com/u/292580763?v=4",
+   "description": "Full working installer for Atas Trading Bot 2026. Ready-to-run desktop configuration with all features activated.",
+   "language": null,
+   "topics": [
+    "atas-platform",
+    "atas-pro",
+    "background-process",
+    "dealer-positioning",
+    "es-futures",
+    "metatrader5-no-gui",
+    "mt5-api",
+    "mt5-bot"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:10:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T20:13:58.762Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/FrontierHawkStove/atas-trading-bot",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/FrontierHawkStove/atas-trading-bot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/FrontierHawkStove/atas-trading-bot\nWhat it says it does: \"Full working installer for Atas Trading Bot 2026. Ready-to-run desktop configuration with all features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T20:13:58.762Z"
+  },
   {
    "fullName": "TankPharaoh23/microsoft-project",
    "owner": "TankPharaoh23",
@@ -31164,71 +31221,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/ludovic111/horizon\nWhat it says it does: \"Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T19:18:45.956Z"
-  },
-  {
-   "fullName": "Fei2411/DS-Bot",
-   "owner": "Fei2411",
-   "name": "DS-Bot",
-   "url": "https://github.com/Fei2411/DS-Bot",
-   "avatar": "https://avatars.githubusercontent.com/u/279467036?v=4",
-   "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
-   "language": "JavaScript",
-   "topics": [
-    "bot",
-    "deepseek-harness",
-    "dsh-plugin",
-    "multi-agent"
-   ],
-   "license": "Apache-2.0",
-   "stars": 3868,
-   "forks": 363,
-   "createdAt": "2026-10-07T15:37:36Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T19:18:45.729Z",
-   "stack": {
-    "kind": "docker",
-    "label": "Docker app",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Fei2411/DS-Bot?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Fei2411/DS-Bot",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Fei2411/DS-Bot/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "docker compose up",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Fei2411/DS-Bot.git\ncd DS-Bot\ndocker compose up",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Fei2411/DS-Bot\nWhat it says it does: \"A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T19:18:45.729Z"
   }
  ],
  "levels": {
-  "read": 216,
-  "account": 189,
+  "read": 217,
+  "account": 188,
   "heavy": 60,
   "instant": 35
  }
