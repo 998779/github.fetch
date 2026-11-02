@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1902 guides written so far · last update 2026-11-02 09:53 UTC_
+_1903 guides written so far · last update 2026-11-02 09:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk) | JavaScript project | Runs in the browser with a free account | [guide](guides/tavern-labs-ai/persona-ai-sdk.md) |
 | [ManufacturingSaw/horizon-capes-skins-minecraft](https://github.com/ManufacturingSaw/horizon-capes-skins-minecraft) | Rust project | Runs in the browser with a free account | [guide](guides/manufacturingsaw/horizon-capes-skins-minecraft.md) |
 | [Ceilingpiintensify/horizon-mod-checker](https://github.com/Ceilingpiintensify/horizon-mod-checker) | Rust project | Runs in the browser with a free account | [guide](guides/ceilingpiintensify/horizon-mod-checker.md) |
 | [raylee-ai/lancer](https://github.com/raylee-ai/lancer) | JavaScript project | Runs in the browser with a free account | [guide](guides/raylee-ai/lancer.md) |
@@ -38,7 +39,6 @@ _1902 guides written so far · last update 2026-11-02 09:53 UTC_
 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | TypeScript project | Runs in the browser with a free account | [guide](guides/mromidev/claude-animated-shorts.md) |
 | [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wideeyededi/uncensored-nsfw-ai-video-api.md) |
 | [NyxFoundation/nyxis](https://github.com/NyxFoundation/nyxis) | Lean project | Runs in the browser with a free account | [guide](guides/nyxfoundation/nyxis.md) |
-| [Balanov/svoi](https://github.com/Balanov/svoi) | Vite app | Runs in the browser with a free account | [guide](guides/balanov/svoi.md) |
 <!-- latest:end -->
 
 ## How it works
