@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T09:53:39.016Z",
- "totalGuides": 1910,
+ "updatedAt": "2026-11-02T09:53:39.222Z",
+ "totalGuides": 1911,
  "items": [
+  {
+   "fullName": "Upgradekrodefeat30/DFT-Pro",
+   "owner": "Upgradekrodefeat30",
+   "name": "DFT-Pro",
+   "url": "https://github.com/Upgradekrodefeat30/DFT-Pro",
+   "avatar": "https://avatars.githubusercontent.com/u/292575358?v=4",
+   "description": "Complete standalone setup for Dft Pro 2026. Pre-activated desktop edition ready to run with all features included.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "dft",
+    "dft-freedft-calculations",
+    "dft-pro",
+    "dft-pro-2026",
+    "dft-pro-crack"
+   ],
+   "license": null,
+   "stars": 124,
+   "forks": 0,
+   "createdAt": "2026-11-01T10:13:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T09:53:39.222Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Upgradekrodefeat30/DFT-Pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Upgradekrodefeat30/DFT-Pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Upgradekrodefeat30/DFT-Pro\nWhat it says it does: \"Complete standalone setup for Dft Pro 2026. Pre-activated desktop edition ready to run with all features included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T09:53:39.222Z"
+  },
   {
    "fullName": "jmars125/xcx-recomp",
    "owner": "jmars125",
@@ -31321,69 +31378,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/null0526/dario-genesis\nWhat it says it does: \"达里奥创世录：一部画面和声音全由代码生成的 AI 短片（Claude / GPT 分工制作）· 源码、声音合成器与制作经验\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T12:29:54.655Z"
-  },
-  {
-   "fullName": "x86rc/unthemidator",
-   "owner": "x86rc",
-   "name": "unthemidator",
-   "url": "https://github.com/x86rc/unthemidator",
-   "avatar": "https://avatars.githubusercontent.com/u/283953767?v=4",
-   "description": "An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool",
-   "language": "C++",
-   "topics": [],
-   "license": null,
-   "stars": 64,
-   "forks": 10,
-   "createdAt": "2026-10-23T13:23:19Z",
-   "branch": "master",
-   "homepage": null,
-   "addedAt": "2026-10-25T12:29:54.494Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/x86rc/unthemidator?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/x86rc/unthemidator",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/x86rc/unthemidator/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/x86rc/unthemidator.git\ncd unthemidator",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/x86rc/unthemidator\nWhat it says it does: \"An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T12:29:54.494Z"
   }
  ],
  "levels": {
-  "heavy": 64,
+  "read": 203,
+  "heavy": 63,
   "instant": 37,
-  "account": 197,
-  "read": 202
+  "account": 197
  }
 }
