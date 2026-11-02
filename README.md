@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1883 guides written so far · last update 2026-11-02 02:20 UTC_
+_1884 guides written so far · last update 2026-11-02 02:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sqlpxc/airhand](https://github.com/sqlpxc/airhand) | Rust project | Runs in the browser with a free account | [guide](guides/sqlpxc/airhand.md) |
 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zhanghao123vip/ai-manju-skills.md) |
 | [Balanov/uncut](https://github.com/Balanov/uncut) | Go project | Runs in the browser with a free account | [guide](guides/balanov/uncut.md) |
 | [chris124567/cfsolve](https://github.com/chris124567/cfsolve) | Rust project | Runs in the browser with a free account | [guide](guides/chris124567/cfsolve.md) |
@@ -38,7 +39,6 @@ _1883 guides written so far · last update 2026-11-02 02:20 UTC_
 | [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) | JavaScript project | Runs in the browser with a free account | [guide](guides/gezine/civswitch.md) |
 | [CheetahEstimate/KMS-Pico](https://github.com/CheetahEstimate/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cheetahestimate/kms-pico.md) |
 | [ConsciousnessVision/Touch-Copy](https://github.com/ConsciousnessVision/Touch-Copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/consciousnessvision/touch-copy.md) |
-| [FigureSultanLast/roblox-ai-studio-agent](https://github.com/FigureSultanLast/roblox-ai-studio-agent) | Rust project | Runs in the browser with a free account | [guide](guides/figuresultanlast/roblox-ai-studio-agent.md) |
 <!-- latest:end -->
 
 ## How it works
