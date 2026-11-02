@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1920 guides written so far · last update 2026-11-02 20:13 UTC_
+_1921 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aquatradesmanabide/genesis-miner.md) |
 | [Streetbratreasure/anyunlock](https://github.com/Streetbratreasure/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/streetbratreasure/anyunlock.md) |
 | [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshbeatditch/startall-back.md) |
 | [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/galaxyshadesquare/windows-optimizer.md) |
@@ -38,7 +39,6 @@ _1920 guides written so far · last update 2026-11-02 20:13 UTC_
 | [SolicitorGate/Chimera](https://github.com/SolicitorGate/Chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/solicitorgate/chimera.md) |
 | [Upgradekrodefeat30/DFT-Pro](https://github.com/Upgradekrodefeat30/DFT-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/upgradekrodefeat30/dft-pro.md) |
 | [jmars125/xcx-recomp](https://github.com/jmars125/xcx-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/jmars125/xcx-recomp.md) |
-| [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/nexttransformer.md) |
 <!-- latest:end -->
 
 ## How it works
