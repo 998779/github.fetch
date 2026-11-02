@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1926 guides written so far · last update 2026-11-02 20:13 UTC_
+_1927 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marbleorbweb94/ninjatrader-bot.md) |
 | [FrontierHawkStove/atas-trading-bot](https://github.com/FrontierHawkStove/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frontierhawkstove/atas-trading-bot.md) |
 | [TankPharaoh23/microsoft-project](https://github.com/TankPharaoh23/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tankpharaoh23/microsoft-project.md) |
 | [DistributorKnit/metatrader-5-bot](https://github.com/DistributorKnit/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorknit/metatrader-5-bot.md) |
@@ -38,7 +39,6 @@ _1926 guides written so far · last update 2026-11-02 20:13 UTC_
 | [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/galaxyshadesquare/windows-optimizer.md) |
 | [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/handcuffhelper/ads-blocker.md) |
 | [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerswifthub/discord-quest-completer.md) |
-| [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetpelicanstir/total-commander.md) |
 <!-- latest:end -->
 
 ## How it works
