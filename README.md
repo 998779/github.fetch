@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1884 guides written so far · last update 2026-11-02 02:20 UTC_
+_1885 guides written so far · last update 2026-11-02 02:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [amirmushichge/pixel-plays](https://github.com/amirmushichge/pixel-plays) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/amirmushichge/pixel-plays.md) |
 | [sqlpxc/airhand](https://github.com/sqlpxc/airhand) | Rust project | Runs in the browser with a free account | [guide](guides/sqlpxc/airhand.md) |
 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zhanghao123vip/ai-manju-skills.md) |
 | [Balanov/uncut](https://github.com/Balanov/uncut) | Go project | Runs in the browser with a free account | [guide](guides/balanov/uncut.md) |
@@ -38,7 +39,6 @@ _1884 guides written so far · last update 2026-11-02 02:20 UTC_
 | [UpperSupervisor/horizon-modpack-compatibility](https://github.com/UpperSupervisor/horizon-modpack-compatibility) | Rust project | Runs in the browser with a free account | [guide](guides/uppersupervisor/horizon-modpack-compatibility.md) |
 | [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) | JavaScript project | Runs in the browser with a free account | [guide](guides/gezine/civswitch.md) |
 | [CheetahEstimate/KMS-Pico](https://github.com/CheetahEstimate/KMS-Pico) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cheetahestimate/kms-pico.md) |
-| [ConsciousnessVision/Touch-Copy](https://github.com/ConsciousnessVision/Touch-Copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/consciousnessvision/touch-copy.md) |
 <!-- latest:end -->
 
 ## How it works
