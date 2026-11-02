@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1924 guides written so far · last update 2026-11-02 20:13 UTC_
+_1925 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TankPharaoh23/microsoft-project](https://github.com/TankPharaoh23/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tankpharaoh23/microsoft-project.md) |
 | [DistributorKnit/metatrader-5-bot](https://github.com/DistributorKnit/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorknit/metatrader-5-bot.md) |
 | [maxwilsoneng2098t9/pdf-compressor-offline](https://github.com/maxwilsoneng2098t9/pdf-compressor-offline) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/pdf-compressor-offline.md) |
 | [Tempofaengage/unlocktool](https://github.com/Tempofaengage/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempofaengage/unlocktool.md) |
@@ -38,7 +39,6 @@ _1924 guides written so far · last update 2026-11-02 20:13 UTC_
 | [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerswifthub/discord-quest-completer.md) |
 | [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetpelicanstir/total-commander.md) |
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bridgeyaprovide/roblox-game-copier.md) |
-| [ProsecutorList/monero-miner](https://github.com/ProsecutorList/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorlist/monero-miner.md) |
 <!-- latest:end -->
 
 ## How it works
