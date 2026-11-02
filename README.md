@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1922 guides written so far · last update 2026-11-02 20:13 UTC_
+_1923 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [maxwilsoneng2098t9/pdf-compressor-offline](https://github.com/maxwilsoneng2098t9/pdf-compressor-offline) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/pdf-compressor-offline.md) |
 | [Tempofaengage/unlocktool](https://github.com/Tempofaengage/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempofaengage/unlocktool.md) |
 | [AquaTradesmanAbide/genesis-miner](https://github.com/AquaTradesmanAbide/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/aquatradesmanabide/genesis-miner.md) |
 | [Streetbratreasure/anyunlock](https://github.com/Streetbratreasure/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/streetbratreasure/anyunlock.md) |
@@ -38,7 +39,6 @@ _1922 guides written so far · last update 2026-11-02 20:13 UTC_
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bridgeyaprovide/roblox-game-copier.md) |
 | [ProsecutorList/monero-miner](https://github.com/ProsecutorList/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorlist/monero-miner.md) |
 | [SolicitorGate/Chimera](https://github.com/SolicitorGate/Chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/solicitorgate/chimera.md) |
-| [Upgradekrodefeat30/DFT-Pro](https://github.com/Upgradekrodefeat30/DFT-Pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/upgradekrodefeat30/dft-pro.md) |
 <!-- latest:end -->
 
 ## How it works
