@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1890 guides written so far · last update 2026-11-02 02:20 UTC_
+_1891 guides written so far · last update 2026-11-02 02:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Balanov/svoi](https://github.com/Balanov/svoi) | Vite app | Runs in the browser with a free account | [guide](guides/balanov/svoi.md) |
 | [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) | HTML project | Runs in the browser with a free account | [guide](guides/wanghao-sunsky/cs329z-chinese.md) |
 | [yalongwastaken/git-koi](https://github.com/yalongwastaken/git-koi) | Rust project | Runs in the browser with a free account | [guide](guides/yalongwastaken/git-koi.md) |
 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/benjitaylor/skills.md) |
@@ -38,7 +39,6 @@ _1890 guides written so far · last update 2026-11-02 02:20 UTC_
 | [Balanov/uncut](https://github.com/Balanov/uncut) | Go project | Runs in the browser with a free account | [guide](guides/balanov/uncut.md) |
 | [chris124567/cfsolve](https://github.com/chris124567/cfsolve) | Rust project | Runs in the browser with a free account | [guide](guides/chris124567/cfsolve.md) |
 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sleepy-zone/ai-ref-library-cn.md) |
-| [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jackwener/dsh-android.md) |
 <!-- latest:end -->
 
 ## How it works
