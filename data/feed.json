@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T20:13:56.426Z",
- "totalGuides": 1919,
+ "updatedAt": "2026-11-02T20:13:56.703Z",
+ "totalGuides": 1920,
  "items": [
+  {
+   "fullName": "Streetbratreasure/anyunlock",
+   "owner": "Streetbratreasure",
+   "name": "anyunlock",
+   "url": "https://github.com/Streetbratreasure/anyunlock",
+   "avatar": "https://avatars.githubusercontent.com/u/292580158?v=4",
+   "description": "Anyunlock 2026: Full working installer for a powerful desktop utility configuration, ready to run right out of the box.",
+   "language": null,
+   "topics": [
+    "apple-id-remove",
+    "apple-id-remover",
+    "developer-tools",
+    "device-tool",
+    "frp-tool",
+    "ios-bypass",
+    "ios-find-my-bypass",
+    "ios-jailbreak"
+   ],
+   "license": null,
+   "stars": 339,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:10:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T20:13:56.702Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Streetbratreasure/anyunlock",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Streetbratreasure/anyunlock/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Streetbratreasure/anyunlock\nWhat it says it does: \"Anyunlock 2026: Full working installer for a powerful desktop utility configuration, ready to run right out of the box.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T20:13:56.702Z"
+  },
   {
    "fullName": "MeshBeatDitch/startall-back",
    "owner": "MeshBeatDitch",
@@ -31217,67 +31274,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/indexable-inc/blaze\nWhat it says it does: \"Incremental rust builds up to 92x faster than cargo/rustc\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T16:45:02.184Z"
-  },
-  {
-   "fullName": "hffgzktbcc-blip/ounce-core",
-   "owner": "hffgzktbcc-blip",
-   "name": "ounce-core",
-   "url": "https://github.com/hffgzktbcc-blip/ounce-core",
-   "avatar": "https://avatars.githubusercontent.com/u/316626863?v=4",
-   "description": "Clean-room Nintendo Switch 2 (Tegra T239 / Horizon OS FW 23.0.1) Emulator Engine in Pure Rust",
-   "language": "Rust",
-   "topics": [],
-   "license": null,
-   "stars": 64,
-   "forks": 7,
-   "createdAt": "2026-10-24T19:32:45Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T16:45:01.796Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/hffgzktbcc-blip/ounce-core?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/hffgzktbcc-blip/ounce-core",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/hffgzktbcc-blip/ounce-core/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/hffgzktbcc-blip/ounce-core.git\ncd ounce-core\ncargo build --release\ncargo run",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/hffgzktbcc-blip/ounce-core\nWhat it says it does: \"Clean-room Nintendo Switch 2 (Tegra T239 / Horizon OS FW 23.0.1) Emulator Engine in Pure Rust\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T16:45:01.796Z"
   }
  ],
  "levels": {
-  "read": 211,
+  "read": 212,
   "heavy": 63,
   "instant": 35,
-  "account": 191
+  "account": 190
  }
 }
