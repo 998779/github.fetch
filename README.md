@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1918 guides written so far · last update 2026-11-02 20:13 UTC_
+_1919 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshbeatditch/startall-back.md) |
 | [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/galaxyshadesquare/windows-optimizer.md) |
 | [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/handcuffhelper/ads-blocker.md) |
 | [stalkerswifthub/discord-quest-completer](https://github.com/stalkerswifthub/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stalkerswifthub/discord-quest-completer.md) |
@@ -38,7 +39,6 @@ _1918 guides written so far · last update 2026-11-02 20:13 UTC_
 | [jmars125/xcx-recomp](https://github.com/jmars125/xcx-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/jmars125/xcx-recomp.md) |
 | [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/nexttransformer.md) |
 | [kentjuno/chanh-dien-online](https://github.com/kentjuno/chanh-dien-online) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kentjuno/chanh-dien-online.md) |
-| [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | Python project | Runs in the browser with a free account | [guide](guides/moh4696/open-3d-skills.md) |
 <!-- latest:end -->
 
 ## How it works
