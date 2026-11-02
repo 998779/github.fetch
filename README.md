@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1907 guides written so far · last update 2026-11-02 09:53 UTC_
+_1908 guides written so far · last update 2026-11-02 09:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kentjuno/chanh-dien-online](https://github.com/kentjuno/chanh-dien-online) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kentjuno/chanh-dien-online.md) |
 | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | Python project | Runs in the browser with a free account | [guide](guides/moh4696/open-3d-skills.md) |
 | [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box) | Python project | Runs in the browser with a free account | [guide](guides/smarkyie/nsp-box.md) |
 | [ediblepawns/stake-november-monthly](https://github.com/ediblepawns/stake-november-monthly) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ediblepawns/stake-november-monthly.md) |
@@ -38,7 +39,6 @@ _1907 guides written so far · last update 2026-11-02 09:53 UTC_
 | [sleepy-zone/char-db-cn](https://github.com/sleepy-zone/char-db-cn) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sleepy-zone/char-db-cn.md) |
 | [parallelpan/hongguo-downloader](https://github.com/parallelpan/hongguo-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/parallelpan/hongguo-downloader.md) |
 | [mylea1/phongent](https://github.com/mylea1/phongent) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/mylea1/phongent.md) |
-| [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python project | Runs in the browser with a free account | [guide](guides/assassincreator/steam-stash-value-report-card.md) |
 <!-- latest:end -->
 
 ## How it works
