@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1914 guides written so far · last update 2026-11-02 20:13 UTC_
+_1915 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rivetpelicanstir/total-commander](https://github.com/rivetpelicanstir/total-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivetpelicanstir/total-commander.md) |
 | [Bridgeyaprovide/roblox-game-copier](https://github.com/Bridgeyaprovide/roblox-game-copier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bridgeyaprovide/roblox-game-copier.md) |
 | [ProsecutorList/monero-miner](https://github.com/ProsecutorList/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorlist/monero-miner.md) |
 | [SolicitorGate/Chimera](https://github.com/SolicitorGate/Chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/solicitorgate/chimera.md) |
@@ -38,7 +39,6 @@ _1914 guides written so far · last update 2026-11-02 20:13 UTC_
 | [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box) | Python project | Runs in the browser with a free account | [guide](guides/smarkyie/nsp-box.md) |
 | [ediblepawns/stake-november-monthly](https://github.com/ediblepawns/stake-november-monthly) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ediblepawns/stake-november-monthly.md) |
 | [zane-tv/tiktok-live-temple-rpc](https://github.com/zane-tv/tiktok-live-temple-rpc) | Express app | Runs in a browser tab, no account needed | [guide](guides/zane-tv/tiktok-live-temple-rpc.md) |
-| [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk) | JavaScript project | Runs in the browser with a free account | [guide](guides/tavern-labs-ai/persona-ai-sdk.md) |
 <!-- latest:end -->
 
 ## How it works
