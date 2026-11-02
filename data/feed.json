@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T09:53:37.777Z",
- "totalGuides": 1905,
+ "updatedAt": "2026-11-02T09:53:38.003Z",
+ "totalGuides": 1906,
  "items": [
+  {
+   "fullName": "smarkyie/NSP-Box",
+   "owner": "smarkyie",
+   "name": "NSP-Box",
+   "url": "https://github.com/smarkyie/NSP-Box",
+   "avatar": "https://avatars.githubusercontent.com/u/68492368?v=4",
+   "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 186,
+   "forks": 16,
+   "createdAt": "2026-10-31T15:00:55Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T09:53:38.002Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/smarkyie/NSP-Box/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/smarkyie/NSP-Box?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/smarkyie/NSP-Box",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/smarkyie/NSP-Box/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/smarkyie/NSP-Box.git\ncd NSP-Box",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/smarkyie/NSP-Box\nWhat it says it does: \"NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T09:53:38.002Z"
+  },
   {
    "fullName": "ediblepawns/stake-november-monthly",
    "owner": "ediblepawns",
@@ -31275,76 +31337,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/BaoZ-XHG/MaiMen-Saver\nWhat it says it does: \"麦门算账员：别人做的是\"帮你查有哪些券\"，我做的是\"直接告诉你这单怎么买、用哪张券、凑多少、省多少钱\"。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T12:29:53.808Z"
-  },
-  {
-   "fullName": "Alex-star-arch/mcd-burger-studio",
-   "owner": "Alex-star-arch",
-   "name": "mcd-burger-studio",
-   "url": "https://github.com/Alex-star-arch/mcd-burger-studio",
-   "avatar": "https://avatars.githubusercontent.com/u/58266515?v=4",
-   "description": "麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way",
-   "language": "HTML",
-   "topics": [
-    "food-tech",
-    "hackathon",
-    "mcdonalds",
-    "mcp",
-    "python",
-    "threejs",
-    "voting",
-    "workbuddy"
-   ],
-   "license": null,
-   "stars": 87,
-   "forks": 0,
-   "createdAt": "2026-10-23T07:58:39Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T12:29:53.491Z",
-   "stack": {
-    "kind": "other",
-    "label": "HTML project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Alex-star-arch/mcd-burger-studio?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Alex-star-arch/mcd-burger-studio",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Alex-star-arch/mcd-burger-studio/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Alex-star-arch/mcd-burger-studio.git\ncd mcd-burger-studio",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Alex-star-arch/mcd-burger-studio\nWhat it says it does: \"麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T12:29:53.491Z"
   }
  ],
  "levels": {
+  "account": 199,
   "read": 203,
   "instant": 36,
-  "account": 199,
   "heavy": 62
  }
 }
