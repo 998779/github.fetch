@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1906 guides written so far · last update 2026-11-02 09:53 UTC_
+_1907 guides written so far · last update 2026-11-02 09:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | Python project | Runs in the browser with a free account | [guide](guides/moh4696/open-3d-skills.md) |
 | [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box) | Python project | Runs in the browser with a free account | [guide](guides/smarkyie/nsp-box.md) |
 | [ediblepawns/stake-november-monthly](https://github.com/ediblepawns/stake-november-monthly) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ediblepawns/stake-november-monthly.md) |
 | [zane-tv/tiktok-live-temple-rpc](https://github.com/zane-tv/tiktok-live-temple-rpc) | Express app | Runs in a browser tab, no account needed | [guide](guides/zane-tv/tiktok-live-temple-rpc.md) |
@@ -38,7 +39,6 @@ _1906 guides written so far · last update 2026-11-02 09:53 UTC_
 | [parallelpan/hongguo-downloader](https://github.com/parallelpan/hongguo-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/parallelpan/hongguo-downloader.md) |
 | [mylea1/phongent](https://github.com/mylea1/phongent) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/mylea1/phongent.md) |
 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python project | Runs in the browser with a free account | [guide](guides/assassincreator/steam-stash-value-report-card.md) |
-| [davidlopez-x05x8/minecraft-aim-assist](https://github.com/davidlopez-x05x8/minecraft-aim-assist) | Python project | Runs in the browser with a free account | [guide](guides/davidlopez-x05x8/minecraft-aim-assist.md) |
 <!-- latest:end -->
 
 ## How it works

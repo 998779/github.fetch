@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T09:53:38.003Z",
- "totalGuides": 1906,
+ "updatedAt": "2026-11-02T09:53:38.297Z",
+ "totalGuides": 1907,
  "items": [
+  {
+   "fullName": "Moh4696/open-3d-skills",
+   "owner": "Moh4696",
+   "name": "open-3d-skills",
+   "url": "https://github.com/Moh4696/open-3d-skills",
+   "avatar": "https://avatars.githubusercontent.com/u/110087282?v=4",
+   "description": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.",
+   "language": "JavaScript",
+   "topics": [
+    "3d",
+    "agent-skills",
+    "animation",
+    "claude-code",
+    "codex",
+    "cursor",
+    "frontend",
+    "scroll-animation"
+   ],
+   "license": "MIT",
+   "stars": 156,
+   "forks": 26,
+   "createdAt": "2026-10-31T08:46:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T09:53:38.296Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Moh4696/open-3d-skills/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Moh4696/open-3d-skills?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Moh4696/open-3d-skills",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Moh4696/open-3d-skills/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -r requirements.txt",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Moh4696/open-3d-skills.git\ncd open-3d-skills\npip install -r requirements.txt",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Moh4696/open-3d-skills\nWhat it says it does: \"Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T09:53:38.296Z"
+  },
   {
    "fullName": "smarkyie/NSP-Box",
    "owner": "smarkyie",
@@ -31275,68 +31346,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/TUcookie/mcd-deal-hunter\nWhat it says it does: \"点麦当劳之前，先让它算算哪种点法最省钱\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T12:29:53.995Z"
-  },
-  {
-   "fullName": "BaoZ-XHG/MaiMen-Saver",
-   "owner": "BaoZ-XHG",
-   "name": "MaiMen-Saver",
-   "url": "https://github.com/BaoZ-XHG/MaiMen-Saver",
-   "avatar": "https://avatars.githubusercontent.com/u/225304733?v=4",
-   "description": "麦门算账员：别人做的是\"帮你查有哪些券\"，我做的是\"直接告诉你这单怎么买、用哪张券、凑多少、省多少钱\"。",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 81,
-   "forks": 0,
-   "createdAt": "2026-10-23T08:48:48Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T12:29:53.808Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/BaoZ-XHG/MaiMen-Saver/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/BaoZ-XHG/MaiMen-Saver?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/BaoZ-XHG/MaiMen-Saver",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BaoZ-XHG/MaiMen-Saver/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": "python cli.py",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/BaoZ-XHG/MaiMen-Saver.git\ncd MaiMen-Saver\npip install -r requirements.txt\npython cli.py",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/BaoZ-XHG/MaiMen-Saver\nWhat it says it does: \"麦门算账员：别人做的是\"帮你查有哪些券\"，我做的是\"直接告诉你这单怎么买、用哪张券、凑多少、省多少钱\"。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T12:29:53.808Z"
   }
  ],
  "levels": {
