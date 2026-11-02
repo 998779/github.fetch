@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1928 guides written so far · last update 2026-11-02 20:13 UTC_
+_1929 guides written so far · last update 2026-11-02 20:13 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Grabnovaportico/adobe-substance-3d](https://github.com/Grabnovaportico/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grabnovaportico/adobe-substance-3d.md) |
 | [Holdterjetty/discord-server-cloner](https://github.com/Holdterjetty/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holdterjetty/discord-server-cloner.md) |
 | [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marbleorbweb94/ninjatrader-bot.md) |
 | [FrontierHawkStove/atas-trading-bot](https://github.com/FrontierHawkStove/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frontierhawkstove/atas-trading-bot.md) |
@@ -38,7 +39,6 @@ _1928 guides written so far · last update 2026-11-02 20:13 UTC_
 | [Streetbratreasure/anyunlock](https://github.com/Streetbratreasure/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/streetbratreasure/anyunlock.md) |
 | [MeshBeatDitch/startall-back](https://github.com/MeshBeatDitch/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meshbeatditch/startall-back.md) |
 | [GalaxyShadeSquare/windows-optimizer](https://github.com/GalaxyShadeSquare/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/galaxyshadesquare/windows-optimizer.md) |
-| [HandcuffHelper/ads-blocker](https://github.com/HandcuffHelper/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/handcuffhelper/ads-blocker.md) |
 <!-- latest:end -->
 
 ## How it works

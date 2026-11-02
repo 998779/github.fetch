@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T20:13:59.284Z",
- "totalGuides": 1928,
+ "updatedAt": "2026-11-02T20:13:59.528Z",
+ "totalGuides": 1929,
  "items": [
+  {
+   "fullName": "Grabnovaportico/adobe-substance-3d",
+   "owner": "Grabnovaportico",
+   "name": "adobe-substance-3d",
+   "url": "https://github.com/Grabnovaportico/adobe-substance-3d",
+   "avatar": "https://avatars.githubusercontent.com/u/292582409?v=4",
+   "description": "Creative Studio App 2023: Full working installer with secure digital asset deployment pipeline. Ready-to-run desktop edition, no activation required.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts",
+    "software-engineering",
+    "substance"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:10:11Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T20:13:59.527Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Grabnovaportico/adobe-substance-3d",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Grabnovaportico/adobe-substance-3d/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Grabnovaportico/adobe-substance-3d\nWhat it says it does: \"Creative Studio App 2023: Full working installer with secure digital asset deployment pipeline. Ready-to-run desktop edition, no activation required.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T20:13:59.527Z"
+  },
   {
    "fullName": "Holdterjetty/discord-server-cloner",
    "owner": "Holdterjetty",
@@ -31123,77 +31180,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/anywhere-labs/dsh-desktop\nWhat it says it does: \"为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T19:18:46.712Z"
-  },
-  {
-   "fullName": "boykopovar/AnyPS5",
-   "owner": "boykopovar",
-   "name": "AnyPS5",
-   "url": "https://github.com/boykopovar/AnyPS5",
-   "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
-   "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-   "language": "C++",
-   "topics": [
-    "anyps5",
-    "dynamic-library",
-    "game-porting",
-    "ps5",
-    "ps5-tools",
-    "spir-v",
-    "vulkan"
-   ],
-   "license": "GPL-2.0",
-   "stars": 48189,
-   "forks": 4528,
-   "createdAt": "2026-08-03T21:30:25Z",
-   "branch": "main",
-   "homepage": "https://boykopovar.github.io/AnyPS5/",
-   "addedAt": "2026-10-25T19:18:46.467Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/boykopovar/AnyPS5?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/boykopovar/AnyPS5",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/boykopovar/AnyPS5/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/boykopovar/AnyPS5.git\ncd AnyPS5",
-   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/boykopovar/AnyPS5\nWhat it says it does: \"Tool for automatic PS5 executables porting to Linux and Windows\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T19:18:46.467Z"
   }
  ],
  "levels": {
-  "read": 219,
+  "read": 220,
   "account": 186,
-  "heavy": 60,
+  "heavy": 59,
   "instant": 35
  }
 }
