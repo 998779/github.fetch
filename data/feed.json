@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T20:13:54.442Z",
- "totalGuides": 1913,
+ "updatedAt": "2026-11-02T20:13:54.744Z",
+ "totalGuides": 1914,
  "items": [
+  {
+   "fullName": "Bridgeyaprovide/roblox-game-copier",
+   "owner": "Bridgeyaprovide",
+   "name": "roblox-game-copier",
+   "url": "https://github.com/Bridgeyaprovide/roblox-game-copier",
+   "avatar": "https://avatars.githubusercontent.com/u/292578058?v=4",
+   "description": "Roblox Game Copier 2026: Pre-activated desktop edition with all features enabled for easy installation and use.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "roblox-copier",
+    "roblox-game-copy",
+    "scripts"
+   ],
+   "license": null,
+   "stars": 501,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:14:34Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T20:13:54.743Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Bridgeyaprovide/roblox-game-copier",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Bridgeyaprovide/roblox-game-copier/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Bridgeyaprovide/roblox-game-copier\nWhat it says it does: \"Roblox Game Copier 2026: Pre-activated desktop edition with all features enabled for easy installation and use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T20:13:54.743Z"
+  },
   {
    "fullName": "ProsecutorList/monero-miner",
    "owner": "ProsecutorList",
@@ -31297,83 +31354,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/designfuchen/word-atlas\nWhat it says it does: \"词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T16:44:59.343Z"
-  },
-  {
-   "fullName": "DenisSergeevitch/ex-ussr-kinship-research",
-   "owner": "DenisSergeevitch",
-   "name": "ex-ussr-kinship-research",
-   "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-   "avatar": "https://avatars.githubusercontent.com/u/2140110?v=4",
-   "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-   "language": "Python",
-   "topics": [
-    "agent-skills",
-    "archives",
-    "claude-code",
-    "codex",
-    "family-history",
-    "familysearch",
-    "genealogy",
-    "ussr"
-   ],
-   "license": "MIT",
-   "stars": 381,
-   "forks": 26,
-   "createdAt": "2026-10-25T10:05:56Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T16:44:58.776Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/DenisSergeevitch/ex-ussr-kinship-research/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/DenisSergeevitch/ex-ussr-kinship-research?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/DenisSergeevitch/ex-ussr-kinship-research",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/DenisSergeevitch/ex-ussr-kinship-research.git\ncd ex-ussr-kinship-research",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/DenisSergeevitch/ex-ussr-kinship-research\nWhat it says it does: \"Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T16:44:58.776Z"
   }
  ],
  "levels": {
-  "read": 205,
+  "read": 206,
   "heavy": 63,
   "instant": 37,
-  "account": 195
+  "account": 194
  }
 }
