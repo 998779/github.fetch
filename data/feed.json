@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T09:53:35.230Z",
- "totalGuides": 1896,
+ "updatedAt": "2026-11-02T09:53:35.426Z",
+ "totalGuides": 1897,
  "items": [
+  {
+   "fullName": "mylea1/phongent",
+   "owner": "mylea1",
+   "name": "phongent",
+   "url": "https://github.com/mylea1/phongent",
+   "avatar": "https://avatars.githubusercontent.com/u/277937759?v=4",
+   "description": "基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端",
+   "language": "Kotlin",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 276,
+   "forks": 70,
+   "createdAt": "2026-11-01T04:40:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T09:53:35.425Z",
+   "stack": {
+    "kind": "native",
+    "label": "Kotlin project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mylea1/phongent?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mylea1/phongent",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mylea1/phongent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/mylea1/phongent.git\ncd phongent",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/mylea1/phongent\nWhat it says it does: \"基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T09:53:35.425Z"
+  },
   {
    "fullName": "AssassinCreator/steam-stash-value-report-card",
    "owner": "AssassinCreator",
@@ -31241,69 +31298,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/tractordev/webframe\nWhat it says it does: \"Run a web page like a program\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T06:57:18.451Z"
-  },
-  {
-   "fullName": "aideveloper-web/free-claude-code",
-   "owner": "aideveloper-web",
-   "name": "free-claude-code",
-   "url": "https://github.com/aideveloper-web/free-claude-code",
-   "avatar": "https://avatars.githubusercontent.com/u/347546139?v=4",
-   "description": "Explore Free Claude Code Fable 5.1 and discover AI-powered coding workflows, developer tools, and resources for modern software development.",
-   "language": null,
-   "topics": [
-    "claude-ai",
-    "claude-api",
-    "claude-api-free",
-    "claude-api-key",
-    "claudecode",
-    "claudecode-tool",
-    "fable5",
-    "free-claude-ai"
-   ],
-   "license": "MIT",
-   "stars": 62,
-   "forks": 11,
-   "createdAt": "2026-10-24T22:59:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T06:57:18.248Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/aideveloper-web/free-claude-code",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/aideveloper-web/free-claude-code/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/aideveloper-web/free-claude-code\nWhat it says it does: \"Explore Free Claude Code Fable 5.1 and discover AI-powered coding workflows, developer tools, and resources for modern software development.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T06:57:18.248Z"
   }
  ],
  "levels": {
+  "heavy": 62,
   "account": 200,
-  "read": 204,
-  "instant": 35,
-  "heavy": 61
+  "read": 203,
+  "instant": 35
  }
 }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1896 guides written so far · last update 2026-11-02 09:53 UTC_
+_1897 guides written so far · last update 2026-11-02 09:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mylea1/phongent](https://github.com/mylea1/phongent) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/mylea1/phongent.md) |
 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python project | Runs in the browser with a free account | [guide](guides/assassincreator/steam-stash-value-report-card.md) |
 | [davidlopez-x05x8/minecraft-aim-assist](https://github.com/davidlopez-x05x8/minecraft-aim-assist) | Python project | Runs in the browser with a free account | [guide](guides/davidlopez-x05x8/minecraft-aim-assist.md) |
 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | TypeScript project | Runs in the browser with a free account | [guide](guides/mromidev/claude-animated-shorts.md) |
@@ -38,7 +39,6 @@ _1896 guides written so far · last update 2026-11-02 09:53 UTC_
 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/benjitaylor/skills.md) |
 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | Preact app | Runs in the browser with a free account | [guide](guides/modelflare-ai/anymodelbot.md) |
 | [BarrierSongVolt/Quant-Trading-Bot](https://github.com/BarrierSongVolt/Quant-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/barriersongvolt/quant-trading-bot.md) |
-| [amirmushichge/pixel-plays](https://github.com/amirmushichge/pixel-plays) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/amirmushichge/pixel-plays.md) |
 <!-- latest:end -->
 
 ## How it works
