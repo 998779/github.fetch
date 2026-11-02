@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-02T02:20:23.322Z",
- "totalGuides": 1891,
+ "updatedAt": "2026-11-02T02:20:23.500Z",
+ "totalGuides": 1892,
  "items": [
+  {
+   "fullName": "NyxFoundation/nyxis",
+   "owner": "NyxFoundation",
+   "name": "nyxis",
+   "url": "https://github.com/NyxFoundation/nyxis",
+   "avatar": "https://avatars.githubusercontent.com/u/220889498?v=4",
+   "description": "A Lean backend framework whose authorization safety is formally proven. The developer writes only a Cedar schema and policies; handlers are built on Supabase Auth and PostgreSQL.",
+   "language": "Lean",
+   "topics": [
+    "access-control",
+    "authorization",
+    "backend-framework",
+    "cedar",
+    "formal-verification",
+    "lean4",
+    "postgresql",
+    "security"
+   ],
+   "license": "MIT",
+   "stars": 317,
+   "forks": 13,
+   "createdAt": "2026-10-26T04:26:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-02T02:20:23.499Z",
+   "stack": {
+    "kind": "other",
+    "label": "Lean project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/NyxFoundation/nyxis?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/NyxFoundation/nyxis",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/NyxFoundation/nyxis/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/NyxFoundation/nyxis.git\ncd nyxis",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/NyxFoundation/nyxis\nWhat it says it does: \"A Lean backend framework whose authorization safety is formally proven. The developer writes only a Cedar schema and policies; handlers are built on Supabase Auth and PostgreSQL.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-02T02:20:23.499Z"
+  },
   {
    "fullName": "Balanov/svoi",
    "owner": "Balanov",
@@ -31266,95 +31330,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/aarsaputra/php2shell\nWhat it says it does: \"Unauthenticated RCE toolkit for PHP 5.4–8.4.26 (CVE-2026-109619/109618) — pure-HTTP chain, JA3 impersonation, prpenetration-testingoof-of-access design\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-25T06:57:17.308Z"
-  },
-  {
-   "fullName": "Leonxlnx/napali",
-   "owner": "Leonxlnx",
-   "name": "napali",
-   "url": "https://github.com/Leonxlnx/napali",
-   "avatar": "https://avatars.githubusercontent.com/u/219127460?v=4",
-   "description": "A drone flight over the Na Pali coast, rendered entirely in code. No textures, images or models.",
-   "language": "HTML",
-   "topics": [
-    "claude-code",
-    "generative-art",
-    "glsl",
-    "procedural-generation",
-    "shaders",
-    "webgl2"
-   ],
-   "license": "MIT",
-   "stars": 67,
-   "forks": 12,
-   "createdAt": "2026-10-23T19:46:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-25T06:57:17.023Z",
-   "stack": {
-    "kind": "static",
-    "label": "Static website (HTML/CSS/JS)",
-    "frameworks": []
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "live",
-   "launch": [
-    {
-     "id": "live",
-     "label": "Open it live",
-     "url": "https://raw.githack.com/Leonxlnx/napali/main/index.html",
-     "needs": "nothing",
-     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
-    },
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/Leonxlnx/napali",
-     "needs": "nothing",
-     "note": "A full editor and preview in your tab."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/Leonxlnx/napali",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Leonxlnx/napali?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Leonxlnx/napali",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Leonxlnx/napali/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": "npx serve .",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Leonxlnx/napali.git\ncd napali\nnpx serve .",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Leonxlnx/napali\nWhat it says it does: \"A drone flight over the Na Pali coast, rendered entirely in code. No textures, images or models.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-25T06:57:17.023Z"
   }
  ],
  "levels": {
-  "account": 198,
+  "account": 199,
   "read": 204,
-  "instant": 37,
+  "instant": 36,
   "heavy": 61
  }
 }
