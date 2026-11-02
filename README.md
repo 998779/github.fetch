@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1886 guides written so far · last update 2026-11-02 02:20 UTC_
+_1887 guides written so far · last update 2026-11-02 02:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | Preact app | Runs in the browser with a free account | [guide](guides/modelflare-ai/anymodelbot.md) |
 | [BarrierSongVolt/Quant-Trading-Bot](https://github.com/BarrierSongVolt/Quant-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/barriersongvolt/quant-trading-bot.md) |
 | [amirmushichge/pixel-plays](https://github.com/amirmushichge/pixel-plays) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/amirmushichge/pixel-plays.md) |
 | [sqlpxc/airhand](https://github.com/sqlpxc/airhand) | Rust project | Runs in the browser with a free account | [guide](guides/sqlpxc/airhand.md) |
@@ -38,7 +39,6 @@ _1886 guides written so far · last update 2026-11-02 02:20 UTC_
 | [benderandrew069/deepseek-api-pricing-2026](https://github.com/benderandrew069/deepseek-api-pricing-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/benderandrew069/deepseek-api-pricing-2026.md) |
 | [WhaleDisclose/Ableton-Live-12](https://github.com/WhaleDisclose/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/whaledisclose/ableton-live-12.md) |
 | [UpperSupervisor/horizon-modpack-compatibility](https://github.com/UpperSupervisor/horizon-modpack-compatibility) | Rust project | Runs in the browser with a free account | [guide](guides/uppersupervisor/horizon-modpack-compatibility.md) |
-| [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) | JavaScript project | Runs in the browser with a free account | [guide](guides/gezine/civswitch.md) |
 <!-- latest:end -->
 
 ## How it works
