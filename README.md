@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1908 guides written so far · last update 2026-11-02 09:53 UTC_
+_1909 guides written so far · last update 2026-11-02 09:53 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | Python project | Needs a real machine (or a GPU) to run | [guide](guides/interactive-active-ai/nexttransformer.md) |
 | [kentjuno/chanh-dien-online](https://github.com/kentjuno/chanh-dien-online) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kentjuno/chanh-dien-online.md) |
 | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | Python project | Runs in the browser with a free account | [guide](guides/moh4696/open-3d-skills.md) |
 | [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box) | Python project | Runs in the browser with a free account | [guide](guides/smarkyie/nsp-box.md) |
@@ -38,7 +39,6 @@ _1908 guides written so far · last update 2026-11-02 09:53 UTC_
 | [raylee-ai/lancer](https://github.com/raylee-ai/lancer) | JavaScript project | Runs in the browser with a free account | [guide](guides/raylee-ai/lancer.md) |
 | [sleepy-zone/char-db-cn](https://github.com/sleepy-zone/char-db-cn) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sleepy-zone/char-db-cn.md) |
 | [parallelpan/hongguo-downloader](https://github.com/parallelpan/hongguo-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/parallelpan/hongguo-downloader.md) |
-| [mylea1/phongent](https://github.com/mylea1/phongent) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/mylea1/phongent.md) |
 <!-- latest:end -->
 
 ## How it works
