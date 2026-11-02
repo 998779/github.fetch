@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1888 guides written so far · last update 2026-11-02 02:20 UTC_
+_1889 guides written so far · last update 2026-11-02 02:20 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yalongwastaken/git-koi](https://github.com/yalongwastaken/git-koi) | Rust project | Runs in the browser with a free account | [guide](guides/yalongwastaken/git-koi.md) |
 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | TypeScript project | Runs in the browser with a free account | [guide](guides/benjitaylor/skills.md) |
 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | Preact app | Runs in the browser with a free account | [guide](guides/modelflare-ai/anymodelbot.md) |
 | [BarrierSongVolt/Quant-Trading-Bot](https://github.com/BarrierSongVolt/Quant-Trading-Bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/barriersongvolt/quant-trading-bot.md) |
@@ -38,7 +39,6 @@ _1888 guides written so far · last update 2026-11-02 02:20 UTC_
 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sleepy-zone/ai-ref-library-cn.md) |
 | [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) | Kotlin project | Needs a real machine (or a GPU) to run | [guide](guides/jackwener/dsh-android.md) |
 | [benderandrew069/deepseek-api-pricing-2026](https://github.com/benderandrew069/deepseek-api-pricing-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/benderandrew069/deepseek-api-pricing-2026.md) |
-| [WhaleDisclose/Ableton-Live-12](https://github.com/WhaleDisclose/Ableton-Live-12) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/whaledisclose/ableton-live-12.md) |
 <!-- latest:end -->
 
 ## How it works
