@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1962 guides written so far · last update 2026-11-03 09:57 UTC_
+_1963 guides written so far · last update 2026-11-03 09:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Labelkreblast/sp-flash-tool](https://github.com/Labelkreblast/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/labelkreblast/sp-flash-tool.md) |
 | [TropicalCount/cubase](https://github.com/TropicalCount/cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tropicalcount/cubase.md) |
 | [LusterRopemakerGrade/aomei-backupper](https://github.com/LusterRopemakerGrade/aomei-backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lusterropemakergrade/aomei-backupper.md) |
 | [SilversmithEmbody/whale-tracker](https://github.com/SilversmithEmbody/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/silversmithembody/whale-tracker.md) |
@@ -38,7 +39,6 @@ _1962 guides written so far · last update 2026-11-03 09:57 UTC_
 | [Endgruresurrect/reason-14](https://github.com/Endgruresurrect/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/endgruresurrect/reason-14.md) |
 | [macroshoguncraft/microsoft-office](https://github.com/macroshoguncraft/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/macroshoguncraft/microsoft-office.md) |
 | [Bandnovacondense17/serato-dj-pro](https://github.com/Bandnovacondense17/serato-dj-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bandnovacondense17/serato-dj-pro.md) |
-| [BeamSkinkLaud/musicmakerunlimited](https://github.com/BeamSkinkLaud/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beamskinklaud/musicmakerunlimited.md) |
 <!-- latest:end -->
 
 ## How it works
