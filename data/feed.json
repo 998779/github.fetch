@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T17:42:45.214Z",
- "totalGuides": 1964,
+ "updatedAt": "2026-11-03T17:42:45.394Z",
+ "totalGuides": 1965,
  "items": [
+  {
+   "fullName": "ShoreEvokerHeat/fl-studio",
+   "owner": "ShoreEvokerHeat",
+   "name": "fl-studio",
+   "url": "https://github.com/ShoreEvokerHeat/fl-studio",
+   "avatar": "https://avatars.githubusercontent.com/u/292586790?v=4",
+   "description": "Fl Studio 2026 - Full working installer, complete standalone setup for professional audio production.",
+   "language": null,
+   "topics": [
+    "audio-engineering",
+    "beat-making",
+    "developer-tools",
+    "digital-audio-workstation",
+    "fl",
+    "fl-studio-10",
+    "fl-studio-basic",
+    "fl-studio-classic"
+   ],
+   "license": null,
+   "stars": 301,
+   "forks": 0,
+   "createdAt": "2026-11-03T10:59:13Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T17:42:45.392Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ShoreEvokerHeat/fl-studio",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ShoreEvokerHeat/fl-studio/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ShoreEvokerHeat/fl-studio\nWhat it says it does: \"Fl Studio 2026 - Full working installer, complete standalone setup for professional audio production.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T17:42:45.392Z"
+  },
   {
    "fullName": "wquguru/cicada",
    "owner": "wquguru",
@@ -30944,74 +31001,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Jestions-dev/BlueFatFish\nWhat it says it does: \"蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T10:58:05.856Z"
-  },
-  {
-   "fullName": "zgx949/ai-pojia",
-   "owner": "zgx949",
-   "name": "ai-pojia",
-   "url": "https://github.com/zgx949/ai-pojia",
-   "avatar": "https://avatars.githubusercontent.com/u/62885263?v=4",
-   "description": "用 AI 搞定麻烦事。面向小白的实用 Skills 与插件，附完整教程和示例。",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 69,
-   "forks": 113,
-   "createdAt": "2026-10-24T03:17:43Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-26T10:58:05.232Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/zgx949/ai-pojia/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/zgx949/ai-pojia?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/zgx949/ai-pojia",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/zgx949/ai-pojia/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/zgx949/ai-pojia.git\ncd ai-pojia",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/zgx949/ai-pojia\nWhat it says it does: \"用 AI 搞定麻烦事。面向小白的实用 Skills 与插件，附完整教程和示例。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T10:58:05.232Z"
   }
  ],
  "levels": {
+  "read": 241,
   "heavy": 56,
-  "read": 240,
   "instant": 35,
-  "account": 169
+  "account": 168
  }
 }
