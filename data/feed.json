@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T17:42:46.048Z",
- "totalGuides": 1968,
+ "updatedAt": "2026-11-03T17:42:46.232Z",
+ "totalGuides": 1969,
  "items": [
+  {
+   "fullName": "Midnightclitug/iobit-driver-booster",
+   "owner": "Midnightclitug",
+   "name": "iobit-driver-booster",
+   "url": "https://github.com/Midnightclitug/iobit-driver-booster",
+   "avatar": "https://avatars.githubusercontent.com/u/292588579?v=4",
+   "description": "Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with all features pre-activated.",
+   "language": null,
+   "topics": [
+    "automation",
+    "bootcamp-drivers",
+    "developer-tools",
+    "device-drivers",
+    "device-manager-tool",
+    "driver-development",
+    "driver-downloader",
+    "driver-genius-latest"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-11-03T10:59:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T17:42:46.231Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Midnightclitug/iobit-driver-booster",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Midnightclitug/iobit-driver-booster/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Midnightclitug/iobit-driver-booster\nWhat it says it does: \"Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with all features pre-activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T17:42:46.231Z"
+  },
   {
    "fullName": "deltachainchill/honeypot-detector",
    "owner": "deltachainchill",
@@ -30918,63 +30975,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/assetnote/node2shell-scanner\nWhat it says it does: \"High fidelity detection mechanism for node2shell (CVE-2026-111497)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T10:58:07.206Z"
-  },
-  {
-   "fullName": "ccch1mneyyy/dsh-go",
-   "owner": "ccch1mneyyy",
-   "name": "dsh-go",
-   "url": "https://github.com/ccch1mneyyy/dsh-go",
-   "avatar": "https://avatars.githubusercontent.com/u/268149062?v=4",
-   "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
-   "language": null,
-   "topics": [
-    "ai-agent",
-    "android",
-    "android-app",
-    "coding-agent",
-    "deepseek",
-    "deepseek-harness",
-    "dsh",
-    "dsh-tui"
-   ],
-   "license": null,
-   "stars": 63,
-   "forks": 1,
-   "createdAt": "2026-10-25T08:09:52Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-26T10:58:06.819Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ccch1mneyyy/dsh-go",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ccch1mneyyy/dsh-go/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ccch1mneyyy/dsh-go\nWhat it says it does: \"dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T10:58:06.819Z"
   }
  ],
  "levels": {
