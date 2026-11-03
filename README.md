@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1949 guides written so far · last update 2026-11-03 09:57 UTC_
+_1950 guides written so far · last update 2026-11-03 09:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [basecasterhollow/ozone-12-advanced](https://github.com/basecasterhollow/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/basecasterhollow/ozone-12-advanced.md) |
 | [PennantOfficialCabin/rx-11-audio-editor](https://github.com/PennantOfficialCabin/rx-11-audio-editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pennantofficialcabin/rx-11-audio-editor.md) |
 | [Balanov/verdict](https://github.com/Balanov/verdict) | Python project | Runs in the browser with a free account | [guide](guides/balanov/verdict.md) |
 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | Node command-line tool | Runs in the browser with a free account | [guide](guides/saos-3624/dsh-see-now.md) |
@@ -38,7 +39,6 @@ _1949 guides written so far · last update 2026-11-03 09:57 UTC_
 | [stoneworkerenlarge/wondshare-recoverit](https://github.com/stoneworkerenlarge/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stoneworkerenlarge/wondshare-recoverit.md) |
 | [CylinderPlanner/dft-pro](https://github.com/CylinderPlanner/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cylinderplanner/dft-pro.md) |
 | [Restfoshackle/catia-cad](https://github.com/Restfoshackle/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restfoshackle/catia-cad.md) |
-| [TortoisePurge87/adobe-indesign](https://github.com/TortoisePurge87/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tortoisepurge87/adobe-indesign.md) |
 <!-- latest:end -->
 
 ## How it works
