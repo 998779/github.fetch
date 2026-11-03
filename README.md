@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1938 guides written so far · last update 2026-11-03 02:24 UTC_
+_1939 guides written so far · last update 2026-11-03 02:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Restfoshackle/catia-cad](https://github.com/Restfoshackle/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restfoshackle/catia-cad.md) |
 | [TortoisePurge87/adobe-indesign](https://github.com/TortoisePurge87/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tortoisepurge87/adobe-indesign.md) |
 | [NetworkRaise/tenorshare-4ukey](https://github.com/NetworkRaise/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/networkraise/tenorshare-4ukey.md) |
 | [AshTypeCutters/sketchup-pro](https://github.com/AshTypeCutters/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashtypecutters/sketchup-pro.md) |
@@ -38,7 +39,6 @@ _1938 guides written so far · last update 2026-11-03 02:24 UTC_
 | [superwardenseek/discord-server-raider](https://github.com/superwardenseek/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/superwardenseek/discord-server-raider.md) |
 | [Grabnovaportico/adobe-substance-3d](https://github.com/Grabnovaportico/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grabnovaportico/adobe-substance-3d.md) |
 | [Holdterjetty/discord-server-cloner](https://github.com/Holdterjetty/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holdterjetty/discord-server-cloner.md) |
-| [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marbleorbweb94/ninjatrader-bot.md) |
 <!-- latest:end -->
 
 ## How it works

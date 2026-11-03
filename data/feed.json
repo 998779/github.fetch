@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T02:24:30.989Z",
- "totalGuides": 1938,
+ "updatedAt": "2026-11-03T02:24:31.209Z",
+ "totalGuides": 1939,
  "items": [
+  {
+   "fullName": "Restfoshackle/catia-cad",
+   "owner": "Restfoshackle",
+   "name": "catia-cad",
+   "url": "https://github.com/Restfoshackle/catia-cad",
+   "avatar": "https://avatars.githubusercontent.com/u/292578871?v=4",
+   "description": "Catia Cad 2026 pre-activated desktop edition. Complete standalone setup ready to run with all features enabled.",
+   "language": null,
+   "topics": [
+    "automation",
+    "cad-drawings",
+    "catia",
+    "catia-v5",
+    "catiav5",
+    "desktop",
+    "developer-tools",
+    "open-source"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:11:12Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T02:24:31.208Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Restfoshackle/catia-cad",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Restfoshackle/catia-cad/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Restfoshackle/catia-cad\nWhat it says it does: \"Catia Cad 2026 pre-activated desktop edition. Complete standalone setup ready to run with all features enabled.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T02:24:31.208Z"
+  },
   {
    "fullName": "TortoisePurge87/adobe-indesign",
    "owner": "TortoisePurge87",
@@ -31019,78 +31076,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/mochiiwuff/capri-desktop\nWhat it says it does: \"Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T00:06:06.570Z"
-  },
-  {
-   "fullName": "kuraeow/ultratears",
-   "owner": "kuraeow",
-   "name": "ultratears",
-   "url": "https://github.com/kuraeow/ultratears",
-   "avatar": "https://avatars.githubusercontent.com/u/79721693?v=4",
-   "description": "Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.",
-   "language": "C",
-   "topics": [
-    "arm64",
-    "arm64-x86",
-    "game-port",
-    "native-port",
-    "proton",
-    "recomp",
-    "sd13",
-    "static-recompilation"
-   ],
-   "license": "GPL-3.0",
-   "stars": 87,
-   "forks": 3,
-   "createdAt": "2026-10-25T00:04:08Z",
-   "branch": "main",
-   "homepage": "https://github.com/kuraeow/ultratears/releases",
-   "addedAt": "2026-10-26T00:06:05.946Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/kuraeow/ultratears?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/kuraeow/ultratears",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/kuraeow/ultratears/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/kuraeow/ultratears.git\ncd ultratears",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/kuraeow/ultratears\nWhat it says it does: \"Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T00:06:05.946Z"
   }
  ],
  "levels": {
-  "read": 225,
+  "read": 226,
   "account": 181,
-  "heavy": 60,
+  "heavy": 59,
   "instant": 34
  }
 }
