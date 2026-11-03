@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1978 guides written so far · last update 2026-11-03 17:42 UTC_
+_1979 guides written so far · last update 2026-11-03 17:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [a55uka/nup](https://github.com/a55uka/nup) | Python project | Runs in the browser with a free account | [guide](guides/a55uka/nup.md) |
 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | JavaScript project | Runs in the browser with a free account | [guide](guides/artemnovitckii/claude-animation-skills.md) |
 | [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow) | React app | Runs in the browser with a free account | [guide](guides/minglink/dsh-jailbreak-workflow.md) |
 | [wavedivercolonnade/ozone-12-advanced](https://github.com/wavedivercolonnade/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wavedivercolonnade/ozone-12-advanced.md) |
@@ -38,7 +39,6 @@ _1978 guides written so far · last update 2026-11-03 17:42 UTC_
 | [CraterAssembly31/microsoft-visio](https://github.com/CraterAssembly31/microsoft-visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/craterassembly31/microsoft-visio.md) |
 | [Midnightclitug/iobit-driver-booster](https://github.com/Midnightclitug/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midnightclitug/iobit-driver-booster.md) |
 | [deltachainchill/honeypot-detector](https://github.com/deltachainchill/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deltachainchill/honeypot-detector.md) |
-| [blizzardoxtug/ph-downloader](https://github.com/blizzardoxtug/ph-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blizzardoxtug/ph-downloader.md) |
 <!-- latest:end -->
 
 ## How it works
