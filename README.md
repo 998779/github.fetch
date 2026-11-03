@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1965 guides written so far · last update 2026-11-03 17:42 UTC_
+_1966 guides written so far · last update 2026-11-03 17:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Codeonshovel/microsoft-365](https://github.com/Codeonshovel/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/codeonshovel/microsoft-365.md) |
 | [ShoreEvokerHeat/fl-studio](https://github.com/ShoreEvokerHeat/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shoreevokerheat/fl-studio.md) |
 | [wquguru/cicada](https://github.com/wquguru/cicada) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/wquguru/cicada.md) |
 | [Labelkreblast/sp-flash-tool](https://github.com/Labelkreblast/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/labelkreblast/sp-flash-tool.md) |
@@ -38,7 +39,6 @@ _1965 guides written so far · last update 2026-11-03 17:42 UTC_
 | [yt1988/who-are-you](https://github.com/yt1988/who-are-you) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yt1988/who-are-you.md) |
 | [StarCommissioner/slideshow-video-maker](https://github.com/StarCommissioner/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starcommissioner/slideshow-video-maker.md) |
 | [tailwarlordinertia/scrcpy](https://github.com/tailwarlordinertia/scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tailwarlordinertia/scrcpy.md) |
-| [Endgruresurrect/reason-14](https://github.com/Endgruresurrect/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/endgruresurrect/reason-14.md) |
 <!-- latest:end -->
 
 ## How it works

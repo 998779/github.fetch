@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T17:42:45.394Z",
- "totalGuides": 1965,
+ "updatedAt": "2026-11-03T17:42:45.680Z",
+ "totalGuides": 1966,
  "items": [
+  {
+   "fullName": "Codeonshovel/microsoft-365",
+   "owner": "Codeonshovel",
+   "name": "microsoft-365",
+   "url": "https://github.com/Codeonshovel/microsoft-365",
+   "avatar": "https://avatars.githubusercontent.com/u/292588808?v=4",
+   "description": "Microsoft 365 Professional Desktop Utility Configuration - Full working installer for seamless setup and operation.",
+   "language": null,
+   "topics": [
+    "automation",
+    "developer-tools",
+    "excel-automation",
+    "libreoffice-extension",
+    "microsoft-excel-advanced",
+    "microsoft-keys",
+    "microsoft-office",
+    "microsoft-suite"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-11-03T11:00:16Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T17:42:45.679Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Codeonshovel/microsoft-365",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Codeonshovel/microsoft-365/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Codeonshovel/microsoft-365\nWhat it says it does: \"Microsoft 365 Professional Desktop Utility Configuration - Full working installer for seamless setup and operation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T17:42:45.679Z"
+  },
   {
    "fullName": "ShoreEvokerHeat/fl-studio",
    "owner": "ShoreEvokerHeat",
@@ -30946,67 +31003,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/jacke-pp/ai-wallet-binance\nWhat it says it does: \"让任何 AI 用你自己的币安 AI 钱包交易：秒买秒卖、狙击 Agent 专属发射台（Four、Flap、GANG）、AI 专属 Mint、本机交易页面。币安签名，不碰私钥。Let any AI trade with your own Binance AI wallet.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T10:58:06.302Z"
-  },
-  {
-   "fullName": "Jestions-dev/BlueFatFish",
-   "owner": "Jestions-dev",
-   "name": "BlueFatFish",
-   "url": "https://github.com/Jestions-dev/BlueFatFish",
-   "avatar": "https://avatars.githubusercontent.com/u/272715639?v=4",
-   "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
-   "language": "JavaScript",
-   "topics": [],
-   "license": "MIT",
-   "stars": 67,
-   "forks": 1,
-   "createdAt": "2026-10-24T12:03:38Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-26T10:58:05.856Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Jestions-dev/BlueFatFish?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Jestions-dev/BlueFatFish",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Jestions-dev/BlueFatFish/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Jestions-dev/BlueFatFish.git\ncd BlueFatFish",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Jestions-dev/BlueFatFish\nWhat it says it does: \"蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T10:58:05.856Z"
   }
  ],
  "levels": {
-  "read": 241,
+  "read": 242,
   "heavy": 56,
   "instant": 35,
-  "account": 168
+  "account": 167
  }
 }
