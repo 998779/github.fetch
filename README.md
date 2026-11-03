@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1995 guides written so far · last update 2026-11-03 22:34 UTC_
+_1996 guides written so far · last update 2026-11-03 22:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [plotbatlodge/touch-copy](https://github.com/plotbatlodge/touch-copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plotbatlodge/touch-copy.md) |
 | [Closedtowrath/adobe-after-effects](https://github.com/Closedtowrath/adobe-after-effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/closedtowrath/adobe-after-effects.md) |
 | [SonicLarvaAcclaim/chimera](https://github.com/SonicLarvaAcclaim/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soniclarvaacclaim/chimera.md) |
 | [ArrowDecoder81/androidunlocker](https://github.com/ArrowDecoder81/androidunlocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arrowdecoder81/androidunlocker.md) |
@@ -38,7 +39,6 @@ _1995 guides written so far · last update 2026-11-03 22:34 UTC_
 | [QuakeSwiftCharge/unlocktool](https://github.com/QuakeSwiftCharge/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/quakeswiftcharge/unlocktool.md) |
 | [CommercialKink/startall-back](https://github.com/CommercialKink/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commercialkink/startall-back.md) |
 | [egoist/godraw](https://github.com/egoist/godraw) | Go project | Runs in the browser with a free account | [guide](guides/egoist/godraw.md) |
-| [MagoStudio/MagoStudio](https://github.com/MagoStudio/MagoStudio) | Next.js app | Runs in the browser with a free account | [guide](guides/magostudio/magostudio.md) |
 <!-- latest:end -->
 
 ## How it works
