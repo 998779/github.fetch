@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1969 guides written so far · last update 2026-11-03 17:42 UTC_
+_1970 guides written so far · last update 2026-11-03 17:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CraterAssembly31/microsoft-visio](https://github.com/CraterAssembly31/microsoft-visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/craterassembly31/microsoft-visio.md) |
 | [Midnightclitug/iobit-driver-booster](https://github.com/Midnightclitug/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midnightclitug/iobit-driver-booster.md) |
 | [deltachainchill/honeypot-detector](https://github.com/deltachainchill/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deltachainchill/honeypot-detector.md) |
 | [blizzardoxtug/ph-downloader](https://github.com/blizzardoxtug/ph-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blizzardoxtug/ph-downloader.md) |
@@ -38,7 +39,6 @@ _1969 guides written so far · last update 2026-11-03 17:42 UTC_
 | [LusterRopemakerGrade/aomei-backupper](https://github.com/LusterRopemakerGrade/aomei-backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lusterropemakergrade/aomei-backupper.md) |
 | [SilversmithEmbody/whale-tracker](https://github.com/SilversmithEmbody/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/silversmithembody/whale-tracker.md) |
 | [Greenyucherish/autodesk-cfd](https://github.com/Greenyucherish/autodesk-cfd) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greenyucherish/autodesk-cfd.md) |
-| [ConquerorKnight/multiaccountmanager](https://github.com/ConquerorKnight/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/conquerorknight/multiaccountmanager.md) |
 <!-- latest:end -->
 
 ## How it works
