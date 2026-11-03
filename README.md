@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1960 guides written so far · last update 2026-11-03 09:57 UTC_
+_1961 guides written so far · last update 2026-11-03 09:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LusterRopemakerGrade/aomei-backupper](https://github.com/LusterRopemakerGrade/aomei-backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lusterropemakergrade/aomei-backupper.md) |
 | [SilversmithEmbody/whale-tracker](https://github.com/SilversmithEmbody/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/silversmithembody/whale-tracker.md) |
 | [Greenyucherish/autodesk-cfd](https://github.com/Greenyucherish/autodesk-cfd) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greenyucherish/autodesk-cfd.md) |
 | [ConquerorKnight/multiaccountmanager](https://github.com/ConquerorKnight/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/conquerorknight/multiaccountmanager.md) |
@@ -38,7 +39,6 @@ _1960 guides written so far · last update 2026-11-03 09:57 UTC_
 | [Bandnovacondense17/serato-dj-pro](https://github.com/Bandnovacondense17/serato-dj-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/bandnovacondense17/serato-dj-pro.md) |
 | [BeamSkinkLaud/musicmakerunlimited](https://github.com/BeamSkinkLaud/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beamskinklaud/musicmakerunlimited.md) |
 | [basecasterhollow/ozone-12-advanced](https://github.com/basecasterhollow/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/basecasterhollow/ozone-12-advanced.md) |
-| [PennantOfficialCabin/rx-11-audio-editor](https://github.com/PennantOfficialCabin/rx-11-audio-editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pennantofficialcabin/rx-11-audio-editor.md) |
 <!-- latest:end -->
 
 ## How it works

@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T09:57:24.511Z",
- "totalGuides": 1960,
+ "updatedAt": "2026-11-03T09:57:24.718Z",
+ "totalGuides": 1961,
  "items": [
+  {
+   "fullName": "LusterRopemakerGrade/aomei-backupper",
+   "owner": "LusterRopemakerGrade",
+   "name": "aomei-backupper",
+   "url": "https://github.com/LusterRopemakerGrade/aomei-backupper",
+   "avatar": "https://avatars.githubusercontent.com/u/292580922?v=4",
+   "description": "Complete standalone setup for Aomei Backupper 2026. Full working installer with all features pre-activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "aomei",
+    "aomei-partition",
+    "aomei-setup",
+    "automation",
+    "developer-tools",
+    "disk-manager",
+    "disk-partitioning",
+    "merge-partitions"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:10:13Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T09:57:24.717Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/LusterRopemakerGrade/aomei-backupper",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LusterRopemakerGrade/aomei-backupper/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/LusterRopemakerGrade/aomei-backupper\nWhat it says it does: \"Complete standalone setup for Aomei Backupper 2026. Full working installer with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T09:57:24.717Z"
+  },
   {
    "fullName": "SilversmithEmbody/whale-tracker",
    "owner": "SilversmithEmbody",
@@ -30962,75 +31019,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/mxhm11cr/LinuxRunner\nWhat it says it does: \"Run ARM64 Linux applications and desktop environments on iPhone.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T10:58:03.634Z"
-  },
-  {
-   "fullName": "heydeer/pngdeer",
-   "owner": "heydeer",
-   "name": "pngdeer",
-   "url": "https://github.com/heydeer/pngdeer",
-   "avatar": "https://avatars.githubusercontent.com/u/331110110?v=4",
-   "description": "Lossy PNG compression that picks the quality for each image. Command line and browser, same bytes.",
-   "language": "Rust",
-   "topics": [
-    "cli",
-    "color-quantization",
-    "image-compression",
-    "png",
-    "png-compression",
-    "rust",
-    "webassembly"
-   ],
-   "license": "MIT",
-   "stars": 87,
-   "forks": 7,
-   "createdAt": "2026-10-25T05:09:24Z",
-   "branch": "main",
-   "homepage": "https://heydeer.ai/open-source/pngdeer",
-   "addedAt": "2026-10-26T10:58:03.240Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/heydeer/pngdeer?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/heydeer/pngdeer",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/heydeer/pngdeer/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/heydeer/pngdeer.git\ncd pngdeer\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/heydeer/pngdeer\nWhat it says it does: \"Lossy PNG compression that picks the quality for each image. Command line and browser, same bytes.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T10:58:03.240Z"
   }
  ],
  "levels": {
-  "read": 237,
+  "read": 238,
   "instant": 35,
-  "account": 171,
+  "account": 170,
   "heavy": 57
  }
 }
