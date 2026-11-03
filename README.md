@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1955 guides written so far · last update 2026-11-03 09:57 UTC_
+_1956 guides written so far · last update 2026-11-03 09:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StarCommissioner/slideshow-video-maker](https://github.com/StarCommissioner/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starcommissioner/slideshow-video-maker.md) |
 | [tailwarlordinertia/scrcpy](https://github.com/tailwarlordinertia/scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tailwarlordinertia/scrcpy.md) |
 | [Endgruresurrect/reason-14](https://github.com/Endgruresurrect/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/endgruresurrect/reason-14.md) |
 | [macroshoguncraft/microsoft-office](https://github.com/macroshoguncraft/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/macroshoguncraft/microsoft-office.md) |
@@ -38,7 +39,6 @@ _1955 guides written so far · last update 2026-11-03 09:57 UTC_
 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | Node command-line tool | Runs in the browser with a free account | [guide](guides/saos-3624/dsh-see-now.md) |
 | [kevintngo/looseleaf](https://github.com/kevintngo/looseleaf) | Vite app | Runs in a browser tab, no account needed | [guide](guides/kevintngo/looseleaf.md) |
 | [Balanov/skein](https://github.com/Balanov/skein) | Go project | Runs in the browser with a free account | [guide](guides/balanov/skein.md) |
-| [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | Shell project | Runs in the browser with a free account | [guide](guides/mhfed/vn-law-check.md) |
 <!-- latest:end -->
 
 ## How it works
