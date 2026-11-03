@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1983 guides written so far · last update 2026-11-03 17:42 UTC_
+_1984 guides written so far · last update 2026-11-03 22:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MagoStudio/MagoStudio](https://github.com/MagoStudio/MagoStudio) | Next.js app | Runs in the browser with a free account | [guide](guides/magostudio/magostudio.md) |
 | [cyclopssupportgrip/genesis-miner](https://github.com/cyclopssupportgrip/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopssupportgrip/genesis-miner.md) |
 | [eveningmayormansion/sketchup-pro](https://github.com/eveningmayormansion/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eveningmayormansion/sketchup-pro.md) |
 | [drakolordx7/pokopia-recomp](https://github.com/drakolordx7/pokopia-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/drakolordx7/pokopia-recomp.md) |
@@ -38,7 +39,6 @@ _1983 guides written so far · last update 2026-11-03 17:42 UTC_
 | [CircumferenceBanker/autodesk-inventor](https://github.com/CircumferenceBanker/autodesk-inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/circumferencebanker/autodesk-inventor.md) |
 | [MomentumGuideContact/fonetrans](https://github.com/MomentumGuideContact/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/momentumguidecontact/fonetrans.md) |
 | [Drivekestation/instagram-liker-bot](https://github.com/Drivekestation/instagram-liker-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/drivekestation/instagram-liker-bot.md) |
-| [thresholdbearduct/reason-14](https://github.com/thresholdbearduct/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdbearduct/reason-14.md) |
 <!-- latest:end -->
 
 ## How it works
