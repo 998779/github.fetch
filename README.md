@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1950 guides written so far · last update 2026-11-03 09:57 UTC_
+_1951 guides written so far · last update 2026-11-03 09:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BeamSkinkLaud/musicmakerunlimited](https://github.com/BeamSkinkLaud/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beamskinklaud/musicmakerunlimited.md) |
 | [basecasterhollow/ozone-12-advanced](https://github.com/basecasterhollow/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/basecasterhollow/ozone-12-advanced.md) |
 | [PennantOfficialCabin/rx-11-audio-editor](https://github.com/PennantOfficialCabin/rx-11-audio-editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pennantofficialcabin/rx-11-audio-editor.md) |
 | [Balanov/verdict](https://github.com/Balanov/verdict) | Python project | Runs in the browser with a free account | [guide](guides/balanov/verdict.md) |
@@ -38,7 +39,6 @@ _1950 guides written so far · last update 2026-11-03 09:57 UTC_
 | [MegaPharmacistStaple/canva-pro](https://github.com/MegaPharmacistStaple/canva-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/megapharmaciststaple/canva-pro.md) |
 | [stoneworkerenlarge/wondshare-recoverit](https://github.com/stoneworkerenlarge/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stoneworkerenlarge/wondshare-recoverit.md) |
 | [CylinderPlanner/dft-pro](https://github.com/CylinderPlanner/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cylinderplanner/dft-pro.md) |
-| [Restfoshackle/catia-cad](https://github.com/Restfoshackle/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restfoshackle/catia-cad.md) |
 <!-- latest:end -->
 
 ## How it works
