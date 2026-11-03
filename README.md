@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1942 guides written so far · last update 2026-11-03 02:24 UTC_
+_1943 guides written so far · last update 2026-11-03 02:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Ditchfarecover75/adobe-audition](https://github.com/Ditchfarecover75/adobe-audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ditchfarecover75/adobe-audition.md) |
 | [MegaPharmacistStaple/canva-pro](https://github.com/MegaPharmacistStaple/canva-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/megapharmaciststaple/canva-pro.md) |
 | [stoneworkerenlarge/wondshare-recoverit](https://github.com/stoneworkerenlarge/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stoneworkerenlarge/wondshare-recoverit.md) |
 | [CylinderPlanner/dft-pro](https://github.com/CylinderPlanner/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cylinderplanner/dft-pro.md) |
@@ -38,7 +39,6 @@ _1942 guides written so far · last update 2026-11-03 02:24 UTC_
 | [justrach/nanolight](https://github.com/justrach/nanolight) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanolight.md) |
 | [SplendorHornbill/windows-animated-wallpapers](https://github.com/SplendorHornbill/windows-animated-wallpapers) | Python project | Runs in the browser with a free account | [guide](guides/splendorhornbill/windows-animated-wallpapers.md) |
 | [PulseIceDominate/foneazy-mobile](https://github.com/PulseIceDominate/foneazy-mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pulseicedominate/foneazy-mobile.md) |
-| [maxwilsoneng2098t9/tiktok-comment-automation](https://github.com/maxwilsoneng2098t9/tiktok-comment-automation) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/tiktok-comment-automation.md) |
 <!-- latest:end -->
 
 ## How it works
