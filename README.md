@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1975 guides written so far · last update 2026-11-03 17:42 UTC_
+_1976 guides written so far · last update 2026-11-03 17:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [wavedivercolonnade/ozone-12-advanced](https://github.com/wavedivercolonnade/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wavedivercolonnade/ozone-12-advanced.md) |
 | [CircumferenceBanker/autodesk-inventor](https://github.com/CircumferenceBanker/autodesk-inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/circumferencebanker/autodesk-inventor.md) |
 | [MomentumGuideContact/fonetrans](https://github.com/MomentumGuideContact/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/momentumguidecontact/fonetrans.md) |
 | [Drivekestation/instagram-liker-bot](https://github.com/Drivekestation/instagram-liker-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/drivekestation/instagram-liker-bot.md) |
@@ -38,7 +39,6 @@ _1975 guides written so far · last update 2026-11-03 17:42 UTC_
 | [blizzardoxtug/ph-downloader](https://github.com/blizzardoxtug/ph-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blizzardoxtug/ph-downloader.md) |
 | [Codeonshovel/microsoft-365](https://github.com/Codeonshovel/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/codeonshovel/microsoft-365.md) |
 | [ShoreEvokerHeat/fl-studio](https://github.com/ShoreEvokerHeat/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shoreevokerheat/fl-studio.md) |
-| [wquguru/cicada](https://github.com/wquguru/cicada) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/wquguru/cicada.md) |
 <!-- latest:end -->
 
 ## How it works
