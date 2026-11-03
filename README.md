@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1933 guides written so far · last update 2026-11-03 02:24 UTC_
+_1934 guides written so far · last update 2026-11-03 02:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [justrach/nanolight](https://github.com/justrach/nanolight) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanolight.md) |
 | [SplendorHornbill/windows-animated-wallpapers](https://github.com/SplendorHornbill/windows-animated-wallpapers) | Python project | Runs in the browser with a free account | [guide](guides/splendorhornbill/windows-animated-wallpapers.md) |
 | [PulseIceDominate/foneazy-mobile](https://github.com/PulseIceDominate/foneazy-mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pulseicedominate/foneazy-mobile.md) |
 | [maxwilsoneng2098t9/tiktok-comment-automation](https://github.com/maxwilsoneng2098t9/tiktok-comment-automation) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/tiktok-comment-automation.md) |
@@ -38,7 +39,6 @@ _1933 guides written so far · last update 2026-11-03 02:24 UTC_
 | [TankPharaoh23/microsoft-project](https://github.com/TankPharaoh23/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tankpharaoh23/microsoft-project.md) |
 | [DistributorKnit/metatrader-5-bot](https://github.com/DistributorKnit/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorknit/metatrader-5-bot.md) |
 | [maxwilsoneng2098t9/pdf-compressor-offline](https://github.com/maxwilsoneng2098t9/pdf-compressor-offline) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/pdf-compressor-offline.md) |
-| [Tempofaengage/unlocktool](https://github.com/Tempofaengage/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tempofaengage/unlocktool.md) |
 <!-- latest:end -->
 
 ## How it works
