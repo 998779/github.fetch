@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1993 guides written so far · last update 2026-11-03 22:34 UTC_
+_1994 guides written so far · last update 2026-11-03 22:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SonicLarvaAcclaim/chimera](https://github.com/SonicLarvaAcclaim/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soniclarvaacclaim/chimera.md) |
 | [ArrowDecoder81/androidunlocker](https://github.com/ArrowDecoder81/androidunlocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arrowdecoder81/androidunlocker.md) |
 | [TermitePeace/drfoneunlock](https://github.com/TermitePeace/drfoneunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/termitepeace/drfoneunlock.md) |
 | [stellarorbrectify/aida-64-extreme](https://github.com/stellarorbrectify/aida-64-extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stellarorbrectify/aida-64-extreme.md) |
@@ -38,7 +39,6 @@ _1993 guides written so far · last update 2026-11-03 22:34 UTC_
 | [egoist/godraw](https://github.com/egoist/godraw) | Go project | Runs in the browser with a free account | [guide](guides/egoist/godraw.md) |
 | [MagoStudio/MagoStudio](https://github.com/MagoStudio/MagoStudio) | Next.js app | Runs in the browser with a free account | [guide](guides/magostudio/magostudio.md) |
 | [cyclopssupportgrip/genesis-miner](https://github.com/cyclopssupportgrip/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopssupportgrip/genesis-miner.md) |
-| [eveningmayormansion/sketchup-pro](https://github.com/eveningmayormansion/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eveningmayormansion/sketchup-pro.md) |
 <!-- latest:end -->
 
 ## How it works
