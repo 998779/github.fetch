@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T02:24:31.926Z",
- "totalGuides": 1943,
+ "updatedAt": "2026-11-03T09:57:19.747Z",
+ "totalGuides": 1944,
  "items": [
+  {
+   "fullName": "mhfed/vn-law-check",
+   "owner": "mhfed",
+   "name": "vn-law-check",
+   "url": "https://github.com/mhfed/vn-law-check",
+   "avatar": "https://avatars.githubusercontent.com/u/99587167?v=4",
+   "description": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+   "language": "Shell",
+   "topics": [
+    "agent-md",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "claude-skills",
+    "compliance",
+    "copilot-instructions",
+    "cursor-rules"
+   ],
+   "license": null,
+   "stars": 267,
+   "forks": 67,
+   "createdAt": "2026-11-02T09:22:02Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T09:57:19.737Z",
+   "stack": {
+    "kind": "other",
+    "label": "Shell project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/mhfed/vn-law-check?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/mhfed/vn-law-check",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mhfed/vn-law-check/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/mhfed/vn-law-check.git\ncd vn-law-check",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/mhfed/vn-law-check\nWhat it says it does: \"Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T09:57:19.737Z"
+  },
   {
    "fullName": "Ditchfarecover75/adobe-audition",
    "owner": "Ditchfarecover75",
@@ -30989,73 +31053,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/ZiChuanLan/agent-purge\nWhat it says it does: \"One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T04:56:03.531Z"
-  },
-  {
-   "fullName": "KillaBoi/StealMyBitcoin-PoC",
-   "owner": "KillaBoi",
-   "name": "StealMyBitcoin-PoC",
-   "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-   "avatar": "https://avatars.githubusercontent.com/u/46409262?v=4",
-   "description": "A public release of the Steal My Bitcoin challenge",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 254,
-   "forks": 46,
-   "createdAt": "2026-10-25T21:48:32Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-26T04:56:03.201Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/KillaBoi/StealMyBitcoin-PoC/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/KillaBoi/StealMyBitcoin-PoC?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/KillaBoi/StealMyBitcoin-PoC",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/KillaBoi/StealMyBitcoin-PoC.git\ncd StealMyBitcoin-PoC",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/KillaBoi/StealMyBitcoin-PoC\nWhat it says it does: \"A public release of the Steal My Bitcoin challenge\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T04:56:03.201Z"
   }
  ],
  "levels": {
-  "read": 230,
   "account": 177,
+  "read": 230,
   "heavy": 59,
   "instant": 34
  }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1943 guides written so far · last update 2026-11-03 02:24 UTC_
+_1944 guides written so far · last update 2026-11-03 09:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | Shell project | Runs in the browser with a free account | [guide](guides/mhfed/vn-law-check.md) |
 | [Ditchfarecover75/adobe-audition](https://github.com/Ditchfarecover75/adobe-audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ditchfarecover75/adobe-audition.md) |
 | [MegaPharmacistStaple/canva-pro](https://github.com/MegaPharmacistStaple/canva-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/megapharmaciststaple/canva-pro.md) |
 | [stoneworkerenlarge/wondshare-recoverit](https://github.com/stoneworkerenlarge/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stoneworkerenlarge/wondshare-recoverit.md) |
@@ -38,7 +39,6 @@ _1943 guides written so far · last update 2026-11-03 02:24 UTC_
 | [Balanov/shim](https://github.com/Balanov/shim) | Go project | Runs in the browser with a free account | [guide](guides/balanov/shim.md) |
 | [justrach/nanolight](https://github.com/justrach/nanolight) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanolight.md) |
 | [SplendorHornbill/windows-animated-wallpapers](https://github.com/SplendorHornbill/windows-animated-wallpapers) | Python project | Runs in the browser with a free account | [guide](guides/splendorhornbill/windows-animated-wallpapers.md) |
-| [PulseIceDominate/foneazy-mobile](https://github.com/PulseIceDominate/foneazy-mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pulseicedominate/foneazy-mobile.md) |
 <!-- latest:end -->
 
 ## How it works
