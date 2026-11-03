@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1941 guides written so far · last update 2026-11-03 02:24 UTC_
+_1942 guides written so far · last update 2026-11-03 02:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MegaPharmacistStaple/canva-pro](https://github.com/MegaPharmacistStaple/canva-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/megapharmaciststaple/canva-pro.md) |
 | [stoneworkerenlarge/wondshare-recoverit](https://github.com/stoneworkerenlarge/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stoneworkerenlarge/wondshare-recoverit.md) |
 | [CylinderPlanner/dft-pro](https://github.com/CylinderPlanner/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cylinderplanner/dft-pro.md) |
 | [Restfoshackle/catia-cad](https://github.com/Restfoshackle/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restfoshackle/catia-cad.md) |
@@ -38,7 +39,6 @@ _1941 guides written so far · last update 2026-11-03 02:24 UTC_
 | [SplendorHornbill/windows-animated-wallpapers](https://github.com/SplendorHornbill/windows-animated-wallpapers) | Python project | Runs in the browser with a free account | [guide](guides/splendorhornbill/windows-animated-wallpapers.md) |
 | [PulseIceDominate/foneazy-mobile](https://github.com/PulseIceDominate/foneazy-mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pulseicedominate/foneazy-mobile.md) |
 | [maxwilsoneng2098t9/tiktok-comment-automation](https://github.com/maxwilsoneng2098t9/tiktok-comment-automation) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/tiktok-comment-automation.md) |
-| [superwardenseek/discord-server-raider](https://github.com/superwardenseek/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/superwardenseek/discord-server-raider.md) |
 <!-- latest:end -->
 
 ## How it works
