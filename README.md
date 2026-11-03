@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1936 guides written so far · last update 2026-11-03 02:24 UTC_
+_1937 guides written so far · last update 2026-11-03 02:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [NetworkRaise/tenorshare-4ukey](https://github.com/NetworkRaise/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/networkraise/tenorshare-4ukey.md) |
 | [AshTypeCutters/sketchup-pro](https://github.com/AshTypeCutters/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashtypecutters/sketchup-pro.md) |
 | [Balanov/shim](https://github.com/Balanov/shim) | Go project | Runs in the browser with a free account | [guide](guides/balanov/shim.md) |
 | [justrach/nanolight](https://github.com/justrach/nanolight) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanolight.md) |
@@ -38,7 +39,6 @@ _1936 guides written so far · last update 2026-11-03 02:24 UTC_
 | [Holdterjetty/discord-server-cloner](https://github.com/Holdterjetty/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holdterjetty/discord-server-cloner.md) |
 | [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marbleorbweb94/ninjatrader-bot.md) |
 | [FrontierHawkStove/atas-trading-bot](https://github.com/FrontierHawkStove/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frontierhawkstove/atas-trading-bot.md) |
-| [TankPharaoh23/microsoft-project](https://github.com/TankPharaoh23/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tankpharaoh23/microsoft-project.md) |
 <!-- latest:end -->
 
 ## How it works
