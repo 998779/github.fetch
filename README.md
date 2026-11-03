@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1958 guides written so far · last update 2026-11-03 09:57 UTC_
+_1959 guides written so far · last update 2026-11-03 09:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Greenyucherish/autodesk-cfd](https://github.com/Greenyucherish/autodesk-cfd) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greenyucherish/autodesk-cfd.md) |
 | [ConquerorKnight/multiaccountmanager](https://github.com/ConquerorKnight/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/conquerorknight/multiaccountmanager.md) |
 | [yt1988/who-are-you](https://github.com/yt1988/who-are-you) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yt1988/who-are-you.md) |
 | [StarCommissioner/slideshow-video-maker](https://github.com/StarCommissioner/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starcommissioner/slideshow-video-maker.md) |
@@ -38,7 +39,6 @@ _1958 guides written so far · last update 2026-11-03 09:57 UTC_
 | [basecasterhollow/ozone-12-advanced](https://github.com/basecasterhollow/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/basecasterhollow/ozone-12-advanced.md) |
 | [PennantOfficialCabin/rx-11-audio-editor](https://github.com/PennantOfficialCabin/rx-11-audio-editor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pennantofficialcabin/rx-11-audio-editor.md) |
 | [Balanov/verdict](https://github.com/Balanov/verdict) | Python project | Runs in the browser with a free account | [guide](guides/balanov/verdict.md) |
-| [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | Node command-line tool | Runs in the browser with a free account | [guide](guides/saos-3624/dsh-see-now.md) |
 <!-- latest:end -->
 
 ## How it works

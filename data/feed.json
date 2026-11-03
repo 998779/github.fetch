@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T09:57:24.077Z",
- "totalGuides": 1958,
+ "updatedAt": "2026-11-03T09:57:24.261Z",
+ "totalGuides": 1959,
  "items": [
+  {
+   "fullName": "Greenyucherish/autodesk-cfd",
+   "owner": "Greenyucherish",
+   "name": "autodesk-cfd",
+   "url": "https://github.com/Greenyucherish/autodesk-cfd",
+   "avatar": "https://avatars.githubusercontent.com/u/292579803?v=4",
+   "description": "Autodesk Cfd 2023 complete standalone setup. Full working installer with all tools pre-activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "cfd-simulation",
+    "cfd-toolbox",
+    "cfdtool-toolbox",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:10:42Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T09:57:24.260Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Greenyucherish/autodesk-cfd",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Greenyucherish/autodesk-cfd/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Greenyucherish/autodesk-cfd\nWhat it says it does: \"Autodesk Cfd 2023 complete standalone setup. Full working installer with all tools pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T09:57:24.260Z"
+  },
   {
    "fullName": "ConquerorKnight/multiaccountmanager",
    "owner": "ConquerorKnight",
@@ -30959,60 +31016,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/ELU-Labs/dark-factory\nWhat it says it does: \"One prompt that sets up a dark factory for your repository with Grok Bots and ELU.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T10:58:02.753Z"
-  },
-  {
-   "fullName": "DiaoOrg/awesome-supermimic",
-   "owner": "DiaoOrg",
-   "name": "awesome-supermimic",
-   "url": "https://github.com/DiaoOrg/awesome-supermimic",
-   "avatar": "https://avatars.githubusercontent.com/u/348109010?v=4",
-   "description": "A curated collection of SuperMimic implementations, extensions, demos, and resources.",
-   "language": null,
-   "topics": [
-    "awesome-list",
-    "humanoid-robotics",
-    "motion-tracking",
-    "supermimic",
-    "world-model"
-   ],
-   "license": "CC0-1.0",
-   "stars": 97,
-   "forks": 0,
-   "createdAt": "2026-10-26T02:49:01Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-26T10:58:02.406Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/DiaoOrg/awesome-supermimic",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/DiaoOrg/awesome-supermimic/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "CC0-1.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/DiaoOrg/awesome-supermimic\nWhat it says it does: \"A curated collection of SuperMimic implementations, extensions, demos, and resources.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T10:58:02.406Z"
   }
  ],
  "levels": {
