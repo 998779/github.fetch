@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1985 guides written so far · last update 2026-11-03 22:34 UTC_
+_1986 guides written so far · last update 2026-11-03 22:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CommercialKink/startall-back](https://github.com/CommercialKink/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commercialkink/startall-back.md) |
 | [egoist/godraw](https://github.com/egoist/godraw) | Go project | Runs in the browser with a free account | [guide](guides/egoist/godraw.md) |
 | [MagoStudio/MagoStudio](https://github.com/MagoStudio/MagoStudio) | Next.js app | Runs in the browser with a free account | [guide](guides/magostudio/magostudio.md) |
 | [cyclopssupportgrip/genesis-miner](https://github.com/cyclopssupportgrip/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopssupportgrip/genesis-miner.md) |
@@ -38,7 +39,6 @@ _1985 guides written so far · last update 2026-11-03 22:34 UTC_
 | [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow) | React app | Runs in the browser with a free account | [guide](guides/minglink/dsh-jailbreak-workflow.md) |
 | [wavedivercolonnade/ozone-12-advanced](https://github.com/wavedivercolonnade/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wavedivercolonnade/ozone-12-advanced.md) |
 | [CircumferenceBanker/autodesk-inventor](https://github.com/CircumferenceBanker/autodesk-inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/circumferencebanker/autodesk-inventor.md) |
-| [MomentumGuideContact/fonetrans](https://github.com/MomentumGuideContact/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/momentumguidecontact/fonetrans.md) |
 <!-- latest:end -->
 
 ## How it works
