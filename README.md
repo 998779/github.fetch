@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1987 guides written so far · last update 2026-11-03 22:34 UTC_
+_1988 guides written so far · last update 2026-11-03 22:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ravencaio/tlou-remastered-pc](https://github.com/ravencaio/tlou-remastered-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/ravencaio/tlou-remastered-pc.md) |
 | [QuakeSwiftCharge/unlocktool](https://github.com/QuakeSwiftCharge/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/quakeswiftcharge/unlocktool.md) |
 | [CommercialKink/startall-back](https://github.com/CommercialKink/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commercialkink/startall-back.md) |
 | [egoist/godraw](https://github.com/egoist/godraw) | Go project | Runs in the browser with a free account | [guide](guides/egoist/godraw.md) |
@@ -38,7 +39,6 @@ _1987 guides written so far · last update 2026-11-03 22:34 UTC_
 | [a55uka/nup](https://github.com/a55uka/nup) | Python project | Runs in the browser with a free account | [guide](guides/a55uka/nup.md) |
 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | JavaScript project | Runs in the browser with a free account | [guide](guides/artemnovitckii/claude-animation-skills.md) |
 | [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow) | React app | Runs in the browser with a free account | [guide](guides/minglink/dsh-jailbreak-workflow.md) |
-| [wavedivercolonnade/ozone-12-advanced](https://github.com/wavedivercolonnade/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wavedivercolonnade/ozone-12-advanced.md) |
 <!-- latest:end -->
 
 ## How it works

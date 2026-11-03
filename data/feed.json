@@ -1,8 +1,73 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T22:34:12.867Z",
- "totalGuides": 1987,
+ "updatedAt": "2026-11-03T22:34:13.102Z",
+ "totalGuides": 1988,
  "items": [
+  {
+   "fullName": "ravencaio/tlou-remastered-pc",
+   "owner": "ravencaio",
+   "name": "tlou-remastered-pc",
+   "url": "https://github.com/ravencaio/tlou-remastered-pc",
+   "avatar": "https://avatars.githubusercontent.com/u/69921724?v=4",
+   "description": "Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy.",
+   "language": "C++",
+   "topics": [
+    "pc-port",
+    "ps4",
+    "reverse-enginnering",
+    "shadps4",
+    "the-last-of-us",
+    "vulkan",
+    "windows"
+   ],
+   "license": "GPL-2.0",
+   "stars": 200,
+   "forks": 7,
+   "createdAt": "2026-11-01T20:52:57Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T22:34:13.101Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ravencaio/tlou-remastered-pc?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ravencaio/tlou-remastered-pc",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ravencaio/tlou-remastered-pc/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/ravencaio/tlou-remastered-pc.git\ncd tlou-remastered-pc",
+   "licenseNote": "GPL-2.0: you can use and change it, but if you share your version you must share your code under the same license.",
+   "prompt": "I found this GitHub project: https://github.com/ravencaio/tlou-remastered-pc\nWhat it says it does: \"Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T22:34:13.101Z"
+  },
   {
    "fullName": "QuakeSwiftCharge/unlocktool",
    "owner": "QuakeSwiftCharge",
@@ -30738,76 +30803,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/blakeandersonw/ai-app-playbook\nWhat it says it does: \"How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T21:40:18.501Z"
-  },
-  {
-   "fullName": "crmne/spotifast",
-   "owner": "crmne",
-   "name": "spotifast",
-   "url": "https://github.com/crmne/spotifast",
-   "avatar": "https://avatars.githubusercontent.com/u/106617?v=4",
-   "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-   "language": "Rust",
-   "topics": [
-    "audio",
-    "cross-platform",
-    "desktop-app",
-    "egui",
-    "gui",
-    "librespot",
-    "linux",
-    "macos"
-   ],
-   "license": "MIT",
-   "stars": 9219,
-   "forks": 539,
-   "createdAt": "2026-08-27T12:46:32Z",
-   "branch": "main",
-   "homepage": "https://spotifast.rocks/",
-   "addedAt": "2026-10-26T17:16:02.268Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/crmne/spotifast?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/crmne/spotifast",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/crmne/spotifast/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/crmne/spotifast.git\ncd spotifast\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/crmne/spotifast\nWhat it says it does: \"Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T17:16:02.268Z"
   }
  ],
  "levels": {
+  "heavy": 56,
   "read": 254,
-  "account": 156,
-  "heavy": 55,
+  "account": 155,
   "instant": 35
  }
 }
