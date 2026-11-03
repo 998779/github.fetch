@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T09:57:24.718Z",
- "totalGuides": 1961,
+ "updatedAt": "2026-11-03T09:57:24.978Z",
+ "totalGuides": 1962,
  "items": [
+  {
+   "fullName": "TropicalCount/cubase",
+   "owner": "TropicalCount",
+   "name": "cubase",
+   "url": "https://github.com/TropicalCount/cubase",
+   "avatar": "https://avatars.githubusercontent.com/u/292578962?v=4",
+   "description": "Complete Cubase Studio 2026 standalone setup with all plugins and features, ready for immediate use on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "cubase",
+    "cubase-15",
+    "cubase-for-beginners",
+    "cubase-pro",
+    "cubase-pro-2026",
+    "cubase-setup",
+    "cubase-tutorial"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:11:27Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T09:57:24.977Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/TropicalCount/cubase",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/TropicalCount/cubase/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/TropicalCount/cubase\nWhat it says it does: \"Complete Cubase Studio 2026 standalone setup with all plugins and features, ready for immediate use on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T09:57:24.977Z"
+  },
   {
    "fullName": "LusterRopemakerGrade/aomei-backupper",
    "owner": "LusterRopemakerGrade",
@@ -30954,77 +31011,12 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/kuscholar/iDeck\nWhat it says it does: \"iDeck brings the SteamOS experience to iOS\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T10:58:04.122Z"
-  },
-  {
-   "fullName": "mxhm11cr/LinuxRunner",
-   "owner": "mxhm11cr",
-   "name": "LinuxRunner",
-   "url": "https://github.com/mxhm11cr/LinuxRunner",
-   "avatar": "https://avatars.githubusercontent.com/u/100222176?v=4",
-   "description": "Run ARM64 Linux applications and desktop environments on iPhone.",
-   "language": "C",
-   "topics": [
-    "arm64",
-    "debian",
-    "interpreter",
-    "ios",
-    "iphone",
-    "linux",
-    "open-source"
-   ],
-   "license": null,
-   "stars": 80,
-   "forks": 3,
-   "createdAt": "2026-10-25T20:47:02Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-26T10:58:03.634Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/mxhm11cr/LinuxRunner?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/mxhm11cr/LinuxRunner",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/mxhm11cr/LinuxRunner/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/mxhm11cr/LinuxRunner.git\ncd LinuxRunner",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/mxhm11cr/LinuxRunner\nWhat it says it does: \"Run ARM64 Linux applications and desktop environments on iPhone.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T10:58:03.634Z"
   }
  ],
  "levels": {
-  "read": 238,
+  "read": 239,
   "instant": 35,
   "account": 170,
-  "heavy": 57
+  "heavy": 56
  }
 }
