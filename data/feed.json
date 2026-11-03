@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T22:34:13.856Z",
- "totalGuides": 1991,
+ "updatedAt": "2026-11-03T22:34:14.131Z",
+ "totalGuides": 1992,
  "items": [
+  {
+   "fullName": "TermitePeace/drfoneunlock",
+   "owner": "TermitePeace",
+   "name": "drfoneunlock",
+   "url": "https://github.com/TermitePeace/drfoneunlock",
+   "avatar": "https://avatars.githubusercontent.com/u/292580085?v=4",
+   "description": "Full working installer for Drfoneunlock 2026. Ready-to-run desktop configuration with all necessary components included.",
+   "language": null,
+   "topics": [
+    "android-recovery",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "dr-fone-mobile",
+    "dr-fone-mobile-pc",
+    "fone",
+    "mobile-utility"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:11:59Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T22:34:14.130Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/TermitePeace/drfoneunlock",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/TermitePeace/drfoneunlock/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/TermitePeace/drfoneunlock\nWhat it says it does: \"Full working installer for Drfoneunlock 2026. Ready-to-run desktop configuration with all necessary components included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T22:34:14.130Z"
+  },
   {
    "fullName": "stellarorbrectify/aida-64-extreme",
    "owner": "stellarorbrectify",
@@ -30734,63 +30791,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/martinkeith700/ruyiJS\nWhat it says it does: \"A new-generation, minimalist browser purpose-built for AI-driven automation. The authentic Firefox JavaScript engine and networking stack, with no window and no renderer — made for web scraping, JS reverse engineering, data collection, and getting past bot checks.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T21:40:19.383Z"
-  },
-  {
-   "fullName": "martina9516/uncensored-ai-models",
-   "owner": "martina9516",
-   "name": "uncensored-ai-models",
-   "url": "https://github.com/martina9516/uncensored-ai-models",
-   "avatar": "https://avatars.githubusercontent.com/u/331912802?v=4",
-   "description": "Uncensored AI models from RouterHub — the website for one-key API access to Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-   "language": null,
-   "topics": [
-    "abliterated-models",
-    "ai-api",
-    "ai-gateway",
-    "anthropic-compatible",
-    "claude-api",
-    "claude-code",
-    "cursor",
-    "deepseek-api"
-   ],
-   "license": "MIT",
-   "stars": 110,
-   "forks": 25,
-   "createdAt": "2026-10-26T17:06:13Z",
-   "branch": "main",
-   "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=uncensored-ai-models",
-   "addedAt": "2026-10-26T21:40:19.104Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/martina9516/uncensored-ai-models",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/martina9516/uncensored-ai-models/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/martina9516/uncensored-ai-models\nWhat it says it does: \"Uncensored AI models from RouterHub — the website for one-key API access to Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T21:40:19.104Z"
   }
  ],
  "levels": {
