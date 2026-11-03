@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1967 guides written so far · last update 2026-11-03 17:42 UTC_
+_1968 guides written so far · last update 2026-11-03 17:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [deltachainchill/honeypot-detector](https://github.com/deltachainchill/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deltachainchill/honeypot-detector.md) |
 | [blizzardoxtug/ph-downloader](https://github.com/blizzardoxtug/ph-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blizzardoxtug/ph-downloader.md) |
 | [Codeonshovel/microsoft-365](https://github.com/Codeonshovel/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/codeonshovel/microsoft-365.md) |
 | [ShoreEvokerHeat/fl-studio](https://github.com/ShoreEvokerHeat/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shoreevokerheat/fl-studio.md) |
@@ -38,7 +39,6 @@ _1967 guides written so far · last update 2026-11-03 17:42 UTC_
 | [Greenyucherish/autodesk-cfd](https://github.com/Greenyucherish/autodesk-cfd) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greenyucherish/autodesk-cfd.md) |
 | [ConquerorKnight/multiaccountmanager](https://github.com/ConquerorKnight/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/conquerorknight/multiaccountmanager.md) |
 | [yt1988/who-are-you](https://github.com/yt1988/who-are-you) | JavaScript project | Runs in a browser tab, no account needed | [guide](guides/yt1988/who-are-you.md) |
-| [StarCommissioner/slideshow-video-maker](https://github.com/StarCommissioner/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/starcommissioner/slideshow-video-maker.md) |
 <!-- latest:end -->
 
 ## How it works
