@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1935 guides written so far · last update 2026-11-03 02:24 UTC_
+_1936 guides written so far · last update 2026-11-03 02:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AshTypeCutters/sketchup-pro](https://github.com/AshTypeCutters/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashtypecutters/sketchup-pro.md) |
 | [Balanov/shim](https://github.com/Balanov/shim) | Go project | Runs in the browser with a free account | [guide](guides/balanov/shim.md) |
 | [justrach/nanolight](https://github.com/justrach/nanolight) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanolight.md) |
 | [SplendorHornbill/windows-animated-wallpapers](https://github.com/SplendorHornbill/windows-animated-wallpapers) | Python project | Runs in the browser with a free account | [guide](guides/splendorhornbill/windows-animated-wallpapers.md) |
@@ -38,7 +39,6 @@ _1935 guides written so far · last update 2026-11-03 02:24 UTC_
 | [marbleorbweb94/ninjatrader-bot](https://github.com/marbleorbweb94/ninjatrader-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/marbleorbweb94/ninjatrader-bot.md) |
 | [FrontierHawkStove/atas-trading-bot](https://github.com/FrontierHawkStove/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/frontierhawkstove/atas-trading-bot.md) |
 | [TankPharaoh23/microsoft-project](https://github.com/TankPharaoh23/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tankpharaoh23/microsoft-project.md) |
-| [DistributorKnit/metatrader-5-bot](https://github.com/DistributorKnit/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/distributorknit/metatrader-5-bot.md) |
 <!-- latest:end -->
 
 ## How it works
