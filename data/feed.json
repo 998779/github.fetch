@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T22:34:14.565Z",
- "totalGuides": 1994,
+ "updatedAt": "2026-11-03T22:34:14.800Z",
+ "totalGuides": 1995,
  "items": [
+  {
+   "fullName": "Closedtowrath/adobe-after-effects",
+   "owner": "Closedtowrath",
+   "name": "adobe-after-effects",
+   "url": "https://github.com/Closedtowrath/adobe-after-effects",
+   "avatar": "https://avatars.githubusercontent.com/u/292578023?v=4",
+   "description": "Secure digital asset deployment pipeline for VFX Motion Studio 2026, ready-to-run desktop installation build.",
+   "language": null,
+   "topics": [
+    "adobe-after-effects",
+    "adobe-after-effects-for-windows",
+    "after-effects",
+    "after-effects-3d-animation-tools",
+    "after-effects-features",
+    "after-effects-free-24",
+    "after-effects-plugin",
+    "after-effects-plugin-ai"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 1,
+   "createdAt": "2026-11-02T10:10:11Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T22:34:14.800Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Closedtowrath/adobe-after-effects",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Closedtowrath/adobe-after-effects/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Closedtowrath/adobe-after-effects\nWhat it says it does: \"Secure digital asset deployment pipeline for VFX Motion Studio 2026, ready-to-run desktop installation build.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T22:34:14.800Z"
+  },
   {
    "fullName": "SonicLarvaAcclaim/chimera",
    "owner": "SonicLarvaAcclaim",
@@ -30711,89 +30768,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/deeplethe/utopia\nWhat it says it does: \"World's first open-source enterprise world model.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T21:40:19.976Z"
-  },
-  {
-   "fullName": "dsh-market/dsh-market",
-   "owner": "dsh-market",
-   "name": "dsh-market",
-   "url": "https://github.com/dsh-market/dsh-market",
-   "avatar": "https://avatars.githubusercontent.com/u/316826596?v=4",
-   "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-   "language": "TypeScript",
-   "topics": [
-    "deepseek-harness",
-    "dsh-plugin",
-    "marketplace"
-   ],
-   "license": "MIT",
-   "stars": 9076,
-   "forks": 351,
-   "createdAt": "2026-08-14T04:58:15Z",
-   "branch": "main",
-   "homepage": "https://dshmarket.com",
-   "addedAt": "2026-10-26T21:40:19.815Z",
-   "stack": {
-    "kind": "node",
-    "label": "React app",
-    "frameworks": [
-     "React"
-    ]
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/dsh-market/dsh-market",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/dsh-market/dsh-market",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/dsh-market/dsh-market?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/dsh-market/dsh-market",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/dsh-market/dsh-market/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": null,
-   "notes": [
-    "Uses playwright, which can't run inside a browser tab. Use Codespaces instead."
-   ],
-   "local": "git clone --depth 1 https://github.com/dsh-market/dsh-market.git\ncd dsh-market\nnpm install",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/dsh-market/dsh-market\nWhat it says it does: \"The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T21:40:19.815Z"
   }
  ],
  "levels": {
-  "read": 258,
+  "read": 259,
   "heavy": 56,
-  "account": 151,
+  "account": 150,
   "instant": 35
  }
 }
