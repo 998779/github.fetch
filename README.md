@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1940 guides written so far · last update 2026-11-03 02:24 UTC_
+_1941 guides written so far · last update 2026-11-03 02:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [stoneworkerenlarge/wondshare-recoverit](https://github.com/stoneworkerenlarge/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stoneworkerenlarge/wondshare-recoverit.md) |
 | [CylinderPlanner/dft-pro](https://github.com/CylinderPlanner/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cylinderplanner/dft-pro.md) |
 | [Restfoshackle/catia-cad](https://github.com/Restfoshackle/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restfoshackle/catia-cad.md) |
 | [TortoisePurge87/adobe-indesign](https://github.com/TortoisePurge87/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tortoisepurge87/adobe-indesign.md) |
@@ -38,7 +39,6 @@ _1940 guides written so far · last update 2026-11-03 02:24 UTC_
 | [PulseIceDominate/foneazy-mobile](https://github.com/PulseIceDominate/foneazy-mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pulseicedominate/foneazy-mobile.md) |
 | [maxwilsoneng2098t9/tiktok-comment-automation](https://github.com/maxwilsoneng2098t9/tiktok-comment-automation) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/tiktok-comment-automation.md) |
 | [superwardenseek/discord-server-raider](https://github.com/superwardenseek/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/superwardenseek/discord-server-raider.md) |
-| [Grabnovaportico/adobe-substance-3d](https://github.com/Grabnovaportico/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grabnovaportico/adobe-substance-3d.md) |
 <!-- latest:end -->
 
 ## How it works
