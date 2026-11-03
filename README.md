@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1980 guides written so far · last update 2026-11-03 17:42 UTC_
+_1981 guides written so far · last update 2026-11-03 17:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [drakolordx7/pokopia-recomp](https://github.com/drakolordx7/pokopia-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/drakolordx7/pokopia-recomp.md) |
 | [mille-okws/pestinha](https://github.com/mille-okws/pestinha) | Python project | Runs in the browser with a free account | [guide](guides/mille-okws/pestinha.md) |
 | [a55uka/nup](https://github.com/a55uka/nup) | Python project | Runs in the browser with a free account | [guide](guides/a55uka/nup.md) |
 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | JavaScript project | Runs in the browser with a free account | [guide](guides/artemnovitckii/claude-animation-skills.md) |
@@ -38,7 +39,6 @@ _1980 guides written so far · last update 2026-11-03 17:42 UTC_
 | [thresholdbearduct/reason-14](https://github.com/thresholdbearduct/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdbearduct/reason-14.md) |
 | [Nucleusanwish/microsoft-office](https://github.com/Nucleusanwish/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nucleusanwish/microsoft-office.md) |
 | [CraterAssembly31/microsoft-visio](https://github.com/CraterAssembly31/microsoft-visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/craterassembly31/microsoft-visio.md) |
-| [Midnightclitug/iobit-driver-booster](https://github.com/Midnightclitug/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midnightclitug/iobit-driver-booster.md) |
 <!-- latest:end -->
 
 ## How it works
