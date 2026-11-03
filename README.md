@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1939 guides written so far · last update 2026-11-03 02:24 UTC_
+_1940 guides written so far · last update 2026-11-03 02:24 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [CylinderPlanner/dft-pro](https://github.com/CylinderPlanner/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cylinderplanner/dft-pro.md) |
 | [Restfoshackle/catia-cad](https://github.com/Restfoshackle/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/restfoshackle/catia-cad.md) |
 | [TortoisePurge87/adobe-indesign](https://github.com/TortoisePurge87/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tortoisepurge87/adobe-indesign.md) |
 | [NetworkRaise/tenorshare-4ukey](https://github.com/NetworkRaise/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/networkraise/tenorshare-4ukey.md) |
@@ -38,7 +39,6 @@ _1939 guides written so far · last update 2026-11-03 02:24 UTC_
 | [maxwilsoneng2098t9/tiktok-comment-automation](https://github.com/maxwilsoneng2098t9/tiktok-comment-automation) | Python project | Runs in the browser with a free account | [guide](guides/maxwilsoneng2098t9/tiktok-comment-automation.md) |
 | [superwardenseek/discord-server-raider](https://github.com/superwardenseek/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/superwardenseek/discord-server-raider.md) |
 | [Grabnovaportico/adobe-substance-3d](https://github.com/Grabnovaportico/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/grabnovaportico/adobe-substance-3d.md) |
-| [Holdterjetty/discord-server-cloner](https://github.com/Holdterjetty/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holdterjetty/discord-server-cloner.md) |
 <!-- latest:end -->
 
 ## How it works
