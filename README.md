@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1945 guides written so far · last update 2026-11-03 09:57 UTC_
+_1946 guides written so far · last update 2026-11-03 09:57 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kevintngo/looseleaf](https://github.com/kevintngo/looseleaf) | Vite app | Runs in a browser tab, no account needed | [guide](guides/kevintngo/looseleaf.md) |
 | [Balanov/skein](https://github.com/Balanov/skein) | Go project | Runs in the browser with a free account | [guide](guides/balanov/skein.md) |
 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | Shell project | Runs in the browser with a free account | [guide](guides/mhfed/vn-law-check.md) |
 | [Ditchfarecover75/adobe-audition](https://github.com/Ditchfarecover75/adobe-audition) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ditchfarecover75/adobe-audition.md) |
@@ -38,7 +39,6 @@ _1945 guides written so far · last update 2026-11-03 09:57 UTC_
 | [NetworkRaise/tenorshare-4ukey](https://github.com/NetworkRaise/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/networkraise/tenorshare-4ukey.md) |
 | [AshTypeCutters/sketchup-pro](https://github.com/AshTypeCutters/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ashtypecutters/sketchup-pro.md) |
 | [Balanov/shim](https://github.com/Balanov/shim) | Go project | Runs in the browser with a free account | [guide](guides/balanov/shim.md) |
-| [justrach/nanolight](https://github.com/justrach/nanolight) | Zig project | Needs a real machine (or a GPU) to run | [guide](guides/justrach/nanolight.md) |
 <!-- latest:end -->
 
 ## How it works
