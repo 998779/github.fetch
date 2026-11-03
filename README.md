@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1970 guides written so far · last update 2026-11-03 17:42 UTC_
+_1971 guides written so far · last update 2026-11-03 17:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Nucleusanwish/microsoft-office](https://github.com/Nucleusanwish/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nucleusanwish/microsoft-office.md) |
 | [CraterAssembly31/microsoft-visio](https://github.com/CraterAssembly31/microsoft-visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/craterassembly31/microsoft-visio.md) |
 | [Midnightclitug/iobit-driver-booster](https://github.com/Midnightclitug/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/midnightclitug/iobit-driver-booster.md) |
 | [deltachainchill/honeypot-detector](https://github.com/deltachainchill/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deltachainchill/honeypot-detector.md) |
@@ -38,7 +39,6 @@ _1970 guides written so far · last update 2026-11-03 17:42 UTC_
 | [TropicalCount/cubase](https://github.com/TropicalCount/cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tropicalcount/cubase.md) |
 | [LusterRopemakerGrade/aomei-backupper](https://github.com/LusterRopemakerGrade/aomei-backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lusterropemakergrade/aomei-backupper.md) |
 | [SilversmithEmbody/whale-tracker](https://github.com/SilversmithEmbody/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/silversmithembody/whale-tracker.md) |
-| [Greenyucherish/autodesk-cfd](https://github.com/Greenyucherish/autodesk-cfd) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/greenyucherish/autodesk-cfd.md) |
 <!-- latest:end -->
 
 ## How it works
