@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-03T09:57:21.540Z",
- "totalGuides": 1947,
+ "updatedAt": "2026-11-03T09:57:21.866Z",
+ "totalGuides": 1948,
  "items": [
+  {
+   "fullName": "Balanov/verdict",
+   "owner": "Balanov",
+   "name": "verdict",
+   "url": "https://github.com/Balanov/verdict",
+   "avatar": "https://avatars.githubusercontent.com/u/29678847?v=4",
+   "description": "A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.",
+   "language": "Python",
+   "topics": [],
+   "license": "Apache-2.0",
+   "stars": 217,
+   "forks": 0,
+   "createdAt": "2026-11-02T19:14:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-03T09:57:21.865Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/Balanov/verdict/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Balanov/verdict?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Balanov/verdict",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Balanov/verdict/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Balanov/verdict.git\ncd verdict\npip install -e .",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Balanov/verdict\nWhat it says it does: \"A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-03T09:57:21.865Z"
+  },
   {
    "fullName": "SAOS-3624/dsh-see-now",
    "owner": "SAOS-3624",
@@ -31025,61 +31087,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/boyuchengz/canvas-mcp\nWhat it says it does: \"Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-26T04:56:04.399Z"
-  },
-  {
-   "fullName": "DrWhax/unfairplay",
-   "owner": "DrWhax",
-   "name": "unfairplay",
-   "url": "https://github.com/DrWhax/unfairplay",
-   "avatar": "https://avatars.githubusercontent.com/u/299879?v=4",
-   "description": "Decrypt IPA's on MacOS",
-   "language": "Go",
-   "topics": [],
-   "license": "MIT",
-   "stars": 88,
-   "forks": 33,
-   "createdAt": "2026-10-25T21:22:20Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-26T04:56:04.087Z",
-   "stack": {
-    "kind": "go",
-    "label": "Go project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/DrWhax/unfairplay?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/DrWhax/unfairplay",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/DrWhax/unfairplay/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "go build ./...",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/DrWhax/unfairplay.git\ncd unfairplay\ngo build ./...",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/DrWhax/unfairplay\nWhat it says it does: \"Decrypt IPA's on MacOS\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-26T04:56:04.087Z"
   }
  ],
  "levels": {
