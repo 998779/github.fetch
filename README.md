@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1973 guides written so far · last update 2026-11-03 17:42 UTC_
+_1974 guides written so far · last update 2026-11-03 17:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MomentumGuideContact/fonetrans](https://github.com/MomentumGuideContact/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/momentumguidecontact/fonetrans.md) |
 | [Drivekestation/instagram-liker-bot](https://github.com/Drivekestation/instagram-liker-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/drivekestation/instagram-liker-bot.md) |
 | [thresholdbearduct/reason-14](https://github.com/thresholdbearduct/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/thresholdbearduct/reason-14.md) |
 | [Nucleusanwish/microsoft-office](https://github.com/Nucleusanwish/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/nucleusanwish/microsoft-office.md) |
@@ -38,7 +39,6 @@ _1973 guides written so far · last update 2026-11-03 17:42 UTC_
 | [ShoreEvokerHeat/fl-studio](https://github.com/ShoreEvokerHeat/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shoreevokerheat/fl-studio.md) |
 | [wquguru/cicada](https://github.com/wquguru/cicada) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/wquguru/cicada.md) |
 | [Labelkreblast/sp-flash-tool](https://github.com/Labelkreblast/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/labelkreblast/sp-flash-tool.md) |
-| [TropicalCount/cubase](https://github.com/TropicalCount/cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tropicalcount/cubase.md) |
 <!-- latest:end -->
 
 ## How it works
