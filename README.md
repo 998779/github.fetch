@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1992 guides written so far · last update 2026-11-03 22:34 UTC_
+_1993 guides written so far · last update 2026-11-03 22:34 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ArrowDecoder81/androidunlocker](https://github.com/ArrowDecoder81/androidunlocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arrowdecoder81/androidunlocker.md) |
 | [TermitePeace/drfoneunlock](https://github.com/TermitePeace/drfoneunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/termitepeace/drfoneunlock.md) |
 | [stellarorbrectify/aida-64-extreme](https://github.com/stellarorbrectify/aida-64-extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stellarorbrectify/aida-64-extreme.md) |
 | [CeilingGeneral/landr-plugin-bundle](https://github.com/CeilingGeneral/landr-plugin-bundle) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilinggeneral/landr-plugin-bundle.md) |
@@ -38,7 +39,6 @@ _1992 guides written so far · last update 2026-11-03 22:34 UTC_
 | [MagoStudio/MagoStudio](https://github.com/MagoStudio/MagoStudio) | Next.js app | Runs in the browser with a free account | [guide](guides/magostudio/magostudio.md) |
 | [cyclopssupportgrip/genesis-miner](https://github.com/cyclopssupportgrip/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/cyclopssupportgrip/genesis-miner.md) |
 | [eveningmayormansion/sketchup-pro](https://github.com/eveningmayormansion/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/eveningmayormansion/sketchup-pro.md) |
-| [drakolordx7/pokopia-recomp](https://github.com/drakolordx7/pokopia-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/drakolordx7/pokopia-recomp.md) |
 <!-- latest:end -->
 
 ## How it works
