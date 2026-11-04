@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2066 guides written so far · last update 2026-11-04 23:33 UTC_
+_2067 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [VelocityChiefGrow/reason-14](https://github.com/VelocityChiefGrow/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/velocitychiefgrow/reason-14.md) |
 | [Basezurknife/microsoft-visio](https://github.com/Basezurknife/microsoft-visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/basezurknife/microsoft-visio.md) |
 | [BrightLeopardPop/catia-cad](https://github.com/BrightLeopardPop/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brightleopardpop/catia-cad.md) |
 | [ShoreSerpent/adobe-acrobat-pro](https://github.com/ShoreSerpent/adobe-acrobat-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shoreserpent/adobe-acrobat-pro.md) |
@@ -38,7 +39,6 @@ _2066 guides written so far · last update 2026-11-04 23:33 UTC_
 | [WyrmSpongeHaul/quant-trading-bot](https://github.com/WyrmSpongeHaul/quant-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wyrmspongehaul/quant-trading-bot.md) |
 | [PauseDirector27/touch-copy](https://github.com/PauseDirector27/touch-copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pausedirector27/touch-copy.md) |
 | [MonsterBlueSecret/cubase](https://github.com/MonsterBlueSecret/cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/monsterbluesecret/cubase.md) |
-| [PlumeParakeetRob/autodesk-inventor](https://github.com/PlumeParakeetRob/autodesk-inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plumeparakeetrob/autodesk-inventor.md) |
 <!-- latest:end -->
 
 ## How it works
