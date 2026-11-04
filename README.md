@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2052 guides written so far · last update 2026-11-04 23:33 UTC_
+_2053 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Pyramidpiworkshop/ozone-12-advanced](https://github.com/Pyramidpiworkshop/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pyramidpiworkshop/ozone-12-advanced.md) |
 | [ZenithSeaman/discord-server-cloner](https://github.com/ZenithSeaman/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zenithseaman/discord-server-cloner.md) |
 | [Blazedellafrost/display-fusion](https://github.com/Blazedellafrost/display-fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blazedellafrost/display-fusion.md) |
 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python project | Runs in the browser with a free account | [guide](guides/sarpstar/cinecode.md) |
@@ -38,7 +39,6 @@ _2052 guides written so far · last update 2026-11-04 23:33 UTC_
 | [Roninteeliminate/unlocktool](https://github.com/Roninteeliminate/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roninteeliminate/unlocktool.md) |
 | [Gryphonkoshake/sketchup-pro](https://github.com/Gryphonkoshake/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonkoshake/sketchup-pro.md) |
 | [FusePantherOutfit/fonetrans](https://github.com/FusePantherOutfit/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fusepantheroutfit/fonetrans.md) |
-| [breakstreamrescue/dft-pro](https://github.com/breakstreamrescue/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breakstreamrescue/dft-pro.md) |
 <!-- latest:end -->
 
 ## How it works
