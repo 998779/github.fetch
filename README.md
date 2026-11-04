@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2058 guides written so far · last update 2026-11-04 23:33 UTC_
+_2059 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DreamSwimmer/windows-optimizer](https://github.com/DreamSwimmer/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dreamswimmer/windows-optimizer.md) |
 | [WyrmSpongeHaul/quant-trading-bot](https://github.com/WyrmSpongeHaul/quant-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wyrmspongehaul/quant-trading-bot.md) |
 | [PauseDirector27/touch-copy](https://github.com/PauseDirector27/touch-copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pausedirector27/touch-copy.md) |
 | [MonsterBlueSecret/cubase](https://github.com/MonsterBlueSecret/cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/monsterbluesecret/cubase.md) |
@@ -38,7 +39,6 @@ _2058 guides written so far · last update 2026-11-04 23:33 UTC_
 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python project | Runs in the browser with a free account | [guide](guides/sarpstar/cinecode.md) |
 | [StraitBailiff/Voice-Changer-2026](https://github.com/StraitBailiff/Voice-Changer-2026) | Python project | Runs in the browser with a free account | [guide](guides/straitbailiff/voice-changer-2026.md) |
 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/worldonlyu/google_ai_pro_2year_zerocost_auto.md) |
-| [driveinspectorgrow/aida-64-extreme](https://github.com/driveinspectorgrow/aida-64-extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driveinspectorgrow/aida-64-extreme.md) |
 <!-- latest:end -->
 
 ## How it works
