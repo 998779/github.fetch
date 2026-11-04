@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T23:33:03.452Z",
- "totalGuides": 2056,
+ "updatedAt": "2026-11-04T23:33:03.669Z",
+ "totalGuides": 2057,
  "items": [
+  {
+   "fullName": "PauseDirector27/touch-copy",
+   "owner": "PauseDirector27",
+   "name": "touch-copy",
+   "url": "https://github.com/PauseDirector27/touch-copy",
+   "avatar": "https://avatars.githubusercontent.com/u/292595693?v=4",
+   "description": "Touch Copy 2026: Complete standalone setup with all features pre-activated, ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "content-copy",
+    "copyfail",
+    "desktop",
+    "developer-tools",
+    "iphone",
+    "open-source",
+    "phone-tool"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:45:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T23:33:03.668Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/PauseDirector27/touch-copy",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PauseDirector27/touch-copy/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/PauseDirector27/touch-copy\nWhat it says it does: \"Touch Copy 2026: Complete standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T23:33:03.668Z"
+  },
   {
    "fullName": "MonsterBlueSecret/cubase",
    "owner": "MonsterBlueSecret",
@@ -30465,63 +30522,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/hex-tools/hexstrike-ai-pc\nWhat it says it does: \"🎯 hexstrike-ai-pc-desktop-download 🎯\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T22:21:29.830Z"
-  },
-  {
-   "fullName": "BufferPenguin/DLSS-5-Anywhere",
-   "owner": "BufferPenguin",
-   "name": "DLSS-5-Anywhere",
-   "url": "https://github.com/BufferPenguin/DLSS-5-Anywhere",
-   "avatar": "https://avatars.githubusercontent.com/u/293966321?v=4",
-   "description": "🚀 Universal DLSS 5 installer and manager for ANY graphics card. Stable FPS boost for NVIDIA & AMD!",
-   "language": null,
-   "topics": [
-    "amd",
-    "amd-gpu",
-    "dlss",
-    "dlss-5-nvidia",
-    "dlss4",
-    "dlss5",
-    "dlss5-optiscaler",
-    "dlss5-swapper"
-   ],
-   "license": null,
-   "stars": 137,
-   "forks": 31,
-   "createdAt": "2026-10-27T18:57:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T22:21:29.657Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/BufferPenguin/DLSS-5-Anywhere",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BufferPenguin/DLSS-5-Anywhere/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/BufferPenguin/DLSS-5-Anywhere\nWhat it says it does: \"🚀 Universal DLSS 5 installer and manager for ANY graphics card. Stable FPS boost for NVIDIA & AMD!\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T22:21:29.657Z"
   }
  ],
  "levels": {
