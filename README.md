@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2040 guides written so far · last update 2026-11-04 17:55 UTC_
+_2041 guides written so far · last update 2026-11-04 17:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [breakstreamrescue/dft-pro](https://github.com/breakstreamrescue/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breakstreamrescue/dft-pro.md) |
 | [EnchanterSplit/autodesk-cfd](https://github.com/EnchanterSplit/autodesk-cfd) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchantersplit/autodesk-cfd.md) |
 | [Sealaconceal/dvd-creator](https://github.com/Sealaconceal/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sealaconceal/dvd-creator.md) |
 | [Obsidiandruoversee/discord-quest-completer](https://github.com/Obsidiandruoversee/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/obsidiandruoversee/discord-quest-completer.md) |
@@ -38,7 +39,6 @@ _2040 guides written so far · last update 2026-11-04 17:55 UTC_
 | [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftcoralemporium/instagram-liker-bot.md) |
 | [Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/basinflaworship2/fl-studio.md) |
 | [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arenasoldierplay/microsoft-office.md) |
-| [VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vectorlobsterbearing/landr-plugin-bundle.md) |
 <!-- latest:end -->
 
 ## How it works
