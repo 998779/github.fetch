@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T09:56:27.834Z",
- "totalGuides": 2016,
+ "updatedAt": "2026-11-04T09:56:28.318Z",
+ "totalGuides": 2017,
  "items": [
+  {
+   "fullName": "1337isnot1337/DOPPLERGEIST",
+   "owner": "1337isnot1337",
+   "name": "DOPPLERGEIST",
+   "url": "https://github.com/1337isnot1337/DOPPLERGEIST",
+   "avatar": "https://avatars.githubusercontent.com/u/164028474?v=4",
+   "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+   "language": "Python",
+   "topics": [
+    "acoustic-geolocation",
+    "ads-b",
+    "aircraft-tracking",
+    "airplane",
+    "audio-forensics",
+    "doppler-effect",
+    "doppler-shift",
+    "geolocation"
+   ],
+   "license": null,
+   "stars": 192,
+   "forks": 31,
+   "createdAt": "2026-11-02T23:54:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:28.316Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/1337isnot1337/DOPPLERGEIST/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/1337isnot1337/DOPPLERGEIST?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/1337isnot1337/DOPPLERGEIST",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/1337isnot1337/DOPPLERGEIST/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "pip install -e .",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/1337isnot1337/DOPPLERGEIST.git\ncd DOPPLERGEIST\npip install -e .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/1337isnot1337/DOPPLERGEIST\nWhat it says it does: \"Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:28.316Z"
+  },
   {
    "fullName": "PatchBuilderAmplify/stolen-crypto-tracer",
    "owner": "PatchBuilderAmplify",
@@ -30682,68 +30753,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/aiden0rchad/homelab-atlas\nWhat it says it does: \"Design polished homelab diagrams with real app logos. Self-hosted, Docker-ready, local-first, and no AI required.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:55.489Z"
-  },
-  {
-   "fullName": "Brandon04Gonzalez/p5r-android",
-   "owner": "Brandon04Gonzalez",
-   "name": "p5r-android",
-   "url": "https://github.com/Brandon04Gonzalez/p5r-android",
-   "avatar": "https://avatars.githubusercontent.com/u/171833918?v=4",
-   "description": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
-   "language": "C++",
-   "topics": [],
-   "license": "MIT",
-   "stars": 54,
-   "forks": 3,
-   "createdAt": "2026-10-25T22:26:00Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T06:09:55.238Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Brandon04Gonzalez/p5r-android?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Brandon04Gonzalez/p5r-android",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Brandon04Gonzalez/p5r-android/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Brandon04Gonzalez/p5r-android.git\ncd p5r-android",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Brandon04Gonzalez/p5r-android\nWhat it says it does: \"Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T06:09:55.238Z"
   }
  ],
  "levels": {
-  "account": 149,
-  "heavy": 53,
+  "account": 150,
+  "heavy": 52,
   "read": 264,
   "instant": 34
  }
