@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2004 guides written so far · last update 2026-11-04 02:40 UTC_
+_2005 guides written so far · last update 2026-11-04 02:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Chamberonconquer/capcut-for-windows](https://github.com/Chamberonconquer/capcut-for-windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chamberonconquer/capcut-for-windows.md) |
 | [ChetasLua/moss-keeper](https://github.com/ChetasLua/moss-keeper) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/chetaslua/moss-keeper.md) |
 | [DiameterZone/windows-optimizer](https://github.com/DiameterZone/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diameterzone/windows-optimizer.md) |
 | [DefenderRecover/monero-miner](https://github.com/DefenderRecover/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/defenderrecover/monero-miner.md) |
@@ -38,7 +39,6 @@ _2004 guides written so far · last update 2026-11-04 02:40 UTC_
 | [plotbatlodge/touch-copy](https://github.com/plotbatlodge/touch-copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plotbatlodge/touch-copy.md) |
 | [Closedtowrath/adobe-after-effects](https://github.com/Closedtowrath/adobe-after-effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/closedtowrath/adobe-after-effects.md) |
 | [SonicLarvaAcclaim/chimera](https://github.com/SonicLarvaAcclaim/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soniclarvaacclaim/chimera.md) |
-| [ArrowDecoder81/androidunlocker](https://github.com/ArrowDecoder81/androidunlocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arrowdecoder81/androidunlocker.md) |
 <!-- latest:end -->
 
 ## How it works
