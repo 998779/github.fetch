@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T02:40:25.153Z",
- "totalGuides": 2005,
+ "updatedAt": "2026-11-04T02:40:25.438Z",
+ "totalGuides": 2006,
  "items": [
+  {
+   "fullName": "WerewolfVapor61/ads-blocker",
+   "owner": "WerewolfVapor61",
+   "name": "ads-blocker",
+   "url": "https://github.com/WerewolfVapor61/ads-blocker",
+   "avatar": "https://avatars.githubusercontent.com/u/292589298?v=4",
+   "description": "Ads Blocker 2026: Full working installer, complete standalone setup ready to run.",
+   "language": null,
+   "topics": [
+    "adblock-lists",
+    "adblocker-ultimate-list",
+    "adblockplus",
+    "adguard-list",
+    "adsblock",
+    "automation",
+    "block-ads",
+    "desktop"
+   ],
+   "license": null,
+   "stars": 194,
+   "forks": 0,
+   "createdAt": "2026-11-03T10:58:44Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T02:40:25.437Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/WerewolfVapor61/ads-blocker",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/WerewolfVapor61/ads-blocker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/WerewolfVapor61/ads-blocker\nWhat it says it does: \"Ads Blocker 2026: Full working installer, complete standalone setup ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T02:40:25.437Z"
+  },
   {
    "fullName": "Chamberonconquer/capcut-for-windows",
    "owner": "Chamberonconquer",
@@ -30670,67 +30727,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/free-dam-man/warp-zerotrust-masque-skill\nWhat it says it does: \"Guided Muse auto-deployment: Cloudflare WARP on your own Zero Trust team with MASQUE protocol (wizard skill + one-shot prompt + verify script). 方法来源: 零度解说\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T00:53:22.375Z"
-  },
-  {
-   "fullName": "BenDBSS/Riposte-Frontline-Source",
-   "owner": "BenDBSS",
-   "name": "Riposte-Frontline-Source",
-   "url": "https://github.com/BenDBSS/Riposte-Frontline-Source",
-   "avatar": "https://avatars.githubusercontent.com/u/200756874?v=4",
-   "description": "Source code of Riposte: Frontline, a free FPS that runs in the browser on desktop and mobile. Play at https://www.playriposte.com",
-   "language": "JavaScript",
-   "topics": [],
-   "license": null,
-   "stars": 61,
-   "forks": 18,
-   "createdAt": "2026-10-25T10:10:59Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T00:53:22.190Z",
-   "stack": {
-    "kind": "other",
-    "label": "JavaScript project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/BenDBSS/Riposte-Frontline-Source?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/BenDBSS/Riposte-Frontline-Source",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BenDBSS/Riposte-Frontline-Source/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/BenDBSS/Riposte-Frontline-Source.git\ncd Riposte-Frontline-Source",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/BenDBSS/Riposte-Frontline-Source\nWhat it says it does: \"Source code of Riposte: Frontline, a free FPS that runs in the browser on desktop and mobile. Play at https://www.playriposte.com\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T00:53:22.190Z"
   }
  ],
  "levels": {
-  "read": 264,
+  "read": 265,
   "instant": 36,
   "heavy": 55,
-  "account": 145
+  "account": 144
  }
 }
