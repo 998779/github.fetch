@@ -1,8 +1,78 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T02:40:25.725Z",
- "totalGuides": 2007,
+ "updatedAt": "2026-11-04T02:40:26.001Z",
+ "totalGuides": 2008,
  "items": [
+  {
+   "fullName": "maluramichael/awesome-reverse-engineer-anything",
+   "owner": "maluramichael",
+   "name": "awesome-reverse-engineer-anything",
+   "url": "https://github.com/maluramichael/awesome-reverse-engineer-anything",
+   "avatar": "https://avatars.githubusercontent.com/u/1489383?v=4",
+   "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
+   "language": "Python",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "clean-room",
+    "decompilation",
+    "emulators",
+    "reverse-engineering",
+    "static-recompilation"
+   ],
+   "license": "CC-BY-4.0",
+   "stars": 170,
+   "forks": 7,
+   "createdAt": "2026-11-02T10:42:04Z",
+   "branch": "master",
+   "homepage": null,
+   "addedAt": "2026-11-04T02:40:26.000Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/maluramichael/awesome-reverse-engineer-anything/master",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/maluramichael/awesome-reverse-engineer-anything?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/maluramichael/awesome-reverse-engineer-anything",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/maluramichael/awesome-reverse-engineer-anything/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/maluramichael/awesome-reverse-engineer-anything.git\ncd awesome-reverse-engineer-anything",
+   "licenseNote": "CC-BY-4.0: read the license file before reusing it.",
+   "prompt": "I found this GitHub project: https://github.com/maluramichael/awesome-reverse-engineer-anything\nWhat it says it does: \"Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T02:40:26.000Z"
+  },
   {
    "fullName": "exzade/EXZA-Remote",
    "owner": "exzade",
@@ -30665,69 +30735,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/giantbitmonitor/NextFilee\nWhat it says it does: \"Filee alternative: NextFilee is a faster, lightweight, and fully offline drag-and-drop file converter.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:53.225Z"
-  },
-  {
-   "fullName": "Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper",
-   "owner": "Switch-Homebrew-Lab",
-   "name": "switch2-jailbreak-bootstrapper",
-   "url": "https://github.com/Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper",
-   "avatar": "https://avatars.githubusercontent.com/u/348469517?v=4",
-   "description": "Official USB-C jailbreak tool for Nintendo Switch 2 (Firmware 23.0.1). PowerShell-based bootstrapper for CFW activation.",
-   "language": null,
-   "topics": [
-    "bootstrapper",
-    "cfw",
-    "custom-firmware",
-    "homebrew",
-    "jailbreak",
-    "nintendo-switch",
-    "payload",
-    "powershell"
-   ],
-   "license": "MIT",
-   "stars": 126,
-   "forks": 51,
-   "createdAt": "2026-10-26T18:49:53Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T06:09:53.025Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper\nWhat it says it does: \"Official USB-C jailbreak tool for Nintendo Switch 2 (Firmware 23.0.1). PowerShell-based bootstrapper for CFW activation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T06:09:53.025Z"
   }
  ],
  "levels": {
-  "read": 266,
+  "account": 144,
+  "read": 265,
   "instant": 36,
-  "heavy": 55,
-  "account": 143
+  "heavy": 55
  }
 }
