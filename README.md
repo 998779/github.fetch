@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2013 guides written so far · last update 2026-11-04 09:56 UTC_
+_2014 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | Vite app | Runs in the browser with a free account | [guide](guides/brightsongwrath/personal-data-deletor-osint.md) |
 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | Code project | Runs in the browser with a free account | [guide](guides/lostuaexpand/windows-animated-wallpapers.md) |
 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript project | Runs in the browser with a free account | [guide](guides/andrew-babo/muse4ai.md) |
 | [Chipwithinflash/watson-AI-osint-all-in-one](https://github.com/Chipwithinflash/watson-AI-osint-all-in-one) | Vite app | Runs in the browser with a free account | [guide](guides/chipwithinflash/watson-ai-osint-all-in-one.md) |
@@ -38,7 +39,6 @@ _2013 guides written so far · last update 2026-11-04 09:56 UTC_
 | [Chamberonconquer/capcut-for-windows](https://github.com/Chamberonconquer/capcut-for-windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chamberonconquer/capcut-for-windows.md) |
 | [ChetasLua/moss-keeper](https://github.com/ChetasLua/moss-keeper) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/chetaslua/moss-keeper.md) |
 | [DiameterZone/windows-optimizer](https://github.com/DiameterZone/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diameterzone/windows-optimizer.md) |
-| [DefenderRecover/monero-miner](https://github.com/DefenderRecover/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/defenderrecover/monero-miner.md) |
 <!-- latest:end -->
 
 ## How it works

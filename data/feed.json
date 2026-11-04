@@ -1,8 +1,91 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T09:56:27.011Z",
- "totalGuides": 2013,
+ "updatedAt": "2026-11-04T09:56:27.414Z",
+ "totalGuides": 2014,
  "items": [
+  {
+   "fullName": "brightsongwrath/personal-data-deletor-osint",
+   "owner": "brightsongwrath",
+   "name": "personal-data-deletor-osint",
+   "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+   "avatar": "https://avatars.githubusercontent.com/u/317165612?v=4",
+   "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+   "language": "JavaScript",
+   "topics": [
+    "ccpa",
+    "data-brokers",
+    "delete-me",
+    "opsec",
+    "opt-out",
+    "portable",
+    "privacy",
+    "windows"
+   ],
+   "license": "MIT",
+   "stars": 299,
+   "forks": 44,
+   "createdAt": "2026-11-03T16:47:18Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:27.413Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/brightsongwrath/personal-data-deletor-osint",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/brightsongwrath/personal-data-deletor-osint",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/brightsongwrath/personal-data-deletor-osint?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/brightsongwrath/personal-data-deletor-osint",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/brightsongwrath/personal-data-deletor-osint/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [
+    "Uses electron, playwright, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/brightsongwrath/personal-data-deletor-osint.git\ncd personal-data-deletor-osint\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/brightsongwrath/personal-data-deletor-osint\nWhat it says it does: \"Ask 970 data brokers to delete your data. Free, local, no account, no server.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:27.413Z"
+  },
   {
    "fullName": "Lostuaexpand/windows-animated-wallpapers",
    "owner": "Lostuaexpand",
@@ -30667,92 +30750,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/typetheoryforall/FVjobs\nWhat it says it does: \"A Job Board for Formal Verification\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:54.764Z"
-  },
-  {
-   "fullName": "derek-zhuolin/motion-skill",
-   "owner": "derek-zhuolin",
-   "name": "motion-skill",
-   "url": "https://github.com/derek-zhuolin/motion-skill",
-   "avatar": "https://avatars.githubusercontent.com/u/226832840?v=4",
-   "description": "不出镜，用文案或录音把想法做成视频。Script- or voice-driven motion graphics with Codex and Remotion: real footage, captions, editable projects and 96 motion studies.",
-   "language": "TypeScript",
-   "topics": [
-    "agent-skills",
-    "captions",
-    "codex",
-    "content-creation",
-    "faceless-video",
-    "motion-graphics",
-    "remotion",
-    "video"
-   ],
-   "license": null,
-   "stars": 58,
-   "forks": 13,
-   "createdAt": "2026-10-26T11:14:46Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T06:09:54.568Z",
-   "stack": {
-    "kind": "node",
-    "label": "React app",
-    "frameworks": [
-     "React"
-    ]
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/derek-zhuolin/motion-skill",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run preview`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/derek-zhuolin/motion-skill",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/derek-zhuolin/motion-skill?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/derek-zhuolin/motion-skill",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/derek-zhuolin/motion-skill/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm run preview",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/derek-zhuolin/motion-skill.git\ncd motion-skill\nnpm install\nnpm run preview",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/derek-zhuolin/motion-skill\nWhat it says it does: \"不出镜，用文案或录音把想法做成视频。Script- or voice-driven motion graphics with Codex and Remotion: real footage, captions, editable projects and 96 motion studies.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T06:09:54.568Z"
   }
  ],
  "levels": {
-  "account": 148,
+  "account": 149,
   "heavy": 53,
   "read": 264,
-  "instant": 35
+  "instant": 34
  }
 }
