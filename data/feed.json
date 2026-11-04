@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T02:40:24.288Z",
- "totalGuides": 2002,
+ "updatedAt": "2026-11-04T02:40:24.565Z",
+ "totalGuides": 2003,
  "items": [
+  {
+   "fullName": "DiameterZone/windows-optimizer",
+   "owner": "DiameterZone",
+   "name": "windows-optimizer",
+   "url": "https://github.com/DiameterZone/windows-optimizer",
+   "avatar": "https://avatars.githubusercontent.com/u/292588988?v=4",
+   "description": "Windows Optimizer 2026: Complete standalone setup with all tools pre-activated, ready to run for optimal system performance.",
+   "language": null,
+   "topics": [
+    "automation",
+    "developer-tools",
+    "fps-booster-no-lag",
+    "frame-rate-boost",
+    "game-booster-free",
+    "open-source",
+    "optimize-windows",
+    "optimizer-tool"
+   ],
+   "license": null,
+   "stars": 196,
+   "forks": 0,
+   "createdAt": "2026-11-03T11:01:50Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T02:40:24.565Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/DiameterZone/windows-optimizer",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/DiameterZone/windows-optimizer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/DiameterZone/windows-optimizer\nWhat it says it does: \"Windows Optimizer 2026: Complete standalone setup with all tools pre-activated, ready to run for optimal system performance.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T02:40:24.565Z"
+  },
   {
    "fullName": "DefenderRecover/monero-miner",
    "owner": "DefenderRecover",
@@ -30664,68 +30721,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Clair-ChenShoujie/Babeldoc4GPT\nWhat it says it does: \"基于 BabelDOC 的 ChatGPT Work 云端 PDF 翻译工具，支持保留版式、双语输出及断点续译，默认无需额外翻译 API Key。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T00:53:21.687Z"
-  },
-  {
-   "fullName": "ngxson/esp32-usb-to-airprint",
-   "owner": "ngxson",
-   "name": "esp32-usb-to-airprint",
-   "url": "https://github.com/ngxson/esp32-usb-to-airprint",
-   "avatar": "https://avatars.githubusercontent.com/u/7702203?v=4",
-   "description": "Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3",
-   "language": "C",
-   "topics": [],
-   "license": "MIT",
-   "stars": 66,
-   "forks": 1,
-   "createdAt": "2026-10-26T16:18:54Z",
-   "branch": "master",
-   "homepage": null,
-   "addedAt": "2026-10-27T00:53:21.466Z",
-   "stack": {
-    "kind": "native",
-    "label": "C project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/ngxson/esp32-usb-to-airprint?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/ngxson/esp32-usb-to-airprint",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ngxson/esp32-usb-to-airprint/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/ngxson/esp32-usb-to-airprint.git\ncd esp32-usb-to-airprint",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/ngxson/esp32-usb-to-airprint\nWhat it says it does: \"Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T00:53:21.466Z"
   }
  ],
  "levels": {
-  "read": 263,
-  "heavy": 56,
+  "read": 264,
+  "heavy": 55,
   "account": 146,
   "instant": 35
  }

@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2002 guides written so far · last update 2026-11-04 02:40 UTC_
+_2003 guides written so far · last update 2026-11-04 02:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DiameterZone/windows-optimizer](https://github.com/DiameterZone/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diameterzone/windows-optimizer.md) |
 | [DefenderRecover/monero-miner](https://github.com/DefenderRecover/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/defenderrecover/monero-miner.md) |
 | [xFractals/pokopia-native](https://github.com/xFractals/pokopia-native) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/xfractals/pokopia-native.md) |
 | [ColumnDirector/dvd-creator](https://github.com/ColumnDirector/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/columndirector/dvd-creator.md) |
@@ -38,7 +39,6 @@ _2002 guides written so far · last update 2026-11-04 02:40 UTC_
 | [SonicLarvaAcclaim/chimera](https://github.com/SonicLarvaAcclaim/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/soniclarvaacclaim/chimera.md) |
 | [ArrowDecoder81/androidunlocker](https://github.com/ArrowDecoder81/androidunlocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arrowdecoder81/androidunlocker.md) |
 | [TermitePeace/drfoneunlock](https://github.com/TermitePeace/drfoneunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/termitepeace/drfoneunlock.md) |
-| [stellarorbrectify/aida-64-extreme](https://github.com/stellarorbrectify/aida-64-extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stellarorbrectify/aida-64-extreme.md) |
 <!-- latest:end -->
 
 ## How it works
