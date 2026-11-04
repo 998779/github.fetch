@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2019 guides written so far · last update 2026-11-04 09:56 UTC_
+_2020 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Lniosy/souhun](https://github.com/Lniosy/souhun) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/lniosy/souhun.md) |
 | [Badgenyamultiplexer/pc-game-fps-doctor](https://github.com/Badgenyamultiplexer/pc-game-fps-doctor) | Rust project | Runs in the browser with a free account | [guide](guides/badgenyamultiplexer/pc-game-fps-doctor.md) |
 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/open-rua/uni-robot-agent.md) |
 | [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) | Python project | Runs in the browser with a free account | [guide](guides/1337isnot1337/dopplergeist.md) |
@@ -38,7 +39,6 @@ _2019 guides written so far · last update 2026-11-04 09:56 UTC_
 | [Chipwithinflash/watson-AI-osint-all-in-one](https://github.com/Chipwithinflash/watson-AI-osint-all-in-one) | Vite app | Runs in the browser with a free account | [guide](guides/chipwithinflash/watson-ai-osint-all-in-one.md) |
 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | Vite app | Runs in the browser with a free account | [guide](guides/minireel/hghub.md) |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/govijr/terminal-mac.md) |
-| [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) | Python project | Runs in the browser with a free account | [guide](guides/maluramichael/awesome-reverse-engineer-anything.md) |
 <!-- latest:end -->
 
 ## How it works
