@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2020 guides written so far · last update 2026-11-04 09:56 UTC_
+_2021 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StormSkinkGrip/game-ping-multipath-router](https://github.com/StormSkinkGrip/game-ping-multipath-router) | Rust project | Runs in the browser with a free account | [guide](guides/stormskinkgrip/game-ping-multipath-router.md) |
 | [Lniosy/souhun](https://github.com/Lniosy/souhun) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/lniosy/souhun.md) |
 | [Badgenyamultiplexer/pc-game-fps-doctor](https://github.com/Badgenyamultiplexer/pc-game-fps-doctor) | Rust project | Runs in the browser with a free account | [guide](guides/badgenyamultiplexer/pc-game-fps-doctor.md) |
 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/open-rua/uni-robot-agent.md) |
@@ -38,7 +39,6 @@ _2020 guides written so far · last update 2026-11-04 09:56 UTC_
 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript project | Runs in the browser with a free account | [guide](guides/andrew-babo/muse4ai.md) |
 | [Chipwithinflash/watson-AI-osint-all-in-one](https://github.com/Chipwithinflash/watson-AI-osint-all-in-one) | Vite app | Runs in the browser with a free account | [guide](guides/chipwithinflash/watson-ai-osint-all-in-one.md) |
 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | Vite app | Runs in the browser with a free account | [guide](guides/minireel/hghub.md) |
-| [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/govijr/terminal-mac.md) |
 <!-- latest:end -->
 
 ## How it works
