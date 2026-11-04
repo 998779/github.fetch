@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2047 guides written so far · last update 2026-11-04 17:55 UTC_
+_2048 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/worldonlyu/google_ai_pro_2year_zerocost_auto.md) |
 | [driveinspectorgrow/aida-64-extreme](https://github.com/driveinspectorgrow/aida-64-extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driveinspectorgrow/aida-64-extreme.md) |
 | [StoneMonitor/whale-tracker](https://github.com/StoneMonitor/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stonemonitor/whale-tracker.md) |
 | [DawnShaperFrost90/slideshow-video-maker](https://github.com/DawnShaperFrost90/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dawnshaperfrost90/slideshow-video-maker.md) |
@@ -38,7 +39,6 @@ _2047 guides written so far · last update 2026-11-04 17:55 UTC_
 | [Sealaconceal/dvd-creator](https://github.com/Sealaconceal/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sealaconceal/dvd-creator.md) |
 | [Obsidiandruoversee/discord-quest-completer](https://github.com/Obsidiandruoversee/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/obsidiandruoversee/discord-quest-completer.md) |
 | [protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred) | Go project | Runs in the browser with a free account | [guide](guides/protonversestudio/wow-forever-builds-kindred.md) |
-| [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftrhymeprevail/genesis-miner.md) |
 <!-- latest:end -->
 
 ## How it works
