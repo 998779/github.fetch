@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2014 guides written so far · last update 2026-11-04 09:56 UTC_
+_2015 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Renly1994/xiaotang-daozai](https://github.com/Renly1994/xiaotang-daozai) | Rust project | Runs in the browser with a free account | [guide](guides/renly1994/xiaotang-daozai.md) |
 | [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | Vite app | Runs in the browser with a free account | [guide](guides/brightsongwrath/personal-data-deletor-osint.md) |
 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | Code project | Runs in the browser with a free account | [guide](guides/lostuaexpand/windows-animated-wallpapers.md) |
 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript project | Runs in the browser with a free account | [guide](guides/andrew-babo/muse4ai.md) |
@@ -38,7 +39,6 @@ _2014 guides written so far · last update 2026-11-04 09:56 UTC_
 | [WerewolfVapor61/ads-blocker](https://github.com/WerewolfVapor61/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/werewolfvapor61/ads-blocker.md) |
 | [Chamberonconquer/capcut-for-windows](https://github.com/Chamberonconquer/capcut-for-windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chamberonconquer/capcut-for-windows.md) |
 | [ChetasLua/moss-keeper](https://github.com/ChetasLua/moss-keeper) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/chetaslua/moss-keeper.md) |
-| [DiameterZone/windows-optimizer](https://github.com/DiameterZone/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diameterzone/windows-optimizer.md) |
 <!-- latest:end -->
 
 ## How it works

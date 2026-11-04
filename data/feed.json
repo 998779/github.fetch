@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T09:56:27.414Z",
- "totalGuides": 2014,
+ "updatedAt": "2026-11-04T09:56:27.619Z",
+ "totalGuides": 2015,
  "items": [
+  {
+   "fullName": "Renly1994/xiaotang-daozai",
+   "owner": "Renly1994",
+   "name": "xiaotang-daozai",
+   "url": "https://github.com/Renly1994/xiaotang-daozai",
+   "avatar": "https://avatars.githubusercontent.com/u/284593714?v=4",
+   "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+   "language": "Rust",
+   "topics": [
+    "desktop-widget",
+    "dynamic-island",
+    "egui",
+    "productivity",
+    "rust",
+    "windows"
+   ],
+   "license": "MIT",
+   "stars": 210,
+   "forks": 34,
+   "createdAt": "2026-11-03T04:25:22Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:27.618Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Renly1994/xiaotang-daozai?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Renly1994/xiaotang-daozai",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Renly1994/xiaotang-daozai/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Renly1994/xiaotang-daozai.git\ncd xiaotang-daozai\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Renly1994/xiaotang-daozai\nWhat it says it does: \"岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:27.618Z"
+  },
   {
    "fullName": "brightsongwrath/personal-data-deletor-osint",
    "owner": "brightsongwrath",
@@ -30688,68 +30750,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/zeekk0/OpenSakura\nWhat it says it does: \"OpenSakura: MekaHime's first AI companion, open source. 3D VRoid avatar, real-time voice, emotion state, OpenRouter or Ollama brain.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:55.016Z"
-  },
-  {
-   "fullName": "typetheoryforall/FVjobs",
-   "owner": "typetheoryforall",
-   "name": "FVjobs",
-   "url": "https://github.com/typetheoryforall/FVjobs",
-   "avatar": "https://avatars.githubusercontent.com/u/348341577?v=4",
-   "description": "A Job Board for Formal Verification",
-   "language": "Python",
-   "topics": [],
-   "license": "MIT",
-   "stars": 57,
-   "forks": 1,
-   "createdAt": "2026-10-26T14:11:16Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T06:09:54.764Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/typetheoryforall/FVjobs/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/typetheoryforall/FVjobs?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/typetheoryforall/FVjobs",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/typetheoryforall/FVjobs/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/typetheoryforall/FVjobs.git\ncd FVjobs",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/typetheoryforall/FVjobs\nWhat it says it does: \"A Job Board for Formal Verification\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T06:09:54.764Z"
   }
  ],
  "levels": {
