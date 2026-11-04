@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2045 guides written so far · last update 2026-11-04 17:55 UTC_
+_2046 guides written so far · last update 2026-11-04 17:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StoneMonitor/whale-tracker](https://github.com/StoneMonitor/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stonemonitor/whale-tracker.md) |
 | [DawnShaperFrost90/slideshow-video-maker](https://github.com/DawnShaperFrost90/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dawnshaperfrost90/slideshow-video-maker.md) |
 | [Roninteeliminate/unlocktool](https://github.com/Roninteeliminate/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roninteeliminate/unlocktool.md) |
 | [Gryphonkoshake/sketchup-pro](https://github.com/Gryphonkoshake/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonkoshake/sketchup-pro.md) |
@@ -38,7 +39,6 @@ _2045 guides written so far · last update 2026-11-04 17:55 UTC_
 | [protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred) | Go project | Runs in the browser with a free account | [guide](guides/protonversestudio/wow-forever-builds-kindred.md) |
 | [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftrhymeprevail/genesis-miner.md) |
 | [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purehazecottage/metatrader-5-bot.md) |
-| [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ramcocoonsever/microstation-2026.md) |
 <!-- latest:end -->
 
 ## How it works
