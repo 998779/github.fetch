@@ -1,8 +1,73 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T02:40:26.001Z",
- "totalGuides": 2008,
+ "updatedAt": "2026-11-04T09:56:25.821Z",
+ "totalGuides": 2009,
  "items": [
+  {
+   "fullName": "govijr/terminal-mac",
+   "owner": "govijr",
+   "name": "terminal-mac",
+   "url": "https://github.com/govijr/terminal-mac",
+   "avatar": "https://avatars.githubusercontent.com/u/111436589?v=4",
+   "description": "Entire MacOS running in your terminal.",
+   "language": "Swift",
+   "topics": [
+    "cli",
+    "gui",
+    "macos",
+    "shell",
+    "swift",
+    "terminal",
+    "tui"
+   ],
+   "license": "MIT",
+   "stars": 809,
+   "forks": 56,
+   "createdAt": "2026-11-03T03:22:56Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:25.806Z",
+   "stack": {
+    "kind": "native",
+    "label": "Swift project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/govijr/terminal-mac?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/govijr/terminal-mac",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/govijr/terminal-mac/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "Swift usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/govijr/terminal-mac.git\ncd terminal-mac",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/govijr/terminal-mac\nWhat it says it does: \"Entire MacOS running in your terminal.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:25.806Z"
+  },
   {
    "fullName": "maluramichael/awesome-reverse-engineer-anything",
    "owner": "maluramichael",
@@ -30678,69 +30743,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/JunWan666/astrbot-for-android\nWhat it says it does: \"在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:53.435Z"
-  },
-  {
-   "fullName": "giantbitmonitor/NextFilee",
-   "owner": "giantbitmonitor",
-   "name": "NextFilee",
-   "url": "https://github.com/giantbitmonitor/NextFilee",
-   "avatar": "https://avatars.githubusercontent.com/u/293966192?v=4",
-   "description": "Filee alternative: NextFilee is a faster, lightweight, and fully offline drag-and-drop file converter.",
-   "language": null,
-   "topics": [
-    "cli",
-    "cli-tool",
-    "converter",
-    "docs",
-    "document",
-    "documentation-tool",
-    "drag-and-drop",
-    "drag-drop"
-   ],
-   "license": "MIT",
-   "stars": 117,
-   "forks": 43,
-   "createdAt": "2026-10-26T23:55:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T06:09:53.225Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/giantbitmonitor/NextFilee",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/giantbitmonitor/NextFilee/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/giantbitmonitor/NextFilee\nWhat it says it does: \"Filee alternative: NextFilee is a faster, lightweight, and fully offline drag-and-drop file converter.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T06:09:53.225Z"
   }
  ],
  "levels": {
+  "heavy": 56,
   "account": 144,
-  "read": 265,
-  "instant": 36,
-  "heavy": 55
+  "read": 264,
+  "instant": 36
  }
 }

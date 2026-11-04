@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2008 guides written so far · last update 2026-11-04 02:40 UTC_
+_2009 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/govijr/terminal-mac.md) |
 | [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) | Python project | Runs in the browser with a free account | [guide](guides/maluramichael/awesome-reverse-engineer-anything.md) |
 | [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exzade/exza-remote.md) |
 | [WerewolfVapor61/ads-blocker](https://github.com/WerewolfVapor61/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/werewolfvapor61/ads-blocker.md) |
@@ -38,7 +39,6 @@ _2008 guides written so far · last update 2026-11-04 02:40 UTC_
 | [ColumnDirector/dvd-creator](https://github.com/ColumnDirector/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/columndirector/dvd-creator.md) |
 | [WoodInvestor/imei-repair](https://github.com/WoodInvestor/imei-repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/woodinvestor/imei-repair.md) |
 | [DiplomatShadow/display-fusion](https://github.com/DiplomatShadow/display-fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diplomatshadow/display-fusion.md) |
-| [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kkkkhazix/agent-autoloop.md) |
 <!-- latest:end -->
 
 ## How it works
