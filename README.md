@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2051 guides written so far · last update 2026-11-04 23:33 UTC_
+_2052 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ZenithSeaman/discord-server-cloner](https://github.com/ZenithSeaman/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zenithseaman/discord-server-cloner.md) |
 | [Blazedellafrost/display-fusion](https://github.com/Blazedellafrost/display-fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blazedellafrost/display-fusion.md) |
 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python project | Runs in the browser with a free account | [guide](guides/sarpstar/cinecode.md) |
 | [StraitBailiff/Voice-Changer-2026](https://github.com/StraitBailiff/Voice-Changer-2026) | Python project | Runs in the browser with a free account | [guide](guides/straitbailiff/voice-changer-2026.md) |
@@ -38,7 +39,6 @@ _2051 guides written so far · last update 2026-11-04 23:33 UTC_
 | [Gryphonkoshake/sketchup-pro](https://github.com/Gryphonkoshake/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonkoshake/sketchup-pro.md) |
 | [FusePantherOutfit/fonetrans](https://github.com/FusePantherOutfit/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fusepantheroutfit/fonetrans.md) |
 | [breakstreamrescue/dft-pro](https://github.com/breakstreamrescue/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breakstreamrescue/dft-pro.md) |
-| [EnchanterSplit/autodesk-cfd](https://github.com/EnchanterSplit/autodesk-cfd) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchantersplit/autodesk-cfd.md) |
 <!-- latest:end -->
 
 ## How it works
