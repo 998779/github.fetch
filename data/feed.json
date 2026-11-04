@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T02:40:25.438Z",
- "totalGuides": 2006,
+ "updatedAt": "2026-11-04T02:40:25.725Z",
+ "totalGuides": 2007,
  "items": [
+  {
+   "fullName": "exzade/EXZA-Remote",
+   "owner": "exzade",
+   "name": "EXZA-Remote",
+   "url": "https://github.com/exzade/EXZA-Remote",
+   "avatar": "https://avatars.githubusercontent.com/u/59999491?v=4",
+   "description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+   "language": null,
+   "topics": [
+    "ai-commander",
+    "ai-communication",
+    "ai-tools",
+    "automation",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex"
+   ],
+   "license": null,
+   "stars": 176,
+   "forks": 0,
+   "createdAt": "2026-11-02T10:04:59Z",
+   "branch": "main",
+   "homepage": "https://remote.exza.de/",
+   "addedAt": "2026-11-04T02:40:25.724Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/exzade/EXZA-Remote",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/exzade/EXZA-Remote/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/exzade/EXZA-Remote\nWhat it says it does: \"Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T02:40:25.724Z"
+  },
   {
    "fullName": "WerewolfVapor61/ads-blocker",
    "owner": "WerewolfVapor61",
@@ -30665,74 +30722,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Switch-Homebrew-Lab/switch2-jailbreak-bootstrapper\nWhat it says it does: \"Official USB-C jailbreak tool for Nintendo Switch 2 (Firmware 23.0.1). PowerShell-based bootstrapper for CFW activation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:53.025Z"
-  },
-  {
-   "fullName": "free-dam-man/warp-zerotrust-masque-skill",
-   "owner": "free-dam-man",
-   "name": "warp-zerotrust-masque-skill",
-   "url": "https://github.com/free-dam-man/warp-zerotrust-masque-skill",
-   "avatar": "https://avatars.githubusercontent.com/u/184605110?v=4",
-   "description": "Guided Muse auto-deployment: Cloudflare WARP on your own Zero Trust team with MASQUE protocol (wizard skill + one-shot prompt + verify script). 方法来源: 零度解说",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 56,
-   "forks": 11,
-   "createdAt": "2026-10-25T13:35:16Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T00:53:22.375Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/free-dam-man/warp-zerotrust-masque-skill/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/free-dam-man/warp-zerotrust-masque-skill?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/free-dam-man/warp-zerotrust-masque-skill",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/free-dam-man/warp-zerotrust-masque-skill/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/free-dam-man/warp-zerotrust-masque-skill.git\ncd warp-zerotrust-masque-skill",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/free-dam-man/warp-zerotrust-masque-skill\nWhat it says it does: \"Guided Muse auto-deployment: Cloudflare WARP on your own Zero Trust team with MASQUE protocol (wizard skill + one-shot prompt + verify script). 方法来源: 零度解说\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T00:53:22.375Z"
   }
  ],
  "levels": {
-  "read": 265,
+  "read": 266,
   "instant": 36,
   "heavy": 55,
-  "account": 144
+  "account": 143
  }
 }
