@@ -1,8 +1,74 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T02:40:23.799Z",
- "totalGuides": 2000,
+ "updatedAt": "2026-11-04T02:40:24.026Z",
+ "totalGuides": 2001,
  "items": [
+  {
+   "fullName": "xFractals/pokopia-native",
+   "owner": "xFractals",
+   "name": "pokopia-native",
+   "url": "https://github.com/xFractals/pokopia-native",
+   "avatar": "https://avatars.githubusercontent.com/u/351408713?v=4",
+   "description": "Build Pokémon Pokopia (Switch 2) into a native Mac app and iPhone app from your own dump. Tools only; no game content.",
+   "language": "C++",
+   "topics": [
+    "apple-silicon",
+    "ios",
+    "iphone",
+    "macos",
+    "metal",
+    "native",
+    "native-port",
+    "nintendo-switch-2"
+   ],
+   "license": "MIT",
+   "stars": 199,
+   "forks": 26,
+   "createdAt": "2026-11-02T10:31:12Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T02:40:24.025Z",
+   "stack": {
+    "kind": "native",
+    "label": "C++ project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/xFractals/pokopia-native?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/xFractals/pokopia-native",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/xFractals/pokopia-native/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/xFractals/pokopia-native.git\ncd pokopia-native",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/xFractals/pokopia-native\nWhat it says it does: \"Build Pokémon Pokopia (Switch 2) into a native Mac app and iPhone app from your own dump. Tools only; no game content.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T02:40:24.025Z"
+  },
   {
    "fullName": "ColumnDirector/dvd-creator",
    "owner": "ColumnDirector",
@@ -30646,74 +30712,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/daniellockyer/dstack\nWhat it says it does: \"The agent skills I use daily.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T00:53:21.266Z"
-  },
-  {
-   "fullName": "0xSero/all-historical-evidence-of-jesus-christ",
-   "owner": "0xSero",
-   "name": "all-historical-evidence-of-jesus-christ",
-   "url": "https://github.com/0xSero/all-historical-evidence-of-jesus-christ",
-   "avatar": "https://avatars.githubusercontent.com/u/69639595?v=4",
-   "description": "Evidence archive for Jesus of Nazareth: research dossier (PDF), New Testament, gnostic and extracanonical gospels, church fathers, ancient witnesses, Roman legal documents, archaeology, and all 238 cited references — searchable reader at https://0xsero.github.io/all-historical-ev",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 123,
-   "forks": 7,
-   "createdAt": "2026-10-26T19:52:32Z",
-   "branch": "main",
-   "homepage": "https://0xsero.github.io/all-historical-evidence-of-jesus-christ/",
-   "addedAt": "2026-10-27T00:53:21.059Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/0xSero/all-historical-evidence-of-jesus-christ/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/0xSero/all-historical-evidence-of-jesus-christ?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/0xSero/all-historical-evidence-of-jesus-christ",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/0xSero/all-historical-evidence-of-jesus-christ/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/0xSero/all-historical-evidence-of-jesus-christ.git\ncd all-historical-evidence-of-jesus-christ",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/0xSero/all-historical-evidence-of-jesus-christ\nWhat it says it does: \"Evidence archive for Jesus of Nazareth: research dossier (PDF), New Testament, gnostic and extracanonical gospels, church fathers, ancient witnesses, Roman legal documents, archaeology, and all 238 cited references — searchable reader at https://0xsero.github.io/all-historical-ev\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T00:53:21.059Z"
   }
  ],
  "levels": {
+  "heavy": 56,
   "read": 263,
-  "account": 147,
-  "heavy": 55,
+  "account": 146,
   "instant": 35
  }
 }
