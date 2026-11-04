@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T09:56:30.448Z",
- "totalGuides": 2025,
+ "updatedAt": "2026-11-04T09:56:30.681Z",
+ "totalGuides": 2026,
  "items": [
+  {
+   "fullName": "SkinkSmelter6/valorant-fps-lag-fixer",
+   "owner": "SkinkSmelter6",
+   "name": "valorant-fps-lag-fixer",
+   "url": "https://github.com/SkinkSmelter6/valorant-fps-lag-fixer",
+   "avatar": "https://avatars.githubusercontent.com/u/317164696?v=4",
+   "description": "VALORANT stutters, lags or won't start? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo.",
+   "language": "Rust",
+   "topics": [
+    "fps",
+    "game-optimization",
+    "lag",
+    "ping",
+    "presentmon",
+    "rust",
+    "valorant",
+    "vanguard"
+   ],
+   "license": "MIT",
+   "stars": 134,
+   "forks": 4,
+   "createdAt": "2026-11-03T17:13:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:30.680Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/SkinkSmelter6/valorant-fps-lag-fixer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/SkinkSmelter6/valorant-fps-lag-fixer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/SkinkSmelter6/valorant-fps-lag-fixer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/SkinkSmelter6/valorant-fps-lag-fixer.git\ncd valorant-fps-lag-fixer\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/SkinkSmelter6/valorant-fps-lag-fixer\nWhat it says it does: \"VALORANT stutters, lags or won't start? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:30.680Z"
+  },
   {
    "fullName": "andrewnakas/gtav-recomp",
    "owner": "andrewnakas",
@@ -30664,69 +30728,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/daimyodragonpit/BorisFX\nWhat it says it does: \"Complete standalone setup of BorisFX 2026, a professional video editing and visual effects solution ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T12:21:54.686Z"
-  },
-  {
-   "fullName": "TyphoonMidgeRegister/KMS-Pico",
-   "owner": "TyphoonMidgeRegister",
-   "name": "KMS-Pico",
-   "url": "https://github.com/TyphoonMidgeRegister/KMS-Pico",
-   "avatar": "https://avatars.githubusercontent.com/u/295655666?v=4",
-   "description": "Kms Pico Free 2026: Complete standalone setup with full activation ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "activation-fix",
-    "free-excel-word",
-    "key-management-system",
-    "kms-auto-2026",
-    "kms-auto-get",
-    "kms-pico-free",
-    "kmsauto-get",
-    "microsoft-office-26"
-   ],
-   "license": null,
-   "stars": 100,
-   "forks": 0,
-   "createdAt": "2026-10-27T11:42:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T12:21:54.519Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/TyphoonMidgeRegister/KMS-Pico",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/TyphoonMidgeRegister/KMS-Pico/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/TyphoonMidgeRegister/KMS-Pico\nWhat it says it does: \"Kms Pico Free 2026: Complete standalone setup with full activation ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T12:21:54.519Z"
   }
  ],
  "levels": {
+  "account": 152,
   "heavy": 55,
-  "account": 151,
-  "read": 262,
+  "read": 261,
   "instant": 32
  }
 }
