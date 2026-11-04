@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T17:55:53.854Z",
- "totalGuides": 2028,
+ "updatedAt": "2026-11-04T17:55:54.076Z",
+ "totalGuides": 2029,
  "items": [
+  {
+   "fullName": "VectorLobsterBearing/landr-plugin-bundle",
+   "owner": "VectorLobsterBearing",
+   "name": "landr-plugin-bundle",
+   "url": "https://github.com/VectorLobsterBearing/landr-plugin-bundle",
+   "avatar": "https://avatars.githubusercontent.com/u/292593941?v=4",
+   "description": "Landr Plugin Bundle 2026: Full working installer with all essential plugins pre-installed and ready to run on your desktop.",
+   "language": null,
+   "topics": [
+    "developer-tools",
+    "how-to-install-landr",
+    "how-to-install-landr-mastering",
+    "landr-desktop-2026",
+    "landr-desktop-package",
+    "landr-mastering",
+    "landr-setup-failed-fix",
+    "landr-studio"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:43:40Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T17:55:54.075Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/VectorLobsterBearing/landr-plugin-bundle",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/VectorLobsterBearing/landr-plugin-bundle/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/VectorLobsterBearing/landr-plugin-bundle\nWhat it says it does: \"Landr Plugin Bundle 2026: Full working installer with all essential plugins pre-installed and ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T17:55:54.075Z"
+  },
   {
    "fullName": "DeltaProviderGuide/auto-auction-bot-wow-forever",
    "owner": "DeltaProviderGuide",
@@ -30647,83 +30704,12 @@
    "licenseNote": "OFL-1.1: read the license file before reusing it.",
    "prompt": "I found this GitHub project: https://github.com/DNFDEVS/medeo-font\nWhat it says it does: \"Medeo Sans, Medeo Mono and Medeo Pixel: an open type family for Latin and Cyrillic by DNF (OFL 1.1)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T12:21:55.577Z"
-  },
-  {
-   "fullName": "PierreTucker147/deepseek-uncensored",
-   "owner": "PierreTucker147",
-   "name": "deepseek-uncensored",
-   "url": "https://github.com/PierreTucker147/deepseek-uncensored",
-   "avatar": "https://avatars.githubusercontent.com/u/331912984?v=4",
-   "description": "DeepSeek Uncensored from RouterHub — the website for model guide and API access, with GPT, Claude, GLM, Qwen and Grok under one key.",
-   "language": "Python",
-   "topics": [
-    "abliterated-models",
-    "ai-api",
-    "ai-jailbreaks",
-    "anthropic-compatible",
-    "claude-code",
-    "deepseek",
-    "deepseek-ai",
-    "deepseek-uncensored"
-   ],
-   "license": "MIT",
-   "stars": 73,
-   "forks": 12,
-   "createdAt": "2026-10-27T05:56:27Z",
-   "branch": "main",
-   "homepage": "https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=deepseek-uncensored",
-   "addedAt": "2026-10-27T12:21:55.228Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/PierreTucker147/deepseek-uncensored/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/PierreTucker147/deepseek-uncensored?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/PierreTucker147/deepseek-uncensored",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/PierreTucker147/deepseek-uncensored/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/PierreTucker147/deepseek-uncensored.git\ncd deepseek-uncensored",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/PierreTucker147/deepseek-uncensored\nWhat it says it does: \"DeepSeek Uncensored from RouterHub — the website for model guide and API access, with GPT, Claude, GLM, Qwen and Grok under one key.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T12:21:55.228Z"
   }
  ],
  "levels": {
-  "account": 153,
+  "read": 261,
+  "account": 152,
   "heavy": 55,
-  "read": 260,
   "instant": 32
  }
 }
