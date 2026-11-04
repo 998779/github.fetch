@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2059 guides written so far · last update 2026-11-04 23:33 UTC_
+_2060 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Platoonflasurvive/sp-flash-tool](https://github.com/Platoonflasurvive/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/platoonflasurvive/sp-flash-tool.md) |
 | [DreamSwimmer/windows-optimizer](https://github.com/DreamSwimmer/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dreamswimmer/windows-optimizer.md) |
 | [WyrmSpongeHaul/quant-trading-bot](https://github.com/WyrmSpongeHaul/quant-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wyrmspongehaul/quant-trading-bot.md) |
 | [PauseDirector27/touch-copy](https://github.com/PauseDirector27/touch-copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pausedirector27/touch-copy.md) |
@@ -38,7 +39,6 @@ _2059 guides written so far · last update 2026-11-04 23:33 UTC_
 | [Blazedellafrost/display-fusion](https://github.com/Blazedellafrost/display-fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blazedellafrost/display-fusion.md) |
 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python project | Runs in the browser with a free account | [guide](guides/sarpstar/cinecode.md) |
 | [StraitBailiff/Voice-Changer-2026](https://github.com/StraitBailiff/Voice-Changer-2026) | Python project | Runs in the browser with a free account | [guide](guides/straitbailiff/voice-changer-2026.md) |
-| [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/worldonlyu/google_ai_pro_2year_zerocost_auto.md) |
 <!-- latest:end -->
 
 ## How it works
