@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T23:33:02.979Z",
- "totalGuides": 2054,
+ "updatedAt": "2026-11-04T23:33:03.227Z",
+ "totalGuides": 2055,
  "items": [
+  {
+   "fullName": "PlumeParakeetRob/autodesk-inventor",
+   "owner": "PlumeParakeetRob",
+   "name": "autodesk-inventor",
+   "url": "https://github.com/PlumeParakeetRob/autodesk-inventor",
+   "avatar": "https://avatars.githubusercontent.com/u/292594312?v=4",
+   "description": "Autodesk Inventor Professional 2026 - Full working installer with all features pre-activated, ready for immediate desktop use.",
+   "language": null,
+   "topics": [
+    "autodesk-inventor-pro",
+    "autodesk-inventor-pro-pc",
+    "automation",
+    "developer-tools",
+    "inventor",
+    "inventor-automation",
+    "inventor-design",
+    "inventor-parts"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:41:30Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T23:33:03.226Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/PlumeParakeetRob/autodesk-inventor",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PlumeParakeetRob/autodesk-inventor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/PlumeParakeetRob/autodesk-inventor\nWhat it says it does: \"Autodesk Inventor Professional 2026 - Full working installer with all features pre-activated, ready for immediate desktop use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T23:33:03.226Z"
+  },
   {
    "fullName": "MagpieDirect/imei-repair",
    "owner": "MagpieDirect",
@@ -30470,73 +30527,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ\nWhat it says it does: \"Evidence archive for Jesus of Nazareth: research dossier (PDF), New Testament, gnostic and extracanonical gospels, church fathers, ancient witnesses, Roman legal documents, archaeology, and all 238 cited references — searchable reader at https://sybil-solutions.github.io/all-hist\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T22:21:29.443Z"
-  },
-  {
-   "fullName": "interplains/Zero-Breach-Toolkit",
-   "owner": "interplains",
-   "name": "Zero-Breach-Toolkit",
-   "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-   "avatar": "https://avatars.githubusercontent.com/u/39777629?v=4",
-   "description": "Free, open-source, offline checks for traces of known mercenary spyware. Tested with Windows computers and Android phone collections.",
-   "language": "Python",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 301,
-   "forks": 33,
-   "createdAt": "2026-10-25T14:41:34Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T22:21:29.267Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/interplains/Zero-Breach-Toolkit/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/interplains/Zero-Breach-Toolkit?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/interplains/Zero-Breach-Toolkit",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/interplains/Zero-Breach-Toolkit/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/interplains/Zero-Breach-Toolkit.git\ncd Zero-Breach-Toolkit",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/interplains/Zero-Breach-Toolkit\nWhat it says it does: \"Free, open-source, offline checks for traces of known mercenary spyware. Tested with Windows computers and Android phone collections.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T22:21:29.267Z"
   }
  ],
  "levels": {
-  "read": 279,
-  "account": 144,
+  "read": 280,
+  "account": 143,
   "heavy": 49,
   "instant": 28
  }

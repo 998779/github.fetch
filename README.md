@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2054 guides written so far · last update 2026-11-04 23:33 UTC_
+_2055 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PlumeParakeetRob/autodesk-inventor](https://github.com/PlumeParakeetRob/autodesk-inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plumeparakeetrob/autodesk-inventor.md) |
 | [MagpieDirect/imei-repair](https://github.com/MagpieDirect/imei-repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/magpiedirect/imei-repair.md) |
 | [Pyramidpiworkshop/ozone-12-advanced](https://github.com/Pyramidpiworkshop/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pyramidpiworkshop/ozone-12-advanced.md) |
 | [ZenithSeaman/discord-server-cloner](https://github.com/ZenithSeaman/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zenithseaman/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _2054 guides written so far · last update 2026-11-04 23:33 UTC_
 | [StoneMonitor/whale-tracker](https://github.com/StoneMonitor/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stonemonitor/whale-tracker.md) |
 | [DawnShaperFrost90/slideshow-video-maker](https://github.com/DawnShaperFrost90/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dawnshaperfrost90/slideshow-video-maker.md) |
 | [Roninteeliminate/unlocktool](https://github.com/Roninteeliminate/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roninteeliminate/unlocktool.md) |
-| [Gryphonkoshake/sketchup-pro](https://github.com/Gryphonkoshake/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonkoshake/sketchup-pro.md) |
 <!-- latest:end -->
 
 ## How it works
