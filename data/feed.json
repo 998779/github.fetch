@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T23:33:04.931Z",
- "totalGuides": 2063,
+ "updatedAt": "2026-11-04T23:33:05.246Z",
+ "totalGuides": 2064,
  "items": [
+  {
+   "fullName": "ShoreSerpent/adobe-acrobat-pro",
+   "owner": "ShoreSerpent",
+   "name": "adobe-acrobat-pro",
+   "url": "https://github.com/ShoreSerpent/adobe-acrobat-pro",
+   "avatar": "https://avatars.githubusercontent.com/u/292594531?v=4",
+   "description": "Secure PDF Document Processor 2026: Complete standalone setup with robust encryption features for secure digital asset management.",
+   "language": null,
+   "topics": [
+    "acrobat-dc-pro",
+    "acrobat-for-free-2026",
+    "acrobat-no-limits",
+    "acrobat-pdf",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "forms-acrobat-pro"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:41:00Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T23:33:05.245Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ShoreSerpent/adobe-acrobat-pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ShoreSerpent/adobe-acrobat-pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ShoreSerpent/adobe-acrobat-pro\nWhat it says it does: \"Secure PDF Document Processor 2026: Complete standalone setup with robust encryption features for secure digital asset management.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T23:33:05.245Z"
+  },
   {
    "fullName": "Convergedreladle79/aomei-backupper",
    "owner": "Convergedreladle79",
@@ -30349,75 +30406,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ChannelCooperStart/capri-ai\nWhat it says it does: \"🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T01:36:53.420Z"
-  },
-  {
-   "fullName": "horizon-rust/horizon",
-   "owner": "horizon-rust",
-   "name": "horizon",
-   "url": "https://github.com/horizon-rust/horizon",
-   "avatar": "https://avatars.githubusercontent.com/u/349008135?v=4",
-   "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
-   "language": "Rust",
-   "topics": [
-    "differential-testing",
-    "game-engine",
-    "gamedev",
-    "linux",
-    "minecraft",
-    "minecraft-java",
-    "reimplementation",
-    "rust"
-   ],
-   "license": "MIT",
-   "stars": 2903,
-   "forks": 204,
-   "createdAt": "2026-10-03T17:08:48Z",
-   "branch": "main",
-   "homepage": "https://playhorizon.dev",
-   "addedAt": "2026-10-27T22:21:31.152Z",
-   "stack": {
-    "kind": "rust",
-    "label": "Rust project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/horizon-rust/horizon?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/horizon-rust/horizon",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/horizon-rust/horizon/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "cargo build --release",
-   "run": "cargo run",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/horizon-rust/horizon.git\ncd horizon\ncargo build --release\ncargo run",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/horizon-rust/horizon\nWhat it says it does: \"Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T22:21:31.152Z"
   }
  ],
  "levels": {
-  "read": 287,
-  "account": 141,
+  "read": 288,
+  "account": 140,
   "heavy": 48,
   "instant": 24
  }
