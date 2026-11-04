@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2061 guides written so far · last update 2026-11-04 23:33 UTC_
+_2062 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TameAssistant/multiaccountmanager](https://github.com/TameAssistant/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tameassistant/multiaccountmanager.md) |
 | [circuitparrotmarket/adobe-after-effects](https://github.com/circuitparrotmarket/adobe-after-effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/circuitparrotmarket/adobe-after-effects.md) |
 | [Platoonflasurvive/sp-flash-tool](https://github.com/Platoonflasurvive/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/platoonflasurvive/sp-flash-tool.md) |
 | [DreamSwimmer/windows-optimizer](https://github.com/DreamSwimmer/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dreamswimmer/windows-optimizer.md) |
@@ -38,7 +39,6 @@ _2061 guides written so far · last update 2026-11-04 23:33 UTC_
 | [Pyramidpiworkshop/ozone-12-advanced](https://github.com/Pyramidpiworkshop/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pyramidpiworkshop/ozone-12-advanced.md) |
 | [ZenithSeaman/discord-server-cloner](https://github.com/ZenithSeaman/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zenithseaman/discord-server-cloner.md) |
 | [Blazedellafrost/display-fusion](https://github.com/Blazedellafrost/display-fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blazedellafrost/display-fusion.md) |
-| [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python project | Runs in the browser with a free account | [guide](guides/sarpstar/cinecode.md) |
 <!-- latest:end -->
 
 ## How it works
