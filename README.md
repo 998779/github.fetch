@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2009 guides written so far · last update 2026-11-04 09:56 UTC_
+_2010 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Minireel/HGhub](https://github.com/Minireel/HGhub) | Vite app | Runs in the browser with a free account | [guide](guides/minireel/hghub.md) |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/govijr/terminal-mac.md) |
 | [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) | Python project | Runs in the browser with a free account | [guide](guides/maluramichael/awesome-reverse-engineer-anything.md) |
 | [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exzade/exza-remote.md) |
@@ -38,7 +39,6 @@ _2009 guides written so far · last update 2026-11-04 09:56 UTC_
 | [xFractals/pokopia-native](https://github.com/xFractals/pokopia-native) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/xfractals/pokopia-native.md) |
 | [ColumnDirector/dvd-creator](https://github.com/ColumnDirector/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/columndirector/dvd-creator.md) |
 | [WoodInvestor/imei-repair](https://github.com/WoodInvestor/imei-repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/woodinvestor/imei-repair.md) |
-| [DiplomatShadow/display-fusion](https://github.com/DiplomatShadow/display-fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diplomatshadow/display-fusion.md) |
 <!-- latest:end -->
 
 ## How it works
