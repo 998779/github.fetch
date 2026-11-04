@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2036 guides written so far · last update 2026-11-04 17:55 UTC_
+_2037 guides written so far · last update 2026-11-04 17:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred) | Go project | Runs in the browser with a free account | [guide](guides/protonversestudio/wow-forever-builds-kindred.md) |
 | [DriftRhymePrevail/genesis-miner](https://github.com/DriftRhymePrevail/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftrhymeprevail/genesis-miner.md) |
 | [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purehazecottage/metatrader-5-bot.md) |
 | [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ramcocoonsever/microstation-2026.md) |
@@ -38,7 +39,6 @@ _2036 guides written so far · last update 2026-11-04 17:55 UTC_
 | [DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever) | Rust project | Runs in the browser with a free account | [guide](guides/deltaproviderguide/auto-auction-bot-wow-forever.md) |
 | [DolphinBridge36/game-server-route-racer](https://github.com/DolphinBridge36/game-server-route-racer) | Rust project | Runs in the browser with a free account | [guide](guides/dolphinbridge36/game-server-route-racer.md) |
 | [SkinkSmelter6/valorant-fps-lag-fixer](https://github.com/SkinkSmelter6/valorant-fps-lag-fixer) | Rust project | Runs in the browser with a free account | [guide](guides/skinksmelter6/valorant-fps-lag-fixer.md) |
-| [andrewnakas/gtav-recomp](https://github.com/andrewnakas/gtav-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/andrewnakas/gtav-recomp.md) |
 <!-- latest:end -->
 
 ## How it works
