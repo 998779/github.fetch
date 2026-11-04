@@ -1,8 +1,59 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T23:33:04.303Z",
- "totalGuides": 2060,
+ "updatedAt": "2026-11-04T23:33:04.522Z",
+ "totalGuides": 2061,
  "items": [
+  {
+   "fullName": "circuitparrotmarket/adobe-after-effects",
+   "owner": "circuitparrotmarket",
+   "name": "adobe-after-effects",
+   "url": "https://github.com/circuitparrotmarket/adobe-after-effects",
+   "avatar": "https://avatars.githubusercontent.com/u/315650209?v=4",
+   "description": "Complete standalone setup for VFX Motion Studio 2026. Secure digital asset deployment pipeline, pre-activated and ready to run.",
+   "language": null,
+   "topics": [
+    "adobe-after-effects",
+    "after-effects"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-04T09:10:45Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T23:33:04.521Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/circuitparrotmarket/adobe-after-effects",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/circuitparrotmarket/adobe-after-effects/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/circuitparrotmarket/adobe-after-effects\nWhat it says it does: \"Complete standalone setup for VFX Motion Studio 2026. Secure digital asset deployment pipeline, pre-activated and ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T23:33:04.521Z"
+  },
   {
    "fullName": "Platoonflasurvive/sp-flash-tool",
    "owner": "Platoonflasurvive",
@@ -30383,66 +30434,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/CopilotKit/OpenDuet\nWhat it says it does: \"An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T22:21:30.716Z"
-  },
-  {
-   "fullName": "AxiomMath/CFSG",
-   "owner": "AxiomMath",
-   "name": "CFSG",
-   "url": "https://github.com/AxiomMath/CFSG",
-   "avatar": "https://avatars.githubusercontent.com/u/216763904?v=4",
-   "description": "A Lean formalization of the Classification of Finite Simple Groups",
-   "language": "Lean",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 64,
-   "forks": 7,
-   "createdAt": "2026-10-27T13:19:32Z",
-   "branch": "main",
-   "homepage": "https://cfsg.axiommath.ai",
-   "addedAt": "2026-10-27T22:21:30.390Z",
-   "stack": {
-    "kind": "other",
-    "label": "Lean project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/AxiomMath/CFSG?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/AxiomMath/CFSG",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/AxiomMath/CFSG/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/AxiomMath/CFSG.git\ncd CFSG",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/AxiomMath/CFSG\nWhat it says it does: \"A Lean formalization of the Classification of Finite Simple Groups\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T22:21:30.390Z"
   }
  ],
  "levels": {
-  "read": 284,
-  "account": 142,
+  "read": 285,
+  "account": 141,
   "heavy": 49,
   "instant": 25
  }
