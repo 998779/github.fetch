@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2064 guides written so far · last update 2026-11-04 23:33 UTC_
+_2065 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BrightLeopardPop/catia-cad](https://github.com/BrightLeopardPop/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brightleopardpop/catia-cad.md) |
 | [ShoreSerpent/adobe-acrobat-pro](https://github.com/ShoreSerpent/adobe-acrobat-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shoreserpent/adobe-acrobat-pro.md) |
 | [Convergedreladle79/aomei-backupper](https://github.com/Convergedreladle79/aomei-backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/convergedreladle79/aomei-backupper.md) |
 | [TameAssistant/multiaccountmanager](https://github.com/TameAssistant/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tameassistant/multiaccountmanager.md) |
@@ -38,7 +39,6 @@ _2064 guides written so far · last update 2026-11-04 23:33 UTC_
 | [MonsterBlueSecret/cubase](https://github.com/MonsterBlueSecret/cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/monsterbluesecret/cubase.md) |
 | [PlumeParakeetRob/autodesk-inventor](https://github.com/PlumeParakeetRob/autodesk-inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plumeparakeetrob/autodesk-inventor.md) |
 | [MagpieDirect/imei-repair](https://github.com/MagpieDirect/imei-repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/magpiedirect/imei-repair.md) |
-| [Pyramidpiworkshop/ozone-12-advanced](https://github.com/Pyramidpiworkshop/ozone-12-advanced) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pyramidpiworkshop/ozone-12-advanced.md) |
 <!-- latest:end -->
 
 ## How it works
