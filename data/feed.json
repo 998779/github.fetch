@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T17:55:54.993Z",
- "totalGuides": 2033,
+ "updatedAt": "2026-11-04T17:55:55.227Z",
+ "totalGuides": 2034,
  "items": [
+  {
+   "fullName": "RamCocoonSever/microstation-2026",
+   "owner": "RamCocoonSever",
+   "name": "microstation-2026",
+   "url": "https://github.com/RamCocoonSever/microstation-2026",
+   "avatar": "https://avatars.githubusercontent.com/u/292594741?v=4",
+   "description": "Microstation 2026: Full working installer with all features pre-activated, ready for immediate desktop use.",
+   "language": null,
+   "topics": [
+    "automation",
+    "bentley-microstation-install-setup-windows-2026",
+    "desktop",
+    "developer-tools",
+    "diagram-software",
+    "infrastructure-design",
+    "microstation",
+    "microstation-2026"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:44:05Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T17:55:55.226Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/RamCocoonSever/microstation-2026",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/RamCocoonSever/microstation-2026/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/RamCocoonSever/microstation-2026\nWhat it says it does: \"Microstation 2026: Full working installer with all features pre-activated, ready for immediate desktop use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T17:55:55.226Z"
+  },
   {
    "fullName": "RaikageRegard/foneazy-mobile",
    "owner": "RaikageRegard",
@@ -30641,54 +30698,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/BookracyFOS/bookracy\nWhat it says it does: \"Free, open-source book search, reader and library.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T12:21:56.714Z"
-  },
-  {
-   "fullName": "pan8664716/HGTV",
-   "owner": "pan8664716",
-   "name": "HGTV",
-   "url": "https://github.com/pan8664716/HGTV",
-   "avatar": "https://avatars.githubusercontent.com/u/10355764?v=4",
-   "description": "短剧客户端（Android TV / 手机 / 平板）",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 56,
-   "forks": 6,
-   "createdAt": "2026-10-26T11:52:54Z",
-   "branch": "main",
-   "homepage": "https://t.me/hgtvhub",
-   "addedAt": "2026-10-27T12:21:56.508Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/pan8664716/HGTV",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/pan8664716/HGTV/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/pan8664716/HGTV\nWhat it says it does: \"短剧客户端（Android TV / 手机 / 平板）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T12:21:56.508Z"
   }
  ],
  "levels": {
