@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2022 guides written so far · last update 2026-11-04 09:56 UTC_
+_2023 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | JavaScript project | Runs in the browser with a free account | [guide](guides/dominikscholz/open-bot-avatar.md) |
 | [aronhy/marketing-skill-hub](https://github.com/aronhy/marketing-skill-hub) | Shell project | Runs in the browser with a free account | [guide](guides/aronhy/marketing-skill-hub.md) |
 | [StormSkinkGrip/game-ping-multipath-router](https://github.com/StormSkinkGrip/game-ping-multipath-router) | Rust project | Runs in the browser with a free account | [guide](guides/stormskinkgrip/game-ping-multipath-router.md) |
 | [Lniosy/souhun](https://github.com/Lniosy/souhun) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/lniosy/souhun.md) |
@@ -38,7 +39,6 @@ _2022 guides written so far · last update 2026-11-04 09:56 UTC_
 | [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | Vite app | Runs in the browser with a free account | [guide](guides/brightsongwrath/personal-data-deletor-osint.md) |
 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | Code project | Runs in the browser with a free account | [guide](guides/lostuaexpand/windows-animated-wallpapers.md) |
 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript project | Runs in the browser with a free account | [guide](guides/andrew-babo/muse4ai.md) |
-| [Chipwithinflash/watson-AI-osint-all-in-one](https://github.com/Chipwithinflash/watson-AI-osint-all-in-one) | Vite app | Runs in the browser with a free account | [guide](guides/chipwithinflash/watson-ai-osint-all-in-one.md) |
 <!-- latest:end -->
 
 ## How it works
