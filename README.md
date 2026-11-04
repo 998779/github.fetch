@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2023 guides written so far · last update 2026-11-04 09:56 UTC_
+_2024 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [capri-com/Capri-AI](https://github.com/capri-com/Capri-AI) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/capri-com/capri-ai.md) |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | JavaScript project | Runs in the browser with a free account | [guide](guides/dominikscholz/open-bot-avatar.md) |
 | [aronhy/marketing-skill-hub](https://github.com/aronhy/marketing-skill-hub) | Shell project | Runs in the browser with a free account | [guide](guides/aronhy/marketing-skill-hub.md) |
 | [StormSkinkGrip/game-ping-multipath-router](https://github.com/StormSkinkGrip/game-ping-multipath-router) | Rust project | Runs in the browser with a free account | [guide](guides/stormskinkgrip/game-ping-multipath-router.md) |
@@ -38,7 +39,6 @@ _2023 guides written so far · last update 2026-11-04 09:56 UTC_
 | [Renly1994/xiaotang-daozai](https://github.com/Renly1994/xiaotang-daozai) | Rust project | Runs in the browser with a free account | [guide](guides/renly1994/xiaotang-daozai.md) |
 | [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | Vite app | Runs in the browser with a free account | [guide](guides/brightsongwrath/personal-data-deletor-osint.md) |
 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | Code project | Runs in the browser with a free account | [guide](guides/lostuaexpand/windows-animated-wallpapers.md) |
-| [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript project | Runs in the browser with a free account | [guide](guides/andrew-babo/muse4ai.md) |
 <!-- latest:end -->
 
 ## How it works
