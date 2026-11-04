@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1999 guides written so far · last update 2026-11-04 02:40 UTC_
+_2000 guides written so far · last update 2026-11-04 02:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ColumnDirector/dvd-creator](https://github.com/ColumnDirector/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/columndirector/dvd-creator.md) |
 | [WoodInvestor/imei-repair](https://github.com/WoodInvestor/imei-repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/woodinvestor/imei-repair.md) |
 | [DiplomatShadow/display-fusion](https://github.com/DiplomatShadow/display-fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diplomatshadow/display-fusion.md) |
 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kkkkhazix/agent-autoloop.md) |
@@ -38,7 +39,6 @@ _1999 guides written so far · last update 2026-11-04 02:40 UTC_
 | [stellarorbrectify/aida-64-extreme](https://github.com/stellarorbrectify/aida-64-extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stellarorbrectify/aida-64-extreme.md) |
 | [CeilingGeneral/landr-plugin-bundle](https://github.com/CeilingGeneral/landr-plugin-bundle) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilinggeneral/landr-plugin-bundle.md) |
 | [petastarfishrear/axie-infinity-bot](https://github.com/petastarfishrear/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/petastarfishrear/axie-infinity-bot.md) |
-| [ravencaio/tlou-remastered-pc](https://github.com/ravencaio/tlou-remastered-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/ravencaio/tlou-remastered-pc.md) |
 <!-- latest:end -->
 
 ## How it works
