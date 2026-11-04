@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2032 guides written so far · last update 2026-11-04 17:55 UTC_
+_2033 guides written so far · last update 2026-11-04 17:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [RaikageRegard/foneazy-mobile](https://github.com/RaikageRegard/foneazy-mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/raikageregard/foneazy-mobile.md) |
 | [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftcoralemporium/instagram-liker-bot.md) |
 | [Basinflaworship2/fl-studio](https://github.com/Basinflaworship2/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/basinflaworship2/fl-studio.md) |
 | [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arenasoldierplay/microsoft-office.md) |
@@ -38,7 +39,6 @@ _2032 guides written so far · last update 2026-11-04 17:55 UTC_
 | [capri-com/Capri-AI](https://github.com/capri-com/Capri-AI) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/capri-com/capri-ai.md) |
 | [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) | JavaScript project | Runs in the browser with a free account | [guide](guides/dominikscholz/open-bot-avatar.md) |
 | [aronhy/marketing-skill-hub](https://github.com/aronhy/marketing-skill-hub) | Shell project | Runs in the browser with a free account | [guide](guides/aronhy/marketing-skill-hub.md) |
-| [StormSkinkGrip/game-ping-multipath-router](https://github.com/StormSkinkGrip/game-ping-multipath-router) | Rust project | Runs in the browser with a free account | [guide](guides/stormskinkgrip/game-ping-multipath-router.md) |
 <!-- latest:end -->
 
 ## How it works

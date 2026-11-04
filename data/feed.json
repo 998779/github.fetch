@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T17:55:54.755Z",
- "totalGuides": 2032,
+ "updatedAt": "2026-11-04T17:55:54.993Z",
+ "totalGuides": 2033,
  "items": [
+  {
+   "fullName": "RaikageRegard/foneazy-mobile",
+   "owner": "RaikageRegard",
+   "name": "foneazy-mobile",
+   "url": "https://github.com/RaikageRegard/foneazy-mobile",
+   "avatar": "https://avatars.githubusercontent.com/u/292592297?v=4",
+   "description": "Complete standalone setup for Foneazy Mobile 2023. Fully functional desktop installation ready to run.",
+   "language": null,
+   "topics": [
+    "advanced-phoneinfoga-toolkit",
+    "android-faces",
+    "android-frontend",
+    "android-phones",
+    "android-repurposing",
+    "android-world",
+    "developer-tools",
+    "feature-phone"
+   ],
+   "license": null,
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:43:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T17:55:54.992Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/RaikageRegard/foneazy-mobile",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/RaikageRegard/foneazy-mobile/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/RaikageRegard/foneazy-mobile\nWhat it says it does: \"Complete standalone setup for Foneazy Mobile 2023. Fully functional desktop installation ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T17:55:54.992Z"
+  },
   {
    "fullName": "driftcoralemporium/instagram-liker-bot",
    "owner": "driftcoralemporium",
@@ -30632,69 +30689,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/pan8664716/HGTV\nWhat it says it does: \"短剧客户端（Android TV / 手机 / 平板）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T12:21:56.508Z"
-  },
-  {
-   "fullName": "JeensLab/AI-Companion",
-   "owner": "JeensLab",
-   "name": "AI-Companion",
-   "url": "https://github.com/JeensLab/AI-Companion",
-   "avatar": "https://avatars.githubusercontent.com/u/348394450?v=4",
-   "description": "Олег — ИИ-компаньон для Minecraft 1.21.1 и NeoForge. Общение, голос, добыча, крафт и совместное выживание.",
-   "language": "Java",
-   "topics": [],
-   "license": null,
-   "stars": 57,
-   "forks": 7,
-   "createdAt": "2026-10-26T16:04:27Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T12:21:56.296Z",
-   "stack": {
-    "kind": "native",
-    "label": "Java project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/JeensLab/AI-Companion?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/JeensLab/AI-Companion",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/JeensLab/AI-Companion/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/JeensLab/AI-Companion.git\ncd AI-Companion",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/JeensLab/AI-Companion\nWhat it says it does: \"Олег — ИИ-компаньон для Minecraft 1.21.1 и NeoForge. Общение, голос, добыча, крафт и совместное выживание.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T12:21:56.296Z"
   }
  ],
  "levels": {
-  "read": 264,
+  "read": 265,
   "account": 149,
-  "heavy": 55,
+  "heavy": 54,
   "instant": 32
  }
 }
