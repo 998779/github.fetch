@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2043 guides written so far · last update 2026-11-04 17:55 UTC_
+_2044 guides written so far · last update 2026-11-04 17:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Roninteeliminate/unlocktool](https://github.com/Roninteeliminate/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roninteeliminate/unlocktool.md) |
 | [Gryphonkoshake/sketchup-pro](https://github.com/Gryphonkoshake/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonkoshake/sketchup-pro.md) |
 | [FusePantherOutfit/fonetrans](https://github.com/FusePantherOutfit/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fusepantheroutfit/fonetrans.md) |
 | [breakstreamrescue/dft-pro](https://github.com/breakstreamrescue/dft-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/breakstreamrescue/dft-pro.md) |
@@ -38,7 +39,6 @@ _2043 guides written so far · last update 2026-11-04 17:55 UTC_
 | [purehazecottage/metatrader-5-bot](https://github.com/purehazecottage/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/purehazecottage/metatrader-5-bot.md) |
 | [RamCocoonSever/microstation-2026](https://github.com/RamCocoonSever/microstation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ramcocoonsever/microstation-2026.md) |
 | [RaikageRegard/foneazy-mobile](https://github.com/RaikageRegard/foneazy-mobile) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/raikageregard/foneazy-mobile.md) |
-| [driftcoralemporium/instagram-liker-bot](https://github.com/driftcoralemporium/instagram-liker-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driftcoralemporium/instagram-liker-bot.md) |
 <!-- latest:end -->
 
 ## How it works
