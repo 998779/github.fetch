@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2048 guides written so far · last update 2026-11-04 23:33 UTC_
+_2049 guides written so far · last update 2026-11-04 23:33 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [StraitBailiff/Voice-Changer-2026](https://github.com/StraitBailiff/Voice-Changer-2026) | Python project | Runs in the browser with a free account | [guide](guides/straitbailiff/voice-changer-2026.md) |
 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/worldonlyu/google_ai_pro_2year_zerocost_auto.md) |
 | [driveinspectorgrow/aida-64-extreme](https://github.com/driveinspectorgrow/aida-64-extreme) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/driveinspectorgrow/aida-64-extreme.md) |
 | [StoneMonitor/whale-tracker](https://github.com/StoneMonitor/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/stonemonitor/whale-tracker.md) |
@@ -38,7 +39,6 @@ _2048 guides written so far · last update 2026-11-04 23:33 UTC_
 | [EnchanterSplit/autodesk-cfd](https://github.com/EnchanterSplit/autodesk-cfd) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/enchantersplit/autodesk-cfd.md) |
 | [Sealaconceal/dvd-creator](https://github.com/Sealaconceal/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sealaconceal/dvd-creator.md) |
 | [Obsidiandruoversee/discord-quest-completer](https://github.com/Obsidiandruoversee/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/obsidiandruoversee/discord-quest-completer.md) |
-| [protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred) | Go project | Runs in the browser with a free account | [guide](guides/protonversestudio/wow-forever-builds-kindred.md) |
 <!-- latest:end -->
 
 ## How it works
