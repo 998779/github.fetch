@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2029 guides written so far · last update 2026-11-04 17:55 UTC_
+_2030 guides written so far · last update 2026-11-04 17:55 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ArenaSoldierPlay/microsoft-office](https://github.com/ArenaSoldierPlay/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arenasoldierplay/microsoft-office.md) |
 | [VectorLobsterBearing/landr-plugin-bundle](https://github.com/VectorLobsterBearing/landr-plugin-bundle) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/vectorlobsterbearing/landr-plugin-bundle.md) |
 | [DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever) | Rust project | Runs in the browser with a free account | [guide](guides/deltaproviderguide/auto-auction-bot-wow-forever.md) |
 | [DolphinBridge36/game-server-route-racer](https://github.com/DolphinBridge36/game-server-route-racer) | Rust project | Runs in the browser with a free account | [guide](guides/dolphinbridge36/game-server-route-racer.md) |
@@ -38,7 +39,6 @@ _2029 guides written so far · last update 2026-11-04 17:55 UTC_
 | [StormSkinkGrip/game-ping-multipath-router](https://github.com/StormSkinkGrip/game-ping-multipath-router) | Rust project | Runs in the browser with a free account | [guide](guides/stormskinkgrip/game-ping-multipath-router.md) |
 | [Lniosy/souhun](https://github.com/Lniosy/souhun) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/lniosy/souhun.md) |
 | [Badgenyamultiplexer/pc-game-fps-doctor](https://github.com/Badgenyamultiplexer/pc-game-fps-doctor) | Rust project | Runs in the browser with a free account | [guide](guides/badgenyamultiplexer/pc-game-fps-doctor.md) |
-| [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/open-rua/uni-robot-agent.md) |
 <!-- latest:end -->
 
 ## How it works
