@@ -1,8 +1,91 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T09:56:26.206Z",
- "totalGuides": 2010,
+ "updatedAt": "2026-11-04T09:56:26.555Z",
+ "totalGuides": 2011,
  "items": [
+  {
+   "fullName": "Chipwithinflash/watson-AI-osint-all-in-one",
+   "owner": "Chipwithinflash",
+   "name": "watson-AI-osint-all-in-one",
+   "url": "https://github.com/Chipwithinflash/watson-AI-osint-all-in-one",
+   "avatar": "https://avatars.githubusercontent.com/u/317165610?v=4",
+   "description": "Free OSINT search tool for Windows. 3100+ sources, one field, no terminal.",
+   "language": "TypeScript",
+   "topics": [
+    "desktop",
+    "electron",
+    "email-lookup",
+    "footprint",
+    "osint",
+    "phone-lookup",
+    "username-search",
+    "windows"
+   ],
+   "license": "MIT",
+   "stars": 351,
+   "forks": 46,
+   "createdAt": "2026-11-03T16:40:12Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:26.553Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite",
+     "React"
+    ]
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/Chipwithinflash/watson-AI-osint-all-in-one",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/Chipwithinflash/watson-AI-osint-all-in-one",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Chipwithinflash/watson-AI-osint-all-in-one?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Chipwithinflash/watson-AI-osint-all-in-one",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Chipwithinflash/watson-AI-osint-all-in-one/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": "npm run dev",
+   "notes": [
+    "Uses electron, which can't run inside a browser tab. Use Codespaces instead."
+   ],
+   "local": "git clone --depth 1 https://github.com/Chipwithinflash/watson-AI-osint-all-in-one.git\ncd watson-AI-osint-all-in-one\nnpm install\nnpm run dev",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Chipwithinflash/watson-AI-osint-all-in-one\nWhat it says it does: \"Free OSINT search tool for Windows. 3100+ sources, one field, no terminal.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:26.553Z"
+  },
   {
    "fullName": "Minireel/HGhub",
    "owner": "Minireel",
@@ -30673,89 +30756,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/bnbxcs/TMTN\nWhat it says it does: \"trencher for binance agent wallet\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:54.119Z"
-  },
-  {
-   "fullName": "deepopen-com/deepopen-3d-webs",
-   "owner": "deepopen-com",
-   "name": "deepopen-3d-webs",
-   "url": "https://github.com/deepopen-com/deepopen-3d-webs",
-   "avatar": "https://avatars.githubusercontent.com/u/331844194?v=4",
-   "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animat",
-   "language": "Python",
-   "topics": [
-    "3d",
-    "gaussian-filter",
-    "gaussian-splatting"
-   ],
-   "license": null,
-   "stars": 78,
-   "forks": 0,
-   "createdAt": "2026-10-26T12:13:47Z",
-   "branch": "main",
-   "homepage": "https://www.deepopen.com",
-   "addedAt": "2026-10-27T06:09:53.878Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python Gradio app",
-    "frameworks": [
-     "Gradio"
-    ]
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "colab-new",
-   "launch": [
-    {
-     "id": "colab-new",
-     "label": "Google Colab",
-     "url": "https://colab.research.google.com/",
-     "needs": "free Google account",
-     "note": "New notebook, then run: !git clone https://github.com/deepopen-com/deepopen-3d-webs"
-    },
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/deepopen-com/deepopen-3d-webs/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/deepopen-com/deepopen-3d-webs?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/deepopen-com/deepopen-3d-webs",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/deepopen-com/deepopen-3d-webs/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": "python app.py",
-   "notes": [
-    "Uses heavy AI libraries (like PyTorch). Google Colab gives you a free GPU — Codespaces won't have one.",
-    "Has a Gradio web interface: when it starts, Codespaces pops up a link to open it in a new tab."
-   ],
-   "local": "git clone --depth 1 https://github.com/deepopen-com/deepopen-3d-webs.git\ncd deepopen-3d-webs\npip install -r requirements.txt\npython app.py",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/deepopen-com/deepopen-3d-webs\nWhat it says it does: \"Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animat\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T06:09:53.878Z"
   }
  ],
  "levels": {
-  "account": 145,
-  "heavy": 55,
+  "account": 146,
+  "heavy": 54,
   "read": 264,
   "instant": 36
  }
