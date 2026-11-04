@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T09:56:28.629Z",
- "totalGuides": 2018,
+ "updatedAt": "2026-11-04T09:56:28.888Z",
+ "totalGuides": 2019,
  "items": [
+  {
+   "fullName": "Badgenyamultiplexer/pc-game-fps-doctor",
+   "owner": "Badgenyamultiplexer",
+   "name": "pc-game-fps-doctor",
+   "url": "https://github.com/Badgenyamultiplexer/pc-game-fps-doctor",
+   "avatar": "https://avatars.githubusercontent.com/u/317165608?v=4",
+   "description": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
+   "language": "JavaScript",
+   "topics": [
+    "bufferbloat",
+    "fps",
+    "game-optimization",
+    "lag",
+    "ping",
+    "presentmon",
+    "rust",
+    "stuttering"
+   ],
+   "license": "MIT",
+   "stars": 167,
+   "forks": 9,
+   "createdAt": "2026-11-03T15:01:49Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:28.887Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Badgenyamultiplexer/pc-game-fps-doctor?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Badgenyamultiplexer/pc-game-fps-doctor",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Badgenyamultiplexer/pc-game-fps-doctor/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Badgenyamultiplexer/pc-game-fps-doctor.git\ncd pc-game-fps-doctor\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Badgenyamultiplexer/pc-game-fps-doctor\nWhat it says it does: \"One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:28.887Z"
+  },
   {
    "fullName": "Open-RUA/uni-robot-agent",
    "owner": "Open-RUA",
@@ -30681,68 +30745,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/cvg/FlexGlue\nWhat it says it does: \"FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Colab: demo.ipynb, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:56.162Z"
-  },
-  {
-   "fullName": "Esmerubphire/astrbot_plugin_feiyu_voice",
-   "owner": "Esmerubphire",
-   "name": "astrbot_plugin_feiyu_voice",
-   "url": "https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice",
-   "avatar": "https://avatars.githubusercontent.com/u/107990197?v=4",
-   "description": "AstrBot plugin and local HTTP service for Feiyu TTS, RVC v1 and optional score singing",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 53,
-   "forks": 3,
-   "createdAt": "2026-10-25T07:06:24Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T06:09:55.804Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Esmerubphire/astrbot_plugin_feiyu_voice/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Esmerubphire/astrbot_plugin_feiyu_voice?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Esmerubphire/astrbot_plugin_feiyu_voice",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -r requirements.txt",
-   "run": "python main.py",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice.git\ncd astrbot_plugin_feiyu_voice\npip install -r requirements.txt\npython main.py",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice\nWhat it says it does: \"AstrBot plugin and local HTTP service for Feiyu TTS, RVC v1 and optional score singing\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T06:09:55.804Z"
   }
  ],
  "levels": {

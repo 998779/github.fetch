@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2018 guides written so far · last update 2026-11-04 09:56 UTC_
+_2019 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Badgenyamultiplexer/pc-game-fps-doctor](https://github.com/Badgenyamultiplexer/pc-game-fps-doctor) | Rust project | Runs in the browser with a free account | [guide](guides/badgenyamultiplexer/pc-game-fps-doctor.md) |
 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/open-rua/uni-robot-agent.md) |
 | [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) | Python project | Runs in the browser with a free account | [guide](guides/1337isnot1337/dopplergeist.md) |
 | [PatchBuilderAmplify/stolen-crypto-tracer](https://github.com/PatchBuilderAmplify/stolen-crypto-tracer) | Rust project | Runs in the browser with a free account | [guide](guides/patchbuilderamplify/stolen-crypto-tracer.md) |
@@ -38,7 +39,6 @@ _2018 guides written so far · last update 2026-11-04 09:56 UTC_
 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | Vite app | Runs in the browser with a free account | [guide](guides/minireel/hghub.md) |
 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift project | Needs a real machine (or a GPU) to run | [guide](guides/govijr/terminal-mac.md) |
 | [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) | Python project | Runs in the browser with a free account | [guide](guides/maluramichael/awesome-reverse-engineer-anything.md) |
-| [exzade/EXZA-Remote](https://github.com/exzade/EXZA-Remote) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/exzade/exza-remote.md) |
 <!-- latest:end -->
 
 ## How it works
