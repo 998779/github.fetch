@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2026 guides written so far · last update 2026-11-04 09:56 UTC_
+_2027 guides written so far · last update 2026-11-04 09:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DolphinBridge36/game-server-route-racer](https://github.com/DolphinBridge36/game-server-route-racer) | Rust project | Runs in the browser with a free account | [guide](guides/dolphinbridge36/game-server-route-racer.md) |
 | [SkinkSmelter6/valorant-fps-lag-fixer](https://github.com/SkinkSmelter6/valorant-fps-lag-fixer) | Rust project | Runs in the browser with a free account | [guide](guides/skinksmelter6/valorant-fps-lag-fixer.md) |
 | [andrewnakas/gtav-recomp](https://github.com/andrewnakas/gtav-recomp) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/andrewnakas/gtav-recomp.md) |
 | [capri-com/Capri-AI](https://github.com/capri-com/Capri-AI) | C# project | Needs a real machine (or a GPU) to run | [guide](guides/capri-com/capri-ai.md) |
@@ -38,7 +39,6 @@ _2026 guides written so far · last update 2026-11-04 09:56 UTC_
 | [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | Python FastAPI app | Runs in the browser with a free account | [guide](guides/open-rua/uni-robot-agent.md) |
 | [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) | Python project | Runs in the browser with a free account | [guide](guides/1337isnot1337/dopplergeist.md) |
 | [PatchBuilderAmplify/stolen-crypto-tracer](https://github.com/PatchBuilderAmplify/stolen-crypto-tracer) | Rust project | Runs in the browser with a free account | [guide](guides/patchbuilderamplify/stolen-crypto-tracer.md) |
-| [Renly1994/xiaotang-daozai](https://github.com/Renly1994/xiaotang-daozai) | Rust project | Runs in the browser with a free account | [guide](guides/renly1994/xiaotang-daozai.md) |
 <!-- latest:end -->
 
 ## How it works

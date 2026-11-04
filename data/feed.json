@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T09:56:30.681Z",
- "totalGuides": 2026,
+ "updatedAt": "2026-11-04T09:56:30.915Z",
+ "totalGuides": 2027,
  "items": [
+  {
+   "fullName": "DolphinBridge36/game-server-route-racer",
+   "owner": "DolphinBridge36",
+   "name": "game-server-route-racer",
+   "url": "https://github.com/DolphinBridge36/game-server-route-racer",
+   "avatar": "https://avatars.githubusercontent.com/u/317164983?v=4",
+   "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+   "language": "Rust",
+   "topics": [
+    "game-routing",
+    "gaming",
+    "multipath",
+    "networking",
+    "packet-loss",
+    "ping",
+    "rust",
+    "wintun"
+   ],
+   "license": "MIT",
+   "stars": 133,
+   "forks": 10,
+   "createdAt": "2026-11-03T17:03:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:30.914Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/DolphinBridge36/game-server-route-racer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/DolphinBridge36/game-server-route-racer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/DolphinBridge36/game-server-route-racer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/DolphinBridge36/game-server-route-racer.git\ncd game-server-route-racer\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/DolphinBridge36/game-server-route-racer\nWhat it says it does: \"Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:30.914Z"
+  },
   {
    "fullName": "SkinkSmelter6/valorant-fps-lag-fixer",
    "owner": "SkinkSmelter6",
@@ -30671,69 +30735,12 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/stormydayy/halo-overlay\nWhat it says it does: \"Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T12:21:55.064Z"
-  },
-  {
-   "fullName": "daimyodragonpit/BorisFX",
-   "owner": "daimyodragonpit",
-   "name": "BorisFX",
-   "url": "https://github.com/daimyodragonpit/BorisFX",
-   "avatar": "https://avatars.githubusercontent.com/u/295655599?v=4",
-   "description": "Complete standalone setup of BorisFX 2026, a professional video editing and visual effects solution ready to run.",
-   "language": null,
-   "topics": [
-    "bcc-plugins-effects",
-    "boris-fx-plugin-sapphire",
-    "boris-fx-sapphire",
-    "borisfx",
-    "borisfx-plugin-free",
-    "free-boris-fx",
-    "plugins-after-effects",
-    "sapphire-download"
-   ],
-   "license": null,
-   "stars": 99,
-   "forks": 0,
-   "createdAt": "2026-10-27T11:42:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T12:21:54.686Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/daimyodragonpit/BorisFX",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/daimyodragonpit/BorisFX/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/daimyodragonpit/BorisFX\nWhat it says it does: \"Complete standalone setup of BorisFX 2026, a professional video editing and visual effects solution ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T12:21:54.686Z"
   }
  ],
  "levels": {
-  "account": 152,
+  "account": 153,
   "heavy": 55,
-  "read": 261,
+  "read": 260,
   "instant": 32
  }
 }
