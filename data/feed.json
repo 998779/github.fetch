@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-04T09:56:26.798Z",
- "totalGuides": 2012,
+ "updatedAt": "2026-11-04T09:56:27.011Z",
+ "totalGuides": 2013,
  "items": [
+  {
+   "fullName": "Lostuaexpand/windows-animated-wallpapers",
+   "owner": "Lostuaexpand",
+   "name": "windows-animated-wallpapers",
+   "url": "https://github.com/Lostuaexpand/windows-animated-wallpapers",
+   "avatar": "https://avatars.githubusercontent.com/u/341907341?v=4",
+   "description": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable",
+   "language": null,
+   "topics": [
+    "animated-wallpaper",
+    "desktop-customization",
+    "live-wallpaper",
+    "motion-background",
+    "open-source",
+    "webm",
+    "windows-10",
+    "windows-11"
+   ],
+   "license": "MIT",
+   "stars": 300,
+   "forks": 0,
+   "createdAt": "2026-11-04T04:53:31Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-04T09:56:27.010Z",
+   "stack": {
+    "kind": "other",
+    "label": "Code project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Lostuaexpand/windows-animated-wallpapers?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Lostuaexpand/windows-animated-wallpapers",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Lostuaexpand/windows-animated-wallpapers/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Lostuaexpand/windows-animated-wallpapers.git\ncd windows-animated-wallpapers",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Lostuaexpand/windows-animated-wallpapers\nWhat it says it does: \"High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-04T09:56:27.010Z"
+  },
   {
    "fullName": "andrew-babo/muse4ai",
    "owner": "andrew-babo",
@@ -30683,68 +30747,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/derek-zhuolin/motion-skill\nWhat it says it does: \"不出镜，用文案或录音把想法做成视频。Script- or voice-driven motion graphics with Codex and Remotion: real footage, captions, editable projects and 96 motion studies.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-27T06:09:54.568Z"
-  },
-  {
-   "fullName": "josiahg2502-glitch/Smash4PC",
-   "owner": "josiahg2502-glitch",
-   "name": "Smash4PC",
-   "url": "https://github.com/josiahg2502-glitch/Smash4PC",
-   "avatar": "https://avatars.githubusercontent.com/u/339941312?v=4",
-   "description": "Super Smash Bros. for Wii U, natively on Windows: a static recompilation (bring your own game)",
-   "language": "C++",
-   "topics": [],
-   "license": "MIT",
-   "stars": 59,
-   "forks": 1,
-   "createdAt": "2026-10-25T11:11:08Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-27T06:09:54.298Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/josiahg2502-glitch/Smash4PC?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/josiahg2502-glitch/Smash4PC",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/josiahg2502-glitch/Smash4PC/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/josiahg2502-glitch/Smash4PC.git\ncd Smash4PC",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/josiahg2502-glitch/Smash4PC\nWhat it says it does: \"Super Smash Bros. for Wii U, natively on Windows: a static recompilation (bring your own game)\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-27T06:09:54.298Z"
   }
  ],
  "levels": {
-  "account": 147,
-  "heavy": 54,
+  "account": 148,
+  "heavy": 53,
   "read": 264,
   "instant": 35
  }
