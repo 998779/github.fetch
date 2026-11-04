@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_1997 guides written so far · last update 2026-11-04 02:40 UTC_
+_1998 guides written so far · last update 2026-11-04 02:40 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [DiplomatShadow/display-fusion](https://github.com/DiplomatShadow/display-fusion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/diplomatshadow/display-fusion.md) |
 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | Node command-line tool | Runs in the browser with a free account | [guide](guides/kkkkhazix/agent-autoloop.md) |
 | [plotbatlodge/touch-copy](https://github.com/plotbatlodge/touch-copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plotbatlodge/touch-copy.md) |
 | [Closedtowrath/adobe-after-effects](https://github.com/Closedtowrath/adobe-after-effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/closedtowrath/adobe-after-effects.md) |
@@ -38,7 +39,6 @@ _1997 guides written so far · last update 2026-11-04 02:40 UTC_
 | [petastarfishrear/axie-infinity-bot](https://github.com/petastarfishrear/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/petastarfishrear/axie-infinity-bot.md) |
 | [ravencaio/tlou-remastered-pc](https://github.com/ravencaio/tlou-remastered-pc) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/ravencaio/tlou-remastered-pc.md) |
 | [QuakeSwiftCharge/unlocktool](https://github.com/QuakeSwiftCharge/unlocktool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/quakeswiftcharge/unlocktool.md) |
-| [CommercialKink/startall-back](https://github.com/CommercialKink/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/commercialkink/startall-back.md) |
 <!-- latest:end -->
 
 ## How it works
