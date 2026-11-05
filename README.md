@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2086 guides written so far · last update 2026-11-05 11:36 UTC_
+_2087 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [gripserpentmall64/atas-trading-bot](https://github.com/gripserpentmall64/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gripserpentmall64/atas-trading-bot.md) |
 | [CustodianSky/axie-infinity-bot](https://github.com/CustodianSky/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/custodiansky/axie-infinity-bot.md) |
 | [aliothman123/zadtop-api](https://github.com/aliothman123/zadtop-api) | HTML project | Runs in the browser with a free account | [guide](guides/aliothman123/zadtop-api.md) |
 | [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack) | Python project | Runs in the browser with a free account | [guide](guides/woyun520/pixel-gif-sticker-pack.md) |
@@ -38,7 +39,6 @@ _2086 guides written so far · last update 2026-11-05 11:36 UTC_
 | [DelegateMoat/microsoft-project](https://github.com/DelegateMoat/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/delegatemoat/microsoft-project.md) |
 | [lacquerowldirect/ads-blocker](https://github.com/lacquerowldirect/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lacquerowldirect/ads-blocker.md) |
 | [Rapidfovelocity/chimera](https://github.com/Rapidfovelocity/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidfovelocity/chimera.md) |
-| [galaxypugilistspot/canva-pro](https://github.com/galaxypugilistspot/canva-pro) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/galaxypugilistspot/canva-pro.md) |
 <!-- latest:end -->
 
 ## How it works
