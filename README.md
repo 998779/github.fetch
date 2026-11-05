@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2105 guides written so far · last update 2026-11-05 19:03 UTC_
+_2106 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ProsecutorBreed/portfolio-rebalancer](https://github.com/ProsecutorBreed/portfolio-rebalancer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorbreed/portfolio-rebalancer.md) |
 | [MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop) | JavaScript project | Runs in the browser with a free account | [guide](guides/mythichokagerepel/steam-inventory-value-desktop.md) |
 | [Wallbycontact/java-mod-rust-port-tool](https://github.com/Wallbycontact/java-mod-rust-port-tool) | Rust project | Runs in the browser with a free account | [guide](guides/wallbycontact/java-mod-rust-port-tool.md) |
 | [Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper) | Python project | Runs in the browser with a free account | [guide](guides/nebularotunnel/token-sniper.md) |
@@ -38,7 +39,6 @@ _2105 guides written so far · last update 2026-11-05 19:03 UTC_
 | [theitsnschool/bloodborne-windows-native-loader](https://github.com/theitsnschool/bloodborne-windows-native-loader) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/theitsnschool/bloodborne-windows-native-loader.md) |
 | [Hye-Georgina/substance-3d-studio-installer](https://github.com/Hye-Georgina/substance-3d-studio-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hye-georgina/substance-3d-studio-installer.md) |
 | [sumeraaly1-arch/wondshare-recoverit-desktop](https://github.com/sumeraaly1-arch/wondshare-recoverit-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sumeraaly1-arch/wondshare-recoverit-desktop.md) |
-| [sunile2k25-del/xyplorer-desktop](https://github.com/sunile2k25-del/xyplorer-desktop) | Python project | Runs in the browser with a free account | [guide](guides/sunile2k25-del/xyplorer-desktop.md) |
 <!-- latest:end -->
 
 ## How it works
