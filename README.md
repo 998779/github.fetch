@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2100 guides written so far · last update 2026-11-05 11:36 UTC_
+_2101 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kubai087/kubai-icons.md) |
 | [FalihPrada/claude-code-gateway](https://github.com/FalihPrada/claude-code-gateway) | Python project | Runs in the browser with a free account | [guide](guides/falihprada/claude-code-gateway.md) |
 | [rkhushi8d-tech/uttorent-desktop](https://github.com/rkhushi8d-tech/uttorent-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rkhushi8d-tech/uttorent-desktop.md) |
 | [Fassi-Ai/touch-copy](https://github.com/Fassi-Ai/touch-copy) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/fassi-ai/touch-copy.md) |
@@ -38,7 +39,6 @@ _2100 guides written so far · last update 2026-11-05 11:36 UTC_
 | [ceilingtypemetro/scrcpy](https://github.com/ceilingtypemetro/scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilingtypemetro/scrcpy.md) |
 | [SmokeCrownCode/drfoneunlock](https://github.com/SmokeCrownCode/drfoneunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smokecrowncode/drfoneunlock.md) |
 | [PursuerTermiteTouch/startall-back](https://github.com/PursuerTermiteTouch/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pursuertermitetouch/startall-back.md) |
-| [TopazInvestor/capcut-for-windows](https://github.com/TopazInvestor/capcut-for-windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/topazinvestor/capcut-for-windows.md) |
 <!-- latest:end -->
 
 ## How it works
