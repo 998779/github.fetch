@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2113 guides written so far · last update 2026-11-05 19:03 UTC_
+_2114 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [spybarongrid/cellebrite-ufed](https://github.com/spybarongrid/cellebrite-ufed) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spybarongrid/cellebrite-ufed.md) |
 | [StewdioAI/blank-page](https://github.com/StewdioAI/blank-page) | Python project | Runs in the browser with a free account | [guide](guides/stewdioai/blank-page.md) |
 | [SpiralVendorCure/imobie-anytrans](https://github.com/SpiralVendorCure/imobie-anytrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiralvendorcure/imobie-anytrans.md) |
 | [PolishBitTweezers/serato-dj-pro](https://github.com/PolishBitTweezers/serato-dj-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polishbittweezers/serato-dj-pro.md) |
@@ -38,7 +39,6 @@ _2113 guides written so far · last update 2026-11-05 19:03 UTC_
 | [MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop) | JavaScript project | Runs in the browser with a free account | [guide](guides/mythichokagerepel/steam-inventory-value-desktop.md) |
 | [Wallbycontact/java-mod-rust-port-tool](https://github.com/Wallbycontact/java-mod-rust-port-tool) | Rust project | Runs in the browser with a free account | [guide](guides/wallbycontact/java-mod-rust-port-tool.md) |
 | [Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper) | Python project | Runs in the browser with a free account | [guide](guides/nebularotunnel/token-sniper.md) |
-| [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | Vite app | Runs in the browser with a free account | [guide](guides/atomillusionistdwell/watson-username-footprint-finder.md) |
 <!-- latest:end -->
 
 ## How it works
