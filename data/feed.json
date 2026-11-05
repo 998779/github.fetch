@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T03:42:27.279Z",
- "totalGuides": 2075,
+ "updatedAt": "2026-11-05T03:42:27.501Z",
+ "totalGuides": 2076,
  "items": [
+  {
+   "fullName": "Rapidfovelocity/chimera",
+   "owner": "Rapidfovelocity",
+   "name": "chimera",
+   "url": "https://github.com/Rapidfovelocity/chimera",
+   "avatar": "https://avatars.githubusercontent.com/u/292595288?v=4",
+   "description": "Chimera 2026: Full working installer with enhanced utility configuration for professional desktop needs.",
+   "language": null,
+   "topics": [
+    "automation",
+    "chimera",
+    "chimera-framework",
+    "chimera-linux",
+    "chimera-meta-world",
+    "chimera-tool-pro",
+    "chimera-tool-pro-spark",
+    "desktop"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:41:59Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-05T03:42:27.500Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Rapidfovelocity/chimera",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Rapidfovelocity/chimera/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Rapidfovelocity/chimera\nWhat it says it does: \"Chimera 2026: Full working installer with enhanced utility configuration for professional desktop needs.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-05T03:42:27.500Z"
+  },
   {
    "fullName": "galaxypugilistspot/canva-pro",
    "owner": "galaxypugilistspot",
@@ -30281,65 +30338,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/Lookouteiseparator/droids-v1.5.2\nWhat it says it does: \"Published: 2026-10-28\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T07:30:25.511Z"
-  },
-  {
-   "fullName": "BranchLegendWhirl71/hexa-v2.6.0",
-   "owner": "BranchLegendWhirl71",
-   "name": "hexa-v2.6.0",
-   "url": "https://github.com/BranchLegendWhirl71/hexa-v2.6.0",
-   "avatar": "https://avatars.githubusercontent.com/u/316765242?v=4",
-   "description": "Published: 2026-10-28",
-   "language": null,
-   "topics": [
-    "fps",
-    "gaming",
-    "racing",
-    "rpg",
-    "strategy"
-   ],
-   "license": "MIT",
-   "stars": 91,
-   "forks": 1,
-   "createdAt": "2026-10-28T05:29:40Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-28T07:30:25.252Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/BranchLegendWhirl71/hexa-v2.6.0",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BranchLegendWhirl71/hexa-v2.6.0/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/BranchLegendWhirl71/hexa-v2.6.0\nWhat it says it does: \"Published: 2026-10-28\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T07:30:25.252Z"
   }
  ],
  "levels": {
-  "instant": 23,
   "read": 294,
+  "instant": 23,
   "account": 138,
   "heavy": 45
  }
