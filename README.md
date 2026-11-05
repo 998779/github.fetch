@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2096 guides written so far · last update 2026-11-05 11:36 UTC_
+_2097 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [theitsnschool/bloodborne-windows-native-loader](https://github.com/theitsnschool/bloodborne-windows-native-loader) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/theitsnschool/bloodborne-windows-native-loader.md) |
 | [Hye-Georgina/substance-3d-studio-installer](https://github.com/Hye-Georgina/substance-3d-studio-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hye-georgina/substance-3d-studio-installer.md) |
 | [sumeraaly1-arch/wondshare-recoverit-desktop](https://github.com/sumeraaly1-arch/wondshare-recoverit-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sumeraaly1-arch/wondshare-recoverit-desktop.md) |
 | [sunile2k25-del/xyplorer-desktop](https://github.com/sunile2k25-del/xyplorer-desktop) | Python project | Runs in the browser with a free account | [guide](guides/sunile2k25-del/xyplorer-desktop.md) |
@@ -38,7 +39,6 @@ _2096 guides written so far · last update 2026-11-05 11:36 UTC_
 | [EntranceGeomancer/ninjatrader-bot](https://github.com/EntranceGeomancer/ninjatrader-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/entrancegeomancer/ninjatrader-bot.md) |
 | [gripserpentmall64/atas-trading-bot](https://github.com/gripserpentmall64/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gripserpentmall64/atas-trading-bot.md) |
 | [CustodianSky/axie-infinity-bot](https://github.com/CustodianSky/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/custodiansky/axie-infinity-bot.md) |
-| [aliothman123/zadtop-api](https://github.com/aliothman123/zadtop-api) | HTML project | Runs in the browser with a free account | [guide](guides/aliothman123/zadtop-api.md) |
 <!-- latest:end -->
 
 ## How it works
