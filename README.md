@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2078 guides written so far · last update 2026-11-05 03:42 UTC_
+_2079 guides written so far · last update 2026-11-05 03:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [LinePondCrochet64/discord-server-raider](https://github.com/LinePondCrochet64/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linepondcrochet64/discord-server-raider.md) |
 | [DelegateMoat/microsoft-project](https://github.com/DelegateMoat/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/delegatemoat/microsoft-project.md) |
 | [lacquerowldirect/ads-blocker](https://github.com/lacquerowldirect/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lacquerowldirect/ads-blocker.md) |
 | [Rapidfovelocity/chimera](https://github.com/Rapidfovelocity/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidfovelocity/chimera.md) |
@@ -38,7 +39,6 @@ _2078 guides written so far · last update 2026-11-05 03:42 UTC_
 | [TalonMacawShock/wondshare-recoverit](https://github.com/TalonMacawShock/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talonmacawshock/wondshare-recoverit.md) |
 | [chordexpertflourish/autocad](https://github.com/chordexpertflourish/autocad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chordexpertflourish/autocad.md) |
 | [Balanov/latch](https://github.com/Balanov/latch) | Node command-line tool | Runs in the browser with a free account | [guide](guides/balanov/latch.md) |
-| [VelocityChiefGrow/reason-14](https://github.com/VelocityChiefGrow/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/velocitychiefgrow/reason-14.md) |
 <!-- latest:end -->
 
 ## How it works
