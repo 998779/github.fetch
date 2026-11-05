@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2102 guides written so far · last update 2026-11-05 19:03 UTC_
+_2103 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper) | Python project | Runs in the browser with a free account | [guide](guides/nebularotunnel/token-sniper.md) |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | Vite app | Runs in the browser with a free account | [guide](guides/atomillusionistdwell/watson-username-footprint-finder.md) |
 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kubai087/kubai-icons.md) |
 | [FalihPrada/claude-code-gateway](https://github.com/FalihPrada/claude-code-gateway) | Python project | Runs in the browser with a free account | [guide](guides/falihprada/claude-code-gateway.md) |
@@ -38,7 +39,6 @@ _2102 guides written so far · last update 2026-11-05 19:03 UTC_
 | [sunile2k25-del/xyplorer-desktop](https://github.com/sunile2k25-del/xyplorer-desktop) | Python project | Runs in the browser with a free account | [guide](guides/sunile2k25-del/xyplorer-desktop.md) |
 | [ArcPaladinRattle/microsoft-365](https://github.com/ArcPaladinRattle/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcpaladinrattle/microsoft-365.md) |
 | [ceilingtypemetro/scrcpy](https://github.com/ceilingtypemetro/scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilingtypemetro/scrcpy.md) |
-| [SmokeCrownCode/drfoneunlock](https://github.com/SmokeCrownCode/drfoneunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smokecrowncode/drfoneunlock.md) |
 <!-- latest:end -->
 
 ## How it works
