@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T19:03:24.955Z",
- "totalGuides": 2110,
+ "updatedAt": "2026-11-05T19:03:25.214Z",
+ "totalGuides": 2111,
  "items": [
+  {
+   "fullName": "PolishBitTweezers/serato-dj-pro",
+   "owner": "PolishBitTweezers",
+   "name": "serato-dj-pro",
+   "url": "https://github.com/PolishBitTweezers/serato-dj-pro",
+   "avatar": "https://avatars.githubusercontent.com/u/292591688?v=4",
+   "description": "Serato Dj Pro 2026 complete standalone setup. Ready-to-run, fully activated installation with all features included.",
+   "language": null,
+   "topics": [
+    "automation",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts",
+    "serato-automation",
+    "serato-dj",
+    "serato-dj-2026"
+   ],
+   "license": null,
+   "stars": 330,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:45:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-05T19:03:25.205Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/PolishBitTweezers/serato-dj-pro",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PolishBitTweezers/serato-dj-pro/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/PolishBitTweezers/serato-dj-pro\nWhat it says it does: \"Serato Dj Pro 2026 complete standalone setup. Ready-to-run, fully activated installation with all features included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-05T19:03:25.205Z"
+  },
   {
    "fullName": "ToneCommanderWave/fabfilter-pro",
    "owner": "ToneCommanderWave",
@@ -30379,63 +30436,6 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/brainstormity/LightPost\nWhat it says it does: \"A lightweight system to automate posting to all of your socials from one dashboard\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T19:48:41.833Z"
-  },
-  {
-   "fullName": "ScalarGrouse/SketchUp-Pro",
-   "owner": "ScalarGrouse",
-   "name": "SketchUp-Pro",
-   "url": "https://github.com/ScalarGrouse/SketchUp-Pro",
-   "avatar": "https://avatars.githubusercontent.com/u/295657965?v=4",
-   "description": "Sketchup Pro 2023 complete standalone setup. Pre-activated desktop edition ready to run, with all professional tools included.",
-   "language": null,
-   "topics": [
-    "3d-modeling-software",
-    "architectural-visualization",
-    "design-pipeline",
-    "measurement-tools",
-    "premium-software",
-    "render-ready",
-    "sketch-pro-download",
-    "sketch-up"
-   ],
-   "license": null,
-   "stars": 100,
-   "forks": 0,
-   "createdAt": "2026-10-28T16:53:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-28T19:48:41.566Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ScalarGrouse/SketchUp-Pro",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ScalarGrouse/SketchUp-Pro/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ScalarGrouse/SketchUp-Pro\nWhat it says it does: \"Sketchup Pro 2023 complete standalone setup. Pre-activated desktop edition ready to run, with all professional tools included.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T19:48:41.566Z"
   }
  ],
  "levels": {

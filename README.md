@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2110 guides written so far · last update 2026-11-05 19:03 UTC_
+_2111 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PolishBitTweezers/serato-dj-pro](https://github.com/PolishBitTweezers/serato-dj-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polishbittweezers/serato-dj-pro.md) |
 | [ToneCommanderWave/fabfilter-pro](https://github.com/ToneCommanderWave/fabfilter-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tonecommanderwave/fabfilter-pro.md) |
 | [AstralBursarProvide/fabfilter-total](https://github.com/AstralBursarProvide/fabfilter-total) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralbursarprovide/fabfilter-total.md) |
 | [Surfacevicanopy/ifunbox](https://github.com/Surfacevicanopy/ifunbox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacevicanopy/ifunbox.md) |
@@ -38,7 +39,6 @@ _2110 guides written so far · last update 2026-11-05 19:03 UTC_
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | Vite app | Runs in the browser with a free account | [guide](guides/atomillusionistdwell/watson-username-footprint-finder.md) |
 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kubai087/kubai-icons.md) |
 | [FalihPrada/claude-code-gateway](https://github.com/FalihPrada/claude-code-gateway) | Python project | Runs in the browser with a free account | [guide](guides/falihprada/claude-code-gateway.md) |
-| [rkhushi8d-tech/uttorent-desktop](https://github.com/rkhushi8d-tech/uttorent-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rkhushi8d-tech/uttorent-desktop.md) |
 <!-- latest:end -->
 
 ## How it works
