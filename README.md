@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2114 guides written so far · last update 2026-11-05 19:03 UTC_
+_2115 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [divergeeagleslip50/claude-jailbreak-prompt](https://github.com/divergeeagleslip50/claude-jailbreak-prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/divergeeagleslip50/claude-jailbreak-prompt.md) |
 | [spybarongrid/cellebrite-ufed](https://github.com/spybarongrid/cellebrite-ufed) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spybarongrid/cellebrite-ufed.md) |
 | [StewdioAI/blank-page](https://github.com/StewdioAI/blank-page) | Python project | Runs in the browser with a free account | [guide](guides/stewdioai/blank-page.md) |
 | [SpiralVendorCure/imobie-anytrans](https://github.com/SpiralVendorCure/imobie-anytrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiralvendorcure/imobie-anytrans.md) |
@@ -38,7 +39,6 @@ _2114 guides written so far · last update 2026-11-05 19:03 UTC_
 | [ProsecutorBreed/portfolio-rebalancer](https://github.com/ProsecutorBreed/portfolio-rebalancer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorbreed/portfolio-rebalancer.md) |
 | [MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop) | JavaScript project | Runs in the browser with a free account | [guide](guides/mythichokagerepel/steam-inventory-value-desktop.md) |
 | [Wallbycontact/java-mod-rust-port-tool](https://github.com/Wallbycontact/java-mod-rust-port-tool) | Rust project | Runs in the browser with a free account | [guide](guides/wallbycontact/java-mod-rust-port-tool.md) |
-| [Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper) | Python project | Runs in the browser with a free account | [guide](guides/nebularotunnel/token-sniper.md) |
 <!-- latest:end -->
 
 ## How it works
