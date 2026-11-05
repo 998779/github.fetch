@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2089 guides written so far · last update 2026-11-05 11:36 UTC_
+_2090 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PursuerTermiteTouch/startall-back](https://github.com/PursuerTermiteTouch/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pursuertermitetouch/startall-back.md) |
 | [TopazInvestor/capcut-for-windows](https://github.com/TopazInvestor/capcut-for-windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/topazinvestor/capcut-for-windows.md) |
 | [EntranceGeomancer/ninjatrader-bot](https://github.com/EntranceGeomancer/ninjatrader-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/entrancegeomancer/ninjatrader-bot.md) |
 | [gripserpentmall64/atas-trading-bot](https://github.com/gripserpentmall64/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gripserpentmall64/atas-trading-bot.md) |
@@ -38,7 +39,6 @@ _2089 guides written so far · last update 2026-11-05 11:36 UTC_
 | [colorsmousesculpt/designcenter-nx](https://github.com/colorsmousesculpt/designcenter-nx) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/colorsmousesculpt/designcenter-nx.md) |
 | [BlizzardShaper/musicmakerunlimited](https://github.com/BlizzardShaper/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blizzardshaper/musicmakerunlimited.md) |
 | [LinePondCrochet64/discord-server-raider](https://github.com/LinePondCrochet64/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linepondcrochet64/discord-server-raider.md) |
-| [DelegateMoat/microsoft-project](https://github.com/DelegateMoat/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/delegatemoat/microsoft-project.md) |
 <!-- latest:end -->
 
 ## How it works
