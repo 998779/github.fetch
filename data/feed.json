@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T19:03:24.409Z",
- "totalGuides": 2108,
+ "updatedAt": "2026-11-05T19:03:24.668Z",
+ "totalGuides": 2109,
  "items": [
+  {
+   "fullName": "AstralBursarProvide/fabfilter-total",
+   "owner": "AstralBursarProvide",
+   "name": "fabfilter-total",
+   "url": "https://github.com/AstralBursarProvide/fabfilter-total",
+   "avatar": "https://avatars.githubusercontent.com/u/292593015?v=4",
+   "description": "Fabfilter Total 2026: Full working installer with all features activated, ready for immediate desktop use.",
+   "language": null,
+   "topics": [
+    "automation",
+    "compressor-plugin",
+    "desktop",
+    "developer-tools",
+    "fabfilter",
+    "fabfilter-2026",
+    "fabfilter-bundle",
+    "fabfilter-pro-q"
+   ],
+   "license": null,
+   "stars": 330,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:42:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-05T19:03:24.668Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/AstralBursarProvide/fabfilter-total",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/AstralBursarProvide/fabfilter-total/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/AstralBursarProvide/fabfilter-total\nWhat it says it does: \"Fabfilter Total 2026: Full working installer with all features activated, ready for immediate desktop use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-05T19:03:24.668Z"
+  },
   {
    "fullName": "Surfacevicanopy/ifunbox",
    "owner": "Surfacevicanopy",
@@ -30379,80 +30436,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/SleuthMesmerize/BorisFX\nWhat it says it does: \"Complete standalone setup for Borisfx 2026, your go-to solution for professional video editing and VFX. Ready to run with all features unlocked.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T19:48:41.307Z"
-  },
-  {
-   "fullName": "MiniMax-AI/mcode-stack",
-   "owner": "MiniMax-AI",
-   "name": "mcode-stack",
-   "url": "https://github.com/MiniMax-AI/mcode-stack",
-   "avatar": "https://avatars.githubusercontent.com/u/194880281?v=4",
-   "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
-   "language": "Python",
-   "topics": [
-    "agent-skills",
-    "ai-coding",
-    "claude-skills",
-    "coding-agent",
-    "harness-engineering",
-    "minimax-code"
-   ],
-   "license": "MIT",
-   "stars": 165,
-   "forks": 13,
-   "createdAt": "2026-10-28T02:17:41Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-28T19:48:41.079Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/MiniMax-AI/mcode-stack/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/MiniMax-AI/mcode-stack?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/MiniMax-AI/mcode-stack",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/MiniMax-AI/mcode-stack/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/MiniMax-AI/mcode-stack.git\ncd mcode-stack",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/MiniMax-AI/mcode-stack\nWhat it says it does: \"The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T19:48:41.079Z"
   }
  ],
  "levels": {
-  "read": 298,
-  "account": 136,
+  "read": 299,
+  "account": 135,
   "instant": 27,
   "heavy": 39
  }
