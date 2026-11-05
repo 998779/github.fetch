@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2116 guides written so far · last update 2026-11-05 19:03 UTC_
+_2117 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Deepkroboard/ashampoo-uninstaller](https://github.com/Deepkroboard/ashampoo-uninstaller) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkroboard/ashampoo-uninstaller.md) |
 | [FollowerTower/autodesk-3ds-max](https://github.com/FollowerTower/autodesk-3ds-max) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followertower/autodesk-3ds-max.md) |
 | [divergeeagleslip50/claude-jailbreak-prompt](https://github.com/divergeeagleslip50/claude-jailbreak-prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/divergeeagleslip50/claude-jailbreak-prompt.md) |
 | [spybarongrid/cellebrite-ufed](https://github.com/spybarongrid/cellebrite-ufed) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spybarongrid/cellebrite-ufed.md) |
@@ -38,7 +39,6 @@ _2116 guides written so far · last update 2026-11-05 19:03 UTC_
 | [Surfacevicanopy/ifunbox](https://github.com/Surfacevicanopy/ifunbox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacevicanopy/ifunbox.md) |
 | [beamechoinertia/fortnite-skin-swapper](https://github.com/beamechoinertia/fortnite-skin-swapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beamechoinertia/fortnite-skin-swapper.md) |
 | [ProsecutorBreed/portfolio-rebalancer](https://github.com/ProsecutorBreed/portfolio-rebalancer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/prosecutorbreed/portfolio-rebalancer.md) |
-| [MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop) | JavaScript project | Runs in the browser with a free account | [guide](guides/mythichokagerepel/steam-inventory-value-desktop.md) |
 <!-- latest:end -->
 
 ## How it works

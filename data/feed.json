@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T19:03:26.375Z",
- "totalGuides": 2116,
+ "updatedAt": "2026-11-05T19:03:26.619Z",
+ "totalGuides": 2117,
  "items": [
+  {
+   "fullName": "Deepkroboard/ashampoo-uninstaller",
+   "owner": "Deepkroboard",
+   "name": "ashampoo-uninstaller",
+   "url": "https://github.com/Deepkroboard/ashampoo-uninstaller",
+   "avatar": "https://avatars.githubusercontent.com/u/292593266?v=4",
+   "description": "Complete Ashampoo Uninstaller 2026 standalone setup with all tools pre-installed and ready to run.",
+   "language": null,
+   "topics": [
+    "ashampoo-gmbh",
+    "ashampoo-uninstaller-install-setup-windows-2026",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts"
+   ],
+   "license": null,
+   "stars": 230,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:41:26Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-05T19:03:26.619Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Deepkroboard/ashampoo-uninstaller",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Deepkroboard/ashampoo-uninstaller/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Deepkroboard/ashampoo-uninstaller\nWhat it says it does: \"Complete Ashampoo Uninstaller 2026 standalone setup with all tools pre-installed and ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-05T19:03:26.619Z"
+  },
   {
    "fullName": "FollowerTower/autodesk-3ds-max",
    "owner": "FollowerTower",
@@ -30341,82 +30398,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/jichang888/VPNvpn\nWhat it says it does: \"个人VPN/科学上网/翻墙/教程/ssr/ss/bbr/梯子/机场/自由上网/代理服务/VPN/2026最稳定vpn/ai友好\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T19:48:43.115Z"
-  },
-  {
-   "fullName": "fatihfurkan46/SignalWeave",
-   "owner": "fatihfurkan46",
-   "name": "SignalWeave",
-   "url": "https://github.com/fatihfurkan46/SignalWeave",
-   "avatar": "https://avatars.githubusercontent.com/u/43918787?v=4",
-   "description": "Signal weaving toolkit - combine noisy service metrics into stable, explainable health signals",
-   "language": "Python",
-   "topics": [
-    "alerting",
-    "analysis",
-    "cli",
-    "data",
-    "devops",
-    "health-check",
-    "metrics",
-    "monitoring"
-   ],
-   "license": null,
-   "stars": 72,
-   "forks": 13,
-   "createdAt": "2026-10-27T19:16:46Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-28T19:48:42.944Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/fatihfurkan46/SignalWeave/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/fatihfurkan46/SignalWeave?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/fatihfurkan46/SignalWeave",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/fatihfurkan46/SignalWeave/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/fatihfurkan46/SignalWeave.git\ncd SignalWeave\npip install -e .",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/fatihfurkan46/SignalWeave\nWhat it says it does: \"Signal weaving toolkit - combine noisy service metrics into stable, explainable health signals\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T19:48:42.944Z"
   }
  ],
  "levels": {
-  "read": 301,
-  "account": 135,
+  "read": 302,
+  "account": 134,
   "instant": 25,
   "heavy": 39
  }
