@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2111 guides written so far · last update 2026-11-05 19:03 UTC_
+_2112 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [SpiralVendorCure/imobie-anytrans](https://github.com/SpiralVendorCure/imobie-anytrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiralvendorcure/imobie-anytrans.md) |
 | [PolishBitTweezers/serato-dj-pro](https://github.com/PolishBitTweezers/serato-dj-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polishbittweezers/serato-dj-pro.md) |
 | [ToneCommanderWave/fabfilter-pro](https://github.com/ToneCommanderWave/fabfilter-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tonecommanderwave/fabfilter-pro.md) |
 | [AstralBursarProvide/fabfilter-total](https://github.com/AstralBursarProvide/fabfilter-total) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralbursarprovide/fabfilter-total.md) |
@@ -38,7 +39,6 @@ _2111 guides written so far · last update 2026-11-05 19:03 UTC_
 | [Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper) | Python project | Runs in the browser with a free account | [guide](guides/nebularotunnel/token-sniper.md) |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | Vite app | Runs in the browser with a free account | [guide](guides/atomillusionistdwell/watson-username-footprint-finder.md) |
 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kubai087/kubai-icons.md) |
-| [FalihPrada/claude-code-gateway](https://github.com/FalihPrada/claude-code-gateway) | Python project | Runs in the browser with a free account | [guide](guides/falihprada/claude-code-gateway.md) |
 <!-- latest:end -->
 
 ## How it works
