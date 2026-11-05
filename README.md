@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2069 guides written so far · last update 2026-11-05 03:42 UTC_
+_2070 guides written so far · last update 2026-11-05 03:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TalonMacawShock/wondshare-recoverit](https://github.com/TalonMacawShock/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talonmacawshock/wondshare-recoverit.md) |
 | [chordexpertflourish/autocad](https://github.com/chordexpertflourish/autocad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chordexpertflourish/autocad.md) |
 | [Balanov/latch](https://github.com/Balanov/latch) | Node command-line tool | Runs in the browser with a free account | [guide](guides/balanov/latch.md) |
 | [VelocityChiefGrow/reason-14](https://github.com/VelocityChiefGrow/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/velocitychiefgrow/reason-14.md) |
@@ -38,7 +39,6 @@ _2069 guides written so far · last update 2026-11-05 03:42 UTC_
 | [circuitparrotmarket/adobe-after-effects](https://github.com/circuitparrotmarket/adobe-after-effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/circuitparrotmarket/adobe-after-effects.md) |
 | [Platoonflasurvive/sp-flash-tool](https://github.com/Platoonflasurvive/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/platoonflasurvive/sp-flash-tool.md) |
 | [DreamSwimmer/windows-optimizer](https://github.com/DreamSwimmer/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dreamswimmer/windows-optimizer.md) |
-| [WyrmSpongeHaul/quant-trading-bot](https://github.com/WyrmSpongeHaul/quant-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/wyrmspongehaul/quant-trading-bot.md) |
 <!-- latest:end -->
 
 ## How it works
