@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2103 guides written so far · last update 2026-11-05 19:03 UTC_
+_2104 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Wallbycontact/java-mod-rust-port-tool](https://github.com/Wallbycontact/java-mod-rust-port-tool) | Rust project | Runs in the browser with a free account | [guide](guides/wallbycontact/java-mod-rust-port-tool.md) |
 | [Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper) | Python project | Runs in the browser with a free account | [guide](guides/nebularotunnel/token-sniper.md) |
 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | Vite app | Runs in the browser with a free account | [guide](guides/atomillusionistdwell/watson-username-footprint-finder.md) |
 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kubai087/kubai-icons.md) |
@@ -38,7 +39,6 @@ _2103 guides written so far · last update 2026-11-05 19:03 UTC_
 | [sumeraaly1-arch/wondshare-recoverit-desktop](https://github.com/sumeraaly1-arch/wondshare-recoverit-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sumeraaly1-arch/wondshare-recoverit-desktop.md) |
 | [sunile2k25-del/xyplorer-desktop](https://github.com/sunile2k25-del/xyplorer-desktop) | Python project | Runs in the browser with a free account | [guide](guides/sunile2k25-del/xyplorer-desktop.md) |
 | [ArcPaladinRattle/microsoft-365](https://github.com/ArcPaladinRattle/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcpaladinrattle/microsoft-365.md) |
-| [ceilingtypemetro/scrcpy](https://github.com/ceilingtypemetro/scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilingtypemetro/scrcpy.md) |
 <!-- latest:end -->
 
 ## How it works

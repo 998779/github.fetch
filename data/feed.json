@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T19:03:23.050Z",
- "totalGuides": 2103,
+ "updatedAt": "2026-11-05T19:03:23.337Z",
+ "totalGuides": 2104,
  "items": [
+  {
+   "fullName": "Wallbycontact/java-mod-rust-port-tool",
+   "owner": "Wallbycontact",
+   "name": "java-mod-rust-port-tool",
+   "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
+   "avatar": "https://avatars.githubusercontent.com/u/317170740?v=4",
+   "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
+   "language": "JavaScript",
+   "topics": [
+    "cli",
+    "fabric",
+    "horizon",
+    "minecraft",
+    "minecraft-mods",
+    "neoforge",
+    "porting",
+    "rust"
+   ],
+   "license": "MIT",
+   "stars": 391,
+   "forks": 23,
+   "createdAt": "2026-11-05T06:15:39Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-05T19:03:23.336Z",
+   "stack": {
+    "kind": "rust",
+    "label": "Rust project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/Wallbycontact/java-mod-rust-port-tool?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/Wallbycontact/java-mod-rust-port-tool",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "cargo build --release",
+   "run": "cargo run",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/Wallbycontact/java-mod-rust-port-tool.git\ncd java-mod-rust-port-tool\ncargo build --release\ncargo run",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/Wallbycontact/java-mod-rust-port-tool\nWhat it says it does: \"Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-05T19:03:23.336Z"
+  },
   {
    "fullName": "Nebularotunnel/Token-Sniper",
    "owner": "Nebularotunnel",
@@ -30394,69 +30458,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/krushant1122/MetalNX\nWhat it says it does: \"Native Apple Silicon graphics tweaker and 1-click Switch-to-Mac port studio for M1/M2/M3/M4 Macs\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T14:25:00.455Z"
-  },
-  {
-   "fullName": "moonoops/Droy",
-   "owner": "moonoops",
-   "name": "Droy",
-   "url": "https://github.com/moonoops/Droy",
-   "avatar": "https://avatars.githubusercontent.com/u/50860764?v=4",
-   "description": "An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.",
-   "language": "Java",
-   "topics": [],
-   "license": "AGPL-3.0",
-   "stars": 65,
-   "forks": 2,
-   "createdAt": "2026-10-26T18:03:20Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-28T14:25:00.203Z",
-   "stack": {
-    "kind": "native",
-    "label": "Java project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/moonoops/Droy?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/moonoops/Droy",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/moonoops/Droy/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Java usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/moonoops/Droy.git\ncd Droy",
-   "licenseNote": "AGPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/moonoops/Droy\nWhat it says it does: \"An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T14:25:00.203Z"
   }
  ],
  "levels": {
-  "account": 136,
+  "account": 137,
   "instant": 27,
   "read": 295,
-  "heavy": 42
+  "heavy": 41
  }
 }
