@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2070 guides written so far · last update 2026-11-05 03:42 UTC_
+_2071 guides written so far · last update 2026-11-05 03:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [arcmotormanjudge/adobe-indesign](https://github.com/arcmotormanjudge/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcmotormanjudge/adobe-indesign.md) |
 | [TalonMacawShock/wondshare-recoverit](https://github.com/TalonMacawShock/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talonmacawshock/wondshare-recoverit.md) |
 | [chordexpertflourish/autocad](https://github.com/chordexpertflourish/autocad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chordexpertflourish/autocad.md) |
 | [Balanov/latch](https://github.com/Balanov/latch) | Node command-line tool | Runs in the browser with a free account | [guide](guides/balanov/latch.md) |
@@ -38,7 +39,6 @@ _2070 guides written so far · last update 2026-11-05 03:42 UTC_
 | [TameAssistant/multiaccountmanager](https://github.com/TameAssistant/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tameassistant/multiaccountmanager.md) |
 | [circuitparrotmarket/adobe-after-effects](https://github.com/circuitparrotmarket/adobe-after-effects) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/circuitparrotmarket/adobe-after-effects.md) |
 | [Platoonflasurvive/sp-flash-tool](https://github.com/Platoonflasurvive/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/platoonflasurvive/sp-flash-tool.md) |
-| [DreamSwimmer/windows-optimizer](https://github.com/DreamSwimmer/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/dreamswimmer/windows-optimizer.md) |
 <!-- latest:end -->
 
 ## How it works
