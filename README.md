@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2119 guides written so far · last update 2026-11-05 19:03 UTC_
+_2120 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [plotserpentteach/photo-commander](https://github.com/plotserpentteach/photo-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plotserpentteach/photo-commander.md) |
 | [splendorheroteach/ph-downloader](https://github.com/splendorheroteach/ph-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorheroteach/ph-downloader.md) |
 | [gryphonanalystsocket/power-director](https://github.com/gryphonanalystsocket/power-director) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonanalystsocket/power-director.md) |
 | [Deepkroboard/ashampoo-uninstaller](https://github.com/Deepkroboard/ashampoo-uninstaller) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkroboard/ashampoo-uninstaller.md) |
@@ -38,7 +39,6 @@ _2119 guides written so far · last update 2026-11-05 19:03 UTC_
 | [PolishBitTweezers/serato-dj-pro](https://github.com/PolishBitTweezers/serato-dj-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polishbittweezers/serato-dj-pro.md) |
 | [ToneCommanderWave/fabfilter-pro](https://github.com/ToneCommanderWave/fabfilter-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tonecommanderwave/fabfilter-pro.md) |
 | [AstralBursarProvide/fabfilter-total](https://github.com/AstralBursarProvide/fabfilter-total) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralbursarprovide/fabfilter-total.md) |
-| [Surfacevicanopy/ifunbox](https://github.com/Surfacevicanopy/ifunbox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacevicanopy/ifunbox.md) |
 <!-- latest:end -->
 
 ## How it works
