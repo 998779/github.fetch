@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2084 guides written so far · last update 2026-11-05 11:36 UTC_
+_2085 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [aliothman123/zadtop-api](https://github.com/aliothman123/zadtop-api) | HTML project | Runs in the browser with a free account | [guide](guides/aliothman123/zadtop-api.md) |
 | [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack) | Python project | Runs in the browser with a free account | [guide](guides/woyun520/pixel-gif-sticker-pack.md) |
 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python project | Runs in the browser with a free account | [guide](guides/tagphasearcade/tiktok-uploader.md) |
 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Python project | Runs in the browser with a free account | [guide](guides/dragonwolfshovel/youtube-uploader.md) |
@@ -38,7 +39,6 @@ _2084 guides written so far · last update 2026-11-05 11:36 UTC_
 | [Rapidfovelocity/chimera](https://github.com/Rapidfovelocity/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidfovelocity/chimera.md) |
 | [galaxypugilistspot/canva-pro](https://github.com/galaxypugilistspot/canva-pro) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/galaxypugilistspot/canva-pro.md) |
 | [Hubunprovide/monero-miner](https://github.com/Hubunprovide/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hubunprovide/monero-miner.md) |
-| [rivettypegap3/adobe-substance-3d](https://github.com/rivettypegap3/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivettypegap3/adobe-substance-3d.md) |
 <!-- latest:end -->
 
 ## How it works
