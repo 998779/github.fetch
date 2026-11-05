@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2081 guides written so far · last update 2026-11-05 03:42 UTC_
+_2082 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Python project | Runs in the browser with a free account | [guide](guides/dragonwolfshovel/youtube-uploader.md) |
 | [colorsmousesculpt/designcenter-nx](https://github.com/colorsmousesculpt/designcenter-nx) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/colorsmousesculpt/designcenter-nx.md) |
 | [BlizzardShaper/musicmakerunlimited](https://github.com/BlizzardShaper/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blizzardshaper/musicmakerunlimited.md) |
 | [LinePondCrochet64/discord-server-raider](https://github.com/LinePondCrochet64/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linepondcrochet64/discord-server-raider.md) |
@@ -38,7 +39,6 @@ _2081 guides written so far · last update 2026-11-05 03:42 UTC_
 | [rivettypegap3/adobe-substance-3d](https://github.com/rivettypegap3/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivettypegap3/adobe-substance-3d.md) |
 | [LostAssassinAbide/tenorshare-4ukey](https://github.com/LostAssassinAbide/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lostassassinabide/tenorshare-4ukey.md) |
 | [arcmotormanjudge/adobe-indesign](https://github.com/arcmotormanjudge/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcmotormanjudge/adobe-indesign.md) |
-| [TalonMacawShock/wondshare-recoverit](https://github.com/TalonMacawShock/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talonmacawshock/wondshare-recoverit.md) |
 <!-- latest:end -->
 
 ## How it works
