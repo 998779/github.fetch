@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2079 guides written so far · last update 2026-11-05 03:42 UTC_
+_2080 guides written so far · last update 2026-11-05 03:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BlizzardShaper/musicmakerunlimited](https://github.com/BlizzardShaper/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blizzardshaper/musicmakerunlimited.md) |
 | [LinePondCrochet64/discord-server-raider](https://github.com/LinePondCrochet64/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/linepondcrochet64/discord-server-raider.md) |
 | [DelegateMoat/microsoft-project](https://github.com/DelegateMoat/microsoft-project) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/delegatemoat/microsoft-project.md) |
 | [lacquerowldirect/ads-blocker](https://github.com/lacquerowldirect/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lacquerowldirect/ads-blocker.md) |
@@ -38,7 +39,6 @@ _2079 guides written so far · last update 2026-11-05 03:42 UTC_
 | [arcmotormanjudge/adobe-indesign](https://github.com/arcmotormanjudge/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcmotormanjudge/adobe-indesign.md) |
 | [TalonMacawShock/wondshare-recoverit](https://github.com/TalonMacawShock/wondshare-recoverit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/talonmacawshock/wondshare-recoverit.md) |
 | [chordexpertflourish/autocad](https://github.com/chordexpertflourish/autocad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/chordexpertflourish/autocad.md) |
-| [Balanov/latch](https://github.com/Balanov/latch) | Node command-line tool | Runs in the browser with a free account | [guide](guides/balanov/latch.md) |
 <!-- latest:end -->
 
 ## How it works
