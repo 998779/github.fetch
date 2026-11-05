@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T11:36:57.533Z",
- "totalGuides": 2099,
+ "updatedAt": "2026-11-05T11:36:57.828Z",
+ "totalGuides": 2100,
  "items": [
+  {
+   "fullName": "FalihPrada/claude-code-gateway",
+   "owner": "FalihPrada",
+   "name": "claude-code-gateway",
+   "url": "https://github.com/FalihPrada/claude-code-gateway",
+   "avatar": "https://avatars.githubusercontent.com/u/140786650?v=4",
+   "description": "Claude Code Gateway for Kimi, GLM, DeepSeek, and OpenRouter",
+   "language": "Python",
+   "topics": [
+    "claude-code",
+    "claude-code-alternative",
+    "claude-code-api",
+    "claude-code-free",
+    "claude-code-gateway",
+    "claude-code-proxy",
+    "claude-compatible",
+    "free-ai-coding"
+   ],
+   "license": null,
+   "stars": 193,
+   "forks": 0,
+   "createdAt": "2026-11-03T21:19:04Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-05T11:36:57.827Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/FalihPrada/claude-code-gateway/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/FalihPrada/claude-code-gateway?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/FalihPrada/claude-code-gateway",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/FalihPrada/claude-code-gateway/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/FalihPrada/claude-code-gateway.git\ncd claude-code-gateway\npython main.py",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/FalihPrada/claude-code-gateway\nWhat it says it does: \"Claude Code Gateway for Kimi, GLM, DeepSeek, and OpenRouter\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-05T11:36:57.827Z"
+  },
   {
    "fullName": "rkhushi8d-tech/uttorent-desktop",
    "owner": "rkhushi8d-tech",
@@ -30354,79 +30425,11 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/zhtyyx/codex-seo\nWhat it says it does: \"Free, open-source SEO audits inside OpenAI Codex CLI. Port of claude-seo: 26 skills, 19 specialist roles, technical SEO / schema / GEO / local / ecommerce.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T14:24:59.460Z"
-  },
-  {
-   "fullName": "patch-gg/crowdbricks",
-   "owner": "patch-gg",
-   "name": "crowdbricks",
-   "url": "https://github.com/patch-gg/crowdbricks",
-   "avatar": "https://avatars.githubusercontent.com/u/337959018?v=4",
-   "description": "Batched NVIDIA MotionBricks: generate the motion of hundreds of characters in one model call.",
-   "language": "Python",
-   "topics": [
-    "character-animation",
-    "crowd-simulation",
-    "motion-generation",
-    "motionbricks",
-    "tensorrt"
-   ],
-   "license": "Apache-2.0",
-   "stars": 73,
-   "forks": 8,
-   "createdAt": "2026-10-27T20:49:11Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-28T14:24:58.916Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/patch-gg/crowdbricks/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/patch-gg/crowdbricks?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/patch-gg/crowdbricks",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/patch-gg/crowdbricks/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/patch-gg/crowdbricks.git\ncd crowdbricks\npip install -e .",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/patch-gg/crowdbricks\nWhat it says it does: \"Batched NVIDIA MotionBricks: generate the motion of hundreds of characters in one model call.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T14:24:58.916Z"
   }
  ],
  "levels": {
-  "instant": 26,
   "account": 137,
+  "instant": 26,
   "read": 295,
   "heavy": 42
  }
