@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2092 guides written so far · last update 2026-11-05 11:36 UTC_
+_2093 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ArcPaladinRattle/microsoft-365](https://github.com/ArcPaladinRattle/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcpaladinrattle/microsoft-365.md) |
 | [ceilingtypemetro/scrcpy](https://github.com/ceilingtypemetro/scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilingtypemetro/scrcpy.md) |
 | [SmokeCrownCode/drfoneunlock](https://github.com/SmokeCrownCode/drfoneunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/smokecrowncode/drfoneunlock.md) |
 | [PursuerTermiteTouch/startall-back](https://github.com/PursuerTermiteTouch/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pursuertermitetouch/startall-back.md) |
@@ -38,7 +39,6 @@ _2092 guides written so far · last update 2026-11-05 11:36 UTC_
 | [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack) | Python project | Runs in the browser with a free account | [guide](guides/woyun520/pixel-gif-sticker-pack.md) |
 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python project | Runs in the browser with a free account | [guide](guides/tagphasearcade/tiktok-uploader.md) |
 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Python project | Runs in the browser with a free account | [guide](guides/dragonwolfshovel/youtube-uploader.md) |
-| [colorsmousesculpt/designcenter-nx](https://github.com/colorsmousesculpt/designcenter-nx) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/colorsmousesculpt/designcenter-nx.md) |
 <!-- latest:end -->
 
 ## How it works
