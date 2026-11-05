@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T11:36:54.901Z",
- "totalGuides": 2091,
+ "updatedAt": "2026-11-05T11:36:55.271Z",
+ "totalGuides": 2092,
  "items": [
+  {
+   "fullName": "ceilingtypemetro/scrcpy",
+   "owner": "ceilingtypemetro",
+   "name": "scrcpy",
+   "url": "https://github.com/ceilingtypemetro/scrcpy",
+   "avatar": "https://avatars.githubusercontent.com/u/292595122?v=4",
+   "description": "Scrcpy 2026: Complete standalone setup for seamless Android device screen mirroring on your desktop.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scrcpy-alternative",
+    "scrcpy-android",
+    "scrcpy-engine"
+   ],
+   "license": null,
+   "stars": 198,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:45:09Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-05T11:36:55.271Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/ceilingtypemetro/scrcpy",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ceilingtypemetro/scrcpy/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/ceilingtypemetro/scrcpy\nWhat it says it does: \"Scrcpy 2026: Complete standalone setup for seamless Android device screen mirroring on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-05T11:36:55.271Z"
+  },
   {
    "fullName": "SmokeCrownCode/drfoneunlock",
    "owner": "SmokeCrownCode",
@@ -30197,63 +30254,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/marooncocoonexcite/LossLess-Scaling\nWhat it says it does: \"Lossless Scaling Utility 2023: Full working installer for seamless, high-quality image resizing without data loss.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T14:24:57.083Z"
-  },
-  {
-   "fullName": "EgretRestore/Camtasia",
-   "owner": "EgretRestore",
-   "name": "Camtasia",
-   "url": "https://github.com/EgretRestore/Camtasia",
-   "avatar": "https://avatars.githubusercontent.com/u/295658082?v=4",
-   "description": "Camtasia 2026 complete standalone setup, fully functional with all features unlocked. Ready-to-run installation package.",
-   "language": null,
-   "topics": [
-    "camtasia",
-    "camtasia-key-license",
-    "camtasia-license",
-    "camtasia-pro",
-    "camtasia-safe",
-    "camtasia-script",
-    "camtasia-studio",
-    "camtasia-studio-2026"
-   ],
-   "license": null,
-   "stars": 100,
-   "forks": 0,
-   "createdAt": "2026-10-28T10:54:10Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-28T14:24:56.865Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/EgretRestore/Camtasia",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/EgretRestore/Camtasia/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/EgretRestore/Camtasia\nWhat it says it does: \"Camtasia 2026 complete standalone setup, fully functional with all features unlocked. Ready-to-run installation package.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T14:24:56.865Z"
   }
  ],
  "levels": {
