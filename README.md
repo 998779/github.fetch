@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2082 guides written so far · last update 2026-11-05 11:36 UTC_
+_2083 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python project | Runs in the browser with a free account | [guide](guides/tagphasearcade/tiktok-uploader.md) |
 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Python project | Runs in the browser with a free account | [guide](guides/dragonwolfshovel/youtube-uploader.md) |
 | [colorsmousesculpt/designcenter-nx](https://github.com/colorsmousesculpt/designcenter-nx) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/colorsmousesculpt/designcenter-nx.md) |
 | [BlizzardShaper/musicmakerunlimited](https://github.com/BlizzardShaper/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/blizzardshaper/musicmakerunlimited.md) |
@@ -38,7 +39,6 @@ _2082 guides written so far · last update 2026-11-05 11:36 UTC_
 | [Hubunprovide/monero-miner](https://github.com/Hubunprovide/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hubunprovide/monero-miner.md) |
 | [rivettypegap3/adobe-substance-3d](https://github.com/rivettypegap3/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivettypegap3/adobe-substance-3d.md) |
 | [LostAssassinAbide/tenorshare-4ukey](https://github.com/LostAssassinAbide/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lostassassinabide/tenorshare-4ukey.md) |
-| [arcmotormanjudge/adobe-indesign](https://github.com/arcmotormanjudge/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcmotormanjudge/adobe-indesign.md) |
 <!-- latest:end -->
 
 ## How it works
