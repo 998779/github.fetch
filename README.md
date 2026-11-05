@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2076 guides written so far · last update 2026-11-05 03:42 UTC_
+_2077 guides written so far · last update 2026-11-05 03:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lacquerowldirect/ads-blocker](https://github.com/lacquerowldirect/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lacquerowldirect/ads-blocker.md) |
 | [Rapidfovelocity/chimera](https://github.com/Rapidfovelocity/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rapidfovelocity/chimera.md) |
 | [galaxypugilistspot/canva-pro](https://github.com/galaxypugilistspot/canva-pro) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/galaxypugilistspot/canva-pro.md) |
 | [Hubunprovide/monero-miner](https://github.com/Hubunprovide/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hubunprovide/monero-miner.md) |
@@ -38,7 +39,6 @@ _2076 guides written so far · last update 2026-11-05 03:42 UTC_
 | [Balanov/latch](https://github.com/Balanov/latch) | Node command-line tool | Runs in the browser with a free account | [guide](guides/balanov/latch.md) |
 | [VelocityChiefGrow/reason-14](https://github.com/VelocityChiefGrow/reason-14) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/velocitychiefgrow/reason-14.md) |
 | [Basezurknife/microsoft-visio](https://github.com/Basezurknife/microsoft-visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/basezurknife/microsoft-visio.md) |
-| [BrightLeopardPop/catia-cad](https://github.com/BrightLeopardPop/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brightleopardpop/catia-cad.md) |
 <!-- latest:end -->
 
 ## How it works
