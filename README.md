@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2109 guides written so far · last update 2026-11-05 19:03 UTC_
+_2110 guides written so far · last update 2026-11-05 19:03 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ToneCommanderWave/fabfilter-pro](https://github.com/ToneCommanderWave/fabfilter-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tonecommanderwave/fabfilter-pro.md) |
 | [AstralBursarProvide/fabfilter-total](https://github.com/AstralBursarProvide/fabfilter-total) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralbursarprovide/fabfilter-total.md) |
 | [Surfacevicanopy/ifunbox](https://github.com/Surfacevicanopy/ifunbox) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/surfacevicanopy/ifunbox.md) |
 | [beamechoinertia/fortnite-skin-swapper](https://github.com/beamechoinertia/fortnite-skin-swapper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/beamechoinertia/fortnite-skin-swapper.md) |
@@ -38,7 +39,6 @@ _2109 guides written so far · last update 2026-11-05 19:03 UTC_
 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/kubai087/kubai-icons.md) |
 | [FalihPrada/claude-code-gateway](https://github.com/FalihPrada/claude-code-gateway) | Python project | Runs in the browser with a free account | [guide](guides/falihprada/claude-code-gateway.md) |
 | [rkhushi8d-tech/uttorent-desktop](https://github.com/rkhushi8d-tech/uttorent-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rkhushi8d-tech/uttorent-desktop.md) |
-| [Fassi-Ai/touch-copy](https://github.com/Fassi-Ai/touch-copy) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/fassi-ai/touch-copy.md) |
 <!-- latest:end -->
 
 ## How it works
