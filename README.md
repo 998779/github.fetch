@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2094 guides written so far · last update 2026-11-05 11:36 UTC_
+_2095 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sumeraaly1-arch/wondshare-recoverit-desktop](https://github.com/sumeraaly1-arch/wondshare-recoverit-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/sumeraaly1-arch/wondshare-recoverit-desktop.md) |
 | [sunile2k25-del/xyplorer-desktop](https://github.com/sunile2k25-del/xyplorer-desktop) | Python project | Runs in the browser with a free account | [guide](guides/sunile2k25-del/xyplorer-desktop.md) |
 | [ArcPaladinRattle/microsoft-365](https://github.com/ArcPaladinRattle/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcpaladinrattle/microsoft-365.md) |
 | [ceilingtypemetro/scrcpy](https://github.com/ceilingtypemetro/scrcpy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ceilingtypemetro/scrcpy.md) |
@@ -38,7 +39,6 @@ _2094 guides written so far · last update 2026-11-05 11:36 UTC_
 | [CustodianSky/axie-infinity-bot](https://github.com/CustodianSky/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/custodiansky/axie-infinity-bot.md) |
 | [aliothman123/zadtop-api](https://github.com/aliothman123/zadtop-api) | HTML project | Runs in the browser with a free account | [guide](guides/aliothman123/zadtop-api.md) |
 | [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack) | Python project | Runs in the browser with a free account | [guide](guides/woyun520/pixel-gif-sticker-pack.md) |
-| [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python project | Runs in the browser with a free account | [guide](guides/tagphasearcade/tiktok-uploader.md) |
 <!-- latest:end -->
 
 ## How it works
