@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2073 guides written so far · last update 2026-11-05 03:42 UTC_
+_2074 guides written so far · last update 2026-11-05 03:42 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Hubunprovide/monero-miner](https://github.com/Hubunprovide/monero-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hubunprovide/monero-miner.md) |
 | [rivettypegap3/adobe-substance-3d](https://github.com/rivettypegap3/adobe-substance-3d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/rivettypegap3/adobe-substance-3d.md) |
 | [LostAssassinAbide/tenorshare-4ukey](https://github.com/LostAssassinAbide/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lostassassinabide/tenorshare-4ukey.md) |
 | [arcmotormanjudge/adobe-indesign](https://github.com/arcmotormanjudge/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/arcmotormanjudge/adobe-indesign.md) |
@@ -38,7 +39,6 @@ _2073 guides written so far · last update 2026-11-05 03:42 UTC_
 | [BrightLeopardPop/catia-cad](https://github.com/BrightLeopardPop/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brightleopardpop/catia-cad.md) |
 | [ShoreSerpent/adobe-acrobat-pro](https://github.com/ShoreSerpent/adobe-acrobat-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shoreserpent/adobe-acrobat-pro.md) |
 | [Convergedreladle79/aomei-backupper](https://github.com/Convergedreladle79/aomei-backupper) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/convergedreladle79/aomei-backupper.md) |
-| [TameAssistant/multiaccountmanager](https://github.com/TameAssistant/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tameassistant/multiaccountmanager.md) |
 <!-- latest:end -->
 
 ## How it works

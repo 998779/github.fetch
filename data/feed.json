@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T03:42:26.881Z",
- "totalGuides": 2073,
+ "updatedAt": "2026-11-05T03:42:27.062Z",
+ "totalGuides": 2074,
  "items": [
+  {
+   "fullName": "Hubunprovide/monero-miner",
+   "owner": "Hubunprovide",
+   "name": "monero-miner",
+   "url": "https://github.com/Hubunprovide/monero-miner",
+   "avatar": "https://avatars.githubusercontent.com/u/292595652?v=4",
+   "description": "Monero Miner 2026: Full working installer with optimized mining algorithms for professional desktop use.",
+   "language": null,
+   "topics": [
+    "bitcoin-mining-tools",
+    "cloud-backup-windows",
+    "cpu-mining",
+    "cpumining",
+    "cryptominer",
+    "disc-burning",
+    "disc-burning-suite-windows",
+    "gpu-mining"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-04T08:44:09Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-05T03:42:27.061Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Hubunprovide/monero-miner",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Hubunprovide/monero-miner/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Hubunprovide/monero-miner\nWhat it says it does: \"Monero Miner 2026: Full working installer with optimized mining algorithms for professional desktop use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-05T03:42:27.061Z"
+  },
   {
    "fullName": "rivettypegap3/adobe-substance-3d",
    "owner": "rivettypegap3",
@@ -30264,60 +30321,6 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/molence/Mol-1\nWhat it says it does: \"Open Frontier Biomolecular Intelligence\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T07:30:24.978Z"
-  },
-  {
-   "fullName": "miao-org/awesome-supermimic",
-   "owner": "miao-org",
-   "name": "awesome-supermimic",
-   "url": "https://github.com/miao-org/awesome-supermimic",
-   "avatar": "https://avatars.githubusercontent.com/u/348109010?v=4",
-   "description": "A curated collection of SuperMimic implementations, extensions, demos, and resources.",
-   "language": null,
-   "topics": [
-    "awesome-list",
-    "humanoid-robotics",
-    "motion-tracking",
-    "supermimic",
-    "world-model"
-   ],
-   "license": "CC0-1.0",
-   "stars": 259,
-   "forks": 8,
-   "createdAt": "2026-10-26T02:49:01Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-28T07:30:24.553Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/miao-org/awesome-supermimic",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/miao-org/awesome-supermimic/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "CC0-1.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/miao-org/awesome-supermimic\nWhat it says it does: \"A curated collection of SuperMimic implementations, extensions, demos, and resources.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T07:30:24.553Z"
   }
  ],
  "levels": {
