@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2098 guides written so far · last update 2026-11-05 11:36 UTC_
+_2099 guides written so far · last update 2026-11-05 11:36 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [rkhushi8d-tech/uttorent-desktop](https://github.com/rkhushi8d-tech/uttorent-desktop) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/rkhushi8d-tech/uttorent-desktop.md) |
 | [Fassi-Ai/touch-copy](https://github.com/Fassi-Ai/touch-copy) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/fassi-ai/touch-copy.md) |
 | [theitsnschool/bloodborne-windows-native-loader](https://github.com/theitsnschool/bloodborne-windows-native-loader) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/theitsnschool/bloodborne-windows-native-loader.md) |
 | [Hye-Georgina/substance-3d-studio-installer](https://github.com/Hye-Georgina/substance-3d-studio-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/hye-georgina/substance-3d-studio-installer.md) |
@@ -38,7 +39,6 @@ _2098 guides written so far · last update 2026-11-05 11:36 UTC_
 | [PursuerTermiteTouch/startall-back](https://github.com/PursuerTermiteTouch/startall-back) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/pursuertermitetouch/startall-back.md) |
 | [TopazInvestor/capcut-for-windows](https://github.com/TopazInvestor/capcut-for-windows) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/topazinvestor/capcut-for-windows.md) |
 | [EntranceGeomancer/ninjatrader-bot](https://github.com/EntranceGeomancer/ninjatrader-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/entrancegeomancer/ninjatrader-bot.md) |
-| [gripserpentmall64/atas-trading-bot](https://github.com/gripserpentmall64/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gripserpentmall64/atas-trading-bot.md) |
 <!-- latest:end -->
 
 ## How it works
