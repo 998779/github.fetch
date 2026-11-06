@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2149 guides written so far · last update 2026-11-06 14:56 UTC_
+_2150 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [free-dam-man/agent-deploy-memory-muse](https://github.com/free-dam-man/agent-deploy-memory-muse) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/free-dam-man/agent-deploy-memory-muse.md) |
 | [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop) | Python project | Runs in the browser with a free account | [guide](guides/imraywang/ray-sticker-shop.md) |
 | [FiendTickPuzzle22/archicad](https://github.com/FiendTickPuzzle22/archicad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fiendtickpuzzle22/archicad.md) |
 | [phaseboulderfetter/discord-quest-completer](https://github.com/phaseboulderfetter/discord-quest-completer) | Python project | Runs in the browser with a free account | [guide](guides/phaseboulderfetter/discord-quest-completer.md) |
@@ -38,7 +39,6 @@ _2149 guides written so far · last update 2026-11-06 14:56 UTC_
 | [vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup](https://github.com/vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup) | Rust project | Runs in the browser with a free account | [guide](guides/vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup.md) |
 | [ppc52060-source/whale-tracker](https://github.com/ppc52060-source/whale-tracker) | Vite app | Runs in a browser tab, no account needed | [guide](guides/ppc52060-source/whale-tracker.md) |
 | [adamsemane13-droid/discord-server-raider](https://github.com/adamsemane13-droid/discord-server-raider) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/adamsemane13-droid/discord-server-raider.md) |
-| [criarapk/sylenth-1-desktop-installer](https://github.com/criarapk/sylenth-1-desktop-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/criarapk/sylenth-1-desktop-installer.md) |
 <!-- latest:end -->
 
 ## How it works
