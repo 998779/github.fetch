@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T14:56:42.128Z",
- "totalGuides": 2148,
+ "updatedAt": "2026-11-06T14:56:42.350Z",
+ "totalGuides": 2149,
  "items": [
+  {
+   "fullName": "imraywang/ray-sticker-shop",
+   "owner": "imraywang",
+   "name": "ray-sticker-shop",
+   "url": "https://github.com/imraywang/ray-sticker-shop",
+   "avatar": "https://avatars.githubusercontent.com/u/16276127?v=4",
+   "description": "一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 269,
+   "forks": 29,
+   "createdAt": "2026-11-05T13:09:01Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T14:56:42.349Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/imraywang/ray-sticker-shop/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/imraywang/ray-sticker-shop?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/imraywang/ray-sticker-shop",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/imraywang/ray-sticker-shop/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/imraywang/ray-sticker-shop.git\ncd ray-sticker-shop",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/imraywang/ray-sticker-shop\nWhat it says it does: \"一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T14:56:42.349Z"
+  },
   {
    "fullName": "FiendTickPuzzle22/archicad",
    "owner": "FiendTickPuzzle22",
@@ -30613,59 +30675,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/EmissaryRear/AnyDesk\nWhat it says it does: \"Complete AnyDesk 2026 installation build, ready-to-run with full remote access functionality.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T09:47:07.030Z"
-  },
-  {
-   "fullName": "ClipTerrapin48/Ableton-Live-12",
-   "owner": "ClipTerrapin48",
-   "name": "Ableton-Live-12",
-   "url": "https://github.com/ClipTerrapin48/Ableton-Live-12",
-   "avatar": "https://avatars.githubusercontent.com/u/295660381?v=4",
-   "description": "Complete Ableton Live 12 standalone setup for professional audio production, pre-activated and ready to run.",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 99,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:14:22Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T09:47:06.803Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ClipTerrapin48/Ableton-Live-12",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ClipTerrapin48/Ableton-Live-12/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ClipTerrapin48/Ableton-Live-12\nWhat it says it does: \"Complete Ableton Live 12 standalone setup for professional audio production, pre-activated and ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T09:47:06.803Z"
   }
  ],
  "levels": {
-  "read": 299,
-  "account": 131,
+  "account": 132,
+  "read": 298,
   "instant": 34,
   "heavy": 36
  }
