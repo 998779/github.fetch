@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2159 guides written so far · last update 2026-11-06 14:56 UTC_
+_2160 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [AstralEchoDay/aion-2-trainer-tool](https://github.com/AstralEchoDay/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralechoday/aion-2-trainer-tool.md) |
 | [PlasmaCarrierSwitch/honeypot-detector](https://github.com/PlasmaCarrierSwitch/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plasmacarrierswitch/honeypot-detector.md) |
 | [Awarenesschidirect/iobit-driver-booster](https://github.com/Awarenesschidirect/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/awarenesschidirect/iobit-driver-booster.md) |
 | [mixstagedivide32/soundpad](https://github.com/mixstagedivide32/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixstagedivide32/soundpad.md) |
@@ -38,7 +39,6 @@ _2159 guides written so far · last update 2026-11-06 14:56 UTC_
 | [Tropicaldrescoop/discord-id-osint-checker](https://github.com/Tropicaldrescoop/discord-id-osint-checker) | HTML project | Runs in the browser with a free account | [guide](guides/tropicaldrescoop/discord-id-osint-checker.md) |
 | [free-dam-man/agent-deploy-memory-muse](https://github.com/free-dam-man/agent-deploy-memory-muse) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/free-dam-man/agent-deploy-memory-muse.md) |
 | [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop) | Python project | Runs in the browser with a free account | [guide](guides/imraywang/ray-sticker-shop.md) |
-| [FiendTickPuzzle22/archicad](https://github.com/FiendTickPuzzle22/archicad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fiendtickpuzzle22/archicad.md) |
 <!-- latest:end -->
 
 ## How it works
