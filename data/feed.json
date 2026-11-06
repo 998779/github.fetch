@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T14:56:41.699Z",
- "totalGuides": 2146,
+ "updatedAt": "2026-11-06T14:56:41.890Z",
+ "totalGuides": 2147,
  "items": [
+  {
+   "fullName": "phaseboulderfetter/discord-quest-completer",
+   "owner": "phaseboulderfetter",
+   "name": "discord-quest-completer",
+   "url": "https://github.com/phaseboulderfetter/discord-quest-completer",
+   "avatar": "https://avatars.githubusercontent.com/u/343698925?v=4",
+   "description": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source",
+   "language": "Python",
+   "topics": [
+    "automation",
+    "discord",
+    "discord-quest",
+    "discord-tools",
+    "game-booster",
+    "open-source",
+    "python",
+    "quest-completer"
+   ],
+   "license": "MIT",
+   "stars": 425,
+   "forks": 332,
+   "createdAt": "2026-11-06T12:01:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T14:56:41.889Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/phaseboulderfetter/discord-quest-completer/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/phaseboulderfetter/discord-quest-completer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/phaseboulderfetter/discord-quest-completer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/phaseboulderfetter/discord-quest-completer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "python main.py",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/phaseboulderfetter/discord-quest-completer.git\ncd discord-quest-completer\npython main.py",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/phaseboulderfetter/discord-quest-completer\nWhat it says it does: \"Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T14:56:41.889Z"
+  },
   {
    "fullName": "Lowbetweentrim/crypto-portfolio-tracker",
    "owner": "Lowbetweentrim",
@@ -30590,69 +30661,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/BoatwrightSpout/IOBIT-Driver-Booster\nWhat it says it does: \"Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with full functionality and pre-activation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T09:47:06.567Z"
-  },
-  {
-   "fullName": "AspectPikemanPier/AnyUnlock",
-   "owner": "AspectPikemanPier",
-   "name": "AnyUnlock",
-   "url": "https://github.com/AspectPikemanPier/AnyUnlock",
-   "avatar": "https://avatars.githubusercontent.com/u/295659375?v=4",
-   "description": "Anyunlock 2026: Full working installer for professional desktop software utility configuration. Ready to run with all features activated.",
-   "language": null,
-   "topics": [
-    "apple-id-remove",
-    "apple-id-remover",
-    "device-tool",
-    "frp-tool",
-    "ios-bypass",
-    "ios-find-my-bypass",
-    "ios-jailbreak",
-    "ios-mdm-bypass"
-   ],
-   "license": null,
-   "stars": 99,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:14:59Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T09:47:06.408Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/AspectPikemanPier/AnyUnlock",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/AspectPikemanPier/AnyUnlock/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/AspectPikemanPier/AnyUnlock\nWhat it says it does: \"Anyunlock 2026: Full working installer for professional desktop software utility configuration. Ready to run with all features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T09:47:06.408Z"
   }
  ],
  "levels": {
-  "account": 130,
+  "account": 131,
   "instant": 34,
-  "read": 300,
+  "read": 299,
   "heavy": 36
  }
 }

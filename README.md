@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2146 guides written so far · last update 2026-11-06 14:56 UTC_
+_2147 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [phaseboulderfetter/discord-quest-completer](https://github.com/phaseboulderfetter/discord-quest-completer) | Python project | Runs in the browser with a free account | [guide](guides/phaseboulderfetter/discord-quest-completer.md) |
 | [Lowbetweentrim/crypto-portfolio-tracker](https://github.com/Lowbetweentrim/crypto-portfolio-tracker) | Python project | Runs in the browser with a free account | [guide](guides/lowbetweentrim/crypto-portfolio-tracker.md) |
 | [PulverizeLink/roblox-performance-tool](https://github.com/PulverizeLink/roblox-performance-tool) | Python project | Runs in the browser with a free account | [guide](guides/pulverizelink/roblox-performance-tool.md) |
 | [ankurxdas7-sketch/easy-worship](https://github.com/ankurxdas7-sketch/easy-worship) | JavaScript project | Runs in the browser with a free account | [guide](guides/ankurxdas7-sketch/easy-worship.md) |
@@ -38,7 +39,6 @@ _2146 guides written so far · last update 2026-11-06 14:56 UTC_
 | [criarapk/sylenth-1-desktop-installer](https://github.com/criarapk/sylenth-1-desktop-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/criarapk/sylenth-1-desktop-installer.md) |
 | [TuanAnhJr26/cinema-4d-desktop](https://github.com/TuanAnhJr26/cinema-4d-desktop) | Vite app | Runs in a browser tab, no account needed | [guide](guides/tuananhjr26/cinema-4d-desktop.md) |
 | [kralarthur26/ultra-edit](https://github.com/kralarthur26/ultra-edit) | Vite app | Runs in a browser tab, no account needed | [guide](guides/kralarthur26/ultra-edit.md) |
-| [koiralabikal4-ctrl/acrobat-pro-desktop-installer](https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/koiralabikal4-ctrl/acrobat-pro-desktop-installer.md) |
 <!-- latest:end -->
 
 ## How it works
