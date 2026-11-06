@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T20:48:40.604Z",
- "totalGuides": 2166,
+ "updatedAt": "2026-11-06T20:48:40.840Z",
+ "totalGuides": 2167,
  "items": [
+  {
+   "fullName": "Netbetweenacclaim/whale-tracker",
+   "owner": "Netbetweenacclaim",
+   "name": "whale-tracker",
+   "url": "https://github.com/Netbetweenacclaim/whale-tracker",
+   "avatar": "https://avatars.githubusercontent.com/u/292607906?v=4",
+   "description": "Whale Tracker 2023 automated deployment pipeline for professional desktop software utility configuration, ensuring seamless local...",
+   "language": null,
+   "topics": [
+    "automation",
+    "blockchain-intelligence",
+    "desktop",
+    "developer-tools",
+    "guide-setup-whale-tracker",
+    "high-transaction-tracker",
+    "how-to-install-whale-tracker",
+    "how-to-setup-whale-tracker"
+   ],
+   "license": null,
+   "stars": 221,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:25:36Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T20:48:40.838Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Netbetweenacclaim/whale-tracker",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Netbetweenacclaim/whale-tracker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Netbetweenacclaim/whale-tracker\nWhat it says it does: \"Whale Tracker 2023 automated deployment pipeline for professional desktop software utility configuration, ensuring seamless local...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T20:48:40.838Z"
+  },
   {
    "fullName": "Fuelflominaret/axie-infinity-bot",
    "owner": "Fuelflominaret",
@@ -30579,73 +30636,11 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/Villagers654/Venture\nWhat it says it does: \"A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T16:26:43.895Z"
-  },
-  {
-   "fullName": "BryceYuuu/RUN",
-   "owner": "BryceYuuu",
-   "name": "RUN",
-   "url": "https://github.com/BryceYuuu/RUN",
-   "avatar": "https://avatars.githubusercontent.com/u/153735320?v=4",
-   "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-   "language": "Python",
-   "topics": [],
-   "license": "CC-BY-SA-4.0",
-   "stars": 100,
-   "forks": 6,
-   "createdAt": "2026-10-29T11:28:43Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T16:26:43.688Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/BryceYuuu/RUN/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/BryceYuuu/RUN?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/BryceYuuu/RUN",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/BryceYuuu/RUN/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/BryceYuuu/RUN.git\ncd RUN",
-   "licenseNote": "CC-BY-SA-4.0: read the license file before reusing it.",
-   "prompt": "I found this GitHub project: https://github.com/BryceYuuu/RUN\nWhat it says it does: \"RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T16:26:43.688Z"
   }
  ],
  "levels": {
-  "read": 302,
-  "account": 132,
+  "read": 303,
+  "account": 131,
   "instant": 32,
   "heavy": 34
  }
