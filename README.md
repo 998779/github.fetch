@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2151 guides written so far · last update 2026-11-06 14:56 UTC_
+_2152 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [BrickShadeCanopy/data-grip](https://github.com/BrickShadeCanopy/data-grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brickshadecanopy/data-grip.md) |
 | [Tropicaldrescoop/discord-id-osint-checker](https://github.com/Tropicaldrescoop/discord-id-osint-checker) | HTML project | Runs in the browser with a free account | [guide](guides/tropicaldrescoop/discord-id-osint-checker.md) |
 | [free-dam-man/agent-deploy-memory-muse](https://github.com/free-dam-man/agent-deploy-memory-muse) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/free-dam-man/agent-deploy-memory-muse.md) |
 | [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop) | Python project | Runs in the browser with a free account | [guide](guides/imraywang/ray-sticker-shop.md) |
@@ -38,7 +39,6 @@ _2151 guides written so far · last update 2026-11-06 14:56 UTC_
 | [jrmamanitic/cinema-4d-desktop-utility-config](https://github.com/jrmamanitic/cinema-4d-desktop-utility-config) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/jrmamanitic/cinema-4d-desktop-utility-config.md) |
 | [pranavbansal637-source/delta-force-trainer-tool](https://github.com/pranavbansal637-source/delta-force-trainer-tool) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pranavbansal637-source/delta-force-trainer-tool.md) |
 | [vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup](https://github.com/vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup) | Rust project | Runs in the browser with a free account | [guide](guides/vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup.md) |
-| [ppc52060-source/whale-tracker](https://github.com/ppc52060-source/whale-tracker) | Vite app | Runs in a browser tab, no account needed | [guide](guides/ppc52060-source/whale-tracker.md) |
 <!-- latest:end -->
 
 ## How it works
