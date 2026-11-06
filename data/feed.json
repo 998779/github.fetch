@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T20:48:41.223Z",
- "totalGuides": 2169,
+ "updatedAt": "2026-11-06T20:48:41.495Z",
+ "totalGuides": 2170,
  "items": [
+  {
+   "fullName": "JourneymanStitch/imei-repair",
+   "owner": "JourneymanStitch",
+   "name": "imei-repair",
+   "url": "https://github.com/JourneymanStitch/imei-repair",
+   "avatar": "https://avatars.githubusercontent.com/u/292604778?v=4",
+   "description": "Imei Repair Free, an AI-driven device management solution, offers a pre-configured environment for seamless local workstation deployment in 2026.",
+   "language": null,
+   "topics": [
+    "chimera",
+    "cpid",
+    "device-unlocking",
+    "digital-product",
+    "how-to-setup-imei-repair-free",
+    "imei-check",
+    "imei-check-myanmar",
+    "imei-masker"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:23:11Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T20:48:41.494Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/JourneymanStitch/imei-repair",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/JourneymanStitch/imei-repair/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/JourneymanStitch/imei-repair\nWhat it says it does: \"Imei Repair Free, an AI-driven device management solution, offers a pre-configured environment for seamless local workstation deployment in 2026.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T20:48:41.494Z"
+  },
   {
    "fullName": "MinisterRoute/sp-flash-tool",
    "owner": "MinisterRoute",
@@ -30574,73 +30631,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/soimy/c3rb3r-rescue\nWhat it says it does: \"Evidence-based DSM ransomware recovery: preservation, RAM key recovery, copy decryption, and GitLab validation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T16:26:44.634Z"
-  },
-  {
-   "fullName": "Max-luo-song/ADToolBox",
-   "owner": "Max-luo-song",
-   "name": "ADToolBox",
-   "url": "https://github.com/Max-luo-song/ADToolBox",
-   "avatar": "https://avatars.githubusercontent.com/u/58042007?v=4",
-   "description": "This is for adagent tool box",
-   "language": "Python",
-   "topics": [],
-   "license": "Apache-2.0",
-   "stars": 76,
-   "forks": 3,
-   "createdAt": "2026-10-27T07:13:06Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T16:26:44.406Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/Max-luo-song/ADToolBox/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Max-luo-song/ADToolBox?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Max-luo-song/ADToolBox",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Max-luo-song/ADToolBox/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "pip install -e .",
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Max-luo-song/ADToolBox.git\ncd ADToolBox\npip install -e .",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Max-luo-song/ADToolBox\nWhat it says it does: \"This is for adagent tool box\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T16:26:44.406Z"
   }
  ],
  "levels": {
-  "read": 305,
-  "account": 131,
+  "read": 306,
+  "account": 130,
   "instant": 32,
   "heavy": 32
  }
