@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2167 guides written so far · last update 2026-11-06 20:48 UTC_
+_2168 guides written so far · last update 2026-11-06 20:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MetalHairdresser/slideshow-video-maker](https://github.com/MetalHairdresser/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metalhairdresser/slideshow-video-maker.md) |
 | [Netbetweenacclaim/whale-tracker](https://github.com/Netbetweenacclaim/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/netbetweenacclaim/whale-tracker.md) |
 | [Fuelflominaret/axie-infinity-bot](https://github.com/Fuelflominaret/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelflominaret/axie-infinity-bot.md) |
 | [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks) | Python project | Runs in the browser with a free account | [guide](guides/riyadhhda/wichforks.md) |
@@ -38,7 +39,6 @@ _2167 guides written so far · last update 2026-11-06 20:48 UTC_
 | [PlasmaCarrierSwitch/honeypot-detector](https://github.com/PlasmaCarrierSwitch/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plasmacarrierswitch/honeypot-detector.md) |
 | [Awarenesschidirect/iobit-driver-booster](https://github.com/Awarenesschidirect/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/awarenesschidirect/iobit-driver-booster.md) |
 | [mixstagedivide32/soundpad](https://github.com/mixstagedivide32/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixstagedivide32/soundpad.md) |
-| [Fuelalflare88/autodesk-revit](https://github.com/Fuelalflare88/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelalflare88/autodesk-revit.md) |
 <!-- latest:end -->
 
 ## How it works

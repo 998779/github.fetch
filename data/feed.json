@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T20:48:40.840Z",
- "totalGuides": 2167,
+ "updatedAt": "2026-11-06T20:48:41.035Z",
+ "totalGuides": 2168,
  "items": [
+  {
+   "fullName": "MetalHairdresser/slideshow-video-maker",
+   "owner": "MetalHairdresser",
+   "name": "slideshow-video-maker",
+   "url": "https://github.com/MetalHairdresser/slideshow-video-maker",
+   "avatar": "https://avatars.githubusercontent.com/u/292607359?v=4",
+   "description": "Slideshow Video Maker 2026 automated deployment pipeline with optimized package deployment for professional video editing and screen...",
+   "language": null,
+   "topics": [
+    "automation",
+    "beat-creator",
+    "beginner-daw",
+    "developer-tools",
+    "guide-setup-slideshow-video-maker",
+    "how-to-install-slideshow-video-maker",
+    "how-to-setup-slideshow-video-maker",
+    "instagram-downloader"
+   ],
+   "license": null,
+   "stars": 221,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:24:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T20:48:41.035Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/MetalHairdresser/slideshow-video-maker",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/MetalHairdresser/slideshow-video-maker/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/MetalHairdresser/slideshow-video-maker\nWhat it says it does: \"Slideshow Video Maker 2026 automated deployment pipeline with optimized package deployment for professional video editing and screen...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T20:48:41.035Z"
+  },
   {
    "fullName": "Netbetweenacclaim/whale-tracker",
    "owner": "Netbetweenacclaim",
@@ -30579,69 +30636,12 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/MarkBlah/smsofdeath\nWhat it says it does: \"remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T16:26:44.097Z"
-  },
-  {
-   "fullName": "Villagers654/Venture",
-   "owner": "Villagers654",
-   "name": "Venture",
-   "url": "https://github.com/Villagers654/Venture",
-   "avatar": "https://avatars.githubusercontent.com/u/110007851?v=4",
-   "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
-   "language": "C++",
-   "topics": [],
-   "license": "GPL-3.0",
-   "stars": 100,
-   "forks": 5,
-   "createdAt": "2026-10-27T19:20:10Z",
-   "branch": "main",
-   "homepage": "https://venture-emu.org/",
-   "addedAt": "2026-10-29T16:26:43.895Z",
-   "stack": {
-    "kind": "native",
-    "label": "C++ project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Villagers654/Venture?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Villagers654/Venture",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Villagers654/Venture/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "C++ usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/Villagers654/Venture.git\ncd Venture",
-   "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
-   "prompt": "I found this GitHub project: https://github.com/Villagers654/Venture\nWhat it says it does: \"A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T16:26:43.895Z"
   }
  ],
  "levels": {
-  "read": 303,
+  "read": 304,
   "account": 131,
   "instant": 32,
-  "heavy": 34
+  "heavy": 33
  }
 }
