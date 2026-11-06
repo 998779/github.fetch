@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T20:48:43.313Z",
- "totalGuides": 2179,
+ "updatedAt": "2026-11-06T20:48:43.496Z",
+ "totalGuides": 2180,
  "items": [
+  {
+   "fullName": "innerdaimyopush/iobit-driver-booster",
+   "owner": "innerdaimyopush",
+   "name": "iobit-driver-booster",
+   "url": "https://github.com/innerdaimyopush/iobit-driver-booster",
+   "avatar": "https://avatars.githubusercontent.com/u/292607248?v=4",
+   "description": "Iobit Driver Booster 8.5 pre-configured environment for efficient automated deployment pipeline in enterprise desktop software catalog.",
+   "language": null,
+   "topics": [
+    "bootcamp-drivers",
+    "device-drivers",
+    "device-manager-tool",
+    "driver-development",
+    "driver-downloader",
+    "driver-genius-latest",
+    "driver-optimizer",
+    "driver-tool"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:23:20Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T20:48:43.495Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/innerdaimyopush/iobit-driver-booster",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/innerdaimyopush/iobit-driver-booster/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/innerdaimyopush/iobit-driver-booster\nWhat it says it does: \"Iobit Driver Booster 8.5 pre-configured environment for efficient automated deployment pipeline in enterprise desktop software catalog.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T20:48:43.495Z"
+  },
   {
    "fullName": "Hairanfollow/discord-quest-completer",
    "owner": "Hairanfollow",
@@ -30524,58 +30581,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Ambererforum/Designcenter-NX\nWhat it says it does: \"Designcenter Nx 2026 complete standalone setup. Fully functional, pre-activated desktop installation ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T21:21:57.026Z"
-  },
-  {
-   "fullName": "Attothroughzen/Autodesk-CFD",
-   "owner": "Attothroughzen",
-   "name": "Autodesk-CFD",
-   "url": "https://github.com/Attothroughzen/Autodesk-CFD",
-   "avatar": "https://avatars.githubusercontent.com/u/295660910?v=4",
-   "description": "Autodesk Cfd 2026 pre-configured desktop installation build, ready to run with all features activated.",
-   "language": null,
-   "topics": [
-    "cfd-simulation",
-    "cfd-toolbox",
-    "cfdtool-toolbox"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:15:35Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T21:21:56.826Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Attothroughzen/Autodesk-CFD",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Attothroughzen/Autodesk-CFD/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Attothroughzen/Autodesk-CFD\nWhat it says it does: \"Autodesk Cfd 2026 pre-configured desktop installation build, ready to run with all features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T21:21:56.826Z"
   }
  ],
  "levels": {
