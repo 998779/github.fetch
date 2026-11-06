@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2158 guides written so far · last update 2026-11-06 14:56 UTC_
+_2159 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PlasmaCarrierSwitch/honeypot-detector](https://github.com/PlasmaCarrierSwitch/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plasmacarrierswitch/honeypot-detector.md) |
 | [Awarenesschidirect/iobit-driver-booster](https://github.com/Awarenesschidirect/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/awarenesschidirect/iobit-driver-booster.md) |
 | [mixstagedivide32/soundpad](https://github.com/mixstagedivide32/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixstagedivide32/soundpad.md) |
 | [Fuelalflare88/autodesk-revit](https://github.com/Fuelalflare88/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelalflare88/autodesk-revit.md) |
@@ -38,7 +39,6 @@ _2158 guides written so far · last update 2026-11-06 14:56 UTC_
 | [free-dam-man/agent-deploy-memory-muse](https://github.com/free-dam-man/agent-deploy-memory-muse) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/free-dam-man/agent-deploy-memory-muse.md) |
 | [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop) | Python project | Runs in the browser with a free account | [guide](guides/imraywang/ray-sticker-shop.md) |
 | [FiendTickPuzzle22/archicad](https://github.com/FiendTickPuzzle22/archicad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fiendtickpuzzle22/archicad.md) |
-| [phaseboulderfetter/discord-quest-completer](https://github.com/phaseboulderfetter/discord-quest-completer) | Python project | Runs in the browser with a free account | [guide](guides/phaseboulderfetter/discord-quest-completer.md) |
 <!-- latest:end -->
 
 ## How it works
