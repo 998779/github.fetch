@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T20:48:43.132Z",
- "totalGuides": 2178,
+ "updatedAt": "2026-11-06T20:48:43.313Z",
+ "totalGuides": 2179,
  "items": [
+  {
+   "fullName": "Hairanfollow/discord-quest-completer",
+   "owner": "Hairanfollow",
+   "name": "discord-quest-completer",
+   "url": "https://github.com/Hairanfollow/discord-quest-completer",
+   "avatar": "https://avatars.githubusercontent.com/u/292599151?v=4",
+   "description": "Discord Quest Completer 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal utility performance and...",
+   "language": null,
+   "topics": [
+    "automation",
+    "developer-tools",
+    "discord-automation",
+    "discord-orbs",
+    "discord-quest",
+    "discord-quest-completer-2026",
+    "discord-quest-completer-bot",
+    "discord-quest-completer-free"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:22:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T20:48:43.312Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Hairanfollow/discord-quest-completer",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Hairanfollow/discord-quest-completer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Hairanfollow/discord-quest-completer\nWhat it says it does: \"Discord Quest Completer 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal utility performance and...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T20:48:43.312Z"
+  },
   {
    "fullName": "Flintfaconceal/ads-blocker",
    "owner": "Flintfaconceal",
@@ -30519,63 +30576,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Attothroughzen/Autodesk-CFD\nWhat it says it does: \"Autodesk Cfd 2026 pre-configured desktop installation build, ready to run with all features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T21:21:56.826Z"
-  },
-  {
-   "fullName": "PentagonShadeSky/Axie-Infinity-Bot",
-   "owner": "PentagonShadeSky",
-   "name": "Axie-Infinity-Bot",
-   "url": "https://github.com/PentagonShadeSky/Axie-Infinity-Bot",
-   "avatar": "https://avatars.githubusercontent.com/u/295660092?v=4",
-   "description": "Complete standalone setup for Axie Infinity Bot 2026. Full working installer with all features pre-activated, ready to run.",
-   "language": null,
-   "topics": [
-    "auto-battle-bot",
-    "axie-auto",
-    "axie-auto-2026",
-    "axie-automation-tool",
-    "axie-bot",
-    "axie-bot-2026",
-    "axie-infinity",
-    "axie-infinity-2026"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:15:43Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T21:21:56.628Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/PentagonShadeSky/Axie-Infinity-Bot",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/PentagonShadeSky/Axie-Infinity-Bot/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/PentagonShadeSky/Axie-Infinity-Bot\nWhat it says it does: \"Complete standalone setup for Axie Infinity Bot 2026. Full working installer with all features pre-activated, ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T21:21:56.628Z"
   }
  ],
  "levels": {
