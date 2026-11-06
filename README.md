@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2125 guides written so far · last update 2026-11-06 00:08 UTC_
+_2126 guides written so far · last update 2026-11-06 00:08 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Python project | Runs in the browser with a free account | [guide](guides/majorminorlabs/hermes-voice.md) |
 | [Tornadokrobang/delta-executor-for-pc-bypass](https://github.com/Tornadokrobang/delta-executor-for-pc-bypass) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tornadokrobang/delta-executor-for-pc-bypass.md) |
 | [RoomSupplierTrowel/anyunlock](https://github.com/RoomSupplierTrowel/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roomsuppliertrowel/anyunlock.md) |
 | [ZettaLayerPull/php-storm](https://github.com/ZettaLayerPull/php-storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zettalayerpull/php-storm.md) |
@@ -38,7 +39,6 @@ _2125 guides written so far · last update 2026-11-06 00:08 UTC_
 | [Deepkroboard/ashampoo-uninstaller](https://github.com/Deepkroboard/ashampoo-uninstaller) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkroboard/ashampoo-uninstaller.md) |
 | [FollowerTower/autodesk-3ds-max](https://github.com/FollowerTower/autodesk-3ds-max) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followertower/autodesk-3ds-max.md) |
 | [divergeeagleslip50/claude-jailbreak-prompt](https://github.com/divergeeagleslip50/claude-jailbreak-prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/divergeeagleslip50/claude-jailbreak-prompt.md) |
-| [spybarongrid/cellebrite-ufed](https://github.com/spybarongrid/cellebrite-ufed) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spybarongrid/cellebrite-ufed.md) |
 <!-- latest:end -->
 
 ## How it works
