@@ -1,8 +1,93 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T06:56:44.350Z",
- "totalGuides": 2134,
+ "updatedAt": "2026-11-06T06:56:44.541Z",
+ "totalGuides": 2135,
  "items": [
+  {
+   "fullName": "koiralabikal4-ctrl/acrobat-pro-desktop-installer",
+   "owner": "koiralabikal4-ctrl",
+   "name": "acrobat-pro-desktop-installer",
+   "url": "https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer",
+   "avatar": "https://avatars.githubusercontent.com/u/291718472?v=4",
+   "description": "Adobe Acrobat Pro Desktop: Secure Standalone Installer with Enhanced Protocols",
+   "language": "HTML",
+   "topics": [
+    "acrobat-dc-pro",
+    "acrobat-for-free-2026",
+    "acrobat-no-limits",
+    "acrobat-pdf",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "forms-acrobat-pro"
+   ],
+   "license": null,
+   "stars": 299,
+   "forks": 0,
+   "createdAt": "2026-11-04T21:49:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T06:56:44.540Z",
+   "stack": {
+    "kind": "static",
+    "label": "Static website (HTML/CSS/JS)",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "live",
+   "launch": [
+    {
+     "id": "live",
+     "label": "Open it live",
+     "url": "https://raw.githack.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer/main/index.html",
+     "needs": "nothing",
+     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
+    },
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/koiralabikal4-ctrl/acrobat-pro-desktop-installer",
+     "needs": "nothing",
+     "note": "A full editor and preview in your tab."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/koiralabikal4-ctrl/acrobat-pro-desktop-installer",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/koiralabikal4-ctrl/acrobat-pro-desktop-installer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/koiralabikal4-ctrl/acrobat-pro-desktop-installer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "npx serve .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer.git\ncd acrobat-pro-desktop-installer\nnpx serve .",
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer\nWhat it says it does: \"Adobe Acrobat Pro Desktop: Secure Standalone Installer with Enhanced Protocols\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T06:56:44.540Z"
+  },
   {
    "fullName": "abhaybbellway/ashampoo-winoptimizer-setup",
    "owner": "abhaybbellway",
@@ -30344,60 +30429,12 @@
    "licenseNote": "GPL-3.0: you can use and change it, but if you share your version you must share your code under the same license.",
    "prompt": "I found this GitHub project: https://github.com/JulioFerrero/pocket-foundry\nWhat it says it does: \"Play your own copy of Factorio on Android: the official Linux ARM64 build, run without emulation on the phone's GPU, with an on-screen controller.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T02:55:52.873Z"
-  },
-  {
-   "fullName": "Akil-x/R00tLib-Catalog",
-   "owner": "Akil-x",
-   "name": "R00tLib-Catalog",
-   "url": "https://github.com/Akil-x/R00tLib-Catalog",
-   "avatar": "https://avatars.githubusercontent.com/u/180762554?v=4",
-   "description": "A community-curated knowledge hub and catalog for computer science, cybersecurity & software engineering books",
-   "language": null,
-   "topics": [],
-   "license": "MIT",
-   "stars": 61,
-   "forks": 3,
-   "createdAt": "2026-10-28T17:22:39Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T02:55:52.633Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Akil-x/R00tLib-Catalog",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Akil-x/R00tLib-Catalog/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Akil-x/R00tLib-Catalog\nWhat it says it does: \"A community-curated knowledge hub and catalog for computer science, cybersecurity & software engineering books\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T02:55:52.633Z"
   }
  ],
  "levels": {
-  "instant": 27,
+  "instant": 28,
   "account": 129,
-  "read": 307,
+  "read": 306,
   "heavy": 37
  }
 }

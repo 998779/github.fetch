@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2134 guides written so far · last update 2026-11-06 06:56 UTC_
+_2135 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [koiralabikal4-ctrl/acrobat-pro-desktop-installer](https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/koiralabikal4-ctrl/acrobat-pro-desktop-installer.md) |
 | [abhaybbellway/ashampoo-winoptimizer-setup](https://github.com/abhaybbellway/ashampoo-winoptimizer-setup) | Vite app | Runs in a browser tab, no account needed | [guide](guides/abhaybbellway/ashampoo-winoptimizer-setup.md) |
 | [Smit10-Dev/data-grip](https://github.com/Smit10-Dev/data-grip) | Python project | Runs in the browser with a free account | [guide](guides/smit10-dev/data-grip.md) |
 | [ashirafmulongo332-code/premierepro-video-editor-2026](https://github.com/ashirafmulongo332-code/premierepro-video-editor-2026) | JavaScript project | Runs in the browser with a free account | [guide](guides/ashirafmulongo332-code/premierepro-video-editor-2026.md) |
@@ -38,7 +39,6 @@ _2134 guides written so far · last update 2026-11-06 06:56 UTC_
 | [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Python project | Runs in the browser with a free account | [guide](guides/majorminorlabs/hermes-voice.md) |
 | [Tornadokrobang/delta-executor-for-pc-bypass](https://github.com/Tornadokrobang/delta-executor-for-pc-bypass) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tornadokrobang/delta-executor-for-pc-bypass.md) |
 | [RoomSupplierTrowel/anyunlock](https://github.com/RoomSupplierTrowel/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roomsuppliertrowel/anyunlock.md) |
-| [ZettaLayerPull/php-storm](https://github.com/ZettaLayerPull/php-storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zettalayerpull/php-storm.md) |
 <!-- latest:end -->
 
 ## How it works
