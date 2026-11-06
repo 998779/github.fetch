@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T20:48:43.496Z",
- "totalGuides": 2180,
+ "updatedAt": "2026-11-06T20:48:43.739Z",
+ "totalGuides": 2181,
  "items": [
+  {
+   "fullName": "roadboltspire/fl-studio",
+   "owner": "roadboltspire",
+   "name": "fl-studio",
+   "url": "https://github.com/roadboltspire/fl-studio",
+   "avatar": "https://avatars.githubusercontent.com/u/292604872?v=4",
+   "description": "Fl Studio 2023 automated deployment pipeline for professional digital audio workstation setup, ensuring seamless local workstation integration.",
+   "language": null,
+   "topics": [
+    "audio-engineering",
+    "beat-making",
+    "digital-audio-workstation",
+    "fl",
+    "fl-studio-10",
+    "fl-studio-basic",
+    "fl-studio-classic",
+    "fruity-loops"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:41:14Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T20:48:43.738Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/roadboltspire/fl-studio",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/roadboltspire/fl-studio/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/roadboltspire/fl-studio\nWhat it says it does: \"Fl Studio 2023 automated deployment pipeline for professional digital audio workstation setup, ensuring seamless local workstation integration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T20:48:43.738Z"
+  },
   {
    "fullName": "innerdaimyopush/iobit-driver-booster",
    "owner": "innerdaimyopush",
@@ -30524,63 +30581,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/coastboulderdolmen/AutoCad\nWhat it says it does: \"Autocad 2026 complete standalone setup. Pre-activated desktop edition ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T21:21:57.531Z"
-  },
-  {
-   "fullName": "Ambererforum/Designcenter-NX",
-   "owner": "Ambererforum",
-   "name": "Designcenter-NX",
-   "url": "https://github.com/Ambererforum/Designcenter-NX",
-   "avatar": "https://avatars.githubusercontent.com/u/295661742?v=4",
-   "description": "Designcenter Nx 2026 complete standalone setup. Fully functional, pre-activated desktop installation ready to run.",
-   "language": null,
-   "topics": [
-    "nx-cad",
-    "nxopen",
-    "siemens-2026",
-    "siemens-cad",
-    "siemens-nx",
-    "siemens-nx-2026",
-    "siemens-nx-download",
-    "siemens-nx-free"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:17:20Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T21:21:57.026Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Ambererforum/Designcenter-NX",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Ambererforum/Designcenter-NX/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Ambererforum/Designcenter-NX\nWhat it says it does: \"Designcenter Nx 2026 complete standalone setup. Fully functional, pre-activated desktop installation ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T21:21:57.026Z"
   }
  ],
  "levels": {

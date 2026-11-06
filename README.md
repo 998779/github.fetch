@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2180 guides written so far · last update 2026-11-06 20:48 UTC_
+_2181 guides written so far · last update 2026-11-06 20:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [roadboltspire/fl-studio](https://github.com/roadboltspire/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadboltspire/fl-studio.md) |
 | [innerdaimyopush/iobit-driver-booster](https://github.com/innerdaimyopush/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/innerdaimyopush/iobit-driver-booster.md) |
 | [Hairanfollow/discord-quest-completer](https://github.com/Hairanfollow/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hairanfollow/discord-quest-completer.md) |
 | [Flintfaconceal/ads-blocker](https://github.com/Flintfaconceal/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flintfaconceal/ads-blocker.md) |
@@ -38,7 +39,6 @@ _2180 guides written so far · last update 2026-11-06 20:48 UTC_
 | [hunternavigatorhunt/genesis-miner](https://github.com/hunternavigatorhunt/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hunternavigatorhunt/genesis-miner.md) |
 | [Holeshurepresent/fonetrans](https://github.com/Holeshurepresent/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holeshurepresent/fonetrans.md) |
 | [JourneymanStitch/imei-repair](https://github.com/JourneymanStitch/imei-repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/journeymanstitch/imei-repair.md) |
-| [MinisterRoute/sp-flash-tool](https://github.com/MinisterRoute/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ministerroute/sp-flash-tool.md) |
 <!-- latest:end -->
 
 ## How it works
