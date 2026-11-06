@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2155 guides written so far · last update 2026-11-06 14:56 UTC_
+_2156 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Fuelalflare88/autodesk-revit](https://github.com/Fuelalflare88/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelalflare88/autodesk-revit.md) |
 | [PortParakeetShift/clion](https://github.com/PortParakeetShift/clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portparakeetshift/clion.md) |
 | [feelingmediatorpace/autodesk-revit](https://github.com/feelingmediatorpace/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feelingmediatorpace/autodesk-revit.md) |
 | [FragmentCaretaker/genesis-miner](https://github.com/FragmentCaretaker/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fragmentcaretaker/genesis-miner.md) |
@@ -38,7 +39,6 @@ _2155 guides written so far · last update 2026-11-06 14:56 UTC_
 | [phaseboulderfetter/discord-quest-completer](https://github.com/phaseboulderfetter/discord-quest-completer) | Python project | Runs in the browser with a free account | [guide](guides/phaseboulderfetter/discord-quest-completer.md) |
 | [Lowbetweentrim/crypto-portfolio-tracker](https://github.com/Lowbetweentrim/crypto-portfolio-tracker) | Python project | Runs in the browser with a free account | [guide](guides/lowbetweentrim/crypto-portfolio-tracker.md) |
 | [PulverizeLink/roblox-performance-tool](https://github.com/PulverizeLink/roblox-performance-tool) | Python project | Runs in the browser with a free account | [guide](guides/pulverizelink/roblox-performance-tool.md) |
-| [ankurxdas7-sketch/easy-worship](https://github.com/ankurxdas7-sketch/easy-worship) | JavaScript project | Runs in the browser with a free account | [guide](guides/ankurxdas7-sketch/easy-worship.md) |
 <!-- latest:end -->
 
 ## How it works
