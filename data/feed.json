@@ -1,8 +1,93 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T06:56:45.004Z",
- "totalGuides": 2137,
+ "updatedAt": "2026-11-06T06:56:45.167Z",
+ "totalGuides": 2138,
  "items": [
+  {
+   "fullName": "criarapk/sylenth-1-desktop-installer",
+   "owner": "criarapk",
+   "name": "sylenth-1-desktop-installer",
+   "url": "https://github.com/criarapk/sylenth-1-desktop-installer",
+   "avatar": "https://avatars.githubusercontent.com/u/214565683?v=4",
+   "description": "Sylenth-1 desktop build: full-featured installer, all features enabled, ready out of the box",
+   "language": "HTML",
+   "topics": [
+    "audio-tool",
+    "automation",
+    "daw-plugins",
+    "desktop",
+    "developer-tools",
+    "fxp",
+    "open-source",
+    "python"
+   ],
+   "license": "MIT",
+   "stars": 298,
+   "forks": 0,
+   "createdAt": "2026-11-04T22:55:35Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T06:56:45.166Z",
+   "stack": {
+    "kind": "static",
+    "label": "Static website (HTML/CSS/JS)",
+    "frameworks": []
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "live",
+   "launch": [
+    {
+     "id": "live",
+     "label": "Open it live",
+     "url": "https://raw.githack.com/criarapk/sylenth-1-desktop-installer/main/index.html",
+     "needs": "nothing",
+     "note": "Opens the site straight from GitHub. Some sites need a build step first, so if it looks broken, use StackBlitz."
+    },
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/criarapk/sylenth-1-desktop-installer",
+     "needs": "nothing",
+     "note": "A full editor and preview in your tab."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/criarapk/sylenth-1-desktop-installer",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/criarapk/sylenth-1-desktop-installer?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/criarapk/sylenth-1-desktop-installer",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/criarapk/sylenth-1-desktop-installer/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": "npx serve .",
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/criarapk/sylenth-1-desktop-installer.git\ncd sylenth-1-desktop-installer\nnpx serve .",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/criarapk/sylenth-1-desktop-installer\nWhat it says it does: \"Sylenth-1 desktop build: full-featured installer, all features enabled, ready out of the box\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Open it live, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T06:56:45.166Z"
+  },
   {
    "fullName": "TuanAnhJr26/cinema-4d-desktop",
    "owner": "TuanAnhJr26",
@@ -30393,66 +30478,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/missuo/unfairplay-bot\nWhat it says it does: \"Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T02:55:53.854Z"
-  },
-  {
-   "fullName": "Pluviobyte/awesome-talking-head-skills",
-   "owner": "Pluviobyte",
-   "name": "awesome-talking-head-skills",
-   "url": "https://github.com/Pluviobyte/awesome-talking-head-skills",
-   "avatar": "https://avatars.githubusercontent.com/u/94058511?v=4",
-   "description": "把口播博主的出镜动作拆成可复用的 Agent Skill，用于口播数字人生成",
-   "language": "Shell",
-   "topics": [],
-   "license": "MIT",
-   "stars": 56,
-   "forks": 14,
-   "createdAt": "2026-10-27T01:49:47Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T02:55:53.573Z",
-   "stack": {
-    "kind": "other",
-    "label": "Shell project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Pluviobyte/awesome-talking-head-skills?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Pluviobyte/awesome-talking-head-skills",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Pluviobyte/awesome-talking-head-skills/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Pluviobyte/awesome-talking-head-skills.git\ncd awesome-talking-head-skills",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Pluviobyte/awesome-talking-head-skills\nWhat it says it does: \"把口播博主的出镜动作拆成可复用的 Agent Skill，用于口播数字人生成\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T02:55:53.573Z"
   }
  ],
  "levels": {
-  "instant": 29,
-  "account": 129,
+  "instant": 30,
+  "account": 128,
   "read": 306,
   "heavy": 36
  }
