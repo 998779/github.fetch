@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2135 guides written so far · last update 2026-11-06 06:56 UTC_
+_2136 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [kralarthur26/ultra-edit](https://github.com/kralarthur26/ultra-edit) | Vite app | Runs in a browser tab, no account needed | [guide](guides/kralarthur26/ultra-edit.md) |
 | [koiralabikal4-ctrl/acrobat-pro-desktop-installer](https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/koiralabikal4-ctrl/acrobat-pro-desktop-installer.md) |
 | [abhaybbellway/ashampoo-winoptimizer-setup](https://github.com/abhaybbellway/ashampoo-winoptimizer-setup) | Vite app | Runs in a browser tab, no account needed | [guide](guides/abhaybbellway/ashampoo-winoptimizer-setup.md) |
 | [Smit10-Dev/data-grip](https://github.com/Smit10-Dev/data-grip) | Python project | Runs in the browser with a free account | [guide](guides/smit10-dev/data-grip.md) |
@@ -38,7 +39,6 @@ _2135 guides written so far · last update 2026-11-06 06:56 UTC_
 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Python project | Runs in the browser with a free account | [guide](guides/herdbuilderestimate/roblox-studio-mcp.md) |
 | [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Python project | Runs in the browser with a free account | [guide](guides/majorminorlabs/hermes-voice.md) |
 | [Tornadokrobang/delta-executor-for-pc-bypass](https://github.com/Tornadokrobang/delta-executor-for-pc-bypass) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tornadokrobang/delta-executor-for-pc-bypass.md) |
-| [RoomSupplierTrowel/anyunlock](https://github.com/RoomSupplierTrowel/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roomsuppliertrowel/anyunlock.md) |
 <!-- latest:end -->
 
 ## How it works
