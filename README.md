@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2173 guides written so far · last update 2026-11-06 20:48 UTC_
+_2174 guides written so far · last update 2026-11-06 20:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [InertiaCourier/honeypot-detector](https://github.com/InertiaCourier/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inertiacourier/honeypot-detector.md) |
 | [MindCatMotor/soundpad](https://github.com/MindCatMotor/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindcatmotor/soundpad.md) |
 | [hunternavigatorhunt/genesis-miner](https://github.com/hunternavigatorhunt/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hunternavigatorhunt/genesis-miner.md) |
 | [Holeshurepresent/fonetrans](https://github.com/Holeshurepresent/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holeshurepresent/fonetrans.md) |
@@ -38,7 +39,6 @@ _2173 guides written so far · last update 2026-11-06 20:48 UTC_
 | [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks) | Python project | Runs in the browser with a free account | [guide](guides/riyadhhda/wichforks.md) |
 | [ShieldAuditorFight/chief-architect-premier](https://github.com/ShieldAuditorFight/chief-architect-premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shieldauditorfight/chief-architect-premier.md) |
 | [binarycasterscreen/auto-withdraw-bot](https://github.com/binarycasterscreen/auto-withdraw-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/binarycasterscreen/auto-withdraw-bot.md) |
-| [figurechrysalispath/aion-2-trainer-tool](https://github.com/figurechrysalispath/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/figurechrysalispath/aion-2-trainer-tool.md) |
 <!-- latest:end -->
 
 ## How it works
