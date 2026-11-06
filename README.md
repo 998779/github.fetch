@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2161 guides written so far · last update 2026-11-06 14:56 UTC_
+_2162 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [figurechrysalispath/aion-2-trainer-tool](https://github.com/figurechrysalispath/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/figurechrysalispath/aion-2-trainer-tool.md) |
 | [Sandstonephidirect/uttorent](https://github.com/Sandstonephidirect/uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandstonephidirect/uttorent.md) |
 | [AstralEchoDay/aion-2-trainer-tool](https://github.com/AstralEchoDay/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralechoday/aion-2-trainer-tool.md) |
 | [PlasmaCarrierSwitch/honeypot-detector](https://github.com/PlasmaCarrierSwitch/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plasmacarrierswitch/honeypot-detector.md) |
@@ -38,7 +39,6 @@ _2161 guides written so far · last update 2026-11-06 14:56 UTC_
 | [FragmentCaretaker/genesis-miner](https://github.com/FragmentCaretaker/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fragmentcaretaker/genesis-miner.md) |
 | [BrickShadeCanopy/data-grip](https://github.com/BrickShadeCanopy/data-grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brickshadecanopy/data-grip.md) |
 | [Tropicaldrescoop/discord-id-osint-checker](https://github.com/Tropicaldrescoop/discord-id-osint-checker) | HTML project | Runs in the browser with a free account | [guide](guides/tropicaldrescoop/discord-id-osint-checker.md) |
-| [free-dam-man/agent-deploy-memory-muse](https://github.com/free-dam-man/agent-deploy-memory-muse) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/free-dam-man/agent-deploy-memory-muse.md) |
 <!-- latest:end -->
 
 ## How it works
