@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T14:56:46.547Z",
- "totalGuides": 2160,
+ "updatedAt": "2026-11-06T14:56:46.776Z",
+ "totalGuides": 2161,
  "items": [
+  {
+   "fullName": "Sandstonephidirect/uttorent",
+   "owner": "Sandstonephidirect",
+   "name": "uttorent",
+   "url": "https://github.com/Sandstonephidirect/uttorent",
+   "avatar": "https://avatars.githubusercontent.com/u/335733803?v=4",
+   "description": "Uttorent 2023 automated deployment pipeline for secure, isolated desktop software utility configuration.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop-torrent-application",
+    "developer-tools",
+    "guide-setup-uttorent",
+    "how-to-install-uttorent",
+    "how-to-setup-uttorent",
+    "incogni-nordvpn-value",
+    "nordvpn-sc-locations"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-05T17:42:44Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T14:56:46.775Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Sandstonephidirect/uttorent",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Sandstonephidirect/uttorent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Sandstonephidirect/uttorent\nWhat it says it does: \"Uttorent 2023 automated deployment pipeline for secure, isolated desktop software utility configuration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T14:56:46.775Z"
+  },
   {
    "fullName": "AstralEchoDay/aion-2-trainer-tool",
    "owner": "AstralEchoDay",
@@ -30637,73 +30694,11 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/jackwener/DeepseekHarness-Android\nWhat it says it does: \"免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T16:26:42.455Z"
-  },
-  {
-   "fullName": "10291124jcjc-dotcom/ai-anime-series",
-   "owner": "10291124jcjc-dotcom",
-   "name": "ai-anime-series",
-   "url": "https://github.com/10291124jcjc-dotcom/ai-anime-series",
-   "avatar": "https://avatars.githubusercontent.com/u/275983648?v=4",
-   "description": "AI 动画单元剧：固定原创角色，一句话出一集。角色设定图 + 宫格故事板 + 即梦 Seedance 一次生成。Claude Skill.",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 145,
-   "forks": 38,
-   "createdAt": "2026-10-28T14:31:38Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T16:26:42.254Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/10291124jcjc-dotcom/ai-anime-series/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/10291124jcjc-dotcom/ai-anime-series?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/10291124jcjc-dotcom/ai-anime-series",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/10291124jcjc-dotcom/ai-anime-series/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/10291124jcjc-dotcom/ai-anime-series.git\ncd ai-anime-series",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/10291124jcjc-dotcom/ai-anime-series\nWhat it says it does: \"AI 动画单元剧：固定原创角色，一句话出一集。角色设定图 + 宫格故事板 + 即梦 Seedance 一次生成。Claude Skill.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T16:26:42.254Z"
   }
  ],
  "levels": {
-  "read": 297,
-  "account": 133,
+  "read": 298,
+  "account": 132,
   "instant": 34,
   "heavy": 36
  }
