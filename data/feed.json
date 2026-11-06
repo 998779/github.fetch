@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T14:56:45.545Z",
- "totalGuides": 2156,
+ "updatedAt": "2026-11-06T14:56:45.807Z",
+ "totalGuides": 2157,
  "items": [
+  {
+   "fullName": "mixstagedivide32/soundpad",
+   "owner": "mixstagedivide32",
+   "name": "soundpad",
+   "url": "https://github.com/mixstagedivide32/soundpad",
+   "avatar": "https://avatars.githubusercontent.com/u/335742964?v=4",
+   "description": "Soundpad 2026 pre-configured environment for professional digital audio workstation deployment.",
+   "language": null,
+   "topics": [
+    "automation",
+    "developer-tools",
+    "guide-setup-soundpad",
+    "how-to-install-soundpad",
+    "how-to-setup-soundpad",
+    "open-source",
+    "python",
+    "scripts"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-05T17:42:37Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T14:56:45.806Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/mixstagedivide32/soundpad",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/mixstagedivide32/soundpad/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/mixstagedivide32/soundpad\nWhat it says it does: \"Soundpad 2026 pre-configured environment for professional digital audio workstation deployment.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T14:56:45.806Z"
+  },
   {
    "fullName": "Fuelalflare88/autodesk-revit",
    "owner": "Fuelalflare88",
@@ -30624,63 +30681,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Calmfluretreat/Crash-Plan\nWhat it says it does: \"Crash Plan 2026: Full working installer, complete standalone setup for reliable backup and recovery on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T09:47:08.756Z"
-  },
-  {
-   "fullName": "Knitchewhirl/Directory-Opus",
-   "owner": "Knitchewhirl",
-   "name": "Directory-Opus",
-   "url": "https://github.com/Knitchewhirl/Directory-Opus",
-   "avatar": "https://avatars.githubusercontent.com/u/295659964?v=4",
-   "description": "Directory Opus 2026: Full working installer with all essential utilities and features ready to run.",
-   "language": null,
-   "topics": [
-    "directory-opus",
-    "directory-opus-crack-2026",
-    "directory-opus-for-win",
-    "directory-opus-free",
-    "directory-opus-free-2026",
-    "directory-opus-setup",
-    "opus-2026",
-    "opus-crack"
-   ],
-   "license": null,
-   "stars": 99,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:17:18Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T09:47:08.520Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Knitchewhirl/Directory-Opus",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Knitchewhirl/Directory-Opus/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Knitchewhirl/Directory-Opus\nWhat it says it does: \"Directory Opus 2026: Full working installer with all essential utilities and features ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T09:47:08.520Z"
   }
  ],
  "levels": {
