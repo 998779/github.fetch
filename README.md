@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2163 guides written so far · last update 2026-11-06 14:56 UTC_
+_2164 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ShieldAuditorFight/chief-architect-premier](https://github.com/ShieldAuditorFight/chief-architect-premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shieldauditorfight/chief-architect-premier.md) |
 | [binarycasterscreen/auto-withdraw-bot](https://github.com/binarycasterscreen/auto-withdraw-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/binarycasterscreen/auto-withdraw-bot.md) |
 | [figurechrysalispath/aion-2-trainer-tool](https://github.com/figurechrysalispath/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/figurechrysalispath/aion-2-trainer-tool.md) |
 | [Sandstonephidirect/uttorent](https://github.com/Sandstonephidirect/uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandstonephidirect/uttorent.md) |
@@ -38,7 +39,6 @@ _2163 guides written so far · last update 2026-11-06 14:56 UTC_
 | [PortParakeetShift/clion](https://github.com/PortParakeetShift/clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portparakeetshift/clion.md) |
 | [feelingmediatorpace/autodesk-revit](https://github.com/feelingmediatorpace/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feelingmediatorpace/autodesk-revit.md) |
 | [FragmentCaretaker/genesis-miner](https://github.com/FragmentCaretaker/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fragmentcaretaker/genesis-miner.md) |
-| [BrickShadeCanopy/data-grip](https://github.com/BrickShadeCanopy/data-grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brickshadecanopy/data-grip.md) |
 <!-- latest:end -->
 
 ## How it works
