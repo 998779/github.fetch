@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2177 guides written so far · last update 2026-11-06 20:48 UTC_
+_2178 guides written so far · last update 2026-11-06 20:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Flintfaconceal/ads-blocker](https://github.com/Flintfaconceal/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flintfaconceal/ads-blocker.md) |
 | [MetropolisAccountant/solidworks-cad](https://github.com/MetropolisAccountant/solidworks-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metropolisaccountant/solidworks-cad.md) |
 | [MeteorShipperLook40/sketchup-pro](https://github.com/MeteorShipperLook40/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meteorshipperlook40/sketchup-pro.md) |
 | [HallThrasherVice/discord-server-cloner](https://github.com/HallThrasherVice/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hallthrashervice/discord-server-cloner.md) |
@@ -38,7 +39,6 @@ _2177 guides written so far · last update 2026-11-06 20:48 UTC_
 | [MinisterRoute/sp-flash-tool](https://github.com/MinisterRoute/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ministerroute/sp-flash-tool.md) |
 | [MetalHairdresser/slideshow-video-maker](https://github.com/MetalHairdresser/slideshow-video-maker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metalhairdresser/slideshow-video-maker.md) |
 | [Netbetweenacclaim/whale-tracker](https://github.com/Netbetweenacclaim/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/netbetweenacclaim/whale-tracker.md) |
-| [Fuelflominaret/axie-infinity-bot](https://github.com/Fuelflominaret/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelflominaret/axie-infinity-bot.md) |
 <!-- latest:end -->
 
 ## How it works
