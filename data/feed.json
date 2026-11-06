@@ -1,8 +1,88 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-05T19:03:27.579Z",
- "totalGuides": 2121,
+ "updatedAt": "2026-11-06T00:08:57.569Z",
+ "totalGuides": 2122,
  "items": [
+  {
+   "fullName": "livliv-dev/player",
+   "owner": "livliv-dev",
+   "name": "player",
+   "url": "https://github.com/livliv-dev/player",
+   "avatar": "https://avatars.githubusercontent.com/u/352250088?v=4",
+   "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+   "language": "TypeScript",
+   "topics": [
+    "avatar",
+    "character",
+    "face-tracking",
+    "lip-sync",
+    "pngtuber",
+    "vrm",
+    "vtuber",
+    "webgl2"
+   ],
+   "license": "Apache-2.0",
+   "stars": 292,
+   "forks": 36,
+   "createdAt": "2026-11-04T03:28:33Z",
+   "branch": "main",
+   "homepage": "https://livliv-dev.github.io/player/",
+   "addedAt": "2026-11-06T00:08:57.554Z",
+   "stack": {
+    "kind": "node",
+    "label": "Vite app",
+    "frameworks": [
+     "Vite"
+    ]
+   },
+   "level": "instant",
+   "levelText": "Runs in a browser tab, no account needed",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/livliv-dev/player",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/livliv-dev/player",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/livliv-dev/player?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/livliv-dev/player",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/livliv-dev/player/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/livliv-dev/player.git\ncd player\nnpm install",
+   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/livliv-dev/player\nWhat it says it does: \"A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T00:08:57.554Z"
+  },
   {
    "fullName": "GigaClericComplete/quicken-deluxe",
    "owner": "GigaClericComplete",
@@ -30281,83 +30361,12 @@
    "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/floatboatai/OpenMinutes\nWhat it says it does: \"OpenMinutes · 录音笔工作台：MemoTalk S1 录音的导入 · 转录 · AI 归类 · 检索复盘（Floatboat Workbench 开源实现）\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-28T23:39:18.143Z"
-  },
-  {
-   "fullName": "Humpalumps/Ultra-Water",
-   "owner": "Humpalumps",
-   "name": "Ultra-Water",
-   "url": "https://github.com/Humpalumps/Ultra-Water",
-   "avatar": "https://avatars.githubusercontent.com/u/257292434?v=4",
-   "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps",
-   "language": "JavaScript",
-   "topics": [],
-   "license": "MIT",
-   "stars": 88,
-   "forks": 14,
-   "createdAt": "2026-10-28T16:27:44Z",
-   "branch": "master",
-   "homepage": null,
-   "addedAt": "2026-10-28T23:39:17.773Z",
-   "stack": {
-    "kind": "node",
-    "label": "Vite app",
-    "frameworks": [
-     "Vite"
-    ]
-   },
-   "level": "instant",
-   "levelText": "Runs in a browser tab, no account needed",
-   "best": "stackblitz",
-   "launch": [
-    {
-     "id": "stackblitz",
-     "label": "StackBlitz",
-     "url": "https://stackblitz.com/github/Humpalumps/Ultra-Water",
-     "needs": "nothing",
-     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts (`npm run dev`)."
-    },
-    {
-     "id": "codesandbox",
-     "label": "CodeSandbox",
-     "url": "https://codesandbox.io/p/github/Humpalumps/Ultra-Water",
-     "needs": "free account",
-     "note": "Cloud dev box with a live preview."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/Humpalumps/Ultra-Water?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/Humpalumps/Ultra-Water",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Humpalumps/Ultra-Water/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": "npm install",
-   "run": "npm run dev",
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/Humpalumps/Ultra-Water.git\ncd Ultra-Water\nnpm install\nnpm run dev",
-   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/Humpalumps/Ultra-Water\nWhat it says it does: \"Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-28T23:39:17.773Z"
   }
  ],
  "levels": {
+  "instant": 25,
   "read": 305,
   "account": 132,
-  "instant": 25,
   "heavy": 38
  }
 }
