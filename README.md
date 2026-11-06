@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2139 guides written so far · last update 2026-11-06 06:56 UTC_
+_2140 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ppc52060-source/whale-tracker](https://github.com/ppc52060-source/whale-tracker) | Vite app | Runs in a browser tab, no account needed | [guide](guides/ppc52060-source/whale-tracker.md) |
 | [adamsemane13-droid/discord-server-raider](https://github.com/adamsemane13-droid/discord-server-raider) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/adamsemane13-droid/discord-server-raider.md) |
 | [criarapk/sylenth-1-desktop-installer](https://github.com/criarapk/sylenth-1-desktop-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/criarapk/sylenth-1-desktop-installer.md) |
 | [TuanAnhJr26/cinema-4d-desktop](https://github.com/TuanAnhJr26/cinema-4d-desktop) | Vite app | Runs in a browser tab, no account needed | [guide](guides/tuananhjr26/cinema-4d-desktop.md) |
@@ -38,7 +39,6 @@ _2139 guides written so far · last update 2026-11-06 06:56 UTC_
 | [obiawendel293-gif/tenorshare-4ukey-desktop](https://github.com/obiawendel293-gif/tenorshare-4ukey-desktop) | Vite app | Runs in a browser tab, no account needed | [guide](guides/obiawendel293-gif/tenorshare-4ukey-desktop.md) |
 | [palashsahu3107/metatrader-2026-standalone-setup](https://github.com/palashsahu3107/metatrader-2026-standalone-setup) | Vite app | Runs in a browser tab, no account needed | [guide](guides/palashsahu3107/metatrader-2026-standalone-setup.md) |
 | [iampaulmoh/avid-media-composer-setup](https://github.com/iampaulmoh/avid-media-composer-setup) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/iampaulmoh/avid-media-composer-setup.md) |
-| [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Node command-line tool | Runs in the browser with a free account | [guide](guides/josssphzhou/poki.md) |
 <!-- latest:end -->
 
 ## How it works
