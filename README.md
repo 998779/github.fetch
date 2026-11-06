@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2130 guides written so far · last update 2026-11-06 06:56 UTC_
+_2131 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [obiawendel293-gif/tenorshare-4ukey-desktop](https://github.com/obiawendel293-gif/tenorshare-4ukey-desktop) | Vite app | Runs in a browser tab, no account needed | [guide](guides/obiawendel293-gif/tenorshare-4ukey-desktop.md) |
 | [palashsahu3107/metatrader-2026-standalone-setup](https://github.com/palashsahu3107/metatrader-2026-standalone-setup) | Vite app | Runs in a browser tab, no account needed | [guide](guides/palashsahu3107/metatrader-2026-standalone-setup.md) |
 | [iampaulmoh/avid-media-composer-setup](https://github.com/iampaulmoh/avid-media-composer-setup) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/iampaulmoh/avid-media-composer-setup.md) |
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Node command-line tool | Runs in the browser with a free account | [guide](guides/josssphzhou/poki.md) |
@@ -38,7 +39,6 @@ _2130 guides written so far · last update 2026-11-06 06:56 UTC_
 | [livliv-dev/player](https://github.com/livliv-dev/player) | Vite app | Runs in a browser tab, no account needed | [guide](guides/livliv-dev/player.md) |
 | [GigaClericComplete/quicken-deluxe](https://github.com/GigaClericComplete/quicken-deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gigaclericcomplete/quicken-deluxe.md) |
 | [plotserpentteach/photo-commander](https://github.com/plotserpentteach/photo-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plotserpentteach/photo-commander.md) |
-| [splendorheroteach/ph-downloader](https://github.com/splendorheroteach/ph-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorheroteach/ph-downloader.md) |
 <!-- latest:end -->
 
 ## How it works
