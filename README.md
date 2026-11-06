@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2175 guides written so far · last update 2026-11-06 20:48 UTC_
+_2176 guides written so far · last update 2026-11-06 20:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [MeteorShipperLook40/sketchup-pro](https://github.com/MeteorShipperLook40/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meteorshipperlook40/sketchup-pro.md) |
 | [HallThrasherVice/discord-server-cloner](https://github.com/HallThrasherVice/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hallthrashervice/discord-server-cloner.md) |
 | [InertiaCourier/honeypot-detector](https://github.com/InertiaCourier/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inertiacourier/honeypot-detector.md) |
 | [MindCatMotor/soundpad](https://github.com/MindCatMotor/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindcatmotor/soundpad.md) |
@@ -38,7 +39,6 @@ _2175 guides written so far · last update 2026-11-06 20:48 UTC_
 | [Netbetweenacclaim/whale-tracker](https://github.com/Netbetweenacclaim/whale-tracker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/netbetweenacclaim/whale-tracker.md) |
 | [Fuelflominaret/axie-infinity-bot](https://github.com/Fuelflominaret/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelflominaret/axie-infinity-bot.md) |
 | [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks) | Python project | Runs in the browser with a free account | [guide](guides/riyadhhda/wichforks.md) |
-| [ShieldAuditorFight/chief-architect-premier](https://github.com/ShieldAuditorFight/chief-architect-premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shieldauditorfight/chief-architect-premier.md) |
 <!-- latest:end -->
 
 ## How it works
