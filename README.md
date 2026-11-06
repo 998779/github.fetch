@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2165 guides written so far · last update 2026-11-06 20:48 UTC_
+_2166 guides written so far · last update 2026-11-06 20:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Fuelflominaret/axie-infinity-bot](https://github.com/Fuelflominaret/axie-infinity-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelflominaret/axie-infinity-bot.md) |
 | [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks) | Python project | Runs in the browser with a free account | [guide](guides/riyadhhda/wichforks.md) |
 | [ShieldAuditorFight/chief-architect-premier](https://github.com/ShieldAuditorFight/chief-architect-premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/shieldauditorfight/chief-architect-premier.md) |
 | [binarycasterscreen/auto-withdraw-bot](https://github.com/binarycasterscreen/auto-withdraw-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/binarycasterscreen/auto-withdraw-bot.md) |
@@ -38,7 +39,6 @@ _2165 guides written so far · last update 2026-11-06 20:48 UTC_
 | [mixstagedivide32/soundpad](https://github.com/mixstagedivide32/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixstagedivide32/soundpad.md) |
 | [Fuelalflare88/autodesk-revit](https://github.com/Fuelalflare88/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelalflare88/autodesk-revit.md) |
 | [PortParakeetShift/clion](https://github.com/PortParakeetShift/clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portparakeetshift/clion.md) |
-| [feelingmediatorpace/autodesk-revit](https://github.com/feelingmediatorpace/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feelingmediatorpace/autodesk-revit.md) |
 <!-- latest:end -->
 
 ## How it works
