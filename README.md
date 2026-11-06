@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2136 guides written so far · last update 2026-11-06 06:56 UTC_
+_2137 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [TuanAnhJr26/cinema-4d-desktop](https://github.com/TuanAnhJr26/cinema-4d-desktop) | Vite app | Runs in a browser tab, no account needed | [guide](guides/tuananhjr26/cinema-4d-desktop.md) |
 | [kralarthur26/ultra-edit](https://github.com/kralarthur26/ultra-edit) | Vite app | Runs in a browser tab, no account needed | [guide](guides/kralarthur26/ultra-edit.md) |
 | [koiralabikal4-ctrl/acrobat-pro-desktop-installer](https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/koiralabikal4-ctrl/acrobat-pro-desktop-installer.md) |
 | [abhaybbellway/ashampoo-winoptimizer-setup](https://github.com/abhaybbellway/ashampoo-winoptimizer-setup) | Vite app | Runs in a browser tab, no account needed | [guide](guides/abhaybbellway/ashampoo-winoptimizer-setup.md) |
@@ -38,7 +39,6 @@ _2136 guides written so far · last update 2026-11-06 06:56 UTC_
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Node command-line tool | Runs in the browser with a free account | [guide](guides/josssphzhou/poki.md) |
 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Python project | Runs in the browser with a free account | [guide](guides/herdbuilderestimate/roblox-studio-mcp.md) |
 | [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Python project | Runs in the browser with a free account | [guide](guides/majorminorlabs/hermes-voice.md) |
-| [Tornadokrobang/delta-executor-for-pc-bypass](https://github.com/Tornadokrobang/delta-executor-for-pc-bypass) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tornadokrobang/delta-executor-for-pc-bypass.md) |
 <!-- latest:end -->
 
 ## How it works
