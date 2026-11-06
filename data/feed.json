@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T14:56:45.807Z",
- "totalGuides": 2157,
+ "updatedAt": "2026-11-06T14:56:46.045Z",
+ "totalGuides": 2158,
  "items": [
+  {
+   "fullName": "Awarenesschidirect/iobit-driver-booster",
+   "owner": "Awarenesschidirect",
+   "name": "iobit-driver-booster",
+   "url": "https://github.com/Awarenesschidirect/iobit-driver-booster",
+   "avatar": "https://avatars.githubusercontent.com/u/292620534?v=4",
+   "description": "Iobit Driver Booster 7.5 pre-configured environment for automated deployment pipeline, ensuring optimal system performance and driver...",
+   "language": null,
+   "topics": [
+    "bootcamp-drivers",
+    "device-drivers",
+    "device-manager-tool",
+    "driver-development",
+    "driver-downloader",
+    "driver-genius-latest",
+    "driver-optimizer",
+    "driver-tool"
+   ],
+   "license": null,
+   "stars": 200,
+   "forks": 0,
+   "createdAt": "2026-11-06T08:39:56Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T14:56:46.044Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Awarenesschidirect/iobit-driver-booster",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Awarenesschidirect/iobit-driver-booster/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Awarenesschidirect/iobit-driver-booster\nWhat it says it does: \"Iobit Driver Booster 7.5 pre-configured environment for automated deployment pipeline, ensuring optimal system performance and driver...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T14:56:46.044Z"
+  },
   {
    "fullName": "mixstagedivide32/soundpad",
    "owner": "mixstagedivide32",
@@ -30633,54 +30690,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Radiancebeyondcrane/DAEMON-Pro\nWhat it says it does: \"Daemon Pro 2026: Full working installer for professional desktop software utility configuration, ready to run on your system.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T09:47:08.989Z"
-  },
-  {
-   "fullName": "Calmfluretreat/Crash-Plan",
-   "owner": "Calmfluretreat",
-   "name": "Crash-Plan",
-   "url": "https://github.com/Calmfluretreat/Crash-Plan",
-   "avatar": "https://avatars.githubusercontent.com/u/295659747?v=4",
-   "description": "Crash Plan 2026: Full working installer, complete standalone setup for reliable backup and recovery on your desktop.",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 99,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:16:44Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T09:47:08.756Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Calmfluretreat/Crash-Plan",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Calmfluretreat/Crash-Plan/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Calmfluretreat/Crash-Plan\nWhat it says it does: \"Crash Plan 2026: Full working installer, complete standalone setup for reliable backup and recovery on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T09:47:08.756Z"
   }
  ],
  "levels": {

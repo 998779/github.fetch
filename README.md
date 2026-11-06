@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2157 guides written so far · last update 2026-11-06 14:56 UTC_
+_2158 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Awarenesschidirect/iobit-driver-booster](https://github.com/Awarenesschidirect/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/awarenesschidirect/iobit-driver-booster.md) |
 | [mixstagedivide32/soundpad](https://github.com/mixstagedivide32/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mixstagedivide32/soundpad.md) |
 | [Fuelalflare88/autodesk-revit](https://github.com/Fuelalflare88/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fuelalflare88/autodesk-revit.md) |
 | [PortParakeetShift/clion](https://github.com/PortParakeetShift/clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/portparakeetshift/clion.md) |
@@ -38,7 +39,6 @@ _2157 guides written so far · last update 2026-11-06 14:56 UTC_
 | [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop) | Python project | Runs in the browser with a free account | [guide](guides/imraywang/ray-sticker-shop.md) |
 | [FiendTickPuzzle22/archicad](https://github.com/FiendTickPuzzle22/archicad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fiendtickpuzzle22/archicad.md) |
 | [phaseboulderfetter/discord-quest-completer](https://github.com/phaseboulderfetter/discord-quest-completer) | Python project | Runs in the browser with a free account | [guide](guides/phaseboulderfetter/discord-quest-completer.md) |
-| [Lowbetweentrim/crypto-portfolio-tracker](https://github.com/Lowbetweentrim/crypto-portfolio-tracker) | Python project | Runs in the browser with a free account | [guide](guides/lowbetweentrim/crypto-portfolio-tracker.md) |
 <!-- latest:end -->
 
 ## How it works
