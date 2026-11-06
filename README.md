@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2126 guides written so far · last update 2026-11-06 00:08 UTC_
+_2127 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Python project | Runs in the browser with a free account | [guide](guides/herdbuilderestimate/roblox-studio-mcp.md) |
 | [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Python project | Runs in the browser with a free account | [guide](guides/majorminorlabs/hermes-voice.md) |
 | [Tornadokrobang/delta-executor-for-pc-bypass](https://github.com/Tornadokrobang/delta-executor-for-pc-bypass) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/tornadokrobang/delta-executor-for-pc-bypass.md) |
 | [RoomSupplierTrowel/anyunlock](https://github.com/RoomSupplierTrowel/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roomsuppliertrowel/anyunlock.md) |
@@ -38,7 +39,6 @@ _2126 guides written so far · last update 2026-11-06 00:08 UTC_
 | [gryphonanalystsocket/power-director](https://github.com/gryphonanalystsocket/power-director) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonanalystsocket/power-director.md) |
 | [Deepkroboard/ashampoo-uninstaller](https://github.com/Deepkroboard/ashampoo-uninstaller) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkroboard/ashampoo-uninstaller.md) |
 | [FollowerTower/autodesk-3ds-max](https://github.com/FollowerTower/autodesk-3ds-max) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followertower/autodesk-3ds-max.md) |
-| [divergeeagleslip50/claude-jailbreak-prompt](https://github.com/divergeeagleslip50/claude-jailbreak-prompt) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/divergeeagleslip50/claude-jailbreak-prompt.md) |
 <!-- latest:end -->
 
 ## How it works
