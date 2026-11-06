@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2153 guides written so far · last update 2026-11-06 14:56 UTC_
+_2154 guides written so far · last update 2026-11-06 14:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [feelingmediatorpace/autodesk-revit](https://github.com/feelingmediatorpace/autodesk-revit) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/feelingmediatorpace/autodesk-revit.md) |
 | [FragmentCaretaker/genesis-miner](https://github.com/FragmentCaretaker/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fragmentcaretaker/genesis-miner.md) |
 | [BrickShadeCanopy/data-grip](https://github.com/BrickShadeCanopy/data-grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/brickshadecanopy/data-grip.md) |
 | [Tropicaldrescoop/discord-id-osint-checker](https://github.com/Tropicaldrescoop/discord-id-osint-checker) | HTML project | Runs in the browser with a free account | [guide](guides/tropicaldrescoop/discord-id-osint-checker.md) |
@@ -38,7 +39,6 @@ _2153 guides written so far · last update 2026-11-06 14:56 UTC_
 | [PulverizeLink/roblox-performance-tool](https://github.com/PulverizeLink/roblox-performance-tool) | Python project | Runs in the browser with a free account | [guide](guides/pulverizelink/roblox-performance-tool.md) |
 | [ankurxdas7-sketch/easy-worship](https://github.com/ankurxdas7-sketch/easy-worship) | JavaScript project | Runs in the browser with a free account | [guide](guides/ankurxdas7-sketch/easy-worship.md) |
 | [jrmamanitic/cinema-4d-desktop-utility-config](https://github.com/jrmamanitic/cinema-4d-desktop-utility-config) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/jrmamanitic/cinema-4d-desktop-utility-config.md) |
-| [pranavbansal637-source/delta-force-trainer-tool](https://github.com/pranavbansal637-source/delta-force-trainer-tool) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pranavbansal637-source/delta-force-trainer-tool.md) |
 <!-- latest:end -->
 
 ## How it works
