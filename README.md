@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2132 guides written so far · last update 2026-11-06 06:56 UTC_
+_2133 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Smit10-Dev/data-grip](https://github.com/Smit10-Dev/data-grip) | Python project | Runs in the browser with a free account | [guide](guides/smit10-dev/data-grip.md) |
 | [ashirafmulongo332-code/premierepro-video-editor-2026](https://github.com/ashirafmulongo332-code/premierepro-video-editor-2026) | JavaScript project | Runs in the browser with a free account | [guide](guides/ashirafmulongo332-code/premierepro-video-editor-2026.md) |
 | [obiawendel293-gif/tenorshare-4ukey-desktop](https://github.com/obiawendel293-gif/tenorshare-4ukey-desktop) | Vite app | Runs in a browser tab, no account needed | [guide](guides/obiawendel293-gif/tenorshare-4ukey-desktop.md) |
 | [palashsahu3107/metatrader-2026-standalone-setup](https://github.com/palashsahu3107/metatrader-2026-standalone-setup) | Vite app | Runs in a browser tab, no account needed | [guide](guides/palashsahu3107/metatrader-2026-standalone-setup.md) |
@@ -38,7 +39,6 @@ _2132 guides written so far · last update 2026-11-06 06:56 UTC_
 | [RoomSupplierTrowel/anyunlock](https://github.com/RoomSupplierTrowel/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roomsuppliertrowel/anyunlock.md) |
 | [ZettaLayerPull/php-storm](https://github.com/ZettaLayerPull/php-storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zettalayerpull/php-storm.md) |
 | [livliv-dev/player](https://github.com/livliv-dev/player) | Vite app | Runs in a browser tab, no account needed | [guide](guides/livliv-dev/player.md) |
-| [GigaClericComplete/quicken-deluxe](https://github.com/GigaClericComplete/quicken-deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gigaclericcomplete/quicken-deluxe.md) |
 <!-- latest:end -->
 
 ## How it works
