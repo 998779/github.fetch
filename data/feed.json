@@ -1,8 +1,86 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T06:56:46.117Z",
- "totalGuides": 2143,
+ "updatedAt": "2026-11-06T06:56:46.451Z",
+ "totalGuides": 2144,
  "items": [
+  {
+   "fullName": "ankurxdas7-sketch/easy-worship",
+   "owner": "ankurxdas7-sketch",
+   "name": "easy-worship",
+   "url": "https://github.com/ankurxdas7-sketch/easy-worship",
+   "avatar": "https://avatars.githubusercontent.com/u/309147093?v=4",
+   "description": "Easy Worship 2026 - Professional Desktop Software Installer and Utility Configuration",
+   "language": "TypeScript",
+   "topics": [
+    "automation",
+    "church-presentation",
+    "desktop",
+    "developer-tools",
+    "easyworship",
+    "easyworship-pro",
+    "open-source",
+    "praise-worship"
+   ],
+   "license": "MIT",
+   "stars": 298,
+   "forks": 0,
+   "createdAt": "2026-11-04T22:28:38Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-06T06:56:46.450Z",
+   "stack": {
+    "kind": "node",
+    "label": "JavaScript project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "stackblitz",
+   "launch": [
+    {
+     "id": "stackblitz",
+     "label": "StackBlitz",
+     "url": "https://stackblitz.com/github/ankurxdas7-sketch/easy-worship",
+     "needs": "nothing",
+     "note": "Runs Node.js inside your browser tab. Wait for it to install, then it starts."
+    },
+    {
+     "id": "codesandbox",
+     "label": "CodeSandbox",
+     "url": "https://codesandbox.io/p/github/ankurxdas7-sketch/easy-worship",
+     "needs": "free account",
+     "note": "Cloud dev box with a live preview."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/ankurxdas7-sketch/easy-worship?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/ankurxdas7-sketch/easy-worship",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/ankurxdas7-sketch/easy-worship/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "npm install",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/ankurxdas7-sketch/easy-worship.git\ncd easy-worship\nnpm install",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/ankurxdas7-sketch/easy-worship\nWhat it says it does: \"Easy Worship 2026 - Professional Desktop Software Installer and Utility Configuration\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with StackBlitz, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-06T06:56:46.450Z"
+  },
   {
    "fullName": "jrmamanitic/cinema-4d-desktop-utility-config",
    "owner": "jrmamanitic",
@@ -30538,69 +30616,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Operativenyodynamo/Chief-Architect-Premier\nWhat it says it does: \"Chief Architect Premier 2026: Full working installer with complete standalone setup, ready for immediate use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T09:47:05.958Z"
-  },
-  {
-   "fullName": "GumshoeRampart/Adobe-After-Effects",
-   "owner": "GumshoeRampart",
-   "name": "Adobe-After-Effects",
-   "url": "https://github.com/GumshoeRampart/Adobe-After-Effects",
-   "avatar": "https://avatars.githubusercontent.com/u/295659936?v=4",
-   "description": "Secure digital asset deployment pipeline 2026, complete standalone setup ready to run.",
-   "language": null,
-   "topics": [
-    "adobe-after-effects",
-    "adobe-after-effects-for-windows",
-    "after-effects",
-    "after-effects-3d-animation-tools",
-    "after-effects-features",
-    "after-effects-free-24",
-    "after-effects-plugin",
-    "after-effects-plugin-ai"
-   ],
-   "license": null,
-   "stars": 99,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:14:23Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T09:47:05.686Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/GumshoeRampart/Adobe-After-Effects",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/GumshoeRampart/Adobe-After-Effects/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/GumshoeRampart/Adobe-After-Effects\nWhat it says it does: \"Secure digital asset deployment pipeline 2026, complete standalone setup ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T09:47:05.686Z"
   }
  ],
  "levels": {
+  "account": 128,
   "instant": 34,
-  "account": 127,
-  "read": 303,
+  "read": 302,
   "heavy": 36
  }
 }

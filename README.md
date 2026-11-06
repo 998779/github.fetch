@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2143 guides written so far · last update 2026-11-06 06:56 UTC_
+_2144 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ankurxdas7-sketch/easy-worship](https://github.com/ankurxdas7-sketch/easy-worship) | JavaScript project | Runs in the browser with a free account | [guide](guides/ankurxdas7-sketch/easy-worship.md) |
 | [jrmamanitic/cinema-4d-desktop-utility-config](https://github.com/jrmamanitic/cinema-4d-desktop-utility-config) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/jrmamanitic/cinema-4d-desktop-utility-config.md) |
 | [pranavbansal637-source/delta-force-trainer-tool](https://github.com/pranavbansal637-source/delta-force-trainer-tool) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/pranavbansal637-source/delta-force-trainer-tool.md) |
 | [vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup](https://github.com/vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup) | Rust project | Runs in the browser with a free account | [guide](guides/vamshiyogeeshwar76720/autodesk-3ds-max-2026-standalone-setup.md) |
@@ -38,7 +39,6 @@ _2143 guides written so far · last update 2026-11-06 06:56 UTC_
 | [koiralabikal4-ctrl/acrobat-pro-desktop-installer](https://github.com/koiralabikal4-ctrl/acrobat-pro-desktop-installer) | Static website (HTML/CSS/JS) | Runs in a browser tab, no account needed | [guide](guides/koiralabikal4-ctrl/acrobat-pro-desktop-installer.md) |
 | [abhaybbellway/ashampoo-winoptimizer-setup](https://github.com/abhaybbellway/ashampoo-winoptimizer-setup) | Vite app | Runs in a browser tab, no account needed | [guide](guides/abhaybbellway/ashampoo-winoptimizer-setup.md) |
 | [Smit10-Dev/data-grip](https://github.com/Smit10-Dev/data-grip) | Python project | Runs in the browser with a free account | [guide](guides/smit10-dev/data-grip.md) |
-| [ashirafmulongo332-code/premierepro-video-editor-2026](https://github.com/ashirafmulongo332-code/premierepro-video-editor-2026) | JavaScript project | Runs in the browser with a free account | [guide](guides/ashirafmulongo332-code/premierepro-video-editor-2026.md) |
 <!-- latest:end -->
 
 ## How it works
