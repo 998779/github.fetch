@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2128 guides written so far · last update 2026-11-06 06:56 UTC_
+_2129 guides written so far · last update 2026-11-06 06:56 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [iampaulmoh/avid-media-composer-setup](https://github.com/iampaulmoh/avid-media-composer-setup) | Next.js app | Runs in a browser tab, no account needed | [guide](guides/iampaulmoh/avid-media-composer-setup.md) |
 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Node command-line tool | Runs in the browser with a free account | [guide](guides/josssphzhou/poki.md) |
 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Python project | Runs in the browser with a free account | [guide](guides/herdbuilderestimate/roblox-studio-mcp.md) |
 | [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Python project | Runs in the browser with a free account | [guide](guides/majorminorlabs/hermes-voice.md) |
@@ -38,7 +39,6 @@ _2128 guides written so far · last update 2026-11-06 06:56 UTC_
 | [plotserpentteach/photo-commander](https://github.com/plotserpentteach/photo-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plotserpentteach/photo-commander.md) |
 | [splendorheroteach/ph-downloader](https://github.com/splendorheroteach/ph-downloader) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/splendorheroteach/ph-downloader.md) |
 | [gryphonanalystsocket/power-director](https://github.com/gryphonanalystsocket/power-director) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gryphonanalystsocket/power-director.md) |
-| [Deepkroboard/ashampoo-uninstaller](https://github.com/Deepkroboard/ashampoo-uninstaller) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/deepkroboard/ashampoo-uninstaller.md) |
 <!-- latest:end -->
 
 ## How it works
