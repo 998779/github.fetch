@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2122 guides written so far · last update 2026-11-06 00:08 UTC_
+_2123 guides written so far · last update 2026-11-06 00:08 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [ZettaLayerPull/php-storm](https://github.com/ZettaLayerPull/php-storm) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/zettalayerpull/php-storm.md) |
 | [livliv-dev/player](https://github.com/livliv-dev/player) | Vite app | Runs in a browser tab, no account needed | [guide](guides/livliv-dev/player.md) |
 | [GigaClericComplete/quicken-deluxe](https://github.com/GigaClericComplete/quicken-deluxe) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gigaclericcomplete/quicken-deluxe.md) |
 | [plotserpentteach/photo-commander](https://github.com/plotserpentteach/photo-commander) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/plotserpentteach/photo-commander.md) |
@@ -38,7 +39,6 @@ _2122 guides written so far · last update 2026-11-06 00:08 UTC_
 | [spybarongrid/cellebrite-ufed](https://github.com/spybarongrid/cellebrite-ufed) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spybarongrid/cellebrite-ufed.md) |
 | [StewdioAI/blank-page](https://github.com/StewdioAI/blank-page) | Python project | Runs in the browser with a free account | [guide](guides/stewdioai/blank-page.md) |
 | [SpiralVendorCure/imobie-anytrans](https://github.com/SpiralVendorCure/imobie-anytrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/spiralvendorcure/imobie-anytrans.md) |
-| [PolishBitTweezers/serato-dj-pro](https://github.com/PolishBitTweezers/serato-dj-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/polishbittweezers/serato-dj-pro.md) |
 <!-- latest:end -->
 
 ## How it works
