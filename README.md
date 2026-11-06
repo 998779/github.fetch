@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2171 guides written so far · last update 2026-11-06 20:48 UTC_
+_2172 guides written so far · last update 2026-11-06 20:48 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hunternavigatorhunt/genesis-miner](https://github.com/hunternavigatorhunt/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hunternavigatorhunt/genesis-miner.md) |
 | [Holeshurepresent/fonetrans](https://github.com/Holeshurepresent/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holeshurepresent/fonetrans.md) |
 | [JourneymanStitch/imei-repair](https://github.com/JourneymanStitch/imei-repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/journeymanstitch/imei-repair.md) |
 | [MinisterRoute/sp-flash-tool](https://github.com/MinisterRoute/sp-flash-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/ministerroute/sp-flash-tool.md) |
@@ -38,7 +39,6 @@ _2171 guides written so far · last update 2026-11-06 20:48 UTC_
 | [binarycasterscreen/auto-withdraw-bot](https://github.com/binarycasterscreen/auto-withdraw-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/binarycasterscreen/auto-withdraw-bot.md) |
 | [figurechrysalispath/aion-2-trainer-tool](https://github.com/figurechrysalispath/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/figurechrysalispath/aion-2-trainer-tool.md) |
 | [Sandstonephidirect/uttorent](https://github.com/Sandstonephidirect/uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/sandstonephidirect/uttorent.md) |
-| [AstralEchoDay/aion-2-trainer-tool](https://github.com/AstralEchoDay/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/astralechoday/aion-2-trainer-tool.md) |
 <!-- latest:end -->
 
 ## How it works
