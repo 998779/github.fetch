@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T13:28:09.193Z",
- "totalGuides": 2219,
+ "updatedAt": "2026-11-07T13:28:09.394Z",
+ "totalGuides": 2220,
  "items": [
+  {
+   "fullName": "HalberdierTackle/discord-server-raider",
+   "owner": "HalberdierTackle",
+   "name": "discord-server-raider",
+   "url": "https://github.com/HalberdierTackle/discord-server-raider",
+   "avatar": "https://avatars.githubusercontent.com/u/292599430?v=4",
+   "description": "Discord Server Raider automated deployment pipeline for optimized package execution and secure environment setup in 2026.",
+   "language": null,
+   "topics": [
+    "automation",
+    "developer-tools",
+    "discord-boost-tools",
+    "discord-boosting-tool",
+    "discord-boosts",
+    "discord-raid-protect",
+    "discord-raid-software",
+    "discord-raider-bot"
+   ],
+   "license": null,
+   "stars": 217,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:22:16Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T13:28:09.393Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/HalberdierTackle/discord-server-raider",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/HalberdierTackle/discord-server-raider/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/HalberdierTackle/discord-server-raider\nWhat it says it does: \"Discord Server Raider automated deployment pipeline for optimized package execution and secure environment setup in 2026.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T13:28:09.393Z"
+  },
   {
    "fullName": "MorningConductor/touch-copy",
    "owner": "MorningConductor",
@@ -30606,54 +30663,6 @@
    "licenseNote": "CC-BY-4.0: read the license file before reusing it.",
    "prompt": "I found this GitHub project: https://github.com/heydamir/unslop\nWhat it says it does: \"A Claude skill that turns vibecoded, AI-looking UI into a designed interface\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T14:20:32.118Z"
-  },
-  {
-   "fullName": "alchaincyf/huashu-bird-sticker",
-   "owner": "alchaincyf",
-   "name": "huashu-bird-sticker",
-   "url": "https://github.com/alchaincyf/huashu-bird-sticker",
-   "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4",
-   "description": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
-   "language": null,
-   "topics": [],
-   "license": null,
-   "stars": 139,
-   "forks": 19,
-   "createdAt": "2026-10-30T05:19:33Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T14:20:31.879Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/alchaincyf/huashu-bird-sticker",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/alchaincyf/huashu-bird-sticker/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/alchaincyf/huashu-bird-sticker\nWhat it says it does: \"花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T14:20:31.879Z"
   }
  ],
  "levels": {

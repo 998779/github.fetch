@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2219 guides written so far · last update 2026-11-07 13:28 UTC_
+_2220 guides written so far · last update 2026-11-07 13:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [HalberdierTackle/discord-server-raider](https://github.com/HalberdierTackle/discord-server-raider) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/halberdiertackle/discord-server-raider.md) |
 | [MorningConductor/touch-copy](https://github.com/MorningConductor/touch-copy) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/morningconductor/touch-copy.md) |
 | [Neutronsomotor/windows-optimizer](https://github.com/Neutronsomotor/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/neutronsomotor/windows-optimizer.md) |
 | [LegionForemanGaze/microsoft-office](https://github.com/LegionForemanGaze/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/legionforemangaze/microsoft-office.md) |
@@ -38,7 +39,6 @@ _2219 guides written so far · last update 2026-11-07 13:28 UTC_
 | [hairwayrefresh/drfoneunlock](https://github.com/hairwayrefresh/drfoneunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hairwayrefresh/drfoneunlock.md) |
 | [gridattorneyhatchet/data-grip](https://github.com/gridattorneyhatchet/data-grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gridattorneyhatchet/data-grip.md) |
 | [HandcuffDamselManor/dvd-creator](https://github.com/HandcuffDamselManor/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/handcuffdamselmanor/dvd-creator.md) |
-| [Gravelkalevel/cinema-4d](https://github.com/Gravelkalevel/cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravelkalevel/cinema-4d.md) |
 <!-- latest:end -->
 
 ## How it works
