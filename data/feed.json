@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T13:28:07.715Z",
- "totalGuides": 2211,
+ "updatedAt": "2026-11-07T13:28:07.910Z",
+ "totalGuides": 2212,
  "items": [
+  {
+   "fullName": "GlazeCockatooRepair/chief-architect-premier",
+   "owner": "GlazeCockatooRepair",
+   "name": "chief-architect-premier",
+   "url": "https://github.com/GlazeCockatooRepair/chief-architect-premier",
+   "avatar": "https://avatars.githubusercontent.com/u/292609800?v=4",
+   "description": "Chief Architect Premier 2026 automated deployment pipeline for professional desktop software utility configuration.",
+   "language": null,
+   "topics": [
+    "automation",
+    "chief-architect",
+    "chief-architect-setup-failed-fix",
+    "chief-architect-x16",
+    "chief-architect-x16-not-installing-on-windows-11",
+    "desktop",
+    "developer-tools",
+    "guide-setup-chief-architect"
+   ],
+   "license": null,
+   "stars": 219,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:21:46Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T13:28:07.909Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/GlazeCockatooRepair/chief-architect-premier",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/GlazeCockatooRepair/chief-architect-premier/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/GlazeCockatooRepair/chief-architect-premier\nWhat it says it does: \"Chief Architect Premier 2026 automated deployment pipeline for professional desktop software utility configuration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T13:28:07.909Z"
+  },
   {
    "fullName": "hairwayrefresh/drfoneunlock",
    "owner": "hairwayrefresh",
@@ -30624,62 +30681,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ChampionStir/MultiAccountManager\nWhat it says it does: \"Multiaccountmanager 2026: Complete standalone setup for managing multiple accounts efficiently. Ready-to-run desktop installation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:47.000Z"
-  },
-  {
-   "fullName": "ClassDestroy/Ozone-12-Advanced",
-   "owner": "ClassDestroy",
-   "name": "Ozone-12-Advanced",
-   "url": "https://github.com/ClassDestroy/Ozone-12-Advanced",
-   "avatar": "https://avatars.githubusercontent.com/u/295660555?v=4",
-   "description": "Ozone 12 Advanced: Complete standalone setup with all features unlocked, ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "izotope-ozone",
-    "izotope-rx-latest",
-    "machine-learning-audio",
-    "ozone",
-    "ozone-11-setup",
-    "podcast-audio-fix",
-    "podcast-editing"
-   ],
-   "license": null,
-   "stars": 200,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:21:26Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:46.837Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ClassDestroy/Ozone-12-Advanced",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ClassDestroy/Ozone-12-Advanced/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ClassDestroy/Ozone-12-Advanced\nWhat it says it does: \"Ozone 12 Advanced: Complete standalone setup with all features unlocked, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:46.837Z"
   }
  ],
  "levels": {
