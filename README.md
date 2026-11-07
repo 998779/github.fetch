@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2200 guides written so far · last update 2026-11-07 06:29 UTC_
+_2201 guides written so far · last update 2026-11-07 06:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [FollowerWalrusDivide/archicad](https://github.com/FollowerWalrusDivide/archicad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followerwalrusdivide/archicad.md) |
 | [GoldenSanninRegain/chimera](https://github.com/GoldenSanninRegain/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/goldensanninregain/chimera.md) |
 | [FlowRegister/anyunlock](https://github.com/FlowRegister/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flowregister/anyunlock.md) |
 | [LowMaidRectify/musicmakerunlimited](https://github.com/LowMaidRectify/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lowmaidrectify/musicmakerunlimited.md) |
@@ -38,7 +39,6 @@ _2200 guides written so far · last update 2026-11-07 06:29 UTC_
 | [devvmhq/devvm](https://github.com/devvmhq/devvm) | Go project | Runs in the browser with a free account | [guide](guides/devvmhq/devvm.md) |
 | [PackArtisanMold/phone-to-webcam](https://github.com/PackArtisanMold/phone-to-webcam) | HTML project | Runs in the browser with a free account | [guide](guides/packartisanmold/phone-to-webcam.md) |
 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | JavaScript project | Runs in the browser with a free account | [guide](guides/zseven-w/dsh-game-studio.md) |
-| [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sostenesfreitas/ocarina-recomp.md) |
 <!-- latest:end -->
 
 ## How it works
