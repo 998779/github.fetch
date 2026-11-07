@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2210 guides written so far · last update 2026-11-07 13:28 UTC_
+_2211 guides written so far · last update 2026-11-07 13:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [hairwayrefresh/drfoneunlock](https://github.com/hairwayrefresh/drfoneunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hairwayrefresh/drfoneunlock.md) |
 | [gridattorneyhatchet/data-grip](https://github.com/gridattorneyhatchet/data-grip) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gridattorneyhatchet/data-grip.md) |
 | [HandcuffDamselManor/dvd-creator](https://github.com/HandcuffDamselManor/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/handcuffdamselmanor/dvd-creator.md) |
 | [Gravelkalevel/cinema-4d](https://github.com/Gravelkalevel/cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravelkalevel/cinema-4d.md) |
@@ -38,7 +39,6 @@ _2210 guides written so far · last update 2026-11-07 13:28 UTC_
 | [naturemidwifedream/uttorent](https://github.com/naturemidwifedream/uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/naturemidwifedream/uttorent.md) |
 | [FollowerWalrusDivide/archicad](https://github.com/FollowerWalrusDivide/archicad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/followerwalrusdivide/archicad.md) |
 | [GoldenSanninRegain/chimera](https://github.com/GoldenSanninRegain/chimera) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/goldensanninregain/chimera.md) |
-| [FlowRegister/anyunlock](https://github.com/FlowRegister/anyunlock) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flowregister/anyunlock.md) |
 <!-- latest:end -->
 
 ## How it works
