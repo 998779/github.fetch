@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T13:28:06.916Z",
- "totalGuides": 2207,
+ "updatedAt": "2026-11-07T13:28:07.121Z",
+ "totalGuides": 2208,
  "items": [
+  {
+   "fullName": "Gravelkalevel/cinema-4d",
+   "owner": "Gravelkalevel",
+   "name": "cinema-4d",
+   "url": "https://github.com/Gravelkalevel/cinema-4d",
+   "avatar": "https://avatars.githubusercontent.com/u/292607207?v=4",
+   "description": "Cinema 4D R35 pre-configured environment for professional desktop software utility, ready for automated deployment pipeline in isolated...",
+   "language": null,
+   "topics": [
+    "automation",
+    "c4d-plugin",
+    "cinema-4d",
+    "cinema-4d-2026",
+    "cinema-4d-free",
+    "cinema-4d-freel",
+    "cinema-4d-plugin",
+    "cinema-4d-plugin-maxon"
+   ],
+   "license": null,
+   "stars": 219,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:21:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T13:28:07.120Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Gravelkalevel/cinema-4d",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Gravelkalevel/cinema-4d/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Gravelkalevel/cinema-4d\nWhat it says it does: \"Cinema 4D R35 pre-configured environment for professional desktop software utility, ready for automated deployment pipeline in isolated...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T13:28:07.120Z"
+  },
   {
    "fullName": "Modulekievaluate/tenorshare-4ukey",
    "owner": "Modulekievaluate",
@@ -30621,63 +30678,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/UpdateRopemakerVeil/Microsoft-Visio\nWhat it says it does: \"Microsoft Visio 2026: Full working installer with all features enabled, ready for a seamless desktop installation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:46.323Z"
-  },
-  {
-   "fullName": "Tunnelmicall/Photo-Commander",
-   "owner": "Tunnelmicall",
-   "name": "Photo-Commander",
-   "url": "https://github.com/Tunnelmicall/Photo-Commander",
-   "avatar": "https://avatars.githubusercontent.com/u/295659120?v=4",
-   "description": "Photo Commander 2026: Pre-activated desktop edition with all tools ready to run.",
-   "language": null,
-   "topics": [
-    "ashampoo-photo-commander-14-review",
-    "ashampoo-photo-commander-14-serial",
-    "ashampoo-photo-commander-15",
-    "ashampoo-photo-commander-17-download",
-    "ashampoo-photo-commander-18",
-    "ashampoo-photo-commander-freeware",
-    "photo-commander",
-    "photo-commander-2026"
-   ],
-   "license": null,
-   "stars": 200,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:21:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:46.106Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Tunnelmicall/Photo-Commander",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Tunnelmicall/Photo-Commander/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Tunnelmicall/Photo-Commander\nWhat it says it does: \"Photo Commander 2026: Pre-activated desktop edition with all tools ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:46.106Z"
   }
  ],
  "levels": {
