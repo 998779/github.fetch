@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:46.721Z",
- "totalGuides": 2192,
+ "updatedAt": "2026-11-07T06:29:46.966Z",
+ "totalGuides": 2193,
  "items": [
+  {
+   "fullName": "fincicadalast/adobe-indesign",
+   "owner": "fincicadalast",
+   "name": "adobe-indesign",
+   "url": "https://github.com/fincicadalast/adobe-indesign",
+   "avatar": "https://avatars.githubusercontent.com/u/292608502?v=4",
+   "description": "Publishing Layout Tool 2026 automated deployment pipeline for secure digital asset management in enterprise environments.",
+   "language": null,
+   "topics": [
+    "adobe-indesign",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "guide-setup-adobe-indesign",
+    "how-to-install-adobe-indesign",
+    "how-to-setup-adobe-indesign",
+    "indesign-document"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:20:47Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T06:29:46.966Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/fincicadalast/adobe-indesign",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/fincicadalast/adobe-indesign/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/fincicadalast/adobe-indesign\nWhat it says it does: \"Publishing Layout Tool 2026 automated deployment pipeline for secure digital asset management in enterprise environments.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:46.966Z"
+  },
   {
    "fullName": "devvmhq/devvm",
    "owner": "devvmhq",
@@ -30586,69 +30643,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/RestraintMinister/Discord-Quest-Completer\nWhat it says it does: \"Discord Quest Completer 2026 - Full working installer for easy setup and seamless operation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T01:18:15.422Z"
-  },
-  {
-   "fullName": "Massreportal/CapCut-for-Windows",
-   "owner": "Massreportal",
-   "name": "CapCut-for-Windows",
-   "url": "https://github.com/Massreportal/CapCut-for-Windows",
-   "avatar": "https://avatars.githubusercontent.com/u/295660040?v=4",
-   "description": "Capcut For Windows 2026: Full working installer with all features pre-activated, ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "capcut-activated",
-    "capcut-crack-2026",
-    "capcut-cracked-2026",
-    "capcut-exe",
-    "capcut-for-free",
-    "capcut-free-2026",
-    "capcut-tiktok",
-    "capcut-videocreator"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:16:08Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T01:18:15.226Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Massreportal/CapCut-for-Windows",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Massreportal/CapCut-for-Windows/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Massreportal/CapCut-for-Windows\nWhat it says it does: \"Capcut For Windows 2026: Full working installer with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T01:18:15.226Z"
   }
  ],
  "levels": {
+  "read": 305,
   "account": 130,
   "heavy": 33,
-  "read": 305,
   "instant": 32
  }
 }

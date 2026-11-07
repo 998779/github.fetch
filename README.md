@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2192 guides written so far · last update 2026-11-07 06:29 UTC_
+_2193 guides written so far · last update 2026-11-07 06:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [fincicadalast/adobe-indesign](https://github.com/fincicadalast/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fincicadalast/adobe-indesign.md) |
 | [devvmhq/devvm](https://github.com/devvmhq/devvm) | Go project | Runs in the browser with a free account | [guide](guides/devvmhq/devvm.md) |
 | [PackArtisanMold/phone-to-webcam](https://github.com/PackArtisanMold/phone-to-webcam) | HTML project | Runs in the browser with a free account | [guide](guides/packartisanmold/phone-to-webcam.md) |
 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | JavaScript project | Runs in the browser with a free account | [guide](guides/zseven-w/dsh-game-studio.md) |
@@ -38,7 +39,6 @@ _2192 guides written so far · last update 2026-11-07 06:29 UTC_
 | [LevelKnightDisengage/microstation-2026](https://github.com/LevelKnightDisengage/microstation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/levelknightdisengage/microstation-2026.md) |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | Python project | Runs in the browser with a free account | [guide](guides/yucezerey/turkish-anti-ai-skill.md) |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | Rust project | Runs in the browser with a free account | [guide](guides/voyager-so/vork.md) |
-| [roadboltspire/fl-studio](https://github.com/roadboltspire/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadboltspire/fl-studio.md) |
 <!-- latest:end -->
 
 ## How it works
