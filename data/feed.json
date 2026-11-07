@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:48.103Z",
- "totalGuides": 2197,
+ "updatedAt": "2026-11-07T06:29:48.322Z",
+ "totalGuides": 2198,
  "items": [
+  {
+   "fullName": "LowMaidRectify/musicmakerunlimited",
+   "owner": "LowMaidRectify",
+   "name": "musicmakerunlimited",
+   "url": "https://github.com/LowMaidRectify/musicmakerunlimited",
+   "avatar": "https://avatars.githubusercontent.com/u/292599120?v=4",
+   "description": "Musicmakerunlimited 2024 pre-configured environment for professional desktop software utility configuration, ensuring seamless local...",
+   "language": null,
+   "topics": [
+    "automation",
+    "beat-creator",
+    "beginner-daw",
+    "developer-tools",
+    "guide-setup-musicmakerunlimited",
+    "how-to-install-musicmakerunlimited",
+    "how-to-setup-musicmakerunlimited",
+    "loop-music-maker"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:24:06Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T06:29:48.321Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/LowMaidRectify/musicmakerunlimited",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LowMaidRectify/musicmakerunlimited/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/LowMaidRectify/musicmakerunlimited\nWhat it says it does: \"Musicmakerunlimited 2024 pre-configured environment for professional desktop software utility configuration, ensuring seamless local...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:48.321Z"
+  },
   {
    "fullName": "lavagunsmithmystery/metatrader-5-bot",
    "owner": "lavagunsmithmystery",
@@ -30591,78 +30648,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/sewmayordiscover/KeyShot-Pro\nWhat it says it does: \"Keyshot Pro 2026: Complete standalone setup with all features unlocked, ready for immediate use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:44.368Z"
-  },
-  {
-   "fullName": "wangzan101/Mika",
-   "owner": "wangzan101",
-   "name": "Mika",
-   "url": "https://github.com/wangzan101/Mika",
-   "avatar": "https://avatars.githubusercontent.com/u/102038245?v=4",
-   "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-   "language": "Kotlin",
-   "topics": [
-    "accessibility",
-    "ai-agent",
-    "android",
-    "automation",
-    "jetpack-compose",
-    "kotlin",
-    "llm",
-    "mobile-agent"
-   ],
-   "license": "Apache-2.0",
-   "stars": 246,
-   "forks": 41,
-   "createdAt": "2026-10-29T14:34:07Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:44.123Z",
-   "stack": {
-    "kind": "native",
-    "label": "Kotlin project",
-    "frameworks": []
-   },
-   "level": "heavy",
-   "levelText": "Needs a real machine (or a GPU) to run",
-   "best": "codespaces",
-   "launch": [
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/wangzan101/Mika?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/wangzan101/Mika",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/wangzan101/Mika/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [
-    "Kotlin usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
-   ],
-   "local": "git clone --depth 1 https://github.com/wangzan101/Mika.git\ncd Mika",
-   "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
-   "prompt": "I found this GitHub project: https://github.com/wangzan101/Mika\nWhat it says it does: \"Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:44.123Z"
   }
  ],
  "levels": {
-  "read": 304,
+  "read": 305,
   "account": 131,
-  "heavy": 33,
+  "heavy": 32,
   "instant": 32
  }
 }
