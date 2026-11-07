@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:47.638Z",
- "totalGuides": 2195,
+ "updatedAt": "2026-11-07T06:29:47.897Z",
+ "totalGuides": 2196,
  "items": [
+  {
+   "fullName": "foresthailmarina/atas-trading-bot",
+   "owner": "foresthailmarina",
+   "name": "atas-trading-bot",
+   "url": "https://github.com/foresthailmarina/atas-trading-bot",
+   "avatar": "https://avatars.githubusercontent.com/u/292605510?v=4",
+   "description": "Enterprise Trading Bot Suite 2024 pre-configured environment for secure desktop application deployment.",
+   "language": null,
+   "topics": [
+    "atas-platform",
+    "atas-pro",
+    "background-process",
+    "dealer-positioning",
+    "es-futures",
+    "how-to-setup-atas-trading-bot",
+    "metatrader5-no-gui",
+    "mt5-api"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:21:15Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T06:29:47.897Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/foresthailmarina/atas-trading-bot",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/foresthailmarina/atas-trading-bot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/foresthailmarina/atas-trading-bot\nWhat it says it does: \"Enterprise Trading Bot Suite 2024 pre-configured environment for secure desktop application deployment.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:47.897Z"
+  },
   {
    "fullName": "gravitygovernorhinge/clion",
    "owner": "gravitygovernorhinge",
@@ -30600,63 +30657,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/TagAmbassadorCall/DVD-Creator\nWhat it says it does: \"Complete standalone setup for Dvd Creator 2026, ready-to-run with all features fully activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T01:18:15.996Z"
-  },
-  {
-   "fullName": "tamemoosecomply/IBM-SPSS",
-   "owner": "tamemoosecomply",
-   "name": "IBM-SPSS",
-   "url": "https://github.com/tamemoosecomply/IBM-SPSS",
-   "avatar": "https://avatars.githubusercontent.com/u/295659588?v=4",
-   "description": "IBM SPSS Statistics 2026: Full working installer with all modules activated and ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "analytics-suite",
-    "ibm-analytics",
-    "ibm-spss",
-    "ibm-spss-install-setup-windows-2026",
-    "ibm-watson-services",
-    "spss",
-    "spss-2026",
-    "spss-sav"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:19:09Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T01:18:15.783Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/tamemoosecomply/IBM-SPSS",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/tamemoosecomply/IBM-SPSS/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/tamemoosecomply/IBM-SPSS\nWhat it says it does: \"IBM SPSS Statistics 2026: Full working installer with all modules activated and ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T01:18:15.783Z"
   }
  ],
  "levels": {
