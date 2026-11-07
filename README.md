@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2217 guides written so far · last update 2026-11-07 13:28 UTC_
+_2218 guides written so far · last update 2026-11-07 13:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Neutronsomotor/windows-optimizer](https://github.com/Neutronsomotor/windows-optimizer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/neutronsomotor/windows-optimizer.md) |
 | [LegionForemanGaze/microsoft-office](https://github.com/LegionForemanGaze/microsoft-office) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/legionforemangaze/microsoft-office.md) |
 | [GiantAnemoneHovel/catia-cad](https://github.com/GiantAnemoneHovel/catia-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/giantanemonehovel/catia-cad.md) |
 | [Layerriclient/microsoft-365](https://github.com/Layerriclient/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/layerriclient/microsoft-365.md) |
@@ -38,7 +39,6 @@ _2217 guides written so far · last update 2026-11-07 13:28 UTC_
 | [HandcuffDamselManor/dvd-creator](https://github.com/HandcuffDamselManor/dvd-creator) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/handcuffdamselmanor/dvd-creator.md) |
 | [Gravelkalevel/cinema-4d](https://github.com/Gravelkalevel/cinema-4d) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravelkalevel/cinema-4d.md) |
 | [Modulekievaluate/tenorshare-4ukey](https://github.com/Modulekievaluate/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/modulekievaluate/tenorshare-4ukey.md) |
-| [arnold117/iOS-NOIR](https://github.com/arnold117/iOS-NOIR) | Python project | Runs in the browser with a free account | [guide](guides/arnold117/ios-noir.md) |
 <!-- latest:end -->
 
 ## How it works
