@@ -1,8 +1,79 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T00:26:09.261Z",
- "totalGuides": 2182,
+ "updatedAt": "2026-11-07T00:26:09.486Z",
+ "totalGuides": 2183,
  "items": [
+  {
+   "fullName": "yucezerey/turkish-anti-ai-skill",
+   "owner": "yucezerey",
+   "name": "turkish-anti-ai-skill",
+   "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
+   "avatar": "https://avatars.githubusercontent.com/u/199654951?v=4",
+   "description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor-rules",
+    "de-slop",
+    "gemini-cli"
+   ],
+   "license": "MIT",
+   "stars": 228,
+   "forks": 15,
+   "createdAt": "2026-11-05T20:08:28Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T00:26:09.485Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/yucezerey/turkish-anti-ai-skill/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/yucezerey/turkish-anti-ai-skill?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/yucezerey/turkish-anti-ai-skill",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/yucezerey/turkish-anti-ai-skill/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/yucezerey/turkish-anti-ai-skill.git\ncd turkish-anti-ai-skill",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/yucezerey/turkish-anti-ai-skill\nWhat it says it does: \"Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T00:26:09.485Z"
+  },
   {
    "fullName": "voyager-so/vork",
    "owner": "voyager-so",
@@ -30531,68 +30602,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ChandlerVary38/Ads-Blocker\nWhat it says it does: \"Ads Blocker 2026 complete standalone setup. Full working installer with all features pre-activated, ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-29T21:21:57.908Z"
-  },
-  {
-   "fullName": "Harborlumill91/Honeypot-Detector",
-   "owner": "Harborlumill91",
-   "name": "Honeypot-Detector",
-   "url": "https://github.com/Harborlumill91/Honeypot-Detector",
-   "avatar": "https://avatars.githubusercontent.com/u/295660975?v=4",
-   "description": "Pre-activated desktop edition of Honeypot Detector 2026. Full working installer with all features ready to run.",
-   "language": null,
-   "topics": [
-    "blockchain-intelligence",
-    "blockchain-security-solutions",
-    "crypto-osint",
-    "honeypot-check",
-    "money-laundering-detection",
-    "rugpull-detection",
-    "rugpull-prevention",
-    "ssh-honeypot"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:19:03Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-29T21:21:57.713Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/Harborlumill91/Honeypot-Detector",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/Harborlumill91/Honeypot-Detector/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/Harborlumill91/Honeypot-Detector\nWhat it says it does: \"Pre-activated desktop edition of Honeypot Detector 2026. Full working installer with all features ready to run.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-29T21:21:57.713Z"
   }
  ],
  "levels": {
-  "account": 126,
-  "read": 311,
+  "account": 127,
+  "read": 310,
   "instant": 32,
   "heavy": 31
  }

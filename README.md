@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2182 guides written so far · last update 2026-11-07 00:26 UTC_
+_2183 guides written so far · last update 2026-11-07 00:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | Python project | Runs in the browser with a free account | [guide](guides/yucezerey/turkish-anti-ai-skill.md) |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | Rust project | Runs in the browser with a free account | [guide](guides/voyager-so/vork.md) |
 | [roadboltspire/fl-studio](https://github.com/roadboltspire/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadboltspire/fl-studio.md) |
 | [innerdaimyopush/iobit-driver-booster](https://github.com/innerdaimyopush/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/innerdaimyopush/iobit-driver-booster.md) |
@@ -38,7 +39,6 @@ _2182 guides written so far · last update 2026-11-07 00:26 UTC_
 | [InertiaCourier/honeypot-detector](https://github.com/InertiaCourier/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inertiacourier/honeypot-detector.md) |
 | [MindCatMotor/soundpad](https://github.com/MindCatMotor/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindcatmotor/soundpad.md) |
 | [hunternavigatorhunt/genesis-miner](https://github.com/hunternavigatorhunt/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hunternavigatorhunt/genesis-miner.md) |
-| [Holeshurepresent/fonetrans](https://github.com/Holeshurepresent/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holeshurepresent/fonetrans.md) |
 <!-- latest:end -->
 
 ## How it works
