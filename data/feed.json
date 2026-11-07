@@ -1,8 +1,70 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:49.416Z",
- "totalGuides": 2203,
+ "updatedAt": "2026-11-07T13:28:06.157Z",
+ "totalGuides": 2204,
  "items": [
+  {
+   "fullName": "WoYun520/gif-factory",
+   "owner": "WoYun520",
+   "name": "gif-factory",
+   "url": "https://github.com/WoYun520/gif-factory",
+   "avatar": "https://avatars.githubusercontent.com/u/329836734?v=4",
+   "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+   "language": "Python",
+   "topics": [],
+   "license": "MIT",
+   "stars": 606,
+   "forks": 73,
+   "createdAt": "2026-11-05T04:08:24Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T13:28:06.148Z",
+   "stack": {
+    "kind": "python",
+    "label": "Python project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "binder",
+   "launch": [
+    {
+     "id": "binder",
+     "label": "Binder",
+     "url": "https://mybinder.org/v2/gh/WoYun520/gif-factory/main",
+     "needs": "nothing",
+     "note": "Free, no sign-in. Can take a few minutes to start."
+    },
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/WoYun520/gif-factory?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/WoYun520/gif-factory",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/WoYun520/gif-factory/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/WoYun520/gif-factory.git\ncd gif-factory",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/WoYun520/gif-factory\nWhat it says it does: \"GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T13:28:06.148Z"
+  },
   {
    "fullName": "GrayStylistWind/cubase",
    "owner": "GrayStylistWind",
@@ -30595,65 +30657,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ShogunAgora22/StartAll-Back\nWhat it says it does: \"Startall Back 2026 - Full working installer for professional desktop software utility configuration, ready to run with all features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:45.513Z"
-  },
-  {
-   "fullName": "ThunderEncoder/Melodyne-5",
-   "owner": "ThunderEncoder",
-   "name": "Melodyne-5",
-   "url": "https://github.com/ThunderEncoder/Melodyne-5",
-   "avatar": "https://avatars.githubusercontent.com/u/295660441?v=4",
-   "description": "Melodyne 5, a professional desktop software utility, is now available as a complete standalone setup for easy installation and use.",
-   "language": null,
-   "topics": [
-    "celemony",
-    "celemony-melodyne-install-setup-windows-2026",
-    "melodyne",
-    "melodyne-2026",
-    "melodyne-download"
-   ],
-   "license": null,
-   "stars": 205,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:20:04Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:45.350Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ThunderEncoder/Melodyne-5",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ThunderEncoder/Melodyne-5/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ThunderEncoder/Melodyne-5\nWhat it says it does: \"Melodyne 5, a professional desktop software utility, is now available as a complete standalone setup for easy installation and use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:45.350Z"
   }
  ],
  "levels": {
-  "read": 305,
-  "account": 131,
+  "account": 132,
+  "read": 304,
   "heavy": 32,
   "instant": 32
  }
