@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2206 guides written so far · last update 2026-11-07 13:28 UTC_
+_2207 guides written so far · last update 2026-11-07 13:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Modulekievaluate/tenorshare-4ukey](https://github.com/Modulekievaluate/tenorshare-4ukey) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/modulekievaluate/tenorshare-4ukey.md) |
 | [arnold117/iOS-NOIR](https://github.com/arnold117/iOS-NOIR) | Python project | Runs in the browser with a free account | [guide](guides/arnold117/ios-noir.md) |
 | [yappologistic/CUI](https://github.com/yappologistic/CUI) | C project | Needs a real machine (or a GPU) to run | [guide](guides/yappologistic/cui.md) |
 | [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory) | Python project | Runs in the browser with a free account | [guide](guides/woyun520/gif-factory.md) |
@@ -38,7 +39,6 @@ _2206 guides written so far · last update 2026-11-07 13:28 UTC_
 | [LowMaidRectify/musicmakerunlimited](https://github.com/LowMaidRectify/musicmakerunlimited) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lowmaidrectify/musicmakerunlimited.md) |
 | [lavagunsmithmystery/metatrader-5-bot](https://github.com/lavagunsmithmystery/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavagunsmithmystery/metatrader-5-bot.md) |
 | [foresthailmarina/atas-trading-bot](https://github.com/foresthailmarina/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/foresthailmarina/atas-trading-bot.md) |
-| [gravitygovernorhinge/clion](https://github.com/gravitygovernorhinge/clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravitygovernorhinge/clion.md) |
 <!-- latest:end -->
 
 ## How it works
