@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:48.990Z",
- "totalGuides": 2201,
+ "updatedAt": "2026-11-07T06:29:49.174Z",
+ "totalGuides": 2202,
  "items": [
+  {
+   "fullName": "naturemidwifedream/uttorent",
+   "owner": "naturemidwifedream",
+   "name": "uttorent",
+   "url": "https://github.com/naturemidwifedream/uttorent",
+   "avatar": "https://avatars.githubusercontent.com/u/292602967?v=4",
+   "description": "Uttorent 3.5.1 pre-configured environment for secure, automated desktop software utility deployment in 2026.",
+   "language": null,
+   "topics": [
+    "automation",
+    "desktop-torrent-application",
+    "developer-tools",
+    "guide-setup-uttorent",
+    "how-to-install-uttorent",
+    "how-to-setup-uttorent",
+    "incogni-nordvpn-value",
+    "nordvpn-sc-locations"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:25:27Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T06:29:49.174Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/naturemidwifedream/uttorent",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/naturemidwifedream/uttorent/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/naturemidwifedream/uttorent\nWhat it says it does: \"Uttorent 3.5.1 pre-configured environment for secure, automated desktop software utility deployment in 2026.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:49.174Z"
+  },
   {
    "fullName": "FollowerWalrusDivide/archicad",
    "owner": "FollowerWalrusDivide",
@@ -30591,63 +30648,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/SpiritBewitch/Kontakt-8\nWhat it says it does: \"Kontakt 8: Complete standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:45.181Z"
-  },
-  {
-   "fullName": "GasClerkNurse/LANDR-Plugin-Bundle",
-   "owner": "GasClerkNurse",
-   "name": "LANDR-Plugin-Bundle",
-   "url": "https://github.com/GasClerkNurse/LANDR-Plugin-Bundle",
-   "avatar": "https://avatars.githubusercontent.com/u/295661468?v=4",
-   "description": "Landr Plugin Bundle 2026: Full working installer with all plugins pre-installed and ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "how-to-install-landr",
-    "how-to-install-landr-mastering",
-    "landr-desktop-2026",
-    "landr-desktop-package",
-    "landr-mastering",
-    "landr-setup-failed-fix",
-    "landr-studio",
-    "landr-windows"
-   ],
-   "license": null,
-   "stars": 231,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:19:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:44.974Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/GasClerkNurse/LANDR-Plugin-Bundle",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/GasClerkNurse/LANDR-Plugin-Bundle/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/GasClerkNurse/LANDR-Plugin-Bundle\nWhat it says it does: \"Landr Plugin Bundle 2026: Full working installer with all plugins pre-installed and ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:44.974Z"
   }
  ],
  "levels": {
