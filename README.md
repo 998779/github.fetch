@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2214 guides written so far · last update 2026-11-07 13:28 UTC_
+_2215 guides written so far · last update 2026-11-07 13:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Layerriclient/microsoft-365](https://github.com/Layerriclient/microsoft-365) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/layerriclient/microsoft-365.md) |
 | [FreewayPyromancer/autodesk-inventor](https://github.com/FreewayPyromancer/autodesk-inventor) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/freewaypyromancer/autodesk-inventor.md) |
 | [LengthGeneral/microsoft-visio](https://github.com/LengthGeneral/microsoft-visio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lengthgeneral/microsoft-visio.md) |
 | [GlazeCockatooRepair/chief-architect-premier](https://github.com/GlazeCockatooRepair/chief-architect-premier) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/glazecockatoorepair/chief-architect-premier.md) |
@@ -38,7 +39,6 @@ _2214 guides written so far · last update 2026-11-07 13:28 UTC_
 | [arnold117/iOS-NOIR](https://github.com/arnold117/iOS-NOIR) | Python project | Runs in the browser with a free account | [guide](guides/arnold117/ios-noir.md) |
 | [yappologistic/CUI](https://github.com/yappologistic/CUI) | C project | Needs a real machine (or a GPU) to run | [guide](guides/yappologistic/cui.md) |
 | [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory) | Python project | Runs in the browser with a free account | [guide](guides/woyun520/gif-factory.md) |
-| [GrayStylistWind/cubase](https://github.com/GrayStylistWind/cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/graystylistwind/cubase.md) |
 <!-- latest:end -->
 
 ## How it works

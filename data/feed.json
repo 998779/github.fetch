@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T13:28:08.263Z",
- "totalGuides": 2214,
+ "updatedAt": "2026-11-07T13:28:08.411Z",
+ "totalGuides": 2215,
  "items": [
+  {
+   "fullName": "Layerriclient/microsoft-365",
+   "owner": "Layerriclient",
+   "name": "microsoft-365",
+   "url": "https://github.com/Layerriclient/microsoft-365",
+   "avatar": "https://avatars.githubusercontent.com/u/292604303?v=4",
+   "description": "Microsoft 365 Configuration Suite 2026 - Automated deployment pipeline for enterprise desktop software utility, ensuring seamless...",
+   "language": null,
+   "topics": [
+    "activator",
+    "excel-automation",
+    "guide-setup-microsoft-365",
+    "how-to-install-microsoft-365",
+    "how-to-setup-microsoft-365",
+    "libreoffice-extension",
+    "massgravel",
+    "microsoft-excel-advanced"
+   ],
+   "license": null,
+   "stars": 219,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:23:42Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T13:28:08.411Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/Layerriclient/microsoft-365",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/Layerriclient/microsoft-365/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/Layerriclient/microsoft-365\nWhat it says it does: \"Microsoft 365 Configuration Suite 2026 - Automated deployment pipeline for enterprise desktop software utility, ensuring seamless...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T13:28:08.411Z"
+  },
   {
    "fullName": "FreewayPyromancer/autodesk-inventor",
    "owner": "FreewayPyromancer",
@@ -30625,73 +30682,11 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/MUSE-AI-Lab/Concept-Brittleness\nWhat it says it does: \"Concept Brittleness\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Google Colab, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T14:20:30.747Z"
-  },
-  {
-   "fullName": "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
-   "owner": "mike-vops93s1",
-   "name": "Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
-   "url": "https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
-   "avatar": "https://avatars.githubusercontent.com/u/279292163?v=4",
-   "description": "Powerful Valorant ESP featuring player boxes, names, health bars, distance and skeleton rendering. Fully customizable overlay with clean interface. Updated for the latest patch.",
-   "language": "Python",
-   "topics": [],
-   "license": null,
-   "stars": 263,
-   "forks": 40,
-   "createdAt": "2026-10-30T10:54:18Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T14:20:30.301Z",
-   "stack": {
-    "kind": "python",
-    "label": "Python project",
-    "frameworks": []
-   },
-   "level": "account",
-   "levelText": "Runs in the browser with a free account",
-   "best": "binder",
-   "launch": [
-    {
-     "id": "binder",
-     "label": "Binder",
-     "url": "https://mybinder.org/v2/gh/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026/main",
-     "needs": "nothing",
-     "note": "Free, no sign-in. Can take a few minutes to start."
-    },
-    {
-     "id": "codespaces",
-     "label": "GitHub Codespaces",
-     "url": "https://codespaces.new/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026?quickstart=1",
-     "needs": "free GitHub account",
-     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
-    },
-    {
-     "id": "github.dev",
-     "label": "Browse the code",
-     "url": "https://github.dev/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
-     "needs": "nothing",
-     "note": "VS Code in the browser for reading and editing."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": "git clone --depth 1 https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026.git\ncd Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026\nWhat it says it does: \"Powerful Valorant ESP featuring player boxes, names, health bars, distance and skeleton rendering. Fully customizable overlay with clean interface. Updated for the latest patch.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Binder, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T14:20:30.301Z"
   }
  ],
  "levels": {
-  "read": 303,
-  "account": 132,
+  "read": 304,
+  "account": 131,
   "heavy": 33,
   "instant": 32
  }
