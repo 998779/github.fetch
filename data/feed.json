@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:48.322Z",
- "totalGuides": 2198,
+ "updatedAt": "2026-11-07T06:29:48.553Z",
+ "totalGuides": 2199,
  "items": [
+  {
+   "fullName": "FlowRegister/anyunlock",
+   "owner": "FlowRegister",
+   "name": "anyunlock",
+   "url": "https://github.com/FlowRegister/anyunlock",
+   "avatar": "https://avatars.githubusercontent.com/u/292601822?v=4",
+   "description": "Anyunlock repository configuration folder for enterprise desktop software utility, pre-configured environment ready for automated...",
+   "language": null,
+   "topics": [
+    "apple-id-remove",
+    "apple-id-remover",
+    "device-tool",
+    "frp-tool",
+    "guide-setup-anyunlock",
+    "how-to-install-anyunlock",
+    "how-to-setup-anyunlock",
+    "ios-bypass"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:20:53Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T06:29:48.552Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/FlowRegister/anyunlock",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/FlowRegister/anyunlock/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/FlowRegister/anyunlock\nWhat it says it does: \"Anyunlock repository configuration folder for enterprise desktop software utility, pre-configured environment ready for automated...\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:48.552Z"
+  },
   {
    "fullName": "LowMaidRectify/musicmakerunlimited",
    "owner": "LowMaidRectify",
@@ -30591,63 +30648,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/prismexecutiveadmire/Instagram-Liker-Bot\nWhat it says it does: \"Instagram Liker Bot 2026: Full working installer, ready-to-run desktop setup with complete functionality.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:44.576Z"
-  },
-  {
-   "fullName": "sewmayordiscover/KeyShot-Pro",
-   "owner": "sewmayordiscover",
-   "name": "KeyShot-Pro",
-   "url": "https://github.com/sewmayordiscover/KeyShot-Pro",
-   "avatar": "https://avatars.githubusercontent.com/u/295660923?v=4",
-   "description": "Keyshot Pro 2026: Complete standalone setup with all features unlocked, ready for immediate use.",
-   "language": null,
-   "topics": [
-    "keyshot",
-    "keyshot-2025",
-    "keyshot-2026",
-    "keyshot-free",
-    "keyshot-github",
-    "keyshot-pro",
-    "keyshot-pro-windows",
-    "keyshot-student"
-   ],
-   "license": null,
-   "stars": 235,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:19:35Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:44.368Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/sewmayordiscover/KeyShot-Pro",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/sewmayordiscover/KeyShot-Pro/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/sewmayordiscover/KeyShot-Pro\nWhat it says it does: \"Keyshot Pro 2026: Complete standalone setup with all features unlocked, ready for immediate use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:44.368Z"
   }
  ],
  "levels": {
