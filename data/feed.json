@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T13:28:07.910Z",
- "totalGuides": 2212,
+ "updatedAt": "2026-11-07T13:28:08.075Z",
+ "totalGuides": 2213,
  "items": [
+  {
+   "fullName": "LengthGeneral/microsoft-visio",
+   "owner": "LengthGeneral",
+   "name": "microsoft-visio",
+   "url": "https://github.com/LengthGeneral/microsoft-visio",
+   "avatar": "https://avatars.githubusercontent.com/u/292599534?v=4",
+   "description": "Microsoft Visio 2026 pre-configured environment for seamless desktop software utility configuration.",
+   "language": null,
+   "topics": [
+    "bentley-microstation-install-setup-windows-2026",
+    "diagram-software",
+    "guide-setup-microsoft-visio",
+    "how-to-install-microsoft-visio",
+    "how-to-setup-microsoft-visio",
+    "infrastructure-design",
+    "microsoft-visio",
+    "microsoft-visio-2026"
+   ],
+   "license": null,
+   "stars": 219,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:23:43Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T13:28:08.075Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/LengthGeneral/microsoft-visio",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/LengthGeneral/microsoft-visio/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/LengthGeneral/microsoft-visio\nWhat it says it does: \"Microsoft Visio 2026 pre-configured environment for seamless desktop software utility configuration.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T13:28:08.075Z"
+  },
   {
    "fullName": "GlazeCockatooRepair/chief-architect-premier",
    "owner": "GlazeCockatooRepair",
@@ -30628,59 +30685,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/lexifina/global-law\nWhat it says it does: \"Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T14:20:30.006Z"
-  },
-  {
-   "fullName": "ChampionStir/MultiAccountManager",
-   "owner": "ChampionStir",
-   "name": "MultiAccountManager",
-   "url": "https://github.com/ChampionStir/MultiAccountManager",
-   "avatar": "https://avatars.githubusercontent.com/u/295659746?v=4",
-   "description": "Multiaccountmanager 2026: Complete standalone setup for managing multiple accounts efficiently. Ready-to-run desktop installation.",
-   "language": null,
-   "topics": [
-    "multiaccount",
-    "multiinstance",
-    "quick-login",
-    "user-switcher"
-   ],
-   "license": null,
-   "stars": 200,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:21:06Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:47.000Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ChampionStir/MultiAccountManager",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ChampionStir/MultiAccountManager/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ChampionStir/MultiAccountManager\nWhat it says it does: \"Multiaccountmanager 2026: Complete standalone setup for managing multiple accounts efficiently. Ready-to-run desktop installation.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:47.000Z"
   }
  ],
  "levels": {
