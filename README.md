@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2188 guides written so far · last update 2026-11-07 06:29 UTC_
+_2189 guides written so far · last update 2026-11-07 06:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sostenesfreitas/ocarina-recomp.md) |
 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/notrexed/hookshot.md) |
 | [KingfisherCreate/instagram-liker-bot](https://github.com/KingfisherCreate/instagram-liker-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kingfishercreate/instagram-liker-bot.md) |
 | [loudspiritspade/multiaccountmanager](https://github.com/loudspiritspade/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/loudspiritspade/multiaccountmanager.md) |
@@ -38,7 +39,6 @@ _2188 guides written so far · last update 2026-11-07 06:29 UTC_
 | [innerdaimyopush/iobit-driver-booster](https://github.com/innerdaimyopush/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/innerdaimyopush/iobit-driver-booster.md) |
 | [Hairanfollow/discord-quest-completer](https://github.com/Hairanfollow/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hairanfollow/discord-quest-completer.md) |
 | [Flintfaconceal/ads-blocker](https://github.com/Flintfaconceal/ads-blocker) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flintfaconceal/ads-blocker.md) |
-| [MetropolisAccountant/solidworks-cad](https://github.com/MetropolisAccountant/solidworks-cad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/metropolisaccountant/solidworks-cad.md) |
 <!-- latest:end -->
 
 ## How it works
