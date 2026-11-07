@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:49.174Z",
- "totalGuides": 2202,
+ "updatedAt": "2026-11-07T06:29:49.416Z",
+ "totalGuides": 2203,
  "items": [
+  {
+   "fullName": "GrayStylistWind/cubase",
+   "owner": "GrayStylistWind",
+   "name": "cubase",
+   "url": "https://github.com/GrayStylistWind/cubase",
+   "avatar": "https://avatars.githubusercontent.com/u/292611838?v=4",
+   "description": "Cubase 13.0 pre-configured environment ready for deployment on isolated workstation with verified offline asset bundle.",
+   "language": null,
+   "topics": [
+    "audio-mastering",
+    "cubase",
+    "cubase-15",
+    "cubase-for-beginners",
+    "cubase-pro",
+    "cubase-pro-2026",
+    "cubase-setup",
+    "cubase-tutorial"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:21:50Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T06:29:49.415Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/GrayStylistWind/cubase",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/GrayStylistWind/cubase/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/GrayStylistWind/cubase\nWhat it says it does: \"Cubase 13.0 pre-configured environment ready for deployment on isolated workstation with verified offline asset bundle.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:49.415Z"
+  },
   {
    "fullName": "naturemidwifedream/uttorent",
    "owner": "naturemidwifedream",
@@ -30592,62 +30649,6 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/ThunderEncoder/Melodyne-5\nWhat it says it does: \"Melodyne 5, a professional desktop software utility, is now available as a complete standalone setup for easy installation and use.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:45.350Z"
-  },
-  {
-   "fullName": "SpiritBewitch/Kontakt-8",
-   "owner": "SpiritBewitch",
-   "name": "Kontakt-8",
-   "url": "https://github.com/SpiritBewitch/Kontakt-8",
-   "avatar": "https://avatars.githubusercontent.com/u/295660661?v=4",
-   "description": "Kontakt 8: Complete standalone setup with all features pre-activated, ready to run on your desktop.",
-   "language": null,
-   "topics": [
-    "kontakt",
-    "kontakt-full-library",
-    "kontakt-full-library-pc",
-    "orchestral",
-    "studio-recording",
-    "virtual-instrument",
-    "vst-plugins"
-   ],
-   "license": null,
-   "stars": 224,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:19:42Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:45.181Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/SpiritBewitch/Kontakt-8",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SpiritBewitch/Kontakt-8/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/SpiritBewitch/Kontakt-8\nWhat it says it does: \"Kontakt 8: Complete standalone setup with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:45.181Z"
   }
  ],
  "levels": {
