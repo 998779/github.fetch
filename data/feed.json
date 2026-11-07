@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:46.431Z",
- "totalGuides": 2191,
+ "updatedAt": "2026-11-07T06:29:46.721Z",
+ "totalGuides": 2192,
  "items": [
+  {
+   "fullName": "devvmhq/devvm",
+   "owner": "devvmhq",
+   "name": "devvm",
+   "url": "https://github.com/devvmhq/devvm",
+   "avatar": "https://avatars.githubusercontent.com/u/353211386?v=4",
+   "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+   "language": "Go",
+   "topics": [
+    "coding-agent",
+    "coding-agents",
+    "developer-tools",
+    "development",
+    "lima",
+    "lima-vm",
+    "linux",
+    "sandbox"
+   ],
+   "license": "MIT",
+   "stars": 231,
+   "forks": 5,
+   "createdAt": "2026-11-06T07:02:30Z",
+   "branch": "main",
+   "homepage": "https://devvm.dev",
+   "addedAt": "2026-11-07T06:29:46.721Z",
+   "stack": {
+    "kind": "go",
+    "label": "Go project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/devvmhq/devvm?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/devvmhq/devvm",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/devvmhq/devvm/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": "go build ./...",
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/devvmhq/devvm.git\ncd devvm\ngo build ./...",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/devvmhq/devvm\nWhat it says it does: \"One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:46.721Z"
+  },
   {
    "fullName": "PackArtisanMold/phone-to-webcam",
    "owner": "PackArtisanMold",
@@ -30579,66 +30643,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/Massreportal/CapCut-for-Windows\nWhat it says it does: \"Capcut For Windows 2026: Full working installer with all features pre-activated, ready to run on your desktop.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T01:18:15.226Z"
-  },
-  {
-   "fullName": "SpongeRevitalize94/Catia-Cad",
-   "owner": "SpongeRevitalize94",
-   "name": "Catia-Cad",
-   "url": "https://github.com/SpongeRevitalize94/Catia-Cad",
-   "avatar": "https://avatars.githubusercontent.com/u/295660203?v=4",
-   "description": "Catia Cad 2026 full working installer. Ready-to-run desktop configuration with complete standalone setup.",
-   "language": null,
-   "topics": [
-    "cad-drawings",
-    "catia",
-    "catia-v5",
-    "catiav5",
-    "pycatia"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:16:11Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T01:18:15.031Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/SpongeRevitalize94/Catia-Cad",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/SpongeRevitalize94/Catia-Cad/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/SpongeRevitalize94/Catia-Cad\nWhat it says it does: \"Catia Cad 2026 full working installer. Ready-to-run desktop configuration with complete standalone setup.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T01:18:15.031Z"
   }
  ],
  "levels": {
-  "account": 129,
+  "account": 130,
   "heavy": 33,
-  "read": 306,
+  "read": 305,
   "instant": 32
  }
 }
