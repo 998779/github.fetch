@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T13:28:06.157Z",
- "totalGuides": 2204,
+ "updatedAt": "2026-11-07T13:28:06.390Z",
+ "totalGuides": 2205,
  "items": [
+  {
+   "fullName": "yappologistic/CUI",
+   "owner": "yappologistic",
+   "name": "CUI",
+   "url": "https://github.com/yappologistic/CUI",
+   "avatar": "https://avatars.githubusercontent.com/u/262229790?v=4",
+   "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+   "language": "C",
+   "topics": [
+    "c",
+    "c99",
+    "cross-platform",
+    "gui",
+    "native",
+    "ui-components"
+   ],
+   "license": "MIT",
+   "stars": 240,
+   "forks": 9,
+   "createdAt": "2026-11-05T08:18:08Z",
+   "branch": "master",
+   "homepage": null,
+   "addedAt": "2026-11-07T13:28:06.390Z",
+   "stack": {
+    "kind": "native",
+    "label": "C project",
+    "frameworks": []
+   },
+   "level": "heavy",
+   "levelText": "Needs a real machine (or a GPU) to run",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/yappologistic/CUI?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/yappologistic/CUI",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/yappologistic/CUI/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [
+    "C usually means a desktop, phone or system app. You can read and edit it in the browser, but running it needs that platform."
+   ],
+   "local": "git clone --depth 1 https://github.com/yappologistic/CUI.git\ncd CUI",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/yappologistic/CUI\nWhat it says it does: \"Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T13:28:06.390Z"
+  },
   {
    "fullName": "WoYun520/gif-factory",
    "owner": "WoYun520",
@@ -30600,69 +30664,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/moondirectorserver/Sylenth-1\nWhat it says it does: \"Complete standalone setup for Sylenth 1, a professional desktop utility configuration. Ready-to-run installer with all features pre-activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:45.675Z"
-  },
-  {
-   "fullName": "ShogunAgora22/StartAll-Back",
-   "owner": "ShogunAgora22",
-   "name": "StartAll-Back",
-   "url": "https://github.com/ShogunAgora22/StartAll-Back",
-   "avatar": "https://avatars.githubusercontent.com/u/295660282?v=4",
-   "description": "Startall Back 2026 - Full working installer for professional desktop software utility configuration, ready to run with all features activated.",
-   "language": null,
-   "topics": [
-    "start-menu",
-    "startallback",
-    "startallback-pro",
-    "startallback-pro-download",
-    "startallback-pro-edition",
-    "startallback-pro-edition-2026",
-    "startallback-windows-11-start-menu-pro-install",
-    "startisback"
-   ],
-   "license": null,
-   "stars": 200,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:23:10Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T07:17:45.513Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/ShogunAgora22/StartAll-Back",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/ShogunAgora22/StartAll-Back/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/ShogunAgora22/StartAll-Back\nWhat it says it does: \"Startall Back 2026 - Full working installer for professional desktop software utility configuration, ready to run with all features activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T07:17:45.513Z"
   }
  ],
  "levels": {
+  "heavy": 33,
   "account": 132,
-  "read": 304,
-  "heavy": 32,
+  "read": 303,
   "instant": 32
  }
 }

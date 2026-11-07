@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2204 guides written so far · last update 2026-11-07 13:28 UTC_
+_2205 guides written so far · last update 2026-11-07 13:28 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [yappologistic/CUI](https://github.com/yappologistic/CUI) | C project | Needs a real machine (or a GPU) to run | [guide](guides/yappologistic/cui.md) |
 | [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory) | Python project | Runs in the browser with a free account | [guide](guides/woyun520/gif-factory.md) |
 | [GrayStylistWind/cubase](https://github.com/GrayStylistWind/cubase) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/graystylistwind/cubase.md) |
 | [naturemidwifedream/uttorent](https://github.com/naturemidwifedream/uttorent) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/naturemidwifedream/uttorent.md) |
@@ -38,7 +39,6 @@ _2204 guides written so far · last update 2026-11-07 13:28 UTC_
 | [foresthailmarina/atas-trading-bot](https://github.com/foresthailmarina/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/foresthailmarina/atas-trading-bot.md) |
 | [gravitygovernorhinge/clion](https://github.com/gravitygovernorhinge/clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravitygovernorhinge/clion.md) |
 | [Danuse84/Exodus-Fake-Balance](https://github.com/Danuse84/Exodus-Fake-Balance) | Python project | Runs in the browser with a free account | [guide](guides/danuse84/exodus-fake-balance.md) |
-| [fincicadalast/adobe-indesign](https://github.com/fincicadalast/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fincicadalast/adobe-indesign.md) |
 <!-- latest:end -->
 
 ## How it works
