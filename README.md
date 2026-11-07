@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2194 guides written so far · last update 2026-11-07 06:29 UTC_
+_2195 guides written so far · last update 2026-11-07 06:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [gravitygovernorhinge/clion](https://github.com/gravitygovernorhinge/clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravitygovernorhinge/clion.md) |
 | [Danuse84/Exodus-Fake-Balance](https://github.com/Danuse84/Exodus-Fake-Balance) | Python project | Runs in the browser with a free account | [guide](guides/danuse84/exodus-fake-balance.md) |
 | [fincicadalast/adobe-indesign](https://github.com/fincicadalast/adobe-indesign) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/fincicadalast/adobe-indesign.md) |
 | [devvmhq/devvm](https://github.com/devvmhq/devvm) | Go project | Runs in the browser with a free account | [guide](guides/devvmhq/devvm.md) |
@@ -38,7 +39,6 @@ _2194 guides written so far · last update 2026-11-07 06:29 UTC_
 | [loudspiritspade/multiaccountmanager](https://github.com/loudspiritspade/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/loudspiritspade/multiaccountmanager.md) |
 | [Flockcleplank/aion-2-trainer-tool](https://github.com/Flockcleplank/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flockcleplank/aion-2-trainer-tool.md) |
 | [LevelKnightDisengage/microstation-2026](https://github.com/LevelKnightDisengage/microstation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/levelknightdisengage/microstation-2026.md) |
-| [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | Python project | Runs in the browser with a free account | [guide](guides/yucezerey/turkish-anti-ai-skill.md) |
 <!-- latest:end -->
 
 ## How it works
