@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2181 guides written so far · last update 2026-11-06 20:48 UTC_
+_2182 guides written so far · last update 2026-11-07 00:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [voyager-so/vork](https://github.com/voyager-so/vork) | Rust project | Runs in the browser with a free account | [guide](guides/voyager-so/vork.md) |
 | [roadboltspire/fl-studio](https://github.com/roadboltspire/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadboltspire/fl-studio.md) |
 | [innerdaimyopush/iobit-driver-booster](https://github.com/innerdaimyopush/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/innerdaimyopush/iobit-driver-booster.md) |
 | [Hairanfollow/discord-quest-completer](https://github.com/Hairanfollow/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hairanfollow/discord-quest-completer.md) |
@@ -38,7 +39,6 @@ _2181 guides written so far · last update 2026-11-06 20:48 UTC_
 | [MindCatMotor/soundpad](https://github.com/MindCatMotor/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindcatmotor/soundpad.md) |
 | [hunternavigatorhunt/genesis-miner](https://github.com/hunternavigatorhunt/genesis-miner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hunternavigatorhunt/genesis-miner.md) |
 | [Holeshurepresent/fonetrans](https://github.com/Holeshurepresent/fonetrans) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/holeshurepresent/fonetrans.md) |
-| [JourneymanStitch/imei-repair](https://github.com/JourneymanStitch/imei-repair) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/journeymanstitch/imei-repair.md) |
 <!-- latest:end -->
 
 ## How it works
