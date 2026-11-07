@@ -1,8 +1,72 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:46.244Z",
- "totalGuides": 2190,
+ "updatedAt": "2026-11-07T06:29:46.431Z",
+ "totalGuides": 2191,
  "items": [
+  {
+   "fullName": "PackArtisanMold/phone-to-webcam",
+   "owner": "PackArtisanMold",
+   "name": "phone-to-webcam",
+   "url": "https://github.com/PackArtisanMold/phone-to-webcam",
+   "avatar": "https://avatars.githubusercontent.com/u/317169769?v=4",
+   "description": "Turn any iPhone or Android into a Windows webcam: scan a code in the phone's browser. No phone app, no watermark.",
+   "language": "HTML",
+   "topics": [
+    "camera",
+    "free",
+    "obs",
+    "phone",
+    "streaming",
+    "webcam",
+    "webrtc",
+    "windows"
+   ],
+   "license": "MIT",
+   "stars": 242,
+   "forks": 81,
+   "createdAt": "2026-11-06T09:05:51Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T06:29:46.430Z",
+   "stack": {
+    "kind": "other",
+    "label": "HTML project",
+    "frameworks": []
+   },
+   "level": "account",
+   "levelText": "Runs in the browser with a free account",
+   "best": "codespaces",
+   "launch": [
+    {
+     "id": "codespaces",
+     "label": "GitHub Codespaces",
+     "url": "https://codespaces.new/PackArtisanMold/phone-to-webcam?quickstart=1",
+     "needs": "free GitHub account",
+     "note": "A whole Linux computer in your browser (60 free hours a month). Works for almost any repo."
+    },
+    {
+     "id": "github.dev",
+     "label": "Browse the code",
+     "url": "https://github.dev/PackArtisanMold/phone-to-webcam",
+     "needs": "nothing",
+     "note": "VS Code in the browser for reading and editing."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/PackArtisanMold/phone-to-webcam/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": "git clone --depth 1 https://github.com/PackArtisanMold/phone-to-webcam.git\ncd phone-to-webcam",
+   "licenseNote": "MIT: you can use, change and share it — keep the license file and credit the author.",
+   "prompt": "I found this GitHub project: https://github.com/PackArtisanMold/phone-to-webcam\nWhat it says it does: \"Turn any iPhone or Android into a Windows webcam: scan a code in the phone's browser. No phone app, no watermark.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:46.430Z"
+  },
   {
    "fullName": "ZSeven-W/dsh-game-studio",
    "owner": "ZSeven-W",
@@ -30569,69 +30633,12 @@
    "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
    "prompt": "I found this GitHub project: https://github.com/SpongeRevitalize94/Catia-Cad\nWhat it says it does: \"Catia Cad 2026 full working installer. Ready-to-run desktop configuration with complete standalone setup.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T01:18:15.031Z"
-  },
-  {
-   "fullName": "energyczaradjust/Atas-Trading-Bot",
-   "owner": "energyczaradjust",
-   "name": "Atas-Trading-Bot",
-   "url": "https://github.com/energyczaradjust/Atas-Trading-Bot",
-   "avatar": "https://avatars.githubusercontent.com/u/295661034?v=4",
-   "description": "Complete standalone setup for Atas Trading Bot 2026. Ready-to-run desktop installation with all features pre-activated.",
-   "language": null,
-   "topics": [
-    "atas-platform",
-    "atas-pro",
-    "background-process",
-    "dealer-positioning",
-    "es-futures",
-    "metatrader5-no-gui",
-    "mt5-api",
-    "mt5-bot"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:15:27Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T01:18:14.804Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/energyczaradjust/Atas-Trading-Bot",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/energyczaradjust/Atas-Trading-Bot/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/energyczaradjust/Atas-Trading-Bot\nWhat it says it does: \"Complete standalone setup for Atas Trading Bot 2026. Ready-to-run desktop installation with all features pre-activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T01:18:14.804Z"
   }
  ],
  "levels": {
-  "account": 128,
+  "account": 129,
   "heavy": 33,
-  "read": 307,
+  "read": 306,
   "instant": 32
  }
 }

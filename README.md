@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2190 guides written so far · last update 2026-11-07 06:29 UTC_
+_2191 guides written so far · last update 2026-11-07 06:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [PackArtisanMold/phone-to-webcam](https://github.com/PackArtisanMold/phone-to-webcam) | HTML project | Runs in the browser with a free account | [guide](guides/packartisanmold/phone-to-webcam.md) |
 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | JavaScript project | Runs in the browser with a free account | [guide](guides/zseven-w/dsh-game-studio.md) |
 | [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | C project | Needs a real machine (or a GPU) to run | [guide](guides/sostenesfreitas/ocarina-recomp.md) |
 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/notrexed/hookshot.md) |
@@ -38,7 +39,6 @@ _2190 guides written so far · last update 2026-11-07 06:29 UTC_
 | [voyager-so/vork](https://github.com/voyager-so/vork) | Rust project | Runs in the browser with a free account | [guide](guides/voyager-so/vork.md) |
 | [roadboltspire/fl-studio](https://github.com/roadboltspire/fl-studio) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/roadboltspire/fl-studio.md) |
 | [innerdaimyopush/iobit-driver-booster](https://github.com/innerdaimyopush/iobit-driver-booster) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/innerdaimyopush/iobit-driver-booster.md) |
-| [Hairanfollow/discord-quest-completer](https://github.com/Hairanfollow/discord-quest-completer) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hairanfollow/discord-quest-completer.md) |
 <!-- latest:end -->
 
 ## How it works
