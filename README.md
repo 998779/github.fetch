@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2184 guides written so far · last update 2026-11-07 00:26 UTC_
+_2185 guides written so far · last update 2026-11-07 00:26 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [Flockcleplank/aion-2-trainer-tool](https://github.com/Flockcleplank/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flockcleplank/aion-2-trainer-tool.md) |
 | [LevelKnightDisengage/microstation-2026](https://github.com/LevelKnightDisengage/microstation-2026) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/levelknightdisengage/microstation-2026.md) |
 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) | Python project | Runs in the browser with a free account | [guide](guides/yucezerey/turkish-anti-ai-skill.md) |
 | [voyager-so/vork](https://github.com/voyager-so/vork) | Rust project | Runs in the browser with a free account | [guide](guides/voyager-so/vork.md) |
@@ -38,7 +39,6 @@ _2184 guides written so far · last update 2026-11-07 00:26 UTC_
 | [MeteorShipperLook40/sketchup-pro](https://github.com/MeteorShipperLook40/sketchup-pro) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/meteorshipperlook40/sketchup-pro.md) |
 | [HallThrasherVice/discord-server-cloner](https://github.com/HallThrasherVice/discord-server-cloner) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/hallthrashervice/discord-server-cloner.md) |
 | [InertiaCourier/honeypot-detector](https://github.com/InertiaCourier/honeypot-detector) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/inertiacourier/honeypot-detector.md) |
-| [MindCatMotor/soundpad](https://github.com/MindCatMotor/soundpad) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/mindcatmotor/soundpad.md) |
 <!-- latest:end -->
 
 ## How it works
