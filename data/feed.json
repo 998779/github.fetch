@@ -1,8 +1,65 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-07T06:29:47.897Z",
- "totalGuides": 2196,
+ "updatedAt": "2026-11-07T06:29:48.103Z",
+ "totalGuides": 2197,
  "items": [
+  {
+   "fullName": "lavagunsmithmystery/metatrader-5-bot",
+   "owner": "lavagunsmithmystery",
+   "name": "metatrader-5-bot",
+   "url": "https://github.com/lavagunsmithmystery/metatrader-5-bot",
+   "avatar": "https://avatars.githubusercontent.com/u/292604055?v=4",
+   "description": "Metatrader 5 Bot repository configuration folder for streamlined automated deployment pipeline in professional desktop software utility environment.",
+   "language": null,
+   "topics": [
+    "background-process",
+    "developer-tools",
+    "guide-setup-metatrader-5-bot",
+    "how-to-install-metatrader-5-bot",
+    "how-to-setup-metatrader-5-bot",
+    "metatrader5-no-gui",
+    "mt5-api",
+    "mt5-bot"
+   ],
+   "license": null,
+   "stars": 220,
+   "forks": 0,
+   "createdAt": "2026-11-06T17:23:42Z",
+   "branch": "main",
+   "homepage": null,
+   "addedAt": "2026-11-07T06:29:48.102Z",
+   "stack": {
+    "kind": "docs",
+    "label": "List / guide / docs",
+    "frameworks": []
+   },
+   "level": "read",
+   "levelText": "Nothing to run: read it in the browser",
+   "best": "github.dev",
+   "launch": [
+    {
+     "id": "github.dev",
+     "label": "Read it",
+     "url": "https://github.com/lavagunsmithmystery/metatrader-5-bot",
+     "needs": "nothing",
+     "note": "It's a list or guide — just read it."
+    },
+    {
+     "id": "fork",
+     "label": "Make your own copy (fork)",
+     "url": "https://github.com/lavagunsmithmystery/metatrader-5-bot/fork",
+     "needs": "free GitHub account",
+     "note": "Your own copy you can change and host for free."
+    }
+   ],
+   "install": null,
+   "run": null,
+   "notes": [],
+   "local": null,
+   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
+   "prompt": "I found this GitHub project: https://github.com/lavagunsmithmystery/metatrader-5-bot\nWhat it says it does: \"Metatrader 5 Bot repository configuration folder for streamlined automated deployment pipeline in professional desktop software utility environment.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
+   "checkedAt": "2026-11-07T06:29:48.102Z"
+  },
   {
    "fullName": "foresthailmarina/atas-trading-bot",
    "owner": "foresthailmarina",
@@ -30600,63 +30657,6 @@
    "licenseNote": "Apache-2.0: you can use, change and share it — keep the license file and credit the author.",
    "prompt": "I found this GitHub project: https://github.com/wangzan101/Mika\nWhat it says it does: \"Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with GitHub Codespaces, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
    "checkedAt": "2026-10-30T07:17:44.123Z"
-  },
-  {
-   "fullName": "TagAmbassadorCall/DVD-Creator",
-   "owner": "TagAmbassadorCall",
-   "name": "DVD-Creator",
-   "url": "https://github.com/TagAmbassadorCall/DVD-Creator",
-   "avatar": "https://avatars.githubusercontent.com/u/295659589?v=4",
-   "description": "Complete standalone setup for Dvd Creator 2026, ready-to-run with all features fully activated.",
-   "language": null,
-   "topics": [
-    "acer-nitro",
-    "ais-data",
-    "aiseesoft-data-recovery-speed-comparison",
-    "aiseesoft-fonelab-for-ios",
-    "aiseesoft-recover-deleted-files",
-    "aiseesoft-video-converter-pc",
-    "aosp-build",
-    "compound-engineering"
-   ],
-   "license": null,
-   "stars": 238,
-   "forks": 0,
-   "createdAt": "2026-10-29T07:17:35Z",
-   "branch": "main",
-   "homepage": null,
-   "addedAt": "2026-10-30T01:18:15.996Z",
-   "stack": {
-    "kind": "docs",
-    "label": "List / guide / docs",
-    "frameworks": []
-   },
-   "level": "read",
-   "levelText": "Nothing to run: read it in the browser",
-   "best": "github.dev",
-   "launch": [
-    {
-     "id": "github.dev",
-     "label": "Read it",
-     "url": "https://github.com/TagAmbassadorCall/DVD-Creator",
-     "needs": "nothing",
-     "note": "It's a list or guide — just read it."
-    },
-    {
-     "id": "fork",
-     "label": "Make your own copy (fork)",
-     "url": "https://github.com/TagAmbassadorCall/DVD-Creator/fork",
-     "needs": "free GitHub account",
-     "note": "Your own copy you can change and host for free."
-    }
-   ],
-   "install": null,
-   "run": null,
-   "notes": [],
-   "local": null,
-   "licenseNote": "No license yet: you can look and learn, but you don't have permission to reuse or republish the code. Ask the author.",
-   "prompt": "I found this GitHub project: https://github.com/TagAmbassadorCall/DVD-Creator\nWhat it says it does: \"Complete standalone setup for Dvd Creator 2026, ready-to-run with all features fully activated.\"\n\nI want to run it and make my own version in my web browser, without installing anything on my computer.\n1. Explain what it does in plain English, in 3 sentences.\n2. Walk me through running it with Read it, step by step, one step at a time.\n3. Help me fork it and change one small thing so it's mine.\n4. Show me how to put my version online for free.\nAsk me questions first if anything is unclear.",
-   "checkedAt": "2026-10-30T01:18:15.996Z"
   }
  ],
  "levels": {

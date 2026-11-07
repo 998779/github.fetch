@@ -23,10 +23,11 @@ Guides are in [`guides/`](guides/). The newest 500 are in [`data/feed.json`](dat
 ## Latest finds
 
 <!-- latest:start -->
-_2196 guides written so far · last update 2026-11-07 06:29 UTC_
+_2197 guides written so far · last update 2026-11-07 06:29 UTC_
 
 | Repo | What it is | In the browser | |
 |---|---|---|---|
+| [lavagunsmithmystery/metatrader-5-bot](https://github.com/lavagunsmithmystery/metatrader-5-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/lavagunsmithmystery/metatrader-5-bot.md) |
 | [foresthailmarina/atas-trading-bot](https://github.com/foresthailmarina/atas-trading-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/foresthailmarina/atas-trading-bot.md) |
 | [gravitygovernorhinge/clion](https://github.com/gravitygovernorhinge/clion) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/gravitygovernorhinge/clion.md) |
 | [Danuse84/Exodus-Fake-Balance](https://github.com/Danuse84/Exodus-Fake-Balance) | Python project | Runs in the browser with a free account | [guide](guides/danuse84/exodus-fake-balance.md) |
@@ -38,7 +39,6 @@ _2196 guides written so far · last update 2026-11-07 06:29 UTC_
 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ project | Needs a real machine (or a GPU) to run | [guide](guides/notrexed/hookshot.md) |
 | [KingfisherCreate/instagram-liker-bot](https://github.com/KingfisherCreate/instagram-liker-bot) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/kingfishercreate/instagram-liker-bot.md) |
 | [loudspiritspade/multiaccountmanager](https://github.com/loudspiritspade/multiaccountmanager) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/loudspiritspade/multiaccountmanager.md) |
-| [Flockcleplank/aion-2-trainer-tool](https://github.com/Flockcleplank/aion-2-trainer-tool) | List / guide / docs | Nothing to run: read it in the browser | [guide](guides/flockcleplank/aion-2-trainer-tool.md) |
 <!-- latest:end -->
 
 ## How it works
